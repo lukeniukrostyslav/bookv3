@@ -1,7 +1,7 @@
 # CHANGELOG
 
 ## 2026-09-20
-- Создан Book V3.
-- Добавлена базовая документация канона.
-- Зафиксирована структура первой книги.
-- Зафиксирована точка продолжения после главы 1.
+- Initialized Book V3.
+- Added project bible, writing rules, outline and universal continuation prompt.
+- Wrote Chapter 2: «Город на воде».
+- Established the hidden archive beneath Nocturne and the mystery of the Veil name.
