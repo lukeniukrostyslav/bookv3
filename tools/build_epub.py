@@ -16,7 +16,7 @@ for i in range(1,33):
     lines=text.splitlines()
     heading=next((x for x in lines if x.startswith("# ")), f"# Глава {i}")
     title=re.sub(r"^#\s*","",heading).strip()
-    body="\n".join(x for x in lines if x is not heading)
+    body="\n".join(x for x in lines if x != heading)
     paragraphs=[]
     for block in re.split(r"\n\s*\n", body):
         block=block.strip()
