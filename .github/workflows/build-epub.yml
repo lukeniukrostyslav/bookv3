@@ -1,4 +1,4 @@
-name: Build EPUB
+name: Build and Validate EPUB
 
 on:
   push:
@@ -6,16 +6,29 @@ on:
       - "manuscript/**"
       - "tools/build_epub.py"
       - ".github/workflows/build-epub.yml"
+      - "docs/B14.8_EPUB_BUILD.md"
       - "assets/cover/**"
   workflow_dispatch:
 
 jobs:
-  build:
+  build-and-validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Build EPUB
         run: python3 tools/build_epub.py
+
+      - name: Install EPUBCheck
+        run: |
+          curl -L --fail --silent --show-error -o epubcheck.zip https://github.com/w3c/epubcheck/releases/download/v5.1.0/epubcheck-5.1.0.zip
+          unzip -q epubcheck.zip -d epubcheck
+
+      - name: Validate EPUB
+        run: |
+          java -version
+          java -jar epubcheck/epubcheck-5.1.0/epubcheck.jar dist/HOTEL_LAST_TOMORROW.epub
+
       - name: Upload EPUB artifact
         uses: actions/upload-artifact@v4
         with:
