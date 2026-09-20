@@ -41,7 +41,7 @@ with zipfile.ZipFile(OUT/"HOTEL_LAST_TOMORROW.epub","w") as z:
 </container>'''
     z.writestr("META-INF/container.xml",container)
     z.writestr("EPUB/style.css",css)
-    manifest=[]
+    manifest=['<item id="css" href="style.css" media-type="text/css"/>']
     spine=[]
     for i,title,body in chapters:
         fn=f"chapter-{i:02d}.xhtml"
