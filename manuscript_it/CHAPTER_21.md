@@ -188,7 +188,7 @@ Sotto c'era una data.
 
 Il giorno della sua scomparsa.
 
-Lo stomaco di Lev si strinse così bruscamente che per un istante smise di respirare.
+Lo stomaco di Lev si strinse così bruscamente che, per un istante, smise di respirare.
 
 — Perché non me l'hai detto?
 
@@ -324,7 +324,7 @@ Lev aspettava una giustificazione.
 
 Ma non arrivò.
 
-E per qualche motivo proprio questo era ciò che faceva più male.
+E, per qualche motivo, proprio questo era ciò che faceva più male.
 
 — Allora perché hai deciso per me?
 
