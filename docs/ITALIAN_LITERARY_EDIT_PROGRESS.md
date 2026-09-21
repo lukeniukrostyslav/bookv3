@@ -15,8 +15,8 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.6 Atmosphere / tension: **100%**
 - B15.2.7 Action-scene rhythm: **100%**
 - B15.2.8 Mystery-scene rhythm: **100% (32/32 chapters reviewed)**
-- B15.2.9 Emotional-scene rhythm: **25% (8/32 chapters reviewed)**
-- B15.2.10 Repetition / heavy constructions: **0%**
+- B15.2.9 Emotional-scene rhythm: **100% (32/32 chapters reviewed)**
+- B15.2.10 Repetition / heavy constructions: **50% (24/32 chapters reviewed)**
 - B15.2.11 Italian punctuation / typography: **0%**
 - B15.2.12 Terminology consistency: **0%**
 - B15.2.13 Meaning fidelity: **0%**
@@ -250,3 +250,6 @@ B15.2.10 CHECKPOINT 25% — Chapters 1–16 reviewed for repetition and heavy co
 
 
 B15.2.10 CHECKPOINT 50% — Chapters 17–24 reviewed for repetition and heavy constructions. Checked repeated wording, duplicated semantic explanations, overlong clause chains, repetitive sentence openings, redundant intensifiers, and recurring descriptive formulations. Intentional thematic repetition (future/choice/memory/Hotel motifs), suspense beats, and deliberately parallel constructions were preserved. No forced rewrites were introduced where repetition was structurally or thematically justified. Coverage: **24/32 chapters reviewed**. B15.2.10 workflow progress: **50%**.
+
+
+B15.2.10 CHECKPOINT 50% — Chapters 17–24 reviewed for repetition and heavy constructions. Checked repeated wording, duplicated semantic explanations, overloaded clause chains, repetitive sentence openings, redundant intensifiers, and recurring descriptive formulations. Intentional thematic repetition around future/choice/memory/Hotel motifs, suspense beats, and deliberate parallel constructions was preserved. No forced rewrites were introduced where repetition was structurally or thematically justified. Coverage: **24/32 chapters = 75% of the workflow, 50% of the block**. GitHub checkpoint: `428fb955064bb72f15c47fd9eb14376310a52e86`.
