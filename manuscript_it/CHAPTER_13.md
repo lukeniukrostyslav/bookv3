@@ -38,7 +38,7 @@ Appoggiò la mano sulla maniglia.
 
 — Quello che l'Hotel ha deciso di tenere per sé.
 
-La porta si aprì. Dall'interno arrivò odore di carta. Non la vecchia polvere delle biblioteche normali. Carta fresca. Inchiostro. Pelle delle rilegature. E qualcosa di dolce, simile alle mele secche.
+La porta si aprì. Dall'interno arrivò odore di carta. Non la vecchia polvere delle biblioteche normali, ma carta fresca. Inchiostro. Pelle delle rilegature. E qualcosa di dolce, simile alle mele secche.
 
 Lev entrò.
 
@@ -256,7 +256,7 @@ Un'altra pagina.
 
 **Lev lo seguì.**
 
-Il freddo gli penetrò sotto il colletto e scese lentamente lungo la schiena.
+Il freddo gli penetrò sotto il colletto e gli scese lentamente lungo la schiena.
 
 — Questo non è successo.
 
@@ -486,9 +486,7 @@ Mira sussurrò:
 
 — Perché questa non è ancora una storia.
 
-Lev passò un dito sulla carta.
-
-Era calda.
+Lev passò un dito sulla carta. Era calda.
 
 — Di chi è?
 
@@ -972,7 +970,7 @@ Lev capì la risposta.
 
 — Allora comincia a desiderare da solo.
 
-Il freddo gli penetrò sotto il colletto e scese lentamente lungo la schiena.
+Il freddo gli penetrò sotto il colletto e gli scese lentamente lungo la schiena.
 
 Nel buio qualcuno disse:
 
