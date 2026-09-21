@@ -56,7 +56,7 @@ Lev si fermò.
 
 — No.
 
-La risposta arrivò calma e tranquilla.
+La risposta arrivò con calma.
 
 — Allora come fa a conoscere il mio cognome?
 
@@ -390,7 +390,7 @@ Lev guardò la targhetta d'ottone.
 
 — Perché esiste.
 
-Lev si guardò intorno nella hall.
+Lev si guardò intorno nell'atrio.
 
 A prima vista era tutto normale.
 
