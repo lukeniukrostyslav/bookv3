@@ -1,26 +1,6 @@
 # Capitolo 32. L'uomo alla finestra
 
-La notte arrivò in silenzio.
-
-Dopo tutto quello che era successo, Lev quasi si aspettava un segno: una luce verde, orologi fermi, una porta là dove al mattino c'era stato un muro, una voce dal telefono.
-
-Ma non accadde nulla.
-
-La città semplicemente si addormentò.
-
-Le finestre si spensero una dopo l'altra.
-
-Sui tetti bagnati giaceva la luce della luna.
-
-Il vento muoveva i rami degli alberi.
-
-Da qualche parte lontano passò l'ultimo autobus.
-
-Lev stava alla finestra.
-
-Nella stanza odorava di caffè, legno vecchio e carta.
-
-Sul tavolo c'era il libro.
+La notte arrivò in silenzio. Dopo tutto quello che era successo, Lev quasi si aspettava un segno: una luce verde, orologi fermi, una porta là dove al mattino c'era stato un muro, una voce dal telefono. Ma non accadde nulla. La città semplicemente si addormentò. Le finestre si spensero una dopo l'altra. Sui tetti bagnati giaceva la luce della luna. Il vento muoveva i rami degli alberi. Da qualche parte lontano passò l'ultimo autobus. Lev stava alla finestra. Nella stanza odorava di caffè, legno vecchio e carta. Sul tavolo c'era il libro.
 
 Non lo aprì.
 
@@ -28,21 +8,7 @@ Per ora.
 
 Edrian dormiva.
 
-Il suo respiro era regolare.
-
-Lev guardò suo fratello e sorrise.
-
-Un tempo pensava che il ritorno di Edrian sarebbe stato la fine della storia.
-
-Ora capiva: un ritorno non è mai una fine.
-
-È l'inizio di ciò che accade dopo.
-
-Lev spense la luce.
-
-Ma prima di andare a letto guardò di nuovo fuori dalla finestra.
-
-Dall'altra parte della strada c'era un uomo.
+Il suo respiro era regolare. Lev guardò suo fratello e sorrise. Un tempo pensava che il ritorno di Edrian sarebbe stato la fine della storia. Ora capiva: un ritorno non è mai una fine. È l'inizio di ciò che accade dopo. Lev spense la luce. Ma prima di andare a letto guardò di nuovo fuori dalla finestra. Dall'altra parte della strada c'era un uomo.
 
 Cappotto scuro.
 
@@ -52,15 +18,11 @@ Figura alta.
 
 Non si muoveva.
 
-Lev non ebbe paura.
-
-La paura era lì, familiare, ma ormai non gli stringeva più la gola.
+Lev non ebbe paura. La paura era lì, familiare, ma ormai non gli stringeva più la gola.
 
 Lev semplicemente guardava.
 
-L'uomo alzò la testa.
-
-I loro sguardi si incontrarono.
+L'uomo alzò la testa. I loro sguardi si incontrarono.
 
 Poi l'uomo sorrise.
 
@@ -68,17 +30,11 @@ Lev sbatté le palpebre.
 
 La figura scomparve.
 
-Sul marciapiede non c'era nessuno.
-
-Solo la luce bagnata di un lampione.
-
-Lev non svegliò Edrian.
+Sul marciapiede non c'era nessuno. Solo la luce bagnata di un lampione. Lev non svegliò Edrian.
 
 Si sdraiò.
 
-E per la prima volta dopo molti mesi si addormentò senza aspettarsi un incubo.
-
-Al mattino lo svegliò l'odore del pane.
+E per la prima volta dopo molti mesi si addormentò senza aspettarsi un incubo. Al mattino lo svegliò l'odore del pane.
 
 Vero.
 
@@ -90,15 +46,7 @@ Burro.
 
 Caffè.
 
-Lev aprì gli occhi.
-
-Il sole riempiva la stanza.
-
-Fuori dalla finestra gridavano gli uccelli.
-
-Qualcuno rideva per strada.
-
-Edrian era in cucina.
+Lev aprì gli occhi. Il sole riempiva la stanza. Fuori dalla finestra gridavano gli uccelli. Qualcuno rideva per strada. Edrian era in cucina.
 
 — Ti sei svegliato?
 
@@ -126,9 +74,7 @@ Edrian si voltò.
 
 Risero.
 
-Lev entrò in cucina.
-
-Sul tavolo c'erano due fette di pane, uova, una mela e caffè.
+Lev entrò in cucina. Sul tavolo c'erano due fette di pane, uova, una mela e caffè.
 
 Niente di speciale.
 
@@ -172,19 +118,11 @@ Edrian annuì.
 
 — Allora mangia.
 
-Era la mattina più normale della sua vita.
-
-E forse la più importante: nessuno gli chiedeva di prendere una decisione, se non la vita stessa.
+Era la mattina più normale della sua vita. E forse la più importante: nessuno gli chiedeva di prendere una decisione, se non la vita stessa.
 
 Dopo colazione uscirono.
 
-Il sole scaldava la pietra bagnata.
-
-L'aria odorava di terra, pane e foglie.
-
-Lev camminava accanto a Edrian.
-
-Non si voltava più a ogni minuto.
+Il sole scaldava la pietra bagnata. L'aria odorava di terra, pane e foglie. Lev camminava accanto a Edrian. Non si voltava più a ogni minuto.
 
 Non cercava porte.
 
@@ -192,11 +130,7 @@ Non controllava gli orologi.
 
 Camminava e basta.
 
-In piazza giocavano dei bambini.
-
-Una vecchia vendeva fiori.
-
-Il vento muoveva i sacchetti di carta.
+In piazza giocavano dei bambini. Una vecchia vendeva fiori. Il vento muoveva i sacchetti di carta.
 
 Qualcuno rideva.
 
@@ -204,15 +138,7 @@ Qualcuno litigava.
 
 Qualcuno aveva fretta.
 
-La vita non era diventata più sicura.
-
-Era diventata reale: con il caso, gli errori, l'odore del pane e persone che non sapevano nulla di ciò che aveva vissuto.
-
-Alla fontana Lev si fermò.
-
-Nell'acqua si rifletteva il cielo.
-
-Vide il proprio volto.
+La vita non era diventata più sicura. Era diventata reale: con il caso, gli errori, l'odore del pane e persone che non sapevano nulla di ciò che aveva vissuto. Alla fontana Lev si fermò. Nell'acqua si rifletteva il cielo. Vide il proprio volto.
 
 Diciassette anni.
 
@@ -244,9 +170,7 @@ Edrian sorrise.
 
 Continuarono.
 
-Davanti alla libreria Lev si fermò.
-
-In vetrina c'era quel libro.
+Davanti alla libreria Lev si fermò. In vetrina c'era quel libro.
 
 Senza titolo.
 
@@ -254,11 +178,7 @@ Con una chiave sulla copertina.
 
 Entrò.
 
-Il campanello sopra la porta tintinnò.
-
-Dentro odorava di polvere, carta e vaniglia.
-
-Dietro il bancone c'era un vecchio libraio.
+Il campanello sopra la porta tintinnò. Dentro odorava di polvere, carta e vaniglia. Dietro il bancone c'era un vecchio libraio.
 
 — Lo vedi? — chiese.
 
@@ -304,9 +224,7 @@ Lo guardò.
 
 — Mostra ciò che è già successo.
 
-Lev prese il libro.
-
-La copertina era calda.
+Lev prese il libro. La copertina era calda.
 
 Lo aprì.
 
@@ -358,9 +276,7 @@ Lev guardò il cielo.
 
 Continuarono verso casa.
 
-Ma a metà strada Lev si fermò.
-
-Dall'altra parte della strada c'era un uomo.
+Ma a metà strada Lev si fermò. Dall'altra parte della strada c'era un uomo.
 
 Cappotto scuro.
 
@@ -370,9 +286,7 @@ Lo stesso.
 
 L'uomo alla finestra.
 
-Questa volta non scomparve.
-
-Lev attraversò la strada.
+Questa volta non scomparve. Lev attraversò la strada.
 
 Edrian lo seguì.
 
@@ -386,9 +300,7 @@ Quando Lev gli si avvicinò, vide il suo volto.
 
 Era familiare.
 
-Non perché Lev lo avesse mai incontrato.
-
-Ma perché lo aveva visto a età diverse.
+Non perché Lev lo avesse mai incontrato. Ma perché lo aveva visto a età diverse.
 
 In una stanza.
 
@@ -474,19 +386,11 @@ L'uomo guardò Lev.
 
 — Finalmente una domanda giusta.
 
-Il vento sollevò le foglie.
-
-Per un secondo odorò di pioggia.
+Il vento sollevò le foglie. Per un secondo odorò di pioggia.
 
 Poi di mare.
 
-Poi di legno vecchio.
-
-Tutti gli odori si mescolarono.
-
-Lev capì di essere di nuovo sul confine.
-
-Ma questa volta non aveva paura.
+Poi di legno vecchio. Tutti gli odori si mescolarono. Lev capì di essere di nuovo sul confine. Ma questa volta non aveva paura.
 
 — Risponda.
 
@@ -520,15 +424,7 @@ L'uomo rispose:
 
 — Dipende da te.
 
-Si voltò e se ne andò.
-
-Lev non lo fermò.
-
-Prima lo avrebbe inseguito.
-
-Ora lasciò che lo sconosciuto se ne andasse e scoprì che l'ignoto, per la prima volta, non richiedeva una risposta immediata.
-
-Edrian guardò nella direzione in cui era scomparso.
+Si voltò e se ne andò. Lev non lo fermò. Prima lo avrebbe inseguito. Ora lasciò che lo sconosciuto se ne andasse e scoprì che l'ignoto, per la prima volta, non richiedeva una risposta immediata. Edrian guardò nella direzione in cui era scomparso.
 
 — Non gli chiederai chi è?
 
@@ -572,9 +468,7 @@ Edrian si fermò.
 
 — Lo so.
 
-Il libro era aperto.
-
-Sulla pagina era comparsa una nuova frase.
+Il libro era aperto. Sulla pagina era comparsa una nuova frase.
 
 **«La storia non è finita.»**
 
@@ -600,9 +494,7 @@ Chiuse il libro.
 
 — Perché?
 
-Lev guardò la finestra.
-
-Il sole stava già scendendo verso la sera.
+Lev guardò la finestra. Il sole stava già scendendo verso la sera.
 
 — Perché la paura non deve più decidere per me.
 
@@ -618,11 +510,7 @@ Della scuola.
 
 Delle sciocchezze.
 
-Di quanto fosse stata strana la scomparsa di Edrian.
-
-Del futuro che non cercavano più di prevedere.
-
-Quando fu buio, Lev uscì sul balcone.
+Di quanto fosse stata strana la scomparsa di Edrian. Del futuro che non cercavano più di prevedere. Quando fu buio, Lev uscì sul balcone.
 
 La città brillava.
 
@@ -630,9 +518,7 @@ Migliaia di finestre.
 
 Migliaia di persone.
 
-Migliaia di vite diverse.
-
-E nessuna era scritta in anticipo.
+Migliaia di vite diverse. E nessuna era scritta in anticipo.
 
 Lev inspirò.
 
@@ -672,9 +558,7 @@ L'uomo alla finestra.
 
 Stava nella penombra.
 
-Ma ora Lev notò ciò che prima non aveva visto.
-
-Dietro l'uomo c'era una porta.
+Ma ora Lev notò ciò che prima non aveva visto. Dietro l'uomo c'era una porta.
 
 Non verde.
 
@@ -682,45 +566,25 @@ Non nera.
 
 Bianca.
 
-Sulla porta non c'era nessun numero.
-
-Solo una piccola lettera d'oro.
+Sulla porta non c'era nessun numero. Solo una piccola lettera d'oro.
 
 **A.**
 
-Lev aprì gli occhi.
-
-L'uomo alzò una mano.
-
-In essa teneva la chiave d'oro.
-
-La avvicinò alla porta.
-
-Ma non la aprì.
-
-Invece guardò direttamente Lev.
+Lev aprì gli occhi. L'uomo alzò una mano. In essa teneva la chiave d'oro. La avvicinò alla porta. Ma non la aprì. Invece guardò direttamente Lev.
 
 E sorrise.
 
-Lev non andò da lui.
-
-Non aprì la finestra.
+Lev non andò da lui. Non aprì la finestra.
 
 Non lo inseguì.
 
 Rimase semplicemente lì.
 
-Perché aveva capito una cosa fondamentale.
-
-Non ogni porta deve essere aperta subito.
-
-Alcune porte devono aspettare.
+Perché aveva capito una cosa fondamentale. Non ogni porta deve essere aperta subito. Alcune porte devono aspettare.
 
 L'uomo scomparve.
 
-La porta bianca rimase.
-
-Sul vetro della finestra di Lev apparve una frase:
+La porta bianca rimase. Sul vetro della finestra di Lev apparve una frase:
 
 **«Quando sarai pronto, chiedi perché Edrian non avrebbe mai dovuto tornare.»**
 
@@ -734,9 +598,7 @@ Lev si voltò.
 
 Guardò suo fratello.
 
-Poi di nuovo il vetro.
-
-La scritta era scomparsa.
+Poi di nuovo il vetro. La scritta era scomparsa.
 
 — Niente.
 
@@ -760,41 +622,17 @@ Una città.
 
 Un presente.
 
-E lontano, oltre le strade, le mappe e il tempo normale, l'uomo alla finestra chiuse la porta bianca.
-
-Ma prima di andarsene posò la chiave d'oro sul davanzale.
-
-Su di essa era incisa una data.
-
-Non quella di oggi.
-
-Non quella di domani.
-
-Una data che sarebbe arrivata tra ventinove anni.
-
-E sotto un nome.
+E lontano, oltre le strade, le mappe e il tempo normale, l'uomo alla finestra chiuse la porta bianca. Ma prima di andarsene posò la chiave d'oro sul davanzale. Su di essa era incisa una data. Non quella di oggi. Non quella di domani. Una data che sarebbe arrivata tra ventinove anni. E sotto un nome.
 
 **LEV ARDEN.**
 
 La chiave aspettava.
 
-E la storia continuava.
-
-Lev rimase a lungo alla finestra.
-
-La chiave d'oro era da qualche parte lontano, oltre il suo giorno di oggi.
-
-Su di essa c'erano una data che non gli apparteneva ancora, una domanda estranea e un nome che invece apparteneva a lui.
-
-Ma per la prima volta Lev non sentì il bisogno di trovare subito una risposta.
+E la storia continuava. Lev rimase a lungo alla finestra. La chiave d'oro era da qualche parte lontano, oltre il suo giorno di oggi. Su di essa c'erano una data che non gli apparteneva ancora, una domanda estranea e un nome che invece apparteneva a lui. Ma per la prima volta Lev non sentì il bisogno di trovare subito una risposta.
 
 Guardò Edrian.
 
-Suo fratello dormiva tranquillo.
-
-Lev sorrise e chiuse la finestra.
-
-Domani arriverà da solo.
+Suo fratello dormiva tranquillo. Lev sorrise e chiuse la finestra. Domani arriverà da solo.
 
 Non bisogna chiamarlo.
 
@@ -808,21 +646,7 @@ Qualcuno perderà l'autobus.
 
 Qualcuno litigherà.
 
-Qualcuno dirà per la prima volta parole importanti.
-
-Migliaia di persone faranno migliaia di piccole scelte senza sapere dove le porteranno.
-
-E non c'era nulla che mancasse in questo.
-
-Questa era la vita.
-
-Lev si sdraiò e chiuse gli occhi.
-
-Da qualche parte lontano, oltre le strade, le mappe e il tempo normale, l'uomo alla finestra guardava anch'egli la notte.
-
-Davanti a lui c'era un libro chiuso.
-
-Sulla prima pagina c'era scritta una sola parola:
+Qualcuno dirà per la prima volta parole importanti. Migliaia di persone faranno migliaia di piccole scelte senza sapere dove le porteranno. E non c'era nulla che mancasse in questo. Questa era la vita. Lev si sdraiò e chiuse gli occhi. Da qualche parte lontano, oltre le strade, le mappe e il tempo normale, l'uomo alla finestra guardava anch'egli la notte. Davanti a lui c'era un libro chiuso. Sulla prima pagina c'era scritta una sola parola:
 
 **LEV.**
 
@@ -840,8 +664,6 @@ Tic.
 
 Lev non contò.
 
-Questa volta non era una promessa di un futuro felice.
-
-Era il diritto di vivere da solo il giorno di oggi.
+Questa volta non era una promessa di un futuro felice. Era il diritto di vivere da solo il giorno di oggi.
 
 **Oggi.**
