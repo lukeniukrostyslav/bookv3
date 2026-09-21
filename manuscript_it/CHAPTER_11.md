@@ -430,7 +430,7 @@ Guardò Lev.
 
 Lev non rispose.
 
-— Siete Pavel?
+— Sei Pavel?
 
 — Una volta.
 
