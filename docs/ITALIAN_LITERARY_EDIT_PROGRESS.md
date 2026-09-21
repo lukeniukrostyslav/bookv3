@@ -299,3 +299,9 @@ Initial canon-control pass started against PROJECT_BIBLE, WORLD_BIBLE, MYTHOLOGY
 Second canon-control checkpoint completed. The canonical reference set is confirmed present and the Italian localization's principal-role vocabulary is aligned with the established canon in the reviewed evidence: Lev, Mira, Edrian, L'Amministratore, Custode, Hotel, meccanismo and chiave. The previously identified natural Italian rendering of the twenty-sixth floor (piano ventisei / ventiseiesimo piano) remains accepted as a localization form rather than a canon change. No textual rewrite is introduced without a confirmed canon conflict.
 
 **B15.2.14 = 40%.** Remaining work: full-corpus chronology, character-role continuity and rule/mechanism reconciliation.
+
+## B15.2.14 CANON CONTROL — CHECKPOINT 60%
+
+Third checkpoint: canonical concept reconciliation advanced. The Italian sample chapters confirm the expected localized vocabulary for the canonical concepts of Custode, L'Amministratore, meccanismo, chiave, Hotel, futuro, scelta and fratello, with natural chapter-to-chapter variation in whether a concept is active. The source canon confirms these concepts as recurring parts of the story/world/logic. No evidence from the current checks establishes a canon-breaking translation change, so no manuscript text was altered.
+
+**B15.2.14 = 60%.** Remaining: complete chronology and role continuity audit, then final canon checkpoint.
