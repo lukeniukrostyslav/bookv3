@@ -52,9 +52,7 @@ La biblioteca era enorme, tanto che il primo sguardo non riusciva a trovarne la 
 
 — Non necessariamente.
 
-Mira proseguì.
-
-Lev notò la prima stranezza. Sui dorsi non c'erano titoli. Solo nomi.
+Mira proseguì. Lev notò la prima stranezza. Sui dorsi non c'erano titoli. Solo nomi.
 
 **ANNA.**
 
@@ -92,11 +90,7 @@ Guardò Mira.
 
 — Ci sono anche i miei?
 
-Lei non rispose.
-
-Quella fu la risposta.
-
-Passarono tra due scaffali. L'aria divenne più fresca. Qui i libri erano più spessi. Su alcuni dorsi comparivano cognomi.
+Lei non rispose. Quella fu la risposta. Passarono tra due scaffali. L'aria divenne più fresca. Qui i libri erano più spessi. Su alcuni dorsi comparivano cognomi.
 
 **ARDEN.**
 
@@ -126,27 +120,11 @@ Lev si avvicinò allo scaffale. C'erano decine di libri.
 
 **ARDEN — 2021.**
 
-E uno senza data.
-
-Lo tirò fuori.
-
-Il libro era pesante. La copertina era blu scuro, quasi nera. Non c'era alcun titolo. Solo il cognome:
+E uno senza data. Lo tirò fuori. Il libro era pesante. La copertina era blu scuro, quasi nera. Non c'era alcun titolo. Solo il cognome:
 
 **ARDEN.**
 
-Lev aprì la prima pagina.
-
-C'era la sua data di nascita.
-
-Sotto, il nome della madre.
-
-Il nome del padre.
-
-Il nome di Edrian.
-
-E il proprio.
-
-Lev passò un dito sulla riga.
+Lev aprì la prima pagina. C'era la sua data di nascita. Sotto, il nome della madre. Il nome del padre. Il nome di Edrian. E il proprio. Lev passò un dito sulla riga.
 
 — Questa è la mia vita?
 
@@ -156,17 +134,9 @@ Lev passò un dito sulla riga.
 
 — Perché una persona può fare più di una scelta.
 
-Voltò pagina.
+Voltò pagina. La pagina successiva descriveva la loro casa. La vecchia scala. La cucina. La bicicletta di Edrian.
 
-La pagina successiva descriveva la loro casa. La vecchia scala. La cucina. La bicicletta di Edrian.
-
-Lev leggeva e sentiva l'odore del legno.
-
-Sentiva lo scricchiolio dei gradini.
-
-Quasi percepiva la mano della madre sulla sua spalla.
-
-Ma poi il testo cambiò.
+Lev leggeva e sentiva l'odore del legno. Sentiva lo scricchiolio dei gradini. Quasi percepiva la mano della madre sulla sua spalla. Ma poi il testo cambiò.
 
 **Edrian non uscì di casa quella sera.**
 
@@ -174,35 +144,9 @@ Lev si immobilizzò.
 
 — Cosa?
 
-Mira non disse nulla.
+Mira non disse nulla. Voltò pagina. In quella versione Edrian era rimasto a casa. Lev era cresciuto accanto a lui. Litigavano. Discutevano. Facevano pace. Tra le pagine era stata inserita una fotografia.
 
-Voltò pagina.
-
-In quella versione Edrian era rimasto a casa.
-
-Lev era cresciuto accanto a lui.
-
-Litigavano.
-
-Discutevano.
-
-Facevano pace.
-
-Tra le pagine era stata inserita una fotografia.
-
-Loro due erano accanto a un'auto.
-
-Edrian era adulto.
-
-Lev era più grande.
-
-Ridevano.
-
-Il dolore arrivò non come un lampo, ma come un peso silenzioso sotto le costole.
-
-Non perché fosse spaventoso.
-
-Perché era felice.
+Loro due erano accanto a un'auto. Edrian era adulto. Lev era più grande. Ridevano. Il dolore arrivò non come un lampo, ma come un peso silenzioso sotto le costole. Non perché fosse spaventoso. Perché era felice.
 
 — Perché non l'ho mai visto?
 
@@ -236,15 +180,7 @@ Mira lo guardò.
 
 — Quella che è continuata.
 
-Lev riaprì il libro.
-
-Il capitolo successivo riguardava il giorno della scomparsa di Edrian.
-
-Ma il testo era strano.
-
-Non c'era la parola «scomparve».
-
-C'era:
+Lev riaprì il libro. Il capitolo successivo riguardava il giorno della scomparsa di Edrian. Ma il testo era strano. Non c'era la parola «scomparve». C'era:
 
 **Edrian entrò.**
 
@@ -266,19 +202,9 @@ Guardò Mira.
 
 — Cosa significa «per ora»?
 
-Lei non rispose.
+Lei non rispose. Nella biblioteca suonò un campanello. Una delle scale cominciò a muoversi. I libri sugli scaffali iniziarono a sussurrare.
 
-Nella biblioteca suonò un campanello.
-
-Una delle scale cominciò a muoversi.
-
-I libri sugli scaffali iniziarono a sussurrare.
-
-Non con le parole.
-
-Con le pagine.
-
-Migliaia di fogli si voltavano contemporaneamente, e il fruscio sembrava pioggia.
+Non con le parole. Con le pagine. Migliaia di fogli si voltavano contemporaneamente, e il fruscio sembrava pioggia.
 
 — Cosa sta succedendo?
 
@@ -292,41 +218,11 @@ Guardò lo scaffale più lontano.
 
 — Il tuo.
 
-Lev si voltò.
+Lev si voltò. Il libro era nelle sue mani. Ma lui non l'aveva aperto. Le pagine cominciarono a muoversi da sole. Prima lentamente. Poi più velocemente.
 
-Il libro era nelle sue mani.
+Si fermarono a metà. C'era una fotografia. Lev vide se stesso da bambino. Edrian era accanto a lui. La madre era seduta sul divano. Il padre teneva un giornale. Una serata del tutto normale.
 
-Ma lui non l'aveva aperto.
-
-Le pagine cominciarono a muoversi da sole.
-
-Prima lentamente.
-
-Poi più velocemente.
-
-Si fermarono a metà.
-
-C'era una fotografia.
-
-Lev vide se stesso da bambino.
-
-Edrian era accanto a lui.
-
-La madre era seduta sul divano.
-
-Il padre teneva un giornale.
-
-Una serata del tutto normale.
-
-Ma nell'angolo della fotografia c'era un uomo.
-
-Lev si avvicinò.
-
-Abito nero.
-
-Volto tranquillo.
-
-L'Amministratore.
+Ma nell'angolo della fotografia c'era un uomo. Lev si avvicinò. Abito nero. Volto tranquillo. L'Amministratore.
 
 — Era a casa nostra?
 
@@ -360,9 +256,7 @@ Lev chiuse bruscamente il libro.
 
 — Perché non conosco tutta la storia.
 
-Lev riaprì il libro.
-
-Sulla pagina successiva c'era una nota.
+Lev riaprì il libro. Sulla pagina successiva c'era una nota.
 
 **IL PADRE DEGLI ARDEN VENNE IN CERCA DI UNA RISPOSTA.**
 
@@ -374,11 +268,7 @@ Più sotto:
 
 **E DOPO QUESTO COMINCIÒ LA PRIMA SCELTA.**
 
-Il cuore batté più forte.
-
-Poi ancora.
-
-Il battito gli rimbombava nella gola.
+Il cuore batté più forte. Poi ancora. Il battito gli rimbombava nella gola.
 
 — Quale scelta?
 
@@ -390,17 +280,7 @@ Mira la guardò.
 
 — Per ora.
 
-Proseguirono in profondità nella biblioteca.
-
-Qui faceva più freddo.
-
-I libri erano coperti di brina.
-
-Alcuni scaffali erano vuoti.
-
-Sul pavimento c'erano fogli.
-
-Su ognuno, una sola frase.
+Proseguirono in profondità nella biblioteca. Qui faceva più freddo. I libri erano coperti di brina. Alcuni scaffali erano vuoti. Sul pavimento c'erano fogli. Su ognuno, una sola frase.
 
 **NON SONO SALITO SU QUELL'AUTOBUS.**
 
@@ -412,9 +292,7 @@ Su ognuno, una sola frase.
 
 **L'HO SALVATO.**
 
-Lev raccolse l'ultimo foglio.
-
-C'era scritto:
+Lev raccolse l'ultimo foglio. C'era scritto:
 
 **HO RIPORTATO INDIETRO MIO FRATELLO.**
 
@@ -444,21 +322,7 @@ Lev la guardò.
 
 — Perché trasforma tutto in una giustificazione.
 
-Mira non rispose.
-
-Arrivarono in una sala circolare.
-
-Al centro c'era un tavolo enorme.
-
-Su di esso era appoggiato un solo libro.
-
-Spesso.
-
-Bianco.
-
-Senza nome.
-
-Lev si avvicinò.
+Mira non rispose. Arrivarono in una sala circolare. Al centro c'era un tavolo enorme. Su di esso era appoggiato un solo libro. Spesso. Bianco. Senza nome. Lev si avvicinò.
 
 — Cos'è?
 
@@ -470,15 +334,7 @@ Mira si fermò.
 
 — No.
 
-Aprì il libro.
-
-La prima pagina era vuota.
-
-Anche la seconda.
-
-La terza.
-
-Vuota.
+Aprì il libro. La prima pagina era vuota. Anche la seconda. La terza. Vuota.
 
 — Perché è qui?
 
@@ -500,33 +356,13 @@ Lev si immobilizzò.
 
 — Esatto.
 
-Voltò un'altra pagina.
+Voltò un'altra pagina. Vuota. Un'altra. Vuota. Fino all'ultima. Sull'ultima pagina non c'era nulla. Lev stava per chiudere il libro. E allora sulla carta apparve una piccola goccia d'inchiostro nero.
 
-Vuota.
-
-Un'altra.
-
-Vuota.
-
-Fino all'ultima.
-
-Sull'ultima pagina non c'era nulla.
-
-Lev stava per chiudere il libro.
-
-E allora sulla carta apparve una piccola goccia d'inchiostro nero.
-
-Era comparsa da sola.
-
-Si allargò.
-
-Si raccolse in una lettera.
+Era comparsa da sola. Si allargò. Si raccolse in una lettera.
 
 **L.**
 
-Lev smise di respirare.
-
-La seconda lettera.
+Lev smise di respirare. La seconda lettera.
 
 **E.**
 
@@ -542,39 +378,17 @@ L'inchiostro continuava a comparire.
 
 **LEV...**
 
-Guardava il proprio nome nascere lentamente sulla pagina vuota.
-
-Poi apparve la riga successiva.
-
-Lev sentì un freddo glaciale alle dita.
+Guardava il proprio nome nascere lentamente sulla pagina vuota. Poi apparve la riga successiva. Lev sentì un freddo glaciale alle dita.
 
 **LEV ARDEN ENTRÒ NELLA BIBLIOTECA E...**
 
-L'inchiostro si fermò.
-
-Un punto.
-
-Vuoto.
-
-Lev sussurrò:
+L'inchiostro si fermò. Un punto. Vuoto. Lev sussurrò:
 
 — E poi?
 
-Mira non rispose.
+Mira non rispose. Dalle profondità della biblioteca arrivò il rumore di un libro che si chiudeva.
 
-Dalle profondità della biblioteca arrivò il rumore di un libro che si chiudeva.
-
-Poi un altro.
-
-E un altro.
-
-Centinaia di libri si chiusero contemporaneamente.
-
-E sull'ultima pagina le lettere continuarono ad apparire.
-
-Lentamente.
-
-Una dopo l'altra.
+Poi un altro. E un altro. Centinaia di libri si chiusero contemporaneamente. E sull'ultima pagina le lettere continuarono ad apparire. Lentamente. Una dopo l'altra.
 
 **...SCELSE IL FUTURO CHE NON GLI AVEVANO MOSTRATO.**
 
@@ -586,15 +400,9 @@ Mira lo guardò.
 
 — Ora non più.
 
-E nello stesso istante, da qualche parte sopra di loro, la luce si spense.
+E nello stesso istante, da qualche parte sopra di loro, la luce si spense. Lev alzò gli occhi verso il soffitto. La luce non si spense ovunque.
 
-Lev alzò gli occhi verso il soffitto.
-
-La luce non si spense ovunque.
-
-Rimasero singole lampade, e il loro debole chiarore trasformò la biblioteca in una foresta di lunghi tronchi.
-
-Tra gli scaffali si stendevano strisce d'ombra.
+Rimasero singole lampade, e il loro debole chiarore trasformò la biblioteca in una foresta di lunghi tronchi. Tra gli scaffali si stendevano strisce d'ombra.
 
 — È per il libro? — chiese.
 
@@ -606,11 +414,7 @@ Mira annuì.
 
 — Qui davvero non lo so.
 
-Lev guardò l'ultima pagina.
-
-La scritta era scomparsa.
-
-Era rimasto soltanto il suo nome.
+Lev guardò l'ultima pagina. La scritta era scomparsa. Era rimasto soltanto il suo nome.
 
 — Ha cancellato il seguito.
 
@@ -646,21 +450,9 @@ Lev aggrottò la fronte.
 
 — È accaduto come possibilità.
 
-L'idea non gli piacque.
+L'idea non gli piacque. All'improvviso nella biblioteca fece più caldo. I libri cominciarono a muoversi. Uno cadde dallo scaffale. Poi un secondo.
 
-All'improvviso nella biblioteca fece più caldo.
-
-I libri cominciarono a muoversi.
-
-Uno cadde dallo scaffale.
-
-Poi un secondo.
-
-Un terzo si aprì sul pavimento.
-
-Lev si avvicinò.
-
-Sulla pagina c'era scritto:
+Un terzo si aprì sul pavimento. Lev si avvicinò. Sulla pagina c'era scritto:
 
 **L'UOMO NON DISSE «TI AMO».**
 
@@ -698,19 +490,11 @@ Lev pensò a suo fratello.
 
 — Soprattutto allora.
 
-Camminarono lungo gli scaffali.
-
-All'improvviso Lev notò un libro sottile tra due volumi spessi.
-
-Sul dorso c'era scritto:
+Camminarono lungo gli scaffali. All'improvviso Lev notò un libro sottile tra due volumi spessi. Sul dorso c'era scritto:
 
 **EDRIAN ARDEN.**
 
-Lo tirò fuori.
-
-Il libro era gelido.
-
-Mira disse bruscamente:
+Lo tirò fuori. Il libro era gelido. Mira disse bruscamente:
 
 — No.
 
@@ -722,19 +506,11 @@ Mira disse bruscamente:
 
 — Proprio per questo.
 
-Lev lo aprì.
-
-La prima pagina era vuota.
-
-Anche la seconda.
-
-Sulla terza c'era una sola frase:
+Lev lo aprì. La prima pagina era vuota. Anche la seconda. Sulla terza c'era una sola frase:
 
 **EDRIAN AVREBBE POTUTO TORNARE.**
 
-Lev trattenne il respiro.
-
-La pagina successiva:
+Lev trattenne il respiro. La pagina successiva:
 
 **MA ALLORA LEV SAREBBE MORTO.**
 
@@ -758,9 +534,7 @@ Mira lo guardò.
 
 — Per questo sei arrabbiato adesso.
 
-Lev riaprì il libro.
-
-Sull'ultima pagina c'era scritto:
+Lev riaprì il libro. Sull'ultima pagina c'era scritto:
 
 **EDRIAN NON CONOSCE LA TERZA POSSIBILITÀ.**
 
@@ -780,11 +554,7 @@ Per la prima volta da molto tempo Lev sorrise.
 
 — Allora la cercherò.
 
-In quel momento il libro di Edrian si chiuse da solo.
-
-Da esso cadde un foglio.
-
-Sul foglio c'era scritto:
+In quel momento il libro di Edrian si chiuse da solo. Da esso cadde un foglio. Sul foglio c'era scritto:
 
 **NON CERCARE LA TERZA POSSIBILITÀ.**
 
@@ -806,15 +576,7 @@ Mira disse piano:
 
 — Per lui sì.
 
-Sentirono dei passi.
-
-Lenti.
-
-Lontani, tra gli scaffali.
-
-Qualcuno si stava avvicinando.
-
-Mira spense la lampada più vicina.
+Sentirono dei passi. Lenti. Lontani, tra gli scaffali. Qualcuno si stava avvicinando. Mira spense la lampada più vicina.
 
 — Silenzio.
 
@@ -824,39 +586,19 @@ Lev sussurrò:
 
 — Non lo so.
 
-I passi si avvicinavano.
-
-I libri sugli scaffali tremavano.
-
-Alcuni si aprivano da soli.
-
-Lev notò che su tutte le pagine aperte era comparsa la stessa parola:
+I passi si avvicinavano. I libri sugli scaffali tremavano. Alcuni si aprivano da soli. Lev notò che su tutte le pagine aperte era comparsa la stessa parola:
 
 **SCEGLI.**
 
-I passi si fermarono.
-
-Nel buio qualcuno disse:
+I passi si fermarono. Nel buio qualcuno disse:
 
 — Lev.
 
-Riconobbe la voce.
-
-Edrian.
-
-Ma ora la voce arrivava contemporaneamente da tre direzioni.
-
-Da sinistra.
-
-Da destra.
-
-Dall'alto.
+Riconobbe la voce. Edrian. Ma ora la voce arrivava contemporaneamente da tre direzioni. Da sinistra. Da destra. Dall'alto.
 
 — Non rispondere — sussurrò Mira.
 
-Lev rimase in silenzio.
-
-La voce continuò:
+Lev rimase in silenzio. La voce continuò:
 
 — Mi stai cercando.
 
@@ -890,27 +632,15 @@ Lei lo guardava.
 
 — Quale?
 
-Mira indicò il libro bianco.
-
-Era ancora sul tavolo.
-
-Lev si avvicinò.
-
-L'ultima pagina era di nuovo vuota.
-
-Ma ora c'era scritto qualcos'altro:
+Mira indicò il libro bianco. Era ancora sul tavolo. Lev si avvicinò. L'ultima pagina era di nuovo vuota. Ma ora c'era scritto qualcos'altro:
 
 **EDRIAN NON È MORTO.**
 
-Lev si immobilizzò.
-
-L'inchiostro continuò a scrivere.
+Lev si immobilizzò. L'inchiostro continuò a scrivere.
 
 **EDRIAN NON È VIVO.**
 
-Sentì il cuore battere più forte.
-
-La riga successiva:
+Sentì il cuore battere più forte. La riga successiva:
 
 **EDRIAN ASPETTA.**
 
@@ -918,29 +648,13 @@ Mira sussurrò:
 
 — Chiudilo.
 
-Lev non si mosse.
-
-L'ultima riga apparve lentamente.
+Lev non si mosse. L'ultima riga apparve lentamente.
 
 **E NON È SOLO.**
 
-Nella biblioteca si spense l'ultima luce.
+Nella biblioteca si spense l'ultima luce. Nel buio Lev sentì un respiro. Non uno. Diversi. Da qualche parte tra gli scaffali qualcuno passò a piedi nudi.
 
-Nel buio Lev sentì un respiro.
-
-Non uno.
-
-Diversi.
-
-Da qualche parte tra gli scaffali qualcuno passò a piedi nudi.
-
-Il fruscio della pelle sul pavimento di legno.
-
-Poi un altro suono.
-
-Il fruscio delle pagine.
-
-Mira sussurrò:
+Il fruscio della pelle sul pavimento di legno. Poi un altro suono. Il fruscio delle pagine. Mira sussurrò:
 
 — Non muoverti.
 
@@ -954,9 +668,7 @@ Mira sussurrò:
 
 — E ora ci sono persone.
 
-Lei tacque.
-
-Lev capì la risposta.
+Lei tacque. Lev capì la risposta.
 
 — Le decisioni sono diventate persone?
 
@@ -970,17 +682,11 @@ Lev capì la risposta.
 
 — Allora comincia a desiderare da solo.
 
-Il freddo gli penetrò sotto il colletto e gli scese lentamente lungo la schiena.
-
-Nel buio qualcuno disse:
+Il freddo gli penetrò sotto il colletto e gli scese lentamente lungo la schiena. Nel buio qualcuno disse:
 
 — Lev.
 
-Questa volta non era la voce di Edrian.
-
-Era quella di sua madre.
-
-Lev inspirò bruscamente.
+Questa volta non era la voce di Edrian. Era quella di sua madre. Lev inspirò bruscamente.
 
 — Mamma?
 
@@ -992,25 +698,7 @@ Dietro lo scaffale risuonò una morbida risata femminile.
 
 — Lev, tesoro.
 
-Chiuse gli occhi.
-
-Odore di cucina.
-
-Sapone.
-
-Pane caldo.
-
-Quasi fece un passo.
-
-Ma ricordò il ristorante.
-
-Il passato chiama.
-
-Non si mosse.
-
-La voce cambiò.
-
-Ora era Edrian.
+Chiuse gli occhi. Odore di cucina. Sapone. Pane caldo. Quasi fece un passo. Ma ricordò il ristorante. Il passato chiama. Non si mosse. La voce cambiò. Ora era Edrian.
 
 — Bene.
 
@@ -1022,15 +710,7 @@ Lev aprì gli occhi.
 
 — Perché ora la biblioteca sa che hai imparato a rifiutare.
 
-Nel buio si accese una piccola luce.
-
-Sul pavimento c'era il libro bianco.
-
-Lev lo raccolse.
-
-L'ultima pagina era di nuovo vuota.
-
-Ma ora in fondo c'era una sola riga:
+Nel buio si accese una piccola luce. Sul pavimento c'era il libro bianco. Lev lo raccolse. L'ultima pagina era di nuovo vuota. Ma ora in fondo c'era una sola riga:
 
 **PRIMO RIFIUTO.**
 
@@ -1064,17 +744,7 @@ Guardò il libro.
 
 — Contro chi vuole scegliere al posto tuo.
 
-In lontananza apparve di nuovo la luce.
-
-Una.
-
-Poi una seconda.
-
-Tra gli scaffali comparve una figura.
-
-L'Amministratore.
-
-Camminava lentamente e nelle mani non aveva alcun libro.
+In lontananza apparve di nuovo la luce. Una. Poi una seconda. Tra gli scaffali comparve una figura. L'Amministratore. Camminava lentamente e nelle mani non aveva alcun libro.
 
 — Avete trovato la biblioteca — disse.
 
@@ -1150,9 +820,7 @@ L'Amministratore si voltò verso l'uscita.
 
 — Quello che sceglierai tu.
 
-Se ne andò.
-
-Lev guardò Mira.
+Se ne andò. Lev guardò Mira.
 
 — Avrebbe potuto fermarci.
 
@@ -1164,29 +832,11 @@ Mira rispose:
 
 — Perché ora anche lui vuole sapere cosa scriverà il libro.
 
-Lev guardò di nuovo la pagina.
-
-L'inchiostro apparve.
-
-Lentamente.
-
-Non c'erano parole.
-
-Solo un piccolo punto.
-
-Poi un secondo.
-
-Un terzo.
-
-Si unirono formando una linea.
-
-La linea diventò una lettera.
+Lev guardò di nuovo la pagina. L'inchiostro apparve. Lentamente. Non c'erano parole. Solo un piccolo punto. Poi un secondo. Un terzo. Si unirono formando una linea. La linea diventò una lettera.
 
 **E.**
 
-Lev smise di respirare.
-
-Poi:
+Lev smise di respirare. Poi:
 
 **D.**
 
@@ -1206,17 +856,11 @@ E sotto:
 
 **HO FATTO LA SCELTA SBAGLIATA.**
 
-Il libro tra le sue mani diventò improvvisamente caldo, quasi bruciante.
-
-L'ultima riga apparve all'istante:
+Il libro tra le sue mani diventò improvvisamente caldo, quasi bruciante. L'ultima riga apparve all'istante:
 
 **MA ORA PUOI SCEGLIERE TU.**
 
-Lev chiuse il libro.
-
-Questa volta non oppose resistenza.
-
-Guardò Mira.
+Lev chiuse il libro. Questa volta non oppose resistenza. Guardò Mira.
 
 — Andiamo.
 
@@ -1224,14 +868,9 @@ Guardò Mira.
 
 — A scoprire il prezzo.
 
-Uscirono dalla biblioteca.
+Uscirono dalla biblioteca. Alle loro spalle i libri cominciarono a sussurrare. E da qualche parte, in profondità tra gli scaffali, si aprì un nuovo ripiano.
 
-Alle loro spalle i libri cominciarono a sussurrare.
-
-E da qualche parte, in profondità tra gli scaffali, si aprì un nuovo ripiano.
-
-Su di esso apparve un libro senza nome.
-
-Sulla copertina c'era scritta una sola parola:
+Su di esso apparve un libro senza nome. Sulla copertina c'era scritta una sola parola:
 
 **DOMANI.**
+
