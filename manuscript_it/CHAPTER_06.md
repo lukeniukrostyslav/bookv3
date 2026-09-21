@@ -792,5 +792,4 @@ Questa volta Lev non protestò. Se ne andarono. E dietro la porta chiusa qualcun
 
 — Il desiderio principale si avvererà.
 
-E la voce non era quella di Edrian. Non quella dell'Amministratore. Non quella di Mira. La voce apparteneva all'Hotel stesso.
-
+E la voce non era quella di Edrian. Non quella dell'Amministratore. Non quella di Mira. La voce apparteneva all'Hotel stesso. 
