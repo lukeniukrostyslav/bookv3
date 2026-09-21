@@ -1,6 +1,6 @@
 # Capitolo 10. Il ristorante dei ricordi
 
-Lev sentì l'odore delle mele fritte prima ancora di vedere la porta e si fermò in mezzo al corridoio. Il caldo profumo delle mele gli si posò sulla lingua quasi come un sapore, e gli si strinse la gola. Era così familiare che, per un istante, l'Hotel scomparve. Non c'erano più il tappeto rosso, le strane porte e le targhe di rame, gli specchi con le versioni delle vite altrui o il libro che poco prima lo aveva chiamato Custode.
+Lev sentì l'odore delle mele fritte prima ancora di vedere la porta e si fermò in mezzo al corridoio. Il caldo profumo delle mele gli si posò sulla lingua quasi fosse un sapore, e gli si strinse la gola. Era così familiare che, per un istante, l'Hotel scomparve. Non c'erano più il tappeto rosso, le strane porte e le targhe di rame, gli specchi con le versioni delle vite altrui o il libro che poco prima lo aveva chiamato Custode.
 
 C'era una cucina. Ed era domenica. Una luce calda cadeva sul tavolo. L'olio sfrigolava sul fornello. Da qualche parte un cucchiaio tintinnava contro il bordo di una pentola. Dalla finestra aperta entrava l'odore dell'erba bagnata. La mamma era ai fornelli. Edrian sedeva sul davanzale. Lev aveva dieci anni. Ricordava quella sera. Solo che un dettaglio era sbagliato. Ricordava l'odore delle mele. Ma non così bene.
 
@@ -26,7 +26,7 @@ Guardò la porta davanti a loro. Non aveva numero. Solo una piccola targhetta do
 
 Fu lei a prendere per prima la maniglia. Dall'interno arrivò un lieve tintinnio di porcellana. La porta si aprì.
 
-Era un ristorante. Non grande e non lussuoso. Piuttosto uno di quelli in cui viene voglia di restare più a lungo di quanto si fosse previsto. Piccoli tavoli rotondi di legno scuro, tovaglie bianche e lampade di ottone che gettavano cerchi caldi di luce. Finestre dal pavimento al soffitto.
+Era un ristorante. Non grande, non lussuoso. Piuttosto uno di quelli in cui viene voglia di restare più a lungo di quanto si fosse previsto. Piccoli tavoli rotondi di legno scuro, tovaglie bianche e lampade di ottone che gettavano cerchi caldi di luce. Finestre dal pavimento al soffitto.
 
 Fuori pioveva.
 
@@ -356,9 +356,7 @@ Fece una pausa.
 
 — Il passato chiama.
 
-Lev sentì l'odore delle mele.
-
-Ora era più forte.
+Lev sentì l'odore delle mele. Ora era più forte.
 
 Vide di nuovo la cucina.
 
