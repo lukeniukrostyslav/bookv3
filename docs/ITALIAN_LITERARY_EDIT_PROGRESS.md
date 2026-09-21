@@ -22,6 +22,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.13 Meaning fidelity: **0%**
 - B15.2.14 Canon control: **0%**
 - B15.2.15 Final literary pass: **0%**
+- B15.2.16 Italian paragraph normalization against Russian canon: **3.125% (1/32 chapters)**
 
 ## Chapter status
 
@@ -147,3 +148,7 @@ B15.2.7 action-scene rhythm checkpoint: chapters 09–16 reviewed. Coverage is n
 B15.2.7 action-scene rhythm checkpoint: chapters 17–24 reviewed. Coverage is now 24/32 chapters = 75%. Checked action pacing, movement clarity, escalation, physical continuity, sentence cadence, chase/escape beats, transitions, and climactic rhythm. No forced rewrites were introduced where the existing Italian already carries the intended rhythm.
 
 B15.2.7 action-scene rhythm COMPLETE: chapters 25–32 reviewed. Coverage 32/32 chapters = 100%. Full pass checked action pacing, movement clarity, escalation, physical continuity, short/long sentence cadence, transitions, and climax rhythm. No forced rewrites introduced where existing Italian already carried the intended rhythm.
+
+B15.2.16 Italian paragraph normalization checkpoint: Chapter 01 reviewed against the Russian canonical paragraph structure. The Italian chapter was found to be excessively fragmented (314 prose paragraphs versus 94 Russian prose paragraphs). Paragraphs were consolidated to 94 prose paragraphs while preserving dialogue, bold/quote blocks, deliberate repeated sound beats (Tic./Toc.), and key isolated time/number beats. Accidental 2–4 word prose fragmentation was merged into normal literary paragraphs. Coverage: 1/32 chapters = 3.125%.
+
+B15.2.16 is a dedicated corrective structural pass. It does not rewrite meaning or canon; it normalizes paragraph grouping so the Italian edition does not artificially expand in page count because of excessive paragraph breaks.
