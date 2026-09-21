@@ -18,7 +18,7 @@ Nessuno rispose. Pavel era rimasto di sopra. Anche l'Amministratore non c'era. L
 
 — No.
 
-Lo disse con una calma tale da rendere tutto ancora più spaventoso. Davanti a loro c'era un corridoio. Ma non era l'Hotel che Lev già conosceva. Qui tutto sembrava come se l'edificio non avesse ancora deciso cosa volesse diventare. Le pareti erano ricoperte di intonaco fresco, dal soffitto pendevano lampade senza lampadine e le porte stavano in aperture vuote, dietro le quali non c'erano stanze.
+Lo disse con una calma che rendeva tutto ancora più spaventoso. Davanti a loro c'era un corridoio. Ma non era l'Hotel che Lev già conosceva. Qui tutto sembrava come se l'edificio non avesse ancora deciso cosa volesse diventare. Le pareti erano ricoperte di intonaco fresco, dal soffitto pendevano lampade senza lampadine e le porte stavano in aperture vuote, dietro le quali non c'erano stanze.
 
 Alcuni tratti del pavimento finivano direttamente nel buio. Lev fece un passo. La pietra sotto il piede era calda. Guardò in basso. Sulla superficie non c'era un graffio. Né polvere. Né traccia di presenza umana.
 
@@ -38,7 +38,7 @@ Lev la guardò attentamente.
 
 — Dell'Hotel.
 
-Un fastidioso formicolio percorse la pelle di Lev.
+Un fastidioso formicolio gli percorse la pelle.
 
 — Ma l'Hotel esiste già.
 
@@ -116,7 +116,7 @@ Entrò. Mira lo seguì. Le porte si chiusero. L'ascensore non partì. Scomparve.
 
 Lev si ritrovò di nuovo nel corridoio.
 
-Ma ora accanto a lui c'erano decine di porte. Una dopo l'altra. E su ognuna c'era una data.
+Ora, accanto a lui, c'erano decine di porte. Una dopo l'altra. E su ognuna c'era una data.
 
 **12.06.2021.**
 
