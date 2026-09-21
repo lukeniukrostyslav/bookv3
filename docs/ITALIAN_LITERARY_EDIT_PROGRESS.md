@@ -110,6 +110,8 @@ Chapter 25 checkpoint: `bfa347b16fdfdbc9adcc2d50ba9f74ee2800cfb8`.
 
 Chapter 26 checkpoint: `13b7577e5fb5f18a701594e237356a4437692cbc`.
 
+Chapter 27 checkpoint: `c64b2a7d4ccc0115a73354381d789652120bb773`.
+
 Chapter 25 checkpoint: `bfa347b16fdfdbc9adcc2d50ba9f74ee2800cfb8`.
 
 This is an editing checkpoint, not final Italian proofreading and not native-speaker QA.
