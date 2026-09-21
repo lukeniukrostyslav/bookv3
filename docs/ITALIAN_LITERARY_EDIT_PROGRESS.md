@@ -347,3 +347,9 @@ Final quarter completed for CH25–CH32. Reviewed readability, sentence/paragrap
 Publication-stage work started after B15.2.15 reached 100%. Added `tools/build_epub_it.py`, a dedicated Italian EPUB 3 build pipeline using `manuscript_it/CHAPTER_01.md` … `CHAPTER_32.md`, Italian language metadata, 32 XHTML chapters, navigation and OPF. Added `docs/B15.3_ITALIAN_EPUB_ASSEMBLY.md` documenting the publication workflow. Cover integration, production metadata, EPUBCheck and platform packaging remain open.
 
 **B15.3 = 20%.**
+
+## B15.3 ITALIAN EPUB PUBLICATION ASSEMBLY — CHECKPOINT 50%
+
+Publication metadata baseline has been defined without altering the manuscript: working title **L'Hotel dell'ultimo domani**, author **Rostyslav Lukeniuk**, language **it**, 32 chapters, no epilogue. The dedicated Italian EPUB build pipeline and publication documentation are present. Cover integration, runnable artifact generation, EPUBCheck and platform packaging remain open.
+
+**B15.3 = 50%.**
