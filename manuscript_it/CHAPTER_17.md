@@ -64,7 +64,7 @@ Mira annuì.
 
 — Più o meno.
 
-Per un attimo il pavimento sembrò muoversi sotto i piedi di Lev.
+Per un attimo, il pavimento sembrò muoversi sotto i piedi di Lev.
 
 — Ma noi non potevamo semplicemente...
 
@@ -302,7 +302,7 @@ La donna sorrise.
 
 — Perché le persone normali non vengono qui in tre.
 
-Un brivido gli passò sotto la pelle.
+Un brivido gli attraversò la pelle.
 
 — Chi sono io?
 
@@ -362,7 +362,7 @@ Abbassò lo sguardo.
 
 — Quindici anni fa.
 
-Il pavimento sembrò sparire per un istante sotto i piedi di Lev.
+Per un istante, il pavimento sembrò sparire sotto i piedi di Lev.
 
 — Ma...
 
@@ -704,7 +704,7 @@ L'archivista lo guardò.
 
 — Che sareste tornato.
 
-La speranza si accese come una scintilla calda.
+La speranza si accese come una scintilla.
 
 — Quando?
 
@@ -754,7 +754,7 @@ C'era una breve annotazione:
 
 **SE LEV TORNA, DIGLI CHE EDRIAN NON HA ASPETTATO.**
 
-Un brivido gli passò sotto la pelle.
+Un brivido gli attraversò la pelle.
 
 — Dov'è Edrian?
 
@@ -1180,7 +1180,7 @@ Sul vetro comparve una scritta:
 
 **TORNA NELL'HOTEL.**
 
-Un brivido gli passò sotto la pelle.
+Un brivido gli attraversò la pelle.
 
 — Chi è?
 
