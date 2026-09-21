@@ -2,25 +2,11 @@
 
 Lev entrò nella porta dell'ultimo piano e sentì per prima cosa il freddo. Non era il freddo dell'inverno. Era diverso. Non toccava la pelle. La attraversava. Per un istante Lev smise di sentire le mani, le gambe e perfino il proprio respiro. Sembrava essere finito in uno spazio vuoto tra due secondi, dove non era ancora successo nulla e ormai non si poteva più annullare niente.
 
-Poi sotto le suole comparve la pietra.
-
-Lev inspirò bruscamente.
-
-Davanti a lui c'era una strada.
-
-Una strada vera.
+Poi sotto le suole comparve la pietra. Lev inspirò bruscamente. Davanti a lui c'era una strada. Una strada vera.
 
 L'asfalto bagnato rifletteva i lampioni, le vetrine e le luci rosse dei semafori. Da qualche parte in lontananza passava un autobus. Gli pneumatici sibilavano sull'acqua. Da una finestra aperta al secondo piano arrivava della musica, mentre da una piccola caffetteria proveniva l'odore di cannella, latte caldo e chicchi troppo tostati.
 
-Una città normale.
-
-Quasi.
-
-Lev si voltò.
-
-La porta non c'era più.
-
-Solo un muro di mattoni, una vecchia insegna sopra la farmacia e un manifesto pubblicitario bagnato che sbatteva al vento.
+Una città normale. Quasi. Lev si voltò. La porta non c'era più. Solo un muro di mattoni, una vecchia insegna sopra la farmacia e un manifesto pubblicitario bagnato che sbatteva al vento.
 
 — Dove siamo? — chiese Lev.
 
@@ -30,23 +16,9 @@ Solo un muro di mattoni, una vecchia insegna sopra la farmacia e un manifesto pu
 
 — No. Non nella nostra città.
 
-Lev alzò la testa.
+Lev alzò la testa. Il nome della strada gli era familiare. Molto familiare. Aveva vissuto lì quasi tutta la vita. Ma i numeri delle case erano in un ordine diverso. La farmacia si trovava dove prima c'era una libreria. Il vecchio cinema era scomparso. Al suo posto c'era un edificio di vetro.
 
-Il nome della strada gli era familiare.
-
-Molto familiare.
-
-Aveva vissuto lì quasi tutta la vita.
-
-Ma i numeri delle case erano in un ordine diverso. La farmacia si trovava dove prima c'era una libreria. Il vecchio cinema era scomparso. Al suo posto c'era un edificio di vetro.
-
-E di fronte alla casa in cui un tempo viveva suo padre, ora si ergeva un albergo.
-
-Lev sentì odore di pioggia e all'improvviso capì che la pioggia aveva un odore sbagliato.
-
-Troppo pulito.
-
-Come se l'acqua non cadesse dal cielo, ma da un tempo completamente diverso.
+E di fronte alla casa in cui un tempo viveva suo padre, ora si ergeva un albergo. Lev sentì odore di pioggia e all'improvviso capì che la pioggia aveva un odore sbagliato. Troppo pulito. Come se l'acqua non cadesse dal cielo, ma da un tempo completamente diverso.
 
 — Questa è la mia città — disse.
 
@@ -54,9 +26,7 @@ L'Amministratore si sistemò il polsino.
 
 — Una delle sue possibilità.
 
-Edrian guardò l'orologio.
-
-Sul quadrante erano le 00:17.
+Edrian guardò l'orologio. Sul quadrante erano le 00:17.
 
 — Quanto tempo è passato?
 
@@ -66,11 +36,7 @@ L'Amministratore annuì.
 
 — Niente.
 
-Lev guardò il proprio orologio.
-
-00:17.
-
-La lancetta dei secondi non si muoveva.
+Lev guardò il proprio orologio. 00:17. La lancetta dei secondi non si muoveva.
 
 — Allora perché la città vive?
 
@@ -82,19 +48,7 @@ L'Amministratore guardò la strada.
 
 — È la città dopo la scelta.
 
-Le parole suonarono semplici, ma Lev sentì ancora più freddo.
-
-Al semaforo si accese il verde.
-
-Le persone attraversarono la strada.
-
-Una giovane donna teneva un bambino per mano.
-
-Un anziano portava un sacchetto di pane.
-
-Due adolescenti ridevano, spingendosi con le spalle.
-
-Sembrava che non stesse succedendo nulla di insolito.
+Le parole suonarono semplici, ma Lev sentì ancora più freddo. Al semaforo si accese il verde. Le persone attraversarono la strada. Una giovane donna teneva un bambino per mano. Un anziano portava un sacchetto di pane. Due adolescenti ridevano, spingendosi con le spalle. Sembrava che non stesse succedendo nulla di insolito.
 
 Ed era proprio questo a fare più paura.
 
@@ -110,33 +64,7 @@ Ed era proprio questo a fare più paura.
 
 — Perché la città non ha ancora capito di essere cambiata.
 
-Lev guardò i passanti.
-
-Una ragazza si fermò davanti a una vetrina.
-
-Nel vetro vide se stessa più vecchia.
-
-Di parecchie decine d'anni.
-
-Rimase immobile.
-
-Poi batté le palpebre.
-
-Il riflesso tornò normale.
-
-La ragazza se ne andò rapidamente.
-
-Dopo pochi metri si fermò un uomo.
-
-Guardò il palmo della mano.
-
-C'era un anello.
-
-Lev vide l'uomo sorridere.
-
-Poi l'anello scomparve.
-
-Anche il sorriso.
+Lev guardò i passanti. Una ragazza si fermò davanti a una vetrina. Nel vetro vide se stessa più vecchia. Di parecchie decine d'anni. Rimase immobile. Poi batté le palpebre. Il riflesso tornò normale. La ragazza se ne andò rapidamente. Dopo pochi metri si fermò un uomo. Guardò il palmo della mano. C'era un anello. Lev vide l'uomo sorridere. Poi l'anello scomparve. Anche il sorriso.
 
 — Cominciano a vedere — sussurrò Mira.
 
@@ -158,59 +86,9 @@ Edrian disse:
 
 — Quanto?
 
-Mira guardò verso l'alto.
+Mira guardò verso l'alto. Sopra i tetti si muovevano lentamente finestre luminose. Centinaia. Migliaia. Si componevano nella sagoma di un edificio enorme. L'Hotel esisteva nel cielo. Non come una casa reale. Come il ricordo di una casa. I suoi piani erano trasparenti. In ogni finestra compariva la vita di qualcuno. Un bambino a tavola. Una donna in stazione. Un uomo in ospedale. Un vecchio al mare. Lev vide se stesso.
 
-Sopra i tetti si muovevano lentamente finestre luminose.
-
-Centinaia.
-
-Migliaia.
-
-Si componevano nella sagoma di un edificio enorme.
-
-L'Hotel esisteva nel cielo.
-
-Non come una casa reale.
-
-Come il ricordo di una casa.
-
-I suoi piani erano trasparenti.
-
-In ogni finestra compariva la vita di qualcuno.
-
-Un bambino a tavola.
-
-Una donna in stazione.
-
-Un uomo in ospedale.
-
-Un vecchio al mare.
-
-Lev vide se stesso.
-
-Prima piccolo.
-
-Poi diciassettenne.
-
-Poi adulto.
-
-Poi vecchio.
-
-Ogni Lev viveva in modo diverso.
-
-Uno rideva.
-
-Un altro piangeva.
-
-Un terzo sedeva da solo in una stanza buia.
-
-Un quarto stava accanto a Edrian.
-
-Un quinto accanto a Mira.
-
-Un sesto era solo.
-
-Lev si voltò.
+Prima piccolo. Poi diciassettenne. Poi adulto. Poi vecchio. Ogni Lev viveva in modo diverso. Uno rideva. Un altro piangeva. Un terzo sedeva da solo in una stanza buia. Un quarto stava accanto a Edrian. Un quinto accanto a Mira. Un sesto era solo. Lev si voltò.
 
 — Non voglio vedere.
 
@@ -226,9 +104,7 @@ Lei lo guardò.
 
 — Male.
 
-Nella sua voce, per la prima volta, non c'era la solita calma.
-
-Solo una stanchezza vera, umana.
+Nella sua voce, per la prima volta, non c'era la solita calma. Solo una stanchezza vera, umana.
 
 — Perché non me l'hai mai detto?
 
@@ -242,49 +118,17 @@ Rimase in silenzio.
 
 — A volte troppo prudenti.
 
-Camminarono lungo la strada.
-
-Lev notò che alcune case erano identiche a quelle della sua memoria, ma dentro vivevano persone diverse.
-
-In una finestra c'era un uomo che Lev non aveva mai visto.
-
-In un'altra una donna che assomigliava a sua madre.
-
-Lev si fermò.
+Camminarono lungo la strada. Lev notò che alcune case erano identiche a quelle della sua memoria, ma dentro vivevano persone diverse. In una finestra c'era un uomo che Lev non aveva mai visto. In un'altra una donna che assomigliava a sua madre. Lev si fermò.
 
 — Aspetta.
 
-Si avvicinò.
-
-Dietro il vetro la donna apparecchiava la tavola.
-
-La stessa tovaglia bianca.
-
-La stessa tazza blu.
-
-La stessa abitudine di sistemare il tovagliolo prima di sedersi.
-
-Il cuore di Lev batté pesantemente nel petto.
+Si avvicinò. Dietro il vetro la donna apparecchiava la tavola. La stessa tovaglia bianca. La stessa tazza blu. La stessa abitudine di sistemare il tovagliolo prima di sedersi. Il cuore di Lev batté pesantemente nel petto.
 
 — Non è lei — disse Edrian.
 
 — Lo so.
 
-Ma Lev continuò a guardare.
-
-La donna alzò la testa.
-
-E per un secondo guardò direttamente verso di lui.
-
-Sorrise.
-
-Non come una madre.
-
-Come un'estranea.
-
-Poi chiuse le tende.
-
-Lev indietreggiò.
+Ma Lev continuò a guardare. La donna alzò la testa. E per un secondo guardò direttamente verso di lui. Sorrise. Non come una madre. Come un'estranea. Poi chiuse le tende. Lev indietreggiò.
 
 — Qui c'è troppa vita altrui.
 
@@ -294,9 +138,7 @@ Lev indietreggiò.
 
 — La città non mostra il futuro.
 
-Mostra il prezzo della possibilità.
-
-Lev aggrottò la fronte.
+Mostra il prezzo della possibilità. Lev aggrottò la fronte.
 
 — Non sono la stessa cosa?
 
@@ -314,15 +156,7 @@ Indicò le case.
 
 — Qui niente è una garanzia.
 
-Lev ricordò l'Hotel.
-
-Le stanze.
-
-Le fotografie.
-
-I libri.
-
-Le porte.
+Lev ricordò l'Hotel. Le stanze. Le fotografie. I libri. Le porte.
 
 — Allora perché soffrono?
 
@@ -332,27 +166,7 @@ Mira aggiunse piano:
 
 — A volte è proprio questa la cosa più difficile.
 
-La piazza diventò più rumorosa.
-
-Le persone cominciarono a uscire dagli edifici.
-
-Qualcuno gridava.
-
-Qualcuno indicava verso l'alto.
-
-Lev sollevò la testa.
-
-Sopra la città apparve un'enorme lancetta d'orologio.
-
-Si muoveva in senso antiorario.
-
-Dietro di essa comparivano dei numeri.
-
-23:59.
-
-23:58.
-
-23:57.
+La piazza diventò più rumorosa. Le persone cominciarono a uscire dagli edifici. Qualcuno gridava. Qualcuno indicava verso l'alto. Lev sollevò la testa. Sopra la città apparve un'enorme lancetta d'orologio. Si muoveva in senso antiorario. Dietro di essa comparivano dei numeri. 23:59. 23:58. 23:57.
 
 — Cosa succede? — chiese Lev.
 
@@ -368,19 +182,7 @@ L'Amministratore rispose:
 
 — No.
 
-La lancetta scattò.
-
-23:56.
-
-Poi 00:18.
-
-Per un istante, la strada oscillò davanti agli occhi.
-
-Le persone nella piazza si immobilizzarono.
-
-Per alcuni secondi nessuno si mosse.
-
-Poi tutti ripresero contemporaneamente ciò che stavano facendo, come se non fosse successo nulla.
+La lancetta scattò. 23:56. Poi 00:18. Per un istante, la strada oscillò davanti agli occhi. Le persone nella piazza si immobilizzarono. Per alcuni secondi nessuno si mosse. Poi tutti ripresero contemporaneamente ciò che stavano facendo, come se non fosse successo nulla.
 
 — Non ricordano? — chiese Lev.
 
@@ -398,31 +200,7 @@ Lev guardò Edrian.
 
 — E se torniamo indietro?
 
-Edrian non rispose.
-
-In lontananza si sentì il fischio di un treno.
-
-Ma in quella parte della città non c'era nessuna ferrovia.
-
-Il fischio si ripeté.
-
-E insieme arrivò un odore.
-
-Sale marino.
-
-Ghiaccio.
-
-Fumo.
-
-Lev girò la testa.
-
-In fondo alla strada c'era una stazione.
-
-Era vecchia.
-
-Anche se un minuto prima non c'era alcuna stazione.
-
-Sopra l'ingresso brillava una scritta:
+Edrian non rispose. In lontananza si sentì il fischio di un treno. Ma in quella parte della città non c'era nessuna ferrovia. Il fischio si ripeté. E insieme arrivò un odore. Sale marino. Ghiaccio. Fumo. Lev girò la testa. In fondo alla strada c'era una stazione. Era vecchia. Anche se un minuto prima non c'era alcuna stazione. Sopra l'ingresso brillava una scritta:
 
 **STAZIONE DELLE ULTIME DECISIONI.**
 
@@ -432,13 +210,7 @@ Mira scosse la testa.
 
 — Per l'Hotel la parola «troppo» non esiste.
 
-Entrarono.
-
-Dentro c'era odore di lana bagnata, caffè e ferro.
-
-Sul tabellone c'erano decine di treni.
-
-Il punto di partenza era per tutti lo stesso:
+Entrarono. Dentro c'era odore di lana bagnata, caffè e ferro. Sul tabellone c'erano decine di treni. Il punto di partenza era per tutti lo stesso:
 
 **QUI.**
 
@@ -446,9 +218,7 @@ La destinazione:
 
 **DOPO.**
 
-Lev si avvicinò al tabellone.
-
-Un treno lampeggiava.
+Lev si avvicinò al tabellone. Un treno lampeggiava.
 
 **00:30 — LEV ARDEN.**
 
@@ -490,21 +260,7 @@ Lev si voltò.
 
 — Porta dalla persona che eri prima di conoscere la verità.
 
-Lev capì.
-
-E questo lo spaventò ancora di più.
-
-Perché voleva davvero andare lì.
-
-Voleva tornare per qualche minuto a se stesso di prima.
-
-Al ragazzo che non conosceva ancora la parola «possibilità».
-
-Al fratello che era semplicemente suo fratello.
-
-Alla casa in cui il futuro non stava dietro ogni porta.
-
-Ma Edrian disse:
+Lev capì. E questo lo spaventò ancora di più. Perché voleva davvero andare lì. Voleva tornare per qualche minuto a se stesso di prima. Al ragazzo che non conosceva ancora la parola «possibilità». Al fratello che era semplicemente suo fratello. Alla casa in cui il futuro non stava dietro ogni porta. Ma Edrian disse:
 
 — Non salire.
 
@@ -546,9 +302,7 @@ Edrian guardò il tabellone.
 
 — Quello che non mi aveva ancora perso.
 
-Lev rimase in silenzio.
-
-Edrian continuò:
+Lev rimase in silenzio. Edrian continuò:
 
 — Ho capito che se fossi tornato a casa, quella possibilità sarebbe diventata reale.
 
@@ -570,15 +324,7 @@ Lev strinse i pugni.
 
 — Perché avevo paura.
 
-Fu una semplice ammissione di Edrian.
-
-Senza spiegazioni.
-
-Senza giustificazioni.
-
-Solo paura.
-
-Lev lo guardò.
+Fu una semplice ammissione di Edrian. Senza spiegazioni. Senza giustificazioni. Solo paura. Lev lo guardò.
 
 — Potevi dirmelo.
 
@@ -590,9 +336,7 @@ Edrian sorrise.
 
 — Appunto.
 
-Sul tabellone il treno scomparve.
-
-Al suo posto apparve una nuova riga.
+Sul tabellone il treno scomparve. Al suo posto apparve una nuova riga.
 
 **PASSEGGERO: LEV ARDEN.**
 
@@ -602,11 +346,7 @@ E sotto:
 
 **BIGLIETTO PAGATO CON LA MEMORIA.**
 
-Lev sentì la chiave di legno nella tasca diventare pesante.
-
-La tirò fuori.
-
-Sul legno era comparsa una scritta:
+Lev sentì la chiave di legno nella tasca diventare pesante. La tirò fuori. Sul legno era comparsa una scritta:
 
 **NON COMPRARE IL BIGLIETTO.**
 
@@ -634,9 +374,7 @@ Lev passò un dito sulle lettere.
 
 — E poi?
 
-Mira non rispose.
-
-Lev guardò l'Amministratore.
+Mira non rispose. Lev guardò l'Amministratore.
 
 — Che cosa è successo a quel Lev?
 
@@ -648,37 +386,11 @@ L'Amministratore disse:
 
 — Quella che non hai ancora visto.
 
-Alla stazione si spensero le luci.
-
-Rimase una sola lampada.
-
-Sopra il binario c'era scritto:
+Alla stazione si spensero le luci. Rimase una sola lampada. Sopra il binario c'era scritto:
 
 **PIATTAFORMA 32.**
 
-L'ansia gli strinse lo stomaco.
-
-Trentadue.
-
-Tante erano le scene del piano.
-
-Tante le porte.
-
-Tanti i passi.
-
-Ma capiva che l'Hotel non conosceva il piano.
-
-Era una sua sensazione.
-
-Non una regola.
-
-Non una profezia.
-
-Solo un numero.
-
-Si incamminò verso la piattaforma.
-
-Edrian lo fermò.
+L'ansia gli strinse lo stomaco. Trentadue. Tante erano le scene del piano. Tante le porte. Tanti i passi. Ma capiva che l'Hotel non conosceva il piano. Era una sua sensazione. Non una regola. Non una profezia. Solo un numero. Si incamminò verso la piattaforma. Edrian lo fermò.
 
 — Lev.
 
@@ -700,29 +412,7 @@ Mira disse:
 
 — E a volte la versione più convincente è quella che vuoi ascoltare più di tutte.
 
-Lev annuì.
-
-Il treno apparve senza rumore.
-
-Grigio.
-
-Vecchio.
-
-Con i finestrini neri dall'interno.
-
-La porta si aprì.
-
-Sui gradini c'era una persona.
-
-Lev.
-
-Solo più vecchio.
-
-Molto più vecchio.
-
-Sul suo volto c'erano stanchezza e calma.
-
-Guardò Lev.
+Lev annuì. Il treno apparve senza rumore. Grigio. Vecchio. Con i finestrini neri dall'interno. La porta si aprì. Sui gradini c'era una persona. Lev. Solo più vecchio. Molto più vecchio. Sul suo volto c'erano stanchezza e calma. Guardò Lev.
 
 — Sei in ritardo.
 
@@ -740,11 +430,7 @@ Il Lev più vecchio sorrise.
 
 — Quale possibilità è quella vera?
 
-Il Lev più vecchio guardò Edrian.
-
-Poi Mira.
-
-Poi l'Amministratore.
+Il Lev più vecchio guardò Edrian. Poi Mira. Poi l'Amministratore.
 
 — Tutte.
 
@@ -754,9 +440,7 @@ Lev non si mosse.
 
 — Nell'Hotel no.
 
-Il Lev più vecchio gli porse un biglietto.
-
-Sul biglietto c'era scritto:
+Il Lev più vecchio gli porse un biglietto. Sul biglietto c'era scritto:
 
 **UNA SOLA PERSONA PUÒ TORNARE.**
 
@@ -786,11 +470,7 @@ Il Lev più vecchio sorrise.
 
 — Quello che non hai mai fatto in tempo a perdere.
 
-Il treno cominciò a chiudere le porte.
-
-Lev fece un passo avanti.
-
-Edrian lo afferrò per una spalla.
+Il treno cominciò a chiudere le porte. Lev fece un passo avanti. Edrian lo afferrò per una spalla.
 
 — Non ascoltarlo.
 
@@ -806,15 +486,7 @@ Edrian impallidì.
 
 — È la mia voce.
 
-Il treno scomparve.
-
-La piattaforma rimase vuota.
-
-Sul pavimento era rimasto il biglietto.
-
-Lev lo raccolse.
-
-L'inchiostro cambiava lentamente.
+Il treno scomparve. La piattaforma rimase vuota. Sul pavimento era rimasto il biglietto. Lev lo raccolse. L'inchiostro cambiava lentamente.
 
 **PASSEGGERO: EDRIAN ARDEN.**
 
@@ -830,67 +502,11 @@ Edrian guardava il biglietto.
 
 — Significa che adesso il prezzo non sarà soltanto tuo.
 
-Da qualche parte lontano suonarono gli orologi.
-
-Una volta.
-
-Due.
-
-Tre.
-
-Quattro.
-
-Cinque.
-
-Lev sentì un odore familiare.
-
-Giacca bagnata.
-
-Gomma da masticare alla menta.
-
-Legno vecchio.
-
-Capì che era l'odore dell'infanzia.
-
-E allo stesso tempo l'odore di ciò che l'Hotel stava per portargli via.
-
-Strinse più forte il biglietto.
-
-E all'improvviso notò sul retro una breve frase:
+Da qualche parte lontano suonarono gli orologi. Una volta. Due. Tre. Quattro. Cinque. Lev sentì un odore familiare. Giacca bagnata. Gomma da masticare alla menta. Legno vecchio. Capì che era l'odore dell'infanzia. E allo stesso tempo l'odore di ciò che l'Hotel stava per portargli via. Strinse più forte il biglietto. E all'improvviso notò sul retro una breve frase:
 
 **SE VUOI SALVARE TUO FRATELLO — NON LASCIARLO ARRIVARE A CASA.**
 
-Lev alzò lentamente la testa.
-
-Edrian era già scomparso.
-
-Mira era sola.
-
-L'Amministratore non c'era.
-
-E oltre le porte di vetro della stazione iniziava l'alba.
-
-Anche se all'alba mancavano più di sei ore.
-
-Lev uscì.
-
-La città era vuota.
-
-A tutti gli incroci era acceso il verde.
-
-Nessuna macchina.
-
-Nessuna persona.
-
-Solo nella piazza lontana c'era Edrian.
-
-Guardava la casa.
-
-La loro vecchia casa.
-
-E teneva in mano la stessa chiave di legno.
-
-Lev corse verso di lui.
+Lev alzò lentamente la testa. Edrian era già scomparso. Mira era sola. L'Amministratore non c'era. E oltre le porte di vetro della stazione iniziava l'alba. Anche se all'alba mancavano più di sei ore. Lev uscì. La città era vuota. A tutti gli incroci era acceso il verde. Nessuna macchina. Nessuna persona. Solo nella piazza lontana c'era Edrian. Guardava la casa. La loro vecchia casa. E teneva in mano la stessa chiave di legno. Lev corse verso di lui.
 
 — Edrian!
 
@@ -898,73 +514,19 @@ Il fratello non si voltò.
 
 — Aspetta!
 
-Edrian alzò una mano.
-
-Intorno a lui cominciarono a spegnersi i lampioni.
-
-Uno.
-
-Un altro.
-
-Un terzo.
-
-Finché tutta la strada sprofondò nel buio.
-
-E allora Edrian si voltò.
-
-Ma quello non era più il suo volto.
-
-Lev si fermò.
-
-Il petto gli diventò di ghiaccio.
-
-Davanti a lui c'era un uomo che assomigliava a Edrian.
-
-Ma gli occhi erano estranei.
+Edrian alzò una mano. Intorno a lui cominciarono a spegnersi i lampioni. Uno. Un altro. Un terzo. Finché tutta la strada sprofondò nel buio. E allora Edrian si voltò. Ma quello non era più il suo volto. Lev si fermò. Il petto gli diventò di ghiaccio. Davanti a lui c'era un uomo che assomigliava a Edrian. Ma gli occhi erano estranei.
 
 — Sei arrivato troppo tardi — disse.
 
-E alle sue spalle si aprì la casa.
+E alle sue spalle si aprì la casa. Quella casa. Solo che dentro non c'era una sola stanza. C'era l'Hotel. Lev capì. La città dopo mezzanotte non era un luogo successivo. Era una trappola che conduceva direttamente a casa.
 
-Quella casa.
+E ormai casa non significava più ciò che aveva significato prima. Lev rimase davanti a quel volto e non riuscì a costringersi a fare un altro passo. Conosceva Edrian attraverso migliaia di piccole cose. Il modo in cui appoggiava la tazza sul tavolo. Il modo in cui socchiudeva gli occhi al sole.
 
-Solo che dentro non c'era una sola stanza.
-
-C'era l'Hotel.
-
-Lev capì.
-
-La città dopo mezzanotte non era un luogo successivo.
-
-Era una trappola che conduceva direttamente a casa.
-
-E ormai casa non significava più ciò che aveva significato prima.
-
-Lev rimase davanti a quel volto e non riuscì a costringersi a fare un altro passo.
-
-Conosceva Edrian attraverso migliaia di piccole cose.
-
-Il modo in cui appoggiava la tazza sul tavolo.
-
-Il modo in cui socchiudeva gli occhi al sole.
-
-L'abitudine di guardare prima la porta e poi la persona.
-
-Il breve respiro prima di una verità sgradevole.
-
-Il modo in cui pronunciava il nome di Lev quando voleva fermarlo.
-
-Ma quel volto poteva appartenere a suo fratello.
-
-Eppure non gli apparteneva.
+L'abitudine di guardare prima la porta e poi la persona. Il breve respiro prima di una verità sgradevole. Il modo in cui pronunciava il nome di Lev quando voleva fermarlo. Ma quel volto poteva appartenere a suo fratello. Eppure non gli apparteneva.
 
 — Dov'è Edrian? — chiese Lev.
 
-L'uomo sorrise.
-
-Il sorriso era giusto.
-
-Troppo giusto.
+L'uomo sorrise. Il sorriso era giusto. Troppo giusto.
 
 — Dovresti conoscere la risposta.
 
@@ -990,11 +552,7 @@ L'uomo la guardò.
 
 — No — disse Lev. — Sei qui quando hai paura che faccia la scelta sbagliata.
 
-Mira rimase in silenzio.
-
-Lev capì di averle detto per la prima volta una verità che lei stessa non voleva sentire.
-
-L'uomo con le sembianze di Edrian guardò la casa.
+Mira rimase in silenzio. Lev capì di averle detto per la prima volta una verità che lei stessa non voleva sentire. L'uomo con le sembianze di Edrian guardò la casa.
 
 — Vi resta poco tempo.
 
@@ -1002,13 +560,7 @@ L'uomo con le sembianze di Edrian guardò la casa.
 
 — Prima di casa.
 
-Lev guardò l'edificio.
-
-Le finestre erano buie.
-
-Ma dietro ogni finestra si muoveva una luce.
-
-Come se qualcuno attraversasse le stanze con una torcia.
+Lev guardò l'edificio. Le finestre erano buie. Ma dietro ogni finestra si muoveva una luce. Come se qualcuno attraversasse le stanze con una torcia.
 
 — Edrian è lì?
 
@@ -1018,17 +570,7 @@ Come se qualcuno attraversasse le stanze con una torcia.
 
 — La comprensione arriva dopo il prezzo.
 
-L'uomo scomparve.
-
-Non si dissolse.
-
-Fece semplicemente un passo indietro e si trovò dall'altra parte della porta di casa.
-
-La porta si chiuse.
-
-Lev si precipitò in avanti.
-
-Mira gli afferrò il braccio.
+L'uomo scomparve. Non si dissolse. Fece semplicemente un passo indietro e si trovò dall'altra parte della porta di casa. La porta si chiuse. Lev si precipitò in avanti. Mira gli afferrò il braccio.
 
 — Aspetta.
 
@@ -1052,51 +594,11 @@ Lev si immobilizzò.
 
 — Ciò che vuoi riportare indietro.
 
-Quelle parole colpirono esattamente il punto più doloroso.
-
-Lev abbassò lentamente la mano.
-
-Dietro la porta si sentì una risata.
-
-Infantile.
-
-Edrian.
-
-Poi la voce della madre:
+Quelle parole colpirono esattamente il punto più doloroso. Lev abbassò lentamente la mano. Dietro la porta si sentì una risata. Infantile. Edrian. Poi la voce della madre:
 
 — La cena è pronta.
 
-Lev sentì odore di patate, burro e aneto.
-
-Lo stesso odore.
-
-Quello di casa.
-
-Vero.
-
-Un odore che era impossibile inventare.
-
-Chiuse gli occhi.
-
-E per un secondo fu di nuovo in cucina.
-
-Edrian era seduto di fronte a lui.
-
-Il padre litigava con lui per la finestra rotta.
-
-La madre rideva.
-
-La tazza era al suo posto.
-
-Fuori pioveva.
-
-Lev sentiva ogni parola.
-
-Ogni suono.
-
-Aprì gli occhi.
-
-Davanti a lui c'era la stessa porta.
+Lev sentì odore di patate, burro e aneto. Lo stesso odore. Quello di casa. Vero. Un odore che era impossibile inventare. Chiuse gli occhi. E per un secondo fu di nuovo in cucina. Edrian era seduto di fronte a lui. Il padre litigava con lui per la finestra rotta. La madre rideva. La tazza era al suo posto. Fuori pioveva. Lev sentiva ogni parola. Ogni suono. Aprì gli occhi. Davanti a lui c'era la stessa porta.
 
 — Non è un ricordo — disse.
 
@@ -1114,29 +616,7 @@ Mira guardò il suo petto.
 
 — Dal desiderio.
 
-Lev capì.
-
-La casa non mostrava il passato.
-
-Mostrava ciò per cui Lev era disposto a pagare.
-
-Lev fece un passo indietro.
-
-In quel momento la porta di casa si aprì da sola.
-
-Sulla soglia c'era Edrian.
-
-Quello vero.
-
-Lev lo capì immediatamente.
-
-Non dal volto.
-
-Dall'espressione degli occhi.
-
-C'era stanchezza.
-
-E paura.
+Lev capì. La casa non mostrava il passato. Mostrava ciò per cui Lev era disposto a pagare. Lev fece un passo indietro. In quel momento la porta di casa si aprì da sola. Sulla soglia c'era Edrian. Quello vero. Lev lo capì immediatamente. Non dal volto. Dall'espressione degli occhi. C'era stanchezza. E paura.
 
 — Non entrare — disse Edrian.
 
@@ -1214,19 +694,7 @@ Edrian annuì.
 
 — Grazie.
 
-La casa scomparve.
-
-La piazza tornò normale.
-
-Stava arrivando il primo mattino; dalla panetteria arrivava il profumo del pane fresco.
-
-La città tornava a una sola possibilità.
-
-Ma per terra era rimasta la chiave di legno.
-
-Lev la raccolse.
-
-Ora aveva una sola parola:
+La casa scomparve. La piazza tornò normale. Stava arrivando il primo mattino; dalla panetteria arrivava il profumo del pane fresco. La città tornava a una sola possibilità. Ma per terra era rimasta la chiave di legno. Lev la raccolse. Ora aveva una sola parola:
 
 **CASA.**
 
@@ -1238,49 +706,13 @@ Edrian rispose:
 
 — Adesso dovremo scoprire quale casa è quella vera.
 
-E molto più avanti, oltre le case, comparve per la prima volta una sottile linea dorata dell'alba.
-
-Ma insieme a essa, sopra la città, apparve di nuovo un enorme edificio.
-
-L'Hotel.
-
-Questa volta non era nel cielo.
-
-Era proprio al centro della strada.
-
-Le porte si spalancarono.
-
-Sulla soglia apparve la figura dell'Amministratore.
-
-Guardò Lev e disse:
+E molto più avanti, oltre le case, comparve per la prima volta una sottile linea dorata dell'alba. Ma insieme a essa, sopra la città, apparve di nuovo un enorme edificio. L'Hotel. Questa volta non era nel cielo. Era proprio al centro della strada. Le porte si spalancarono. Sulla soglia apparve la figura dell'Amministratore. Guardò Lev e disse:
 
 — Siete pronti a vedere l'ultimo piano?
 
-Lev non rispose.
+Lev non rispose. Perché alle spalle dell'Amministratore vide una scala. Saliva verso l'alto. E su ogni gradino c'era una fotografia. Sulla prima — lui da bambino. Sulla seconda — Edrian. Sulla terza — Mira. Sulla quarta — sua madre. Sulla quinta — suo padre. Sulla sesta — una casa vuota. E sulla settima non c'era nessuna persona.
 
-Perché alle spalle dell'Amministratore vide una scala.
-
-Saliva verso l'alto.
-
-E su ogni gradino c'era una fotografia.
-
-Sulla prima — lui da bambino.
-
-Sulla seconda — Edrian.
-
-Sulla terza — Mira.
-
-Sulla quarta — sua madre.
-
-Sulla quinta — suo padre.
-
-Sulla sesta — una casa vuota.
-
-E sulla settima non c'era nessuna persona.
-
-Solo una macchia nera.
-
-Lev alzò lo sguardo.
+Solo una macchia nera. Lev alzò lo sguardo.
 
 — Cosa c'è nella settima?
 
@@ -1288,15 +720,7 @@ L'Amministratore disse:
 
 — Quello che diventerai se pagherai.
 
-Un brivido gli scivolò sulla pelle.
-
-Capì che ormai non si parlava più soltanto di chi avrebbe potuto perdere.
-
-Si parlava di chi avrebbe dovuto diventare per conservare qualcuno.
-
-Fu il primo a fare un passo verso l'Hotel.
-
-E dietro di lui Edrian disse piano:
+Un brivido gli scivolò sulla pelle. Capì che ormai non si parlava più soltanto di chi avrebbe potuto perdere. Si parlava di chi avrebbe dovuto diventare per conservare qualcuno. Fu il primo a fare un passo verso l'Hotel. E dietro di lui Edrian disse piano:
 
 — Lev.
 
@@ -1320,22 +744,7 @@ Posò una mano sul petto di Lev.
 
 — E io voglio che tu mi trovi nel futuro.
 
-Lev non rispose.
-
-Si limitò ad annuire.
-
-E insieme entrarono nell'Hotel.
-
-La porta si chiuse.
-
-Da qualche parte, al piano di sopra, suonò un ascensore.
-
-Senza pulsanti.
-
-Senza numero.
-
-Li stava già aspettando.
-
-E sulla parete sopra di esso comparve una scritta:
+Lev non rispose. Si limitò ad annuire. E insieme entrarono nell'Hotel. La porta si chiuse. Da qualche parte, al piano di sopra, suonò un ascensore. Senza pulsanti. Senza numero. Li stava già aspettando. E sulla parete sopra di esso comparve una scritta:
 
 **PIANO 26.**
+
