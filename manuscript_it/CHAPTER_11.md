@@ -32,9 +32,7 @@ Lev si avvicinò.
 
 — Chi sei?
 
-Per alcuni secondi non accadde nulla.
-
-Poi:
+Per alcuni secondi non accadde nulla. Poi:
 
 — Quello che ha già aperto.
 
@@ -54,15 +52,7 @@ Mira lo guardò attentamente.
 
 — Allora è molto sfortunata.
 
-Lev appoggiò il palmo sul legno. Era caldo. Da dentro arrivava odore di polvere, vecchia carta e pioggia.
-
-Poi sentì un respiro.
-
-Lento.
-
-Stanco.
-
-Molto vicino.
+Lev appoggiò il palmo sul legno. Era caldo. Da dentro arrivava odore di polvere, vecchia carta e pioggia. Poi sentì un respiro. Lento. Stanco. Molto vicino.
 
 — C'è qualcuno.
 
@@ -104,11 +94,7 @@ Mira guardò l'orologio.
 
 — Per sempre.
 
-Nel muro qualcosa graffiò il legno.
-
-Tre suoni brevi.
-
-Lev sussultò.
+Nel muro qualcosa graffiò il legno. Tre suoni brevi. Lev sussultò.
 
 — Chi sei?
 
@@ -160,19 +146,13 @@ Mira chiuse gli occhi.
 
 — L'uomo in nero.
 
-Lev capì subito.
-
-L'Amministratore.
+Lev capì subito. L'Amministratore.
 
 — È qui?
 
 — È sempre qui.
 
-Nel corridoio una lampada si spense.
-
-Poi una seconda.
-
-L'oscurità strisciò verso di loro.
+Nel corridoio una lampada si spense. Poi una seconda. L'oscurità strisciò verso di loro.
 
 — Andate — sussurrò Pavel.
 
@@ -196,19 +176,7 @@ Lev passò la mano sul pannello di legno.
 
 — Più in basso.
 
-Si inginocchiò.
-
-In basso, quasi all'altezza del pavimento, si vedeva una piccola grata metallica.
-
-Lev la tirò.
-
-Si aprì.
-
-Dall'apertura arrivò un soffio freddo.
-
-Non un freddo normale.
-
-Odore di cantina dopo una lunga pioggia.
+Si inginocchiò. In basso, quasi all'altezza del pavimento, si vedeva una piccola grata metallica. Lev la tirò. Si aprì. Dall'apertura arrivò un soffio freddo. Non un freddo normale. Odore di cantina dopo una lunga pioggia.
 
 Mira si accovacciò accanto a lui.
 
@@ -224,31 +192,11 @@ Mira si accovacciò accanto a lui.
 
 — Lì c'è una persona.
 
-Lei lo guardò per alcuni secondi.
-
-Poi sospirò.
+Lei lo guardò per alcuni secondi. Poi sospirò.
 
 — Vado io per prima.
 
-Si infilò all'interno.
-
-Lev la seguì.
-
-Un secondo dopo si trovarono in uno stretto corridoio.
-
-Le pareti erano metalliche.
-
-Sopra le loro teste passavano tubi.
-
-Da qualche parte gocciolava acqua.
-
-Goc.
-
-Goc.
-
-Goc.
-
-In lontananza ronzava un meccanismo.
+Si infilò all'interno. Lev la seguì. Un secondo dopo si trovarono in uno stretto corridoio. Le pareti erano metalliche. Sopra le loro teste passavano tubi. Da qualche parte gocciolava acqua. Goc. Goc. Goc. In lontananza ronzava un meccanismo.
 
 — Qui l'Hotel è completamente diverso — sussurrò Lev.
 
@@ -260,9 +208,7 @@ Mira annuì.
 
 — Il sistema.
 
-Si muovevano di lato.
-
-Sulle pareti c'erano targhe:
+Si muovevano di lato. Sulle pareti c'erano targhe:
 
 **ASCENSORI.**
 
@@ -300,25 +246,9 @@ Lev alzò la testa.
 
 — Più veloce.
 
-Svoltarono.
+Svoltarono. Il corridoio si allargò. Dietro un vetro c'erano decine di piccole stanze. In alcune c'erano poltrone. In altre letti. Alcune erano completamente vuote.
 
-Il corridoio si allargò.
-
-Dietro un vetro c'erano decine di piccole stanze.
-
-In alcune c'erano poltrone.
-
-In altre letti.
-
-Alcune erano completamente vuote.
-
-In una stanza un uomo stava davanti a una porta e cercava all'infinito di aprire la maniglia.
-
-In un'altra una donna sedeva a un tavolo e leggeva sempre la stessa pagina.
-
-In una terza dormiva un bambino.
-
-Lev si fermò.
+In una stanza un uomo stava davanti a una porta e cercava all'infinito di aprire la maniglia. In un'altra una donna sedeva a un tavolo e leggeva sempre la stessa pagina. In una terza dormiva un bambino. Lev si fermò.
 
 — Sono ospiti?
 
@@ -378,13 +308,7 @@ Lev la guardò.
 
 — E non dovrebbe?
 
-Mira non rispose.
-
-In fondo al corridoio c'era una porta.
-
-Non aveva numero.
-
-Solo un nome:
+Mira non rispose. In fondo al corridoio c'era una porta. Non aveva numero. Solo un nome:
 
 **PAVEL S.**
 
@@ -404,27 +328,7 @@ Dalla porta arrivò la voce:
 
 — Perché la porta è già aperta.
 
-Lev guardò la maniglia.
-
-Era davvero abbassata.
-
-La porta si socchiuse lentamente.
-
-Dentro c'era un uomo.
-
-Sembrava avere circa quarant'anni.
-
-Ma gli occhi erano più vecchi.
-
-Capelli grigi.
-
-Maglione scuro.
-
-Piedi nudi.
-
-Al polso, un vecchio orologio.
-
-Guardò Lev.
+Lev guardò la maniglia. Era davvero abbassata. La porta si socchiuse lentamente. Dentro c'era un uomo. Sembrava avere circa quarant'anni. Ma gli occhi erano più vecchi. Capelli grigi. Maglione scuro. Piedi nudi. Al polso, un vecchio orologio. Guardò Lev.
 
 — Sei venuto.
 
@@ -464,33 +368,7 @@ Pavel scosse la testa.
 
 — Io ricordo esattamente così.
 
-Si avvicinò alla parete.
-
-Su di essa erano appese fotografie.
-
-Lev vide se stesso.
-
-Sette anni.
-
-Dieci.
-
-Dodici.
-
-Quindici.
-
-Diciassette.
-
-Ma l'ultima fotografia era diversa.
-
-Lev era disteso sull'asfalto bagnato.
-
-Accanto a lui c'era Edrian.
-
-Mira piangeva.
-
-E dietro di loro c'era l'Amministratore.
-
-Lev sentì il freddo passare dal collo al petto.
+Si avvicinò alla parete. Su di essa erano appese fotografie. Lev vide se stesso. Sette anni. Dieci. Dodici. Quindici. Diciassette. Ma l'ultima fotografia era diversa. Lev era disteso sull'asfalto bagnato. Accanto a lui c'era Edrian. Mira piangeva. E dietro di loro c'era l'Amministratore. Lev sentì il freddo passare dal collo al petto.
 
 — Cos'è?
 
@@ -530,9 +408,7 @@ Pavel la guardò.
 
 — Perché ha fatto una scelta diversa.
 
-Mira si voltò.
-
-La rabbia le esplose nel petto, calda e quasi salvifica.
+Mira si voltò. La rabbia le esplose nel petto, calda e quasi salvifica.
 
 — Quale?
 
@@ -546,9 +422,7 @@ Non rispose.
 
 — Perché se te lo dico, potresti scegliere proprio quella.
 
-Lev tacque.
-
-Pavel sorrise.
+Lev tacque. Pavel sorrise.
 
 — Ecco perché è pericolosa.
 
@@ -604,9 +478,7 @@ Si avvicinò alla parete e toccò la fotografia.
 
 — Ma a volte raccontarlo ha un prezzo.
 
-In quel momento i tubi sopra di loro tremarono. La luce sfarfallò.
-
-Pavel guardò in alto.
+In quel momento i tubi sopra di loro tremarono. La luce sfarfallò. Pavel guardò in alto.
 
 — È arrivato.
 
@@ -614,15 +486,7 @@ Pavel guardò in alto.
 
 — Sì.
 
-Nel corridoio si udirono passi.
-
-Calmi.
-
-Regolari.
-
-Non affrettati.
-
-Mira afferrò la mano di Lev.
+Nel corridoio si udirono passi. Calmi. Regolari. Non affrettati. Mira afferrò la mano di Lev.
 
 — Dobbiamo andare.
 
@@ -640,13 +504,7 @@ Lo guardò.
 
 — Puoi ancora scegliere diversamente.
 
-La porta in fondo al corridoio si aprì.
-
-L'Amministratore entrò.
-
-Non indossava il cappotto.
-
-In mano teneva il libro.
+La porta in fondo al corridoio si aprì. L'Amministratore entrò. Non indossava il cappotto. In mano teneva il libro.
 
 — Pavel.
 
@@ -660,13 +518,7 @@ L'Amministratore guardò Lev.
 
 — Vi avevo avvertito di non entrare qui.
 
-La paura gli strinse lo stomaco.
-
-Ma ora dentro quella paura c'era qualcosa di nuovo.
-
-Non era paura di un uomo.
-
-Era paura che l'Amministratore sapesse di lui più di quanto lui stesso sapesse.
+La paura gli strinse lo stomaco. Ma ora dentro quella paura c'era qualcosa di nuovo. Non era paura di un uomo. Era paura che l'Amministratore sapesse di lui più di quanto lui stesso sapesse.
 
 — Perché qui ci sono delle persone?
 
@@ -732,9 +584,7 @@ Lev la guardò.
 
 — Ogni volta?
 
-L'Amministratore non rispose.
-
-Pavel lo fece al suo posto.
+L'Amministratore non rispose. Pavel lo fece al suo posto.
 
 — È già morto.
 
@@ -764,9 +614,7 @@ L'Amministratore si voltò lentamente verso Lev.
 
 — Sei già morto.
 
-Il corridoio diventò completamente silenzioso.
-
-Lev sentì il proprio respiro.
+Il corridoio diventò completamente silenzioso. Lev sentì il proprio respiro.
 
 — Quando?
 
@@ -774,9 +622,7 @@ L'Amministratore rispose:
 
 — In un futuro.
 
-Per un istante le ginocchia gli cedettero.
-
-Mira gli prese la mano.
+Per un istante le ginocchia gli cedettero. Mira gli prese la mano.
 
 — Non credere alla fotografia.
 
@@ -798,23 +644,7 @@ Pavel rispose:
 
 — Perché ho visto la possibilità successiva.
 
-Indicò la parete.
-
-Vi comparve una nuova fotografia.
-
-Lev era in piedi vicino a una finestra.
-
-Solo.
-
-Senza Edrian.
-
-Senza Mira.
-
-Davanti a lui c'era il libro.
-
-Alle sue spalle una porta.
-
-Sulla porta era scritto:
+Indicò la parete. Vi comparve una nuova fotografia. Lev era in piedi vicino a una finestra. Solo. Senza Edrian. Senza Mira. Davanti a lui c'era il libro. Alle sue spalle una porta. Sulla porta era scritto:
 
 **ULTIMO PIANO.**
 
@@ -822,21 +652,11 @@ Pavel sussurrò:
 
 — E lì morirai non più come ospite.
 
-Lev guardava la fotografia.
-
-L'Amministratore chiuse il libro.
-
-Da qualche parte dentro il muro si udì di nuovo la voce familiare di Edrian:
+Lev guardava la fotografia. L'Amministratore chiuse il libro. Da qualche parte dentro il muro si udì di nuovo la voce familiare di Edrian:
 
 — Lev, non credergli.
 
-Lev si voltò.
-
-Ma Pavel non guardava lui.
-
-Guardava la parete.
-
-E disse:
+Lev si voltò. Ma Pavel non guardava lui. Guardava la parete. E disse:
 
 — Non è Edrian.
 
@@ -846,27 +666,7 @@ Pavel rispose:
 
 — Quello che porta la sua voce.
 
-E la luce si spense.
-
-Quando la luce si spense, Lev sentì dapprima soltanto il respiro.
-
-Quattro persone.
-
-Lui.
-
-Mira.
-
-Pavel.
-
-L'Amministratore.
-
-Ma poi dalle pareti arrivò un altro suono.
-
-Un fruscio.
-
-Come se qualcuno facesse lentamente scorrere le unghie sulla parte interna del legno.
-
-Lev si immobilizzò, sentendo sulla lingua il gusto secco della paura.
+E la luce si spense. Quando la luce si spense, Lev sentì dapprima soltanto il respiro. Quattro persone. Lui. Mira. Pavel. L'Amministratore. Ma poi dalle pareti arrivò un altro suono. Un fruscio. Come se qualcuno facesse lentamente scorrere le unghie sulla parte interna del legno. Lev si immobilizzò, sentendo sulla lingua il gusto secco della paura.
 
 — Non muovetevi — disse Pavel.
 
@@ -876,25 +676,11 @@ Lev si immobilizzò, sentendo sulla lingua il gusto secco della paura.
 
 — Chi?
 
-Pavel non rispose.
-
-Mira sussurrò:
+Pavel non rispose. Mira sussurrò:
 
 — La voce.
 
-Il fruscio si avvicinò.
-
-A destra.
-
-Poi a sinistra.
-
-Poi proprio sotto i loro piedi.
-
-Lev sentì una vibrazione nel pavimento.
-
-L'Amministratore sollevò il libro.
-
-Nel buio le sue pagine emanavano una debole luce grigia.
+Il fruscio si avvicinò. A destra. Poi a sinistra. Poi proprio sotto i loro piedi. Lev sentì una vibrazione nel pavimento. L'Amministratore sollevò il libro. Nel buio le sue pagine emanavano una debole luce grigia.
 
 — Non aprirlo — disse Pavel.
 
@@ -906,11 +692,7 @@ L'Amministratore lo guardò.
 
 — Proprio per questo devo aprirlo.
 
-Aprì il libro.
-
-Sulla pagina non c'erano né un nome né una data.
-
-Solo una frase:
+Aprì il libro. Sulla pagina non c'erano né un nome né una data. Solo una frase:
 
 **LA VOCE NON APPARTIENE A NESSUNO.**
 
@@ -976,9 +758,7 @@ Lev non capì.
 
 — Ho visto me stesso dall'altra parte.
 
-Nel buio calò un silenzio assoluto.
-
-Pavel continuò:
+Nel buio calò un silenzio assoluto. Pavel continuò:
 
 — Quello che era già uscito dall'Hotel.
 
@@ -1022,15 +802,7 @@ Pavel sorrise.
 
 — E tu continui a fingere di poter controllare le storie degli altri.
 
-L'Amministratore non rispose.
-
-Lev improvvisamente capì che per la prima volta lo vedeva senza una frase pronta, una spiegazione o il solito sorriso calmo.
-
-Solo per un secondo.
-
-Ma bastò.
-
-Lev sentì la propria voce.
+L'Amministratore non rispose. Lev improvvisamente capì che per la prima volta lo vedeva senza una frase pronta, una spiegazione o il solito sorriso calmo. Solo per un secondo. Ma bastò. Lev sentì la propria voce.
 
 — Mira.
 
@@ -1040,9 +812,7 @@ Lei si voltò.
 
 — Non ho detto niente.
 
-Mira impallidì.
-
-Dal muro arrivò di nuovo:
+Mira impallidì. Dal muro arrivò di nuovo:
 
 — Mira, aiutami.
 
@@ -1098,21 +868,7 @@ Lev strinse i pugni.
 
 — Perché l'hai portato con te.
 
-Lev si immobilizzò.
-
-Ricordò la stanza.
-
-Le fotografie.
-
-Il ristorante.
-
-Il biglietto.
-
-La voce.
-
-Per tutto il tempo aveva cercato Edrian.
-
-E forse l'Hotel aveva imparato a rispondergli con il proprio desiderio.
+Lev si immobilizzò. Ricordò la stanza. Le fotografie. Il ristorante. Il biglietto. La voce. Per tutto il tempo aveva cercato Edrian. E forse l'Hotel aveva imparato a rispondergli con il proprio desiderio.
 
 — Come lo fermiamo?
 
@@ -1130,37 +886,7 @@ Pavel sorrise.
 
 — Finalmente hai detto la verità.
 
-Dal muro arrivò un colpo.
-
-Uno.
-
-Due.
-
-Tre.
-
-Mira si coprì la bocca con una mano.
-
-Quattro.
-
-Lev ricordò il numero 314.
-
-Cinque.
-
-La parete cominciò lentamente ad aprirsi.
-
-Non una porta.
-
-Un'intera sezione del muro.
-
-Dietro c'era una scala buia.
-
-Sul primo gradino c'era una chiave.
-
-Non 314.
-
-Un'altra.
-
-Sulla targhetta c'era scritto:
+Dal muro arrivò un colpo. Uno. Due. Tre. Mira si coprì la bocca con una mano. Quattro. Lev ricordò il numero 314. Cinque. La parete cominciò lentamente ad aprirsi. Non una porta. Un'intera sezione del muro. Dietro c'era una scala buia. Sul primo gradino c'era una chiave. Non 314. Un'altra. Sulla targhetta c'era scritto:
 
 **11.**
 
@@ -1192,9 +918,7 @@ Mira prese Lev per mano.
 
 — Dobbiamo andare.
 
-Ma l'Amministratore stava già guardando la scala.
-
-Sul suo volto era tornata la calma.
+Ma l'Amministratore stava già guardando la scala. Sul suo volto era tornata la calma.
 
 — No.
 
@@ -1202,19 +926,7 @@ Sul suo volto era tornata la calma.
 
 — Perché ora l'Hotel ha aperto il passaggio da solo.
 
-Lev guardò verso il basso.
-
-Dalla scala arrivò un odore.
-
-Asfalto bagnato.
-
-Fumo.
-
-E mele.
-
-L'odore di casa sua.
-
-Dall'oscurità arrivò una voce:
+Lev guardò verso il basso. Dalla scala arrivò un odore. Asfalto bagnato. Fumo. E mele. L'odore di casa sua. Dall'oscurità arrivò una voce:
 
 — Lev.
 
@@ -1222,10 +934,4 @@ Questa volta era la sua stessa voce.
 
 — Ho visto la tua morte.
 
-Lev fece un passo avanti.
-
-Mira lo trattenne, ma lui aveva già capito.
-
-Non era un avvertimento.
-
-Era un invito, dal quale ormai era impossibile voltarsi indietro.
+Lev fece un passo avanti. Mira lo trattenne, ma lui aveva già capito. Non era un avvertimento. Era un invito, dal quale ormai era impossibile voltarsi indietro.
