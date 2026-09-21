@@ -56,7 +56,7 @@ Lev si fermò.
 
 — No.
 
-La risposta arrivò calma.
+La risposta arrivò calma e tranquilla.
 
 — Allora come fa a conoscere il mio cognome?
 
@@ -74,7 +74,7 @@ Una pausa.
 
 Lev guardò il banco. Sopra c'era un grande libro dalla copertina di pelle scura. Accanto, una lampada d'ottone. La fiamma al suo interno non tremava, anche se fuori dalle finestre tirava vento.
 
-Lev fece qualche passo.
+Lev fece qualche passo avanti.
 
 Sotto le suole il tappeto restituì un suono morbido e, stranamente, quel rumore lo tranquillizzò.
 
@@ -224,7 +224,7 @@ Lev si chinò.
 
 L'uomo non rispose.
 
-Lev prese il silenzio come un permesso.
+Lev prese quel silenzio come un permesso.
 
 Sfogliò alcune pagine.
 
@@ -364,7 +364,7 @@ Piuttosto, con una certa tristezza.
 
 — Se potessi rispondere a questa domanda, signor Arden, lei non sarebbe venuto qui.
 
-Le dita di Lev si strinsero da sole, così forte che le unghie gli entrarono nei palmi.
+Le dita di Lev si strinsero da sole, tanto forte che le unghie gli penetrarono nei palmi.
 
 — Sono venuto proprio per lui.
 
@@ -390,7 +390,7 @@ Lev guardò la targhetta d'ottone.
 
 — Perché esiste.
 
-Lev si guardò intorno nell'atrio.
+Lev si guardò intorno nella hall.
 
 A prima vista era tutto normale.
 
@@ -480,7 +480,7 @@ L'uomo lo guardò dritto negli occhi.
 
 — Perché a volte l'Hotel vuole assicurarsi che un ospite se ne sia davvero andato.
 
-Il freddo gli salì dallo stomaco al petto, lentamente, come se qualcuno gli avesse passato un dito gelido lungo la colonna vertebrale.
+Il freddo gli salì lentamente dallo stomaco al petto, come se qualcuno gli avesse passato un dito gelido lungo la colonna vertebrale.
 
 — E cosa succede se mi volto?
 
@@ -580,7 +580,7 @@ Semplicemente scomparve.
 
 Lì rimase soltanto un corridoio vuoto.
 
-Lev si lanciò in avanti.
+Lev si precipitò in avanti.
 
 — Aspetta!
 
@@ -626,7 +626,7 @@ Poi di nuovo 22:24.
 
 Lev ripose lentamente il telefono.
 
-La mano era umida. La asciugò sui jeans, anche se non servì a nulla.
+La mano era umida. Se la asciugò sui jeans, anche se non servì a nulla.
 
 — Va bene.
 
