@@ -22,7 +22,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.13 Meaning fidelity: **0%**
 - B15.2.14 Canon control: **0%**
 - B15.2.15 Final literary pass: **0%**
-- B15.2.16 Italian paragraph normalization against Russian canon: **25% (8/32 chapters)**
+- B15.2.16 Italian paragraph normalization against Russian canon: **50% (16/32 chapters)**
 
 ## Chapter status
 
@@ -155,3 +155,5 @@ B15.2.16 is a dedicated corrective structural pass. It does not rewrite meaning 
 
 
 B15.2.16 checkpoint — chapters 02–08 complete: chapters were compared directly with their Russian counterparts and saved to GitHub. Commits: CH02 `34ee369d35c89655d7f33c5cf05b2f7e3ceccd4`; CH03 `34c4b3688b7e745032a2193e154b600ba4008994`; CH04 `beffc2a22346cdeab4559eb6608f184bc57631d4`; CH05 `d13c6e3c797d0ee5eaeff0000ff3803ddbc8f66b`; CH06 `dc9dfb39a50dc992535fe9aaafb551629906f11e`; CH07 `85fb390f837cbe9944d2daff51f9de35b289d659`; CH08 `1a684b70410c29f209d3413ad8eda53e436a86b`.
+
+B15.2.16 checkpoint — chapters 09–16 complete: Chapters 09–16 were compared directly with their Russian counterparts and normalized where structurally safe. Accidental one-sentence prose fragmentation was consolidated while dialogue, headings, bold/quote blocks, sound effects, and intentional isolated beats were preserved. All eight chapters reached the corresponding Russian paragraph counts. Commits: CH09 `8ffa9e1857d1f497c9af658d124ec3f5e36b2c37`; CH10 `3a5f65a3d091c5829566277e8d1c96177772551c`; CH11 `8a525b93298d2f384374fae12d637cfecf9c0c57`; CH12 `923247329979213c6fb974d1cad0b2ddaf1496c8`; CH13 `a7e21e22fb9f3b03f6f264a791729cbeff31623c`; CH14 `ae99c18e3cd09f81dc596428d072a5b1c9a8dbec`; CH15 `8e214aa6d95bfeb2a0d200b030a8b8b4d083d751`; CH16 `a43a4b75076ae95658020aef2c116cce3fa941a1`. Coverage: 16/32 chapters = 50%.
