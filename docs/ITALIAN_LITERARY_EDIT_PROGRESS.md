@@ -293,3 +293,9 @@ Final meaning-fidelity checkpoint completed for chapters 25–32 against the Rus
 Initial canon-control pass started against PROJECT_BIBLE, WORLD_BIBLE, MYTHOLOGY, CHARACTERS and LOGIC_CHECK. The canonical source set was loaded and representative Italian chapters were checked for continuity of the principal entities and concepts: Lev, Mira, Edrian, L'Amministratore, Custode, Hotel, meccanismo, chiave and family/choice terminology. The check confirms that the Italian localization uses the expected Italian forms (for example L'Amministratore, Custode, Hotel, meccanismo, chiave) and that the core narrative entities are present in the inspected chapter samples. This is a canon-presence checkpoint, not yet a complete 32-chapter canon audit.
 
 **B15.2.14 = 20% — initial canon-control pass complete.** Next: extend canon-control coverage across all 32 Italian chapters and reconcile any entity/role/timeline exceptions before closing the block.
+
+## B15.2.14 CANON CONTROL — CHECKPOINT 40%
+
+Second canon-control checkpoint completed. The canonical reference set is confirmed present and the Italian localization's principal-role vocabulary is aligned with the established canon in the reviewed evidence: Lev, Mira, Edrian, L'Amministratore, Custode, Hotel, meccanismo and chiave. The previously identified natural Italian rendering of the twenty-sixth floor (piano ventisei / ventiseiesimo piano) remains accepted as a localization form rather than a canon change. No textual rewrite is introduced without a confirmed canon conflict.
+
+**B15.2.14 = 40%.** Remaining work: full-corpus chronology, character-role continuity and rule/mechanism reconciliation.
