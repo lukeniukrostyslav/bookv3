@@ -242,7 +242,7 @@ Sul foglio c'era scritto:
 
 **NON LASCIARLO ARRIVARE ALL'ULTIMA STANZA.**
 
-L'irritazione esplose improvvisa, quasi dolorosa.
+L'irritazione esplose all'improvviso, quasi dolorosa.
 
 — Di nuovo mi lascia istruzioni.
 
@@ -358,7 +358,7 @@ Toccò la fotografia.
 
 — Una porta può condurre a qualcosa che l'Hotel non ha ancora creato.
 
-Un brivido gli percorse la schiena.
+Un brivido gli attraversò la schiena.
 
 — Edrian la cercava?
 
@@ -536,7 +536,7 @@ Guardò la porta.
 
 — Qui.
 
-Lev sentì crescere l'ansia.
+Lev sentì l'ansia crescere.
 
 — Perché?
 
