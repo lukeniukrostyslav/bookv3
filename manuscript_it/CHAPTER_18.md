@@ -40,7 +40,7 @@ Lev lo guardò.
 
 — Per ora.
 
-Quella parola Lev la odiava.
+Lev odiava quella parola.
 
 — E adesso?
 
@@ -666,7 +666,7 @@ L'Amministratore guardò Lev.
 
 Nella stanza calò il silenzio.
 
-Un peso gli si posò sotto le costole.
+Sentì un peso sotto le costole.
 
 — Io?
 
