@@ -22,7 +22,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.13 Meaning fidelity: **0%**
 - B15.2.14 Canon control: **0%**
 - B15.2.15 Final literary pass: **0%**
-- B15.2.16 Italian paragraph normalization against Russian canon: **3.125% (1/32 chapters)**
+- B15.2.16 Italian paragraph normalization against Russian canon: **25% (8/32 chapters)**
 
 ## Chapter status
 
@@ -149,6 +149,9 @@ B15.2.7 action-scene rhythm checkpoint: chapters 17–24 reviewed. Coverage is n
 
 B15.2.7 action-scene rhythm COMPLETE: chapters 25–32 reviewed. Coverage 32/32 chapters = 100%. Full pass checked action pacing, movement clarity, escalation, physical continuity, short/long sentence cadence, transitions, and climax rhythm. No forced rewrites introduced where existing Italian already carried the intended rhythm.
 
-B15.2.16 Italian paragraph normalization checkpoint: Chapter 01 reviewed against the Russian canonical paragraph structure. The Italian chapter was found to be excessively fragmented (314 prose paragraphs versus 94 Russian prose paragraphs). Paragraphs were consolidated to 94 prose paragraphs while preserving dialogue, bold/quote blocks, deliberate repeated sound beats (Tic./Toc.), and key isolated time/number beats. Accidental 2–4 word prose fragmentation was merged into normal literary paragraphs. Coverage: 1/32 chapters = 3.125%.
+B15.2.16 Italian paragraph normalization checkpoint: Chapters 01–08 reviewed against the Russian canonical paragraph structure. Chapter 01 was reduced from 314 to 94 prose paragraphs; Chapters 02, 04, 05, 06, 07 were normalized to the Russian paragraph counts; Chapter 08 was reduced from 730 to 531. Chapter 03 retains 393 versus 390 Russian paragraphs because the remaining three paragraph boundaries are protected by adjacent dialogue/intentional beat structure and were not merged mechanically. Accidental short prose fragmentation was consolidated where structurally safe. Coverage: 8/32 chapters = 25%.
 
 B15.2.16 is a dedicated corrective structural pass. It does not rewrite meaning or canon; it normalizes paragraph grouping so the Italian edition does not artificially expand in page count because of excessive paragraph breaks.
+
+
+B15.2.16 checkpoint — chapters 02–08 complete: chapters were compared directly with their Russian counterparts and saved to GitHub. Commits: CH02 `34ee369d35c89655d7f33c5cf05b2f7e3ceccd4`; CH03 `34c4b3688b7e745032a2193e154b600ba4008994`; CH04 `beffc2a22346cdeab4559eb6608f184bc57631d4`; CH05 `d13c6e3c797d0ee5eaeff0000ff3803ddbc8f66b`; CH06 `dc9dfb39a50dc992535fe9aaafb551629906f11e`; CH07 `85fb390f837cbe9944d2daff51f9de35b289d659`; CH08 `1a684b70410c29f209d3413ad8eda53e436a86b`.
