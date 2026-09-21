@@ -52,7 +52,7 @@ La terza.
 
 Poi l'orologio tornò a segnare le 03:17.
 
-Il freddo gli scivolò sotto il colletto e rimase lì come una traccia sottile e sgradevole.
+Il freddo gli scivolò sotto il colletto e vi rimase come una traccia sottile e sgradevole.
 
 — L'Hotel è uscito in città?
 
@@ -196,7 +196,7 @@ Suo fratello guardò il muro vuoto.
 
 — Adesso non aspetta.
 
-L'ansia salì lentamente dallo stomaco alla gola.
+L'ansia gli salì lentamente dallo stomaco alla gola.
 
 — Cosa succederà se comincerà a scegliere al posto delle persone?
 
@@ -278,7 +278,7 @@ Lev capì.
 
 Ancore.
 
-L'Hotel distribuiva alle persone i loro stessi ricordi.
+L'Hotel restituiva alle persone i loro stessi ricordi.
 
 E aspettava.
 
@@ -364,7 +364,7 @@ Dai negozi chiusi.
 
 Poi cambiò la luce.
 
-La normale luce del sole mattutino lasciò posto a un caldo bagliore dorato, come se sera e mattina avessero occupato contemporaneamente la stessa città.
+La normale luce del mattino lasciò il posto a un caldo bagliore dorato, come se sera e mattina occupassero contemporaneamente la stessa città.
 
 Lev vide un'insegna familiare.
 
@@ -384,9 +384,9 @@ Lev guardò più attentamente.
 
 In una finestra c'era la hall.
 
-In un'altra il ristorante.
+In un'altra, il ristorante.
 
-Nella terza un lungo corridoio.
+Nella terza, un lungo corridoio.
 
 Nella quarta la neve.
 
@@ -690,7 +690,7 @@ L'Amministratore guardò la scala.
 
 Lev salì sul primo gradino.
 
-Il corridoio alle sue spalle scomparve.
+Il corridoio alle sue spalle svanì.
 
 Sul ventiseiesimo gradino c'era una porta aperta.
 
@@ -1202,7 +1202,7 @@ Qualcuno rideva dietro il muro.
 
 Qualcuno litigava per un'auto parcheggiata.
 
-La vita continuava.
+La vita continuava, indifferente.
 
 Edrian lo guardò.
 
