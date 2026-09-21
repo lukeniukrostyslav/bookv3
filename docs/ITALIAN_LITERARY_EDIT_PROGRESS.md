@@ -353,3 +353,9 @@ Publication-stage work started after B15.2.15 reached 100%. Added `tools/build_e
 Publication metadata baseline has been defined without altering the manuscript: working title **L'Hotel dell'ultimo domani**, author **Rostyslav Lukeniuk**, language **it**, 32 chapters, no epilogue. The dedicated Italian EPUB build pipeline and publication documentation are present. Cover integration, runnable artifact generation, EPUBCheck and platform packaging remain open.
 
 **B15.3 = 50%.**
+
+## B15.3 ITALIAN EPUB PUBLICATION ASSEMBLY — CHECKPOINT 75%
+
+The Italian publication structure is now aligned with the existing Russian EPUB production approach: 32 Italian chapter sources, Italian language metadata, navigation, OPF structure and a dedicated deterministic build script are present. The remaining publication gates are execution of the build in a runnable environment, final cover integration and EPUBCheck, followed by platform-specific packaging.
+
+**B15.3 = 75%.**
