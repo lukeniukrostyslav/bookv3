@@ -38,7 +38,7 @@ Poi:
 
 — Quello che ha già aperto.
 
-Un brivido freddo attraversò le braccia di Lev. La parete davanti a lui era rivestita di legno scuro. Guardando attentamente, tra i pannelli si poteva vedere una sottile linea nera.
+Un brivido freddo gli attraversò le braccia. La parete davanti a lui era rivestita di legno scuro. Guardando attentamente, tra i pannelli si poteva vedere una sottile linea nera.
 
 — Qui c'è una porta — disse.
 
@@ -604,9 +604,7 @@ Si avvicinò alla parete e toccò la fotografia.
 
 — Ma a volte raccontarlo ha un prezzo.
 
-In quel momento i tubi sopra di loro tremarono.
-
-La luce sfarfallò.
+In quel momento i tubi sopra di loro tremarono. La luce sfarfallò.
 
 Pavel guardò in alto.
 
