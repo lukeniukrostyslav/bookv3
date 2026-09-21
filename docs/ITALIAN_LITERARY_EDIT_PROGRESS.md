@@ -11,7 +11,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.2 Paragraph structure: **100%**
 - B15.2.3 Sentence length / cadence: **100%**
 - B15.2.4 Natural literary Italian: **100%**
-- B15.2.5 Dialogue naturalness: **25%**
+- B15.2.5 Dialogue naturalness: **50%**
 - B15.2.6 Atmosphere / tension: **0%**
 - B15.2.7 Action-scene rhythm: **0%**
 - B15.2.8 Mystery-scene rhythm: **0%**
@@ -33,14 +33,14 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - Chapter 06 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
 - Chapter 07 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
 - Chapter 08 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 09 — rhythm/literary pass checkpointed.
-- Chapter 10 — rhythm/literary pass checkpointed.
-- Chapter 11 — rhythm/literary pass checkpointed.
-- Chapter 12 — rhythm/literary pass checkpointed.
-- Chapter 13 — rhythm/literary pass checkpointed.
-- Chapter 14 — rhythm/literary pass checkpointed.
-- Chapter 15 — rhythm/literary pass checkpointed.
-- Chapter 16 — rhythm/literary pass checkpointed.
+- Chapter 09 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 10 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 11 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 12 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 13 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 14 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 15 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 16 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
 - Chapter 17 — rhythm/literary pass checkpointed.
 - Chapter 18 — rhythm/literary pass checkpointed.
 - Chapter 19 — rhythm/literary pass checkpointed.
@@ -126,5 +126,7 @@ Chapter 32 checkpoint: `aa971133ebe81bf2b45fc066f9e82801e66654eb`.
 The chapter-based B15.2 pass is complete at 100% for all 32 chapters.
 
 Dedicated passes B15.2.5–B15.2.15 remain separate and are not included in the chapter-based 100%.
+
+B15.2.5 dialogue-naturalness coverage is now 16/32 chapters = 50%. Chapters 09–16 were checked in this checkpoint. Two clear naturalness fixes were committed in Chapters 11 and 12; other dialogue was retained where it is natural or intentionally terse for suspense.
 
 This is an editing checkpoint, not final Italian proofreading and not native-speaker QA.
