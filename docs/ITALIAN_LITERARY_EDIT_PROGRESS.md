@@ -225,3 +225,10 @@ B15.2.9 CHECKPOINT — Chapters 01–08 reviewed for emotional-scene rhythm.
 Reviewed emotional escalation and release, grief and longing, sibling bond, anger/fear interplay, hope versus doubt, emotional subtext in dialogue, sensory triggers connected to memory, and the balance between explicit emotion and restrained prose. The Italian already carries the intended emotional beats in these eight chapters; no forced rewrites were introduced merely to create visible changes. Intentional short emotional beats, pauses, and restrained reactions were preserved.
 
 Coverage: **8/32 chapters = 25%**.
+
+
+B15.2.9 CHECKPOINT — Chapters 09–16 reviewed for emotional-scene rhythm.
+
+Reviewed emotional escalation/release, grief and longing, sibling-bond subtext, anger/fear interplay, hope versus doubt, memory-triggered sensory emotion, emotional restraint versus explicit statement, and the emotional consequences of revelations. Chapters 09–16 already carry the intended emotional architecture; no forced rewrites were introduced merely to create visible changes. Key emotional beats were preserved, including Lev's confrontation with future possibilities, the memory/food sequence, Pavel's isolation, the revelation around Mira's past and Lev's possible death, Edrian's return and the sibling reconciliation, and Lev's decision to reject the Hotel's offered choices.
+
+Coverage: **16/32 chapters = 50%**.
