@@ -118,7 +118,7 @@ Sulla prima pagina era scritto:
 
 **ARDEN, LEV.**
 
-L'irritazione gli salì dentro con un calore secco e tagliente.
+L'irritazione gli salì dentro, con un calore secco e tagliente.
 
 — Hai tenuto un dossier per tutto questo tempo?
 
@@ -270,7 +270,7 @@ L'Amministratore si voltò.
 
 — Questo è il mio problema principale.
 
-Per la prima volta Lev sentì nella sua voce non sicurezza.
+Per la prima volta, Lev sentì nella sua voce non sicurezza.
 
 Stanchezza.
 
