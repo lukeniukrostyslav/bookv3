@@ -1,26 +1,10 @@
 # Capitolo 25. Quando l'Hotel si sveglia
 
-Lev capì che qualcosa non andava ancora prima di vedere la prima luce verde.
-
-La città sembrava normale.
+Lev capì che qualcosa non andava ancora prima di vedere la prima luce verde. La città sembrava normale.
 
 Troppo normale.
 
-Le automobili erano parcheggiate lungo il marciapiede.
-
-Nelle finestre delle case si muovevano delle persone.
-
-Da qualche parte abbaiava un cane.
-
-Da un caffè aperto arrivava odore di pane fresco e caffè.
-
-Passò un autobus, facendo sibilare i freni.
-
-Ma l'orologio alla fermata dell'autobus segnava le 03:17.
-
-Il telefono di Lev segnava le 07:42.
-
-L'orologio della vetrina di fronte — le 11:06.
+Le automobili erano parcheggiate lungo il marciapiede. Nelle finestre delle case si muovevano delle persone. Da qualche parte abbaiava un cane. Da un caffè aperto arrivava odore di pane fresco e caffè. Passò un autobus, facendo sibilare i freni. Ma l'orologio alla fermata dell'autobus segnava le 03:17. Il telefono di Lev segnava le 07:42. L'orologio della vetrina di fronte — le 11:06.
 
 Si fermò.
 
@@ -38,11 +22,7 @@ Mira alzò gli occhi.
 
 — Perché cominciano a guardare a loro volta.
 
-Lev avrebbe voluto sorridere, ma non ci riuscì.
-
-Sul quadrante dell'orologio della fermata la lancetta dei minuti tremò.
-
-E cominciò a muoversi all'indietro.
+Lev avrebbe voluto sorridere, ma non ci riuscì. Sul quadrante dell'orologio della fermata la lancetta dei minuti tremò. E cominciò a muoversi all'indietro.
 
 Una tacca.
 
@@ -50,9 +30,7 @@ La seconda.
 
 La terza.
 
-Poi l'orologio tornò a segnare le 03:17.
-
-Il freddo gli scivolò sotto il colletto e vi rimase come una traccia sottile e sgradevole.
+Poi l'orologio tornò a segnare le 03:17. Il freddo gli scivolò sotto il colletto e vi rimase come una traccia sottile e sgradevole.
 
 — L'Hotel è uscito in città?
 
@@ -72,11 +50,7 @@ Edrian la guardò.
 
 Continuarono a camminare.
 
-Dopo un isolato Lev notò la prima porta.
-
-Era in mezzo a un muro di mattoni dove, ancora ieri, a quanto pareva, c'era una parte cieca senza ingresso.
-
-La porta era quella di un hotel.
+Dopo un isolato Lev notò la prima porta. Era in mezzo a un muro di mattoni dove, ancora ieri, a quanto pareva, c'era una parte cieca senza ingresso. La porta era quella di un hotel.
 
 Legno scuro.
 
@@ -100,9 +74,7 @@ Lev li guardò.
 
 — Scherzavo.
 
-Mise una mano in tasca.
-
-La chiave di legno era calda.
+Mise una mano in tasca. La chiave di legno era calda.
 
 Troppo calda.
 
@@ -138,9 +110,7 @@ Mira impallidì.
 
 — Gli ospiti.
 
-La porta si aprì.
-
-Dietro c'era un corridoio normale.
+La porta si aprì. Dietro c'era un corridoio normale.
 
 Pareti bianche.
 
@@ -166,15 +136,11 @@ La donna sorrise.
 
 — Allora anche voi vi siete persi.
 
-Passò accanto a loro.
-
-Odorava di lana bagnata e scorza d'arancia.
+Passò accanto a loro. Odorava di lana bagnata e scorza d'arancia.
 
 Lev si voltò.
 
-Il corridoio non c'era più.
-
-Nel muro c'erano di nuovo i mattoni.
+Il corridoio non c'era più. Nel muro c'erano di nuovo i mattoni.
 
 — Avete visto? — chiese Mira.
 
@@ -206,19 +172,11 @@ Proprio allora, dall'altra parte della strada, una finestra andò in frantumi.
 
 Lev trasalì.
 
-La gente si voltò.
-
-Dal secondo piano volò fuori un libro.
-
-Colpì il marciapiede, si aprì e si fermò su una pagina con righe vuote.
-
-Mira fu la prima ad avvicinarsi.
+La gente si voltò. Dal secondo piano volò fuori un libro. Colpì il marciapiede, si aprì e si fermò su una pagina con righe vuote. Mira fu la prima ad avvicinarsi.
 
 — Non toccarlo.
 
-Lev si accovacciò accanto al libro.
-
-Sulla pagina comparvero lentamente delle parole.
+Lev si accovacciò accanto al libro. Sulla pagina comparvero lentamente delle parole.
 
 **LEV ARDEN.**
 
@@ -252,9 +210,7 @@ Mira alzò gli occhi verso le finestre.
 
 — Da dove l'Hotel comincia a svegliarsi.
 
-Dall'alto arrivò uno scricchiolio.
-
-Una finestra si aprì.
+Dall'alto arrivò uno scricchiolio. Una finestra si aprì.
 
 Poi una seconda.
 
@@ -268,11 +224,7 @@ Alcune sembravano assonnate.
 
 Altre spaventate.
 
-Un uomo teneva in mano una vecchia chiave.
-
-Una ragazza accanto a lui — una fotografia.
-
-Un bambino — una macchinina di legno.
+Un uomo teneva in mano una vecchia chiave. Una ragazza accanto a lui — una fotografia. Un bambino — una macchinina di legno.
 
 Lev capì.
 
@@ -294,17 +246,13 @@ Edrian lo guardò.
 
 — Allora non abbiamo il diritto di decidere.
 
-Lev ricordò il meccanismo.
-
-Non scegliere al posto di un altro.
+Lev ricordò il meccanismo. Non scegliere al posto di un altro.
 
 Annuì.
 
 — Allora cosa facciamo?
 
-Mira guardò gli orologi.
-
-Tutte le lancette della strada si mossero contemporaneamente verso la stessa ora.
+Mira guardò gli orologi. Tutte le lancette della strada si mossero contemporaneamente verso la stessa ora.
 
 12:00.
 
@@ -312,17 +260,7 @@ Il sole sopra la città diventò più pallido.
 
 Il vento scomparve.
 
-E da qualche parte molto lontano risuonò un campanello.
-
-Non quello di una chiesa.
-
-Non quello di un telefono.
-
-Quello di un hotel.
-
-Un unico lungo rintocco.
-
-Lev sentì la chiave di legno scaldarsi in tasca.
+E da qualche parte molto lontano risuonò un campanello. Non quello di una chiesa. Non quello di un telefono. Quello di un hotel. Un unico lungo rintocco. Lev sentì la chiave di legno scaldarsi in tasca.
 
 — Ci chiama.
 
@@ -330,11 +268,7 @@ Edrian lo guardò.
 
 — Dove?
 
-Lev alzò la testa.
-
-Sul tetto della casa vicina apparve un'insegna.
-
-Le lettere scure si accesero lentamente:
+Lev alzò la testa. Sul tetto della casa vicina apparve un'insegna. Le lettere scure si accesero lentamente:
 
 **L'HOTEL DELL'ULTIMO DOMANI.**
 
@@ -346,13 +280,7 @@ A ogni passo la città diventava leggermente diversa.
 
 Prima cambiò l'odore.
 
-Al posto della benzina e del caffè arrivò quello della pioggia sulla pietra.
-
-Poi cambiò il suono.
-
-Il rumore delle automobili si fece più basso.
-
-In compenso comparvero gli orologi.
+Al posto della benzina e del caffè arrivò quello della pioggia sulla pietra. Poi cambiò il suono. Il rumore delle automobili si fece più basso. In compenso comparvero gli orologi.
 
 Ticchettavano dalle finestre.
 
@@ -362,11 +290,7 @@ Dalle cabine telefoniche.
 
 Dai negozi chiusi.
 
-Poi cambiò la luce.
-
-La normale luce del mattino lasciò il posto a un caldo bagliore dorato, come se sera e mattina occupassero contemporaneamente la stessa città.
-
-Lev vide un'insegna familiare.
+Poi cambiò la luce. La normale luce del mattino lasciò il posto a un caldo bagliore dorato, come se sera e mattina occupassero contemporaneamente la stessa città. Lev vide un'insegna familiare.
 
 Poi un'altra.
 
@@ -382,19 +306,7 @@ Lev guardò più attentamente.
 
 — Si sta collegando.
 
-In una finestra c'era la hall.
-
-In un'altra, il ristorante.
-
-Nella terza, un lungo corridoio.
-
-Nella quarta la neve.
-
-Nella quinta il loro cortile.
-
-Tutti quei luoghi esistevano contemporaneamente.
-
-La città era diventata una porta.
+In una finestra c'era la hall. In un'altra, il ristorante. Nella terza, un lungo corridoio. Nella quarta la neve. Nella quinta il loro cortile. Tutti quei luoghi esistevano contemporaneamente. La città era diventata una porta.
 
 All'incrocio c'era l'Amministratore.
 
@@ -402,13 +314,7 @@ Lev si fermò.
 
 Era diverso.
 
-Senza il completo perfetto.
-
-Senza il sorriso tranquillo.
-
-In mano teneva il vecchio orologio.
-
-Le lancette si muovevano in direzioni diverse.
+Senza il completo perfetto. Senza il sorriso tranquillo. In mano teneva il vecchio orologio. Le lancette si muovevano in direzioni diverse.
 
 — Siete usciti — disse.
 
@@ -450,9 +356,7 @@ Un brivido passò lungo la schiena.
 
 — Ed è pericoloso?
 
-L'Amministratore guardò la città.
-
-Nuove porte apparivano sulle finestre.
+L'Amministratore guardò la città. Nuove porte apparivano sulle finestre.
 
 — Per l'Hotel no.
 
@@ -462,21 +366,7 @@ Tacque.
 
 — Molto.
 
-Sulla piazza apparvero improvvisamente tre porte.
-
-La prima conduceva all'infanzia di Lev.
-
-La seconda a una stanza d'ospedale.
-
-La terza a un corridoio sconosciuto.
-
-Dalla prima arrivava odore di gomma da masticare alla menta.
-
-Dalla seconda di medicine e aria secca.
-
-Dalla terza di mare.
-
-Edrian fece un passo verso la prima.
+Sulla piazza apparvero improvvisamente tre porte. La prima conduceva all'infanzia di Lev. La seconda a una stanza d'ospedale. La terza a un corridoio sconosciuto. Dalla prima arrivava odore di gomma da masticare alla menta. Dalla seconda di medicine e aria secca. Dalla terza di mare. Edrian fece un passo verso la prima.
 
 Lev lo fermò.
 
@@ -490,11 +380,7 @@ Il fratello si fermò.
 
 Poi annuì.
 
-La terza porta si aprì da sola.
-
-Dal buio uscì una bambina di circa dieci anni.
-
-Teneva in mano una fotografia.
+La terza porta si aprì da sola. Dal buio uscì una bambina di circa dieci anni. Teneva in mano una fotografia.
 
 — Potete aiutarmi?
 
@@ -514,9 +400,7 @@ Qualcosa si strinse dolorosamente sotto le costole.
 
 — È morta.
 
-Edrian chiuse gli occhi.
-
-La bambina li guardò.
+Edrian chiuse gli occhi. La bambina li guardò.
 
 — È vero?
 
@@ -532,11 +416,7 @@ La bambina annuì.
 
 Entrò nella porta.
 
-Lev avrebbe voluto fermarla.
-
-Ma non lo fece.
-
-La porta si chiuse.
+Lev avrebbe voluto fermarla. Ma non lo fece. La porta si chiuse.
 
 — È giusto? — chiese.
 
@@ -544,9 +424,7 @@ Mira lo guardò.
 
 — Non lo so.
 
-Dentro diventò pesante, come se insieme all'aria avesse respirato l'ansia di qualcun altro.
-
-Ma era un altro tipo di peso.
+Dentro diventò pesante, come se insieme all'aria avesse respirato l'ansia di qualcun altro. Ma era un altro tipo di peso.
 
 Non impotenza.
 
@@ -590,21 +468,11 @@ Lev sorrise.
 
 Entrarono.
 
-Dietro la porta c'era un corridoio.
-
-Ma non quello che conoscevano.
+Dietro la porta c'era un corridoio. Ma non quello che conoscevano.
 
 Era vivo.
 
-Le pareti si allargavano e si restringevano lentamente.
-
-I quadri cambiavano volto.
-
-Il pavimento diventava ora di pietra, ora di legno, ora coperto di moquette.
-
-Le lampade si accendevano davanti a loro e si spegnevano alle loro spalle.
-
-Da qualche parte arrivava odore di caffè.
+Le pareti si allargavano e si restringevano lentamente. I quadri cambiavano volto. Il pavimento diventava ora di pietra, ora di legno, ora coperto di moquette. Le lampade si accendevano davanti a loro e si spegnevano alle loro spalle. Da qualche parte arrivava odore di caffè.
 
 Poi di fumo.
 
@@ -620,15 +488,7 @@ Si fermò.
 
 — L'ho sentita.
 
-La risata si ripeté.
-
-Ma ora c'era qualcosa di sbagliato.
-
-Proveniva contemporaneamente da tutte le porte.
-
-Una porta si aprì.
-
-Dietro c'era il piccolo Lev.
+La risata si ripeté. Ma ora c'era qualcosa di sbagliato. Proveniva contemporaneamente da tutte le porte. Una porta si aprì. Dietro c'era il piccolo Lev.
 
 Aveva sette anni.
 
@@ -640,9 +500,7 @@ Lev non rispose.
 
 — Mi stavi cercando, vero?
 
-Lev sentì il cuore stringersi.
-
-Edrian gli posò una mano sulla spalla.
+Lev sentì il cuore stringersi. Edrian gli posò una mano sulla spalla.
 
 Lev la tolse.
 
@@ -664,17 +522,7 @@ Il corridoio tremò e davanti a loro apparve una scala.
 
 Ventisei gradini.
 
-Sul primo c'era una fotografia.
-
-Sul secondo una chiave.
-
-Sul terzo una moneta d'argento.
-
-Sul quarto un bottone verde.
-
-Sul quinto l'orologio dell'Amministratore.
-
-Sul sesto un foglio bianco.
+Sul primo c'era una fotografia. Sul secondo una chiave. Sul terzo una moneta d'argento. Sul quarto un bottone verde. Sul quinto l'orologio dell'Amministratore. Sul sesto un foglio bianco.
 
 Lev si fermò.
 
@@ -688,13 +536,7 @@ L'Amministratore guardò la scala.
 
 — Ciò che non è ancora successo.
 
-Lev salì sul primo gradino.
-
-Il corridoio alle sue spalle svanì.
-
-Sul ventiseiesimo gradino c'era una porta aperta.
-
-Dietro non c'era il meccanismo.
+Lev salì sul primo gradino. Il corridoio alle sue spalle svanì. Sul ventiseiesimo gradino c'era una porta aperta. Dietro non c'era il meccanismo.
 
 Non c'erano stanze.
 
@@ -716,13 +558,7 @@ L'Amministratore rispose:
 
 — Ha ricordato perché esiste.
 
-Nell'oscurità si accesero migliaia di piccole luci.
-
-Ognuna era una finestra.
-
-E in ogni finestra c'era una persona.
-
-Una persona che in quel momento stava prendendo una decisione.
+Nell'oscurità si accesero migliaia di piccole luci. Ognuna era una finestra. E in ogni finestra c'era una persona. Una persona che in quel momento stava prendendo una decisione.
 
 Lev capì.
 
@@ -730,13 +566,7 @@ L'Hotel non mostrava più il futuro.
 
 Osservava il presente.
 
-Ed era proprio per questo che era diventato più pericoloso.
-
-Dall'oscurità arrivò una voce.
-
-Non quella di Lev.
-
-Non quella di Edrian.
+Ed era proprio per questo che era diventato più pericoloso. Dall'oscurità arrivò una voce. Non quella di Lev. Non quella di Edrian.
 
 Non quella dell'Amministratore.
 
@@ -756,39 +586,21 @@ Fece un passo avanti.
 
 — È una sfida.
 
-E allora tutti gli orologi del Piano 26 ripresero a camminare.
-
-Ma ora ognuno andava nella propria direzione.
-
-Lev non capì subito cosa significasse.
-
-Gli orologi non mostravano semplicemente ore diverse.
+E allora tutti gli orologi del Piano 26 ripresero a camminare. Ma ora ognuno andava nella propria direzione. Lev non capì subito cosa significasse. Gli orologi non mostravano semplicemente ore diverse.
 
 Alcuni acceleravano.
 
 Altri rallentavano.
 
-Altri ancora ruotavano così velocemente che i numeri diventavano anelli di luce.
-
-Su alcuni le lancette andavano avanti.
+Altri ancora ruotavano così velocemente che i numeri diventavano anelli di luce. Su alcuni le lancette andavano avanti.
 
 Su altri indietro.
 
-Ma gli orologi peggiori erano quelli senza lancette.
-
-Vi si riflettevano dei volti.
+Ma gli orologi peggiori erano quelli senza lancette. Vi si riflettevano dei volti.
 
 Lev si avvicinò.
 
-Nel vetro vide se stesso da bambino.
-
-Poi se stesso quel giorno.
-
-Poi un uomo che ancora non conosceva.
-
-Il riflesso alzò una mano.
-
-Lev non si mosse.
+Nel vetro vide se stesso da bambino. Poi se stesso quel giorno. Poi un uomo che ancora non conosceva. Il riflesso alzò una mano. Lev non si mosse.
 
 — Non imitarlo — disse piano Mira.
 
@@ -796,23 +608,11 @@ Lev non si mosse.
 
 Il riflesso sorrise.
 
-Sul vetro comparve una sottile crepa.
-
-Dietro c'era la città.
-
-Non la città attuale, ma molte città contemporaneamente.
+Sul vetro comparve una sottile crepa. Dietro c'era la città. Non la città attuale, ma molte città contemporaneamente.
 
 In una pioveva.
 
-In un'altra brillavano i lampioni.
-
-Nella terza cadeva la neve.
-
-Nella quarta era estate.
-
-Nella quinta la strada era completamente vuota.
-
-E in tutte le città le persone facevano la stessa cosa.
+In un'altra brillavano i lampioni. Nella terza cadeva la neve. Nella quarta era estate. Nella quinta la strada era completamente vuota. E in tutte le città le persone facevano la stessa cosa.
 
 Sceglievano.
 
@@ -824,15 +624,7 @@ Qualcuno telefonava a una persona con cui non parlava da molto tempo.
 
 Qualcuno non telefonava.
 
-Qualcuno saliva su un treno.
-
-Qualcuno rimaneva sulla banchina.
-
-Qualcuno pronunciava un breve «sì».
-
-Qualcuno un altrettanto breve «no».
-
-Una strana pressione comparve sotto le costole.
+Qualcuno saliva su un treno. Qualcuno rimaneva sulla banchina. Qualcuno pronunciava un breve «sì». Qualcuno un altrettanto breve «no». Una strana pressione comparve sotto le costole.
 
 — L'Hotel osserva tutti?
 
@@ -852,15 +644,7 @@ Mira guardò le migliaia di finestre.
 
 — Ora è l'Hotel ad andare dalle persone.
 
-In quel momento una delle luci si avvicinò.
-
-Era la finestra di una piccola cucina.
-
-Sul tavolo c'era un piatto di zuppa.
-
-Una donna di circa quarant'anni teneva una lettera e non trovava il coraggio di aprirla.
-
-Accanto sedeva un bambino.
+In quel momento una delle luci si avvicinò. Era la finestra di una piccola cucina. Sul tavolo c'era un piatto di zuppa. Una donna di circa quarant'anni teneva una lettera e non trovava il coraggio di aprirla. Accanto sedeva un bambino.
 
 — Mamma?
 
@@ -878,11 +662,7 @@ Il bambino scrollò le spalle.
 
 — E se non la leggi?
 
-La donna rimase a lungo in silenzio.
-
-Poi aprì la lettera.
-
-La finestra si spense.
+La donna rimase a lungo in silenzio. Poi aprì la lettera. La finestra si spense.
 
 Lev trasalì.
 
@@ -894,15 +674,7 @@ Lev trasalì.
 
 — Perché una scelta non è obbligata a mostrarti il risultato.
 
-Lev la guardò attentamente.
-
-E improvvisamente capì perché era più importante di qualsiasi porta.
-
-Prima l'Hotel seduceva le persone con la conoscenza.
-
-Ora le lasciava senza quella conoscenza — e la persona doveva comunque fare un passo.
-
-Dall'oscurità arrivò una voce:
+Lev la guardò attentamente. E improvvisamente capì perché era più importante di qualsiasi porta. Prima l'Hotel seduceva le persone con la conoscenza. Ora le lasciava senza quella conoscenza — e la persona doveva comunque fare un passo. Dall'oscurità arrivò una voce:
 
 — Vi sembra che questa sia libertà.
 
@@ -938,9 +710,7 @@ Lev vide le sue dita stringere il vecchio orologio.
 
 La voce scomparve.
 
-Per alcuni secondi nessuno parlò.
-
-Poi Mira chiese piano:
+Per alcuni secondi nessuno parlò. Poi Mira chiese piano:
 
 — Lo ammetti davvero?
 
@@ -972,9 +742,7 @@ Edrian lo guardò negli occhi.
 
 — Sì.
 
-Un breve dolore lo colpì sotto le costole.
-
-Prima quella risposta lo avrebbe spaventato.
+Un breve dolore lo colpì sotto le costole. Prima quella risposta lo avrebbe spaventato.
 
 Ora annuì soltanto.
 
@@ -990,9 +758,7 @@ Edrian si immobilizzò.
 
 — Non voglio essere la ragione per cui rimani.
 
-Edrian abbassò la testa.
-
-Sul suo volto apparve per la prima volta una stanchezza che Lev prima non aveva notato.
+Edrian abbassò la testa. Sul suo volto apparve per la prima volta una stanchezza che Lev prima non aveva notato.
 
 — Avevo paura di questa conversazione.
 
@@ -1004,15 +770,11 @@ Sul suo volto apparve per la prima volta una stanchezza che Lev prima non aveva 
 
 Si guardarono.
 
-Entrambi capirono quanto fossero infantili quei due pensieri.
-
-Mira si voltò, come per lasciare loro spazio.
+Entrambi capirono quanto fossero infantili quei due pensieri. Mira si voltò, come per lasciare loro spazio.
 
 Lev lo notò.
 
-Lei faceva sempre così.
-
-Lasciava spazio là dove gli altri cercavano di occuparlo con se stessi.
+Lei faceva sempre così. Lasciava spazio là dove gli altri cercavano di occuparlo con se stessi.
 
 — E tu? — chiese Lev.
 
@@ -1034,17 +796,7 @@ Toccò la manica del cappotto verde.
 
 — Ma prima devo capire cosa resterà di me se smetterò di essere parte di questo luogo.
 
-Lev avrebbe voluto chiederle degli anni che non aveva vissuto, del perché l'Hotel l'avesse trattenuta lì.
-
-Ma non lo fece.
-
-Alcune risposte devono arrivare non perché sono state strappate con una domanda, ma perché una persona è pronta a pronunciarle da sola.
-
-Dal basso arrivò un forte rumore.
-
-Il corridoio sotto i loro piedi tremò.
-
-Migliaia di finestre si spensero contemporaneamente.
+Lev avrebbe voluto chiederle degli anni che non aveva vissuto, del perché l'Hotel l'avesse trattenuta lì. Ma non lo fece. Alcune risposte devono arrivare non perché sono state strappate con una domanda, ma perché una persona è pronta a pronunciarle da sola. Dal basso arrivò un forte rumore. Il corridoio sotto i loro piedi tremò. Migliaia di finestre si spensero contemporaneamente.
 
 Ne rimase una.
 
@@ -1052,27 +804,15 @@ Su di essa c'era l'Hotel.
 
 La stessa facciata.
 
-Ma davanti c'era una persona.
-
-Lev strinse gli occhi.
+Ma davanti c'era una persona. Lev strinse gli occhi.
 
 — Chi è?
 
-La persona alzò la testa.
-
-Lev vide il proprio volto.
+La persona alzò la testa. Lev vide il proprio volto.
 
 Più vecchio.
 
-Senza la cicatrice sul sopracciglio.
-
-Con un taglio di capelli diverso.
-
-Indossava un cappotto scuro.
-
-Stava davanti all'ingresso e teneva una chiave.
-
-Accanto a lui non c'era nessuno.
+Senza la cicatrice sul sopracciglio. Con un taglio di capelli diverso. Indossava un cappotto scuro. Stava davanti all'ingresso e teneva una chiave. Accanto a lui non c'era nessuno.
 
 — Sono io nel futuro? — chiese Lev.
 
@@ -1088,13 +828,7 @@ Lev sorrise.
 
 — Ci provo.
 
-Il Lev più vecchio entrò nell'Hotel.
-
-Lo schermo si spense.
-
-Nel buio apparve un nuovo suono.
-
-Il clic di una serratura.
+Il Lev più vecchio entrò nell'Hotel. Lo schermo si spense. Nel buio apparve un nuovo suono. Il clic di una serratura.
 
 Poi un secondo.
 
@@ -1154,11 +888,7 @@ Lev avrebbe voluto obiettare.
 
 Ma si fermò.
 
-Era una sua scelta.
-
-Non quella di Lev.
-
-E per la prima volta Lev riuscì a lasciarla alla persona che l'aveva fatta.
+Era una sua scelta. Non quella di Lev. E per la prima volta Lev riuscì a lasciarla alla persona che l'aveva fatta.
 
 — Va bene — disse.
 
@@ -1190,19 +920,7 @@ L'Amministratore guardò il piano buio.
 
 Lei uscì.
 
-La porta si chiuse.
-
-Lev si ritrovò nel cortile.
-
-Il sole era vero.
-
-Odorava di erba bagnata, pane e benzina.
-
-Qualcuno rideva dietro il muro.
-
-Qualcuno litigava per un'auto parcheggiata.
-
-La vita continuava, indifferente.
+La porta si chiuse. Lev si ritrovò nel cortile. Il sole era vero. Odorava di erba bagnata, pane e benzina. Qualcuno rideva dietro il muro. Qualcuno litigava per un'auto parcheggiata. La vita continuava, indifferente.
 
 Edrian lo guardò.
 
@@ -1210,9 +928,7 @@ Edrian lo guardò.
 
 Lev annuì.
 
-Ma prima che facessero il primo passo, il telefono di Lev squillò in tasca.
-
-Il numero era sconosciuto.
+Ma prima che facessero il primo passo, il telefono di Lev squillò in tasca. Il numero era sconosciuto.
 
 Lev rispose.
 
@@ -1234,28 +950,14 @@ Pausa.
 
 — Perché io ero già lì.
 
-La comunicazione si interruppe.
-
-Lev abbassò lentamente il telefono.
+La comunicazione si interruppe. Lev abbassò lentamente il telefono.
 
 Edrian lo guardava.
 
 — Chi ha chiamato?
 
-Lev alzò gli occhi.
-
-Sul tetto della casa di fronte c'era una persona con un cappotto scuro.
+Lev alzò gli occhi. Sul tetto della casa di fronte c'era una persona con un cappotto scuro.
 
 Alzò una mano.
 
-Nella mano aveva una chiave di legno.
-
-Esattamente uguale a quella di Lev.
-
-Poi la persona scomparve.
-
-Sul tetto rimase soltanto una luce verde.
-
-Lev capì che l'Hotel si era davvero svegliato.
-
-E ora il suo sogno non apparteneva più soltanto a lui.
+Nella mano aveva una chiave di legno. Esattamente uguale a quella di Lev. Poi la persona scomparve. Sul tetto rimase soltanto una luce verde. Lev capì che l'Hotel si era davvero svegliato. E ora il suo sogno non apparteneva più soltanto a lui.
