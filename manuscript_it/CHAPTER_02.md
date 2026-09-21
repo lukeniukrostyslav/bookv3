@@ -196,9 +196,7 @@ L'uomo guardò la chiave nella mano di Lev. Lev non si era nemmeno accorto di st
 
 — Perché il numero è già stato scelto.
 
-Lev guardò la targhetta d'ottone.
-
-314.
+Lev guardò la targhetta d'ottone. 314.
 
 — Dov'è questa stanza?
 
@@ -601,4 +599,5 @@ Fece un passo indietro.
 Mira guardò la porta 314.
 
 — Tutti.
+
 
