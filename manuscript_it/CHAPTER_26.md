@@ -1,18 +1,6 @@
 # Capitolo 26. L'ultimo piano
 
-La mattina cominciò con il silenzio.
-
-Non quel silenzio normale che arriva prima del risveglio definitivo della città.
-
-Quel silenzio era denso, quasi materiale.
-
-Stava tra le case, riempiva i cortili, si nascondeva sotto le automobili parcheggiate e restava sospeso sopra i tetti.
-
-Lev era in mezzo al cortile e guardava il punto in cui era appena scomparso l'uomo.
-
-Sul tetto non c'era più nulla.
-
-Solo una luce verde.
+La mattina cominciò con il silenzio. Non quel silenzio normale che arriva prima del risveglio definitivo della città. Quel silenzio era denso, quasi materiale. Stava tra le case, riempiva i cortili, si nascondeva sotto le automobili parcheggiate e restava sospeso sopra i tetti. Lev era in mezzo al cortile e guardava il punto in cui era appena scomparso l'uomo. Sul tetto non c'era più nulla. Solo una luce verde.
 
 Si spense.
 
@@ -36,13 +24,7 @@ Lev sentì un brivido corrergli lungo la schiena.
 
 — Appunto.
 
-Tirò fuori il telefono.
-
-Lo schermo segnava le 07:43.
-
-L'orologio sulla casa vicina — le 12:01.
-
-L'orologio al polso di Edrian — le 06:18.
+Tirò fuori il telefono. Lo schermo segnava le 07:43. L'orologio sulla casa vicina — le 12:01. L'orologio al polso di Edrian — le 06:18.
 
 — Quindi continua ancora — disse Mira.
 
@@ -56,9 +38,7 @@ Lev la guardò.
 
 — Forse.
 
-Ma nessuno aveva detto che sapesse svegliarsi una sola volta.
-
-Da qualche parte in città suonò una campana.
+Ma nessuno aveva detto che sapesse svegliarsi una sola volta. Da qualche parte in città suonò una campana.
 
 Un colpo.
 
@@ -66,9 +46,7 @@ Poi il secondo.
 
 Il terzo.
 
-Lev riconobbe quel ritmo.
-
-Così era cominciato il cammino verso il Piano 26.
+Lev riconobbe quel ritmo. Così era cominciato il cammino verso il Piano 26.
 
 — Dobbiamo tornare indietro.
 
@@ -88,17 +66,7 @@ Lev strinse la chiave di legno in tasca.
 
 Era calda.
 
-Ormai si era abituato a quella sensazione, ma ora la chiave sembrava diversa.
-
-Non era un oggetto.
-
-Era piuttosto parte di qualcosa che continuava a percepirlo.
-
-Il legno era asciutto e caldo, con una ruvidità appena percettibile sotto i polpastrelli. Emanava odore di vecchia vernice e pioggia, anche se era rimasto in tasca tutta la mattina.
-
-Lev la strinse più forte e all'improvviso capì che il calore non veniva dal palmo.
-
-Saliva dall'interno del metallo della serratura stessa, anche se lì non c'era nemmeno una serratura.
+Ormai si era abituato a quella sensazione, ma ora la chiave sembrava diversa. Non era un oggetto. Era piuttosto parte di qualcosa che continuava a percepirlo. Il legno era asciutto e caldo, con una ruvidità appena percettibile sotto i polpastrelli. Emanava odore di vecchia vernice e pioggia, anche se era rimasto in tasca tutta la mattina. Lev la strinse più forte e all'improvviso capì che il calore non veniva dal palmo. Saliva dall'interno del metallo della serratura stessa, anche se lì non c'era nemmeno una serratura.
 
 — Non mi sta chiamando — disse Lev.
 
@@ -116,37 +84,7 @@ Lev guardò la strada.
 
 Uscirono dal cortile.
 
-La città sembrava normale.
-
-Ed era proprio questo a essere più spaventoso.
-
-La normalità non sembrava calma.
-
-Sembrava una maschera tirata troppo bene.
-
-Lev notò che gli uccelli sui fili erano completamente immobili, come se qualcuno avesse fermato per un istante un fotogramma.
-
-Solo un uccello girò la testa — prima a destra, poi con lo stesso movimento tornò indietro, come se il tempo avesse cambiato idea.
-
-Il caffè stava aprendo.
-
-Un uomo con una giacca blu portava a spasso il cane.
-
-Una donna si affrettava verso l'autobus.
-
-Due studenti litigavano per un telefono.
-
-Ma guardando più attentamente comparivano piccoli dettagli.
-
-Nella vetrina della libreria c'era la fotografia di una porta che nel negozio non esisteva.
-
-Alla fermata c'era un orario con una linea «26».
-
-Al semaforo, al posto del rosso, del giallo e del verde, per tre secondi si accese il bianco.
-
-E nelle pozzanghere si rifletteva il cielo di un altro tempo.
-
-Lev camminava e sentiva gli odori della città.
+La città sembrava normale. Ed era proprio questo a essere più spaventoso. La normalità non sembrava calma. Sembrava una maschera tirata troppo bene. Lev notò che gli uccelli sui fili erano completamente immobili, come se qualcuno avesse fermato per un istante un fotogramma. Solo un uccello girò la testa — prima a destra, poi con lo stesso movimento tornò indietro, come se il tempo avesse cambiato idea. Il caffè stava aprendo. Un uomo con una giacca blu portava a spasso il cane. Una donna si affrettava verso l'autobus. Due studenti litigavano per un telefono. Ma guardando più attentamente comparivano piccoli dettagli. Nella vetrina della libreria c'era la fotografia di una porta che nel negozio non esisteva. Alla fermata c'era un orario con una linea «26». Al semaforo, al posto del rosso, del giallo e del verde, per tre secondi si accese il bianco. E nelle pozzanghere si rifletteva il cielo di un altro tempo. Lev camminava e sentiva gli odori della città.
 
 Caffè.
 
@@ -182,27 +120,11 @@ Edrian aggrottò la fronte.
 
 — Lo so.
 
-La porta si aprì da sola.
-
-Dentro era buio e l'aria era più fredda di quella della strada.
-
-Odorava di cartone, polvere e inchiostro secco, e sotto tutto questo c'era un debole odore di pioggia sulla pietra.
-
-Non c'era il libraio.
-
-Solo lunghe file di libri.
-
-I dorsi erano allineati male, come se qualcuno li avesse rimessi in fretta al loro posto.
-
-Su alcuni non c'era alcun titolo.
-
-Su altri Lev vide delle date — quella di oggi, quella di domani e alcune che non avrebbero ancora dovuto esistere.
+La porta si aprì da sola. Dentro era buio e l'aria era più fredda di quella della strada. Odorava di cartone, polvere e inchiostro secco, e sotto tutto questo c'era un debole odore di pioggia sulla pietra. Non c'era il libraio. Solo lunghe file di libri. I dorsi erano allineati male, come se qualcuno li avesse rimessi in fretta al loro posto. Su alcuni non c'era alcun titolo. Su altri Lev vide delle date — quella di oggi, quella di domani e alcune che non avrebbero ancora dovuto esistere.
 
 Lev entrò.
 
-Il campanello sopra la porta non suonò affatto.
-
-Sul bancone c'era un biglietto.
+Il campanello sopra la porta non suonò affatto. Sul bancone c'era un biglietto.
 
 Lev lo prese.
 
@@ -216,9 +138,7 @@ Edrian glielo strappò di mano.
 
 — No.
 
-Il biglietto diventò vuoto.
-
-Poi comparvero nuove parole:
+Il biglietto diventò vuoto. Poi comparvero nuove parole:
 
 PASSEGGERO: EDRIAN ARDEN
 
@@ -230,25 +150,15 @@ Lev riprese il biglietto.
 
 Strappò la carta.
 
-I pezzi caddero sul pavimento.
-
-Da ognuno si sollevò del fumo.
+I pezzi caddero sul pavimento. Da ognuno si sollevò del fumo.
 
 Odorava di ferro.
 
-E il biglietto tornò intero.
-
-Ma ora c'era scritto:
+E il biglietto tornò intero. Ma ora c'era scritto:
 
 PASSEGGERO: TUTTI
 
-Il pavimento del negozio tremò.
-
-Gli scaffali cominciarono lentamente ad allontanarsi.
-
-Dietro di essi apparve un corridoio.
-
-Buio, lungo, con lampade verdi.
+Il pavimento del negozio tremò. Gli scaffali cominciarono lentamente ad allontanarsi. Dietro di essi apparve un corridoio. Buio, lungo, con lampade verdi.
 
 — Odio questo Hotel — disse Edrian.
 
@@ -260,11 +170,7 @@ Lev lo guardò attentamente.
 
 Entrarono.
 
-Il corridoio odorava di polvere, carta umida e qualcosa di dolce.
-
-Come se nella stanza accanto qualcuno avesse lasciato della marmellata aperta.
-
-Alle pareti c'erano delle porte.
+Il corridoio odorava di polvere, carta umida e qualcosa di dolce. Come se nella stanza accanto qualcuno avesse lasciato della marmellata aperta. Alle pareti c'erano delle porte.
 
 Senza numeri.
 
@@ -272,13 +178,7 @@ Da una arrivavano risate.
 
 Da un'altra pianto.
 
-Dalla terza il rumore della pioggia.
-
-Lev non le aprì.
-
-Conosceva già il prezzo della curiosità.
-
-In fondo al corridoio c'era un vecchio ascensore con una grata di ottone.
+Dalla terza il rumore della pioggia. Lev non le aprì. Conosceva già il prezzo della curiosità. In fondo al corridoio c'era un vecchio ascensore con una grata di ottone.
 
 Nessun pulsante.
 
@@ -312,21 +212,13 @@ Le porte si chiusero.
 
 L'ascensore sembrò stringersi.
 
-Odorava di metallo e polvere.
-
-Lev posò il palmo sulla parete.
+Odorava di metallo e polvere. Lev posò il palmo sulla parete.
 
 L'ascensore tremò.
 
 — Dove? — chiese Edrian.
 
-Lev chiuse gli occhi.
-
-Prima l'ascensore reagiva al pensiero.
-
-Pensò al Piano 26.
-
-L'ascensore non si mosse.
+Lev chiuse gli occhi. Prima l'ascensore reagiva al pensiero. Pensò al Piano 26. L'ascensore non si mosse.
 
 Pensò alla casa.
 
@@ -352,15 +244,7 @@ L'ascensore scese.
 
 L'ascensore si fermò.
 
-Le porte si aprirono.
-
-Dietro c'era un corridoio.
-
-Solo che le pareti erano trasparenti.
-
-Dietro il vetro si muovevano migliaia di città.
-
-Lev vide la sua città.
+Le porte si aprirono. Dietro c'era un corridoio. Solo che le pareti erano trasparenti. Dietro il vetro si muovevano migliaia di città. Lev vide la sua città.
 
 Un'altra città.
 
@@ -368,9 +252,7 @@ Una città che non era mai esistita.
 
 Una città sott'acqua.
 
-Una città nella neve.
-
-Una città in cui tutte le finestre erano verdi.
+Una città nella neve. Una città in cui tutte le finestre erano verdi.
 
 — Questo non è un piano — disse Lev.
 
@@ -402,39 +284,17 @@ Poi di nuovo 26.
 
 Camminarono.
 
-Dietro il vetro comparivano scene.
-
-In una città Lev era adulto.
-
-In un'altra Edrian era un bambino.
-
-Nella terza Mira sedeva sola in un caffè.
-
-Nella quarta l'Amministratore era vecchio.
-
-Nella quinta nessuno conosceva la parola «Hotel».
-
-Nella sesta l'Hotel occupava tutta la città.
-
-Lev non voleva guardare.
-
-Ogni finestra era una trappola per quella parte della coscienza che ancora sperava di trovare la versione giusta del passato.
-
-Ma una scena lo costrinse a fermarsi.
+Dietro il vetro comparivano scene. In una città Lev era adulto. In un'altra Edrian era un bambino. Nella terza Mira sedeva sola in un caffè. Nella quarta l'Amministratore era vecchio. Nella quinta nessuno conosceva la parola «Hotel». Nella sesta l'Hotel occupava tutta la città. Lev non voleva guardare. Ogni finestra era una trappola per quella parte della coscienza che ancora sperava di trovare la versione giusta del passato. Ma una scena lo costrinse a fermarsi.
 
 La casa.
 
 La sua casa.
 
-In cucina sedeva sua madre.
-
-Lev non la vedeva da molti anni.
+In cucina sedeva sua madre. Lev non la vedeva da molti anni.
 
 Teneva una tazza.
 
-Davanti a lei c'era un telefono.
-
-La porta si aprì.
+Davanti a lei c'era un telefono. La porta si aprì.
 
 Entrò Edrian.
 
@@ -444,9 +304,7 @@ Era un altro.
 
 Sorrise.
 
-La madre scoppiò a piangere.
-
-E dentro Lev qualcosa si spezzò.
+La madre scoppiò a piangere. E dentro Lev qualcosa si spezzò.
 
 — È possibile?
 
@@ -492,11 +350,7 @@ Lev toccò la porta.
 
 Si aprì.
 
-Dietro non c'era un pavimento.
-
-Erano sul bordo di uno spazio enorme.
-
-Sotto i loro piedi galleggiavano pezzi di stanze.
+Dietro non c'era un pavimento. Erano sul bordo di uno spazio enorme. Sotto i loro piedi galleggiavano pezzi di stanze.
 
 Una cucina.
 
@@ -516,25 +370,15 @@ La città.
 
 La casa.
 
-Tutte si muovevano lentamente, come isole in un mare nero.
-
-Al centro era sospeso il meccanismo.
-
-Ma ora era diverso.
-
-Senza pareti di vetro.
+Tutte si muovevano lentamente, come isole in un mare nero. Al centro era sospeso il meccanismo. Ma ora era diverso. Senza pareti di vetro.
 
 Senza lancette.
 
-Sembrava un enorme cuore.
-
-Il metallo si contraeva.
+Sembrava un enorme cuore. Il metallo si contraeva.
 
 Si rilassava.
 
-All'interno passava la luce.
-
-Ogni battito risuonava in tutto lo spazio.
+All'interno passava la luce. Ogni battito risuonava in tutto lo spazio.
 
 Toc.
 
@@ -560,9 +404,7 @@ Edrian lo guardò.
 
 — No.
 
-Lev fece un passo.
-
-Sotto i suoi piedi apparve una scala.
+Lev fece un passo. Sotto i suoi piedi apparve una scala.
 
 Un gradino.
 
@@ -600,19 +442,13 @@ Quasi sussurrate.
 
 — Non scegliere.
 
-Lev chiuse gli occhi.
-
-Tutte le parole si mescolarono.
-
-Sentì odore di casa.
+Lev chiuse gli occhi. Tutte le parole si mescolarono. Sentì odore di casa.
 
 Legno vecchio.
 
 Polvere di scuola.
 
-Gomma da masticare alla menta.
-
-La crema per le mani di sua madre.
+Gomma da masticare alla menta. La crema per le mani di sua madre.
 
 Poi l'odore dell'ospedale.
 
@@ -638,11 +474,7 @@ Lev rispose:
 
 — Da ciò che so.
 
-Salì un altro gradino.
-
-Il meccanismo si fermò.
-
-Al centro dello spazio apparve una figura.
+Salì un altro gradino. Il meccanismo si fermò. Al centro dello spazio apparve una figura.
 
 Non un vecchio.
 
@@ -674,11 +506,7 @@ L'uomo guardò il meccanismo.
 
 — Per vedere la macchina del domani.
 
-Dentro il meccanismo esplose una luce bianca.
-
-Su tutte le isole apparvero contemporaneamente delle porte.
-
-Poi cominciarono ad aprirsi.
+Dentro il meccanismo esplose una luce bianca. Su tutte le isole apparvero contemporaneamente delle porte. Poi cominciarono ad aprirsi.
 
 Una dopo l'altra.
 
@@ -720,29 +548,17 @@ Questa volta il suono sembrava quello di un cuore umano.
 
 Toc.
 
-E tutto l'Ultimo piano sprofondò nell'oscurità.
-
-L'oscurità non era vuoto.
-
-Qualcosa respirava dentro di essa.
-
-Lev sentiva il proprio respiro, quello di Edrian e centinaia di altri respiri sconosciuti.
-
-Da qualche parte lontano cigolò una porta.
+E tutto l'Ultimo piano sprofondò nell'oscurità. L'oscurità non era vuoto. Qualcosa respirava dentro di essa. Lev sentiva il proprio respiro, quello di Edrian e centinaia di altri respiri sconosciuti. Da qualche parte lontano cigolò una porta.
 
 Poi un'altra.
 
 Poi una terza.
 
-Gli odori arrivavano a ondate:
-
-pietra bagnata, polvere, vecchie pagine, fumo, sale marino, pane caldo e il debole odore metallico di un temporale.
+Gli odori arrivavano a ondate: pietra bagnata, polvere, vecchie pagine, fumo, sale marino, pane caldo e il debole odore metallico di un temporale.
 
 — Non muoverti — sussurrò Edrian.
 
-Lev non si mosse.
-
-Nel buio apparve un punto di luce.
+Lev non si mosse. Nel buio apparve un punto di luce.
 
 Poi un secondo.
 
@@ -752,17 +568,7 @@ Lo circondarono.
 
 Erano finestre.
 
-In ognuna c'era un momento diverso.
-
-Lev vide un bambino seduto sul bordo del letto che aspettava suo fratello.
-
-Vide Edrian alla stazione.
-
-Mira vicino al fiume.
-
-L'Amministratore davanti a una porta chiusa.
-
-Se stesso in una stanza vuota.
+In ognuna c'era un momento diverso. Lev vide un bambino seduto sul bordo del letto che aspettava suo fratello. Vide Edrian alla stazione. Mira vicino al fiume. L'Amministratore davanti a una porta chiusa. Se stesso in una stanza vuota.
 
 Se stesso vecchio.
 
@@ -770,15 +576,11 @@ Se stesso morto.
 
 Se stesso felice.
 
-E un altro Lev che non aveva mai visto.
-
-Quel Lev sedeva in cucina e guardava fuori dalla finestra.
+E un altro Lev che non aveva mai visto. Quel Lev sedeva in cucina e guardava fuori dalla finestra.
 
 Sorrideva.
 
-Non perché andasse tutto bene.
-
-Perché non cercava più di aggiustare nulla.
+Non perché andasse tutto bene. Perché non cercava più di aggiustare nulla.
 
 L'immagine si spense.
 
@@ -814,25 +616,11 @@ Poi del tutto normale.
 
 — No.
 
-La figura indicò verso il basso.
-
-Lev guardò sotto i piedi.
-
-Le isole erano scomparse.
-
-Sotto di loro si apriva un pozzo infinito.
-
-Dentro galleggiavano migliaia di porte.
+La figura indicò verso il basso. Lev guardò sotto i piedi. Le isole erano scomparse. Sotto di loro si apriva un pozzo infinito. Dentro galleggiavano migliaia di porte.
 
 Alcune erano chiuse.
 
-Altre si aprivano e si chiudevano da sole.
-
-Su una Lev vide il numero 314.
-
-Su un'altra l'ingresso della loro casa.
-
-Sulla terza c'era una sola parola:
+Altre si aprivano e si chiudevano da sole. Su una Lev vide il numero 314. Su un'altra l'ingresso della loro casa. Sulla terza c'era una sola parola:
 
 DOMANI.
 
@@ -858,19 +646,11 @@ Toc.
 
 Le isole tornarono.
 
-Ma ora una era vicinissima.
-
-Su di essa c'era un tavolo.
-
-Sul tavolo un libro.
-
-Lo stesso libro delle decisioni.
+Ma ora una era vicinissima. Su di essa c'era un tavolo. Sul tavolo un libro. Lo stesso libro delle decisioni.
 
 Lev si avvicinò.
 
-Sulla prima pagina c'era il suo nome.
-
-Sotto apparve una nuova riga:
+Sulla prima pagina c'era il suo nome. Sotto apparve una nuova riga:
 
 **RITORNO: POSSIBILE.**
 
@@ -930,17 +710,7 @@ Lev guardò il meccanismo.
 
 Capì.
 
-L'Hotel aveva sempre dato loro delle possibilità.
-
-Ma la possibilità più importante era la terza.
-
-Non scegliere tra ciò che era stato proposto.
-
-Cambiare la domanda stessa.
-
-All'improvviso il meccanismo cominciò a ruotare.
-
-La luce passò lungo le sue nervature metalliche.
+L'Hotel aveva sempre dato loro delle possibilità. Ma la possibilità più importante era la terza. Non scegliere tra ciò che era stato proposto. Cambiare la domanda stessa. All'improvviso il meccanismo cominciò a ruotare. La luce passò lungo le sue nervature metalliche.
 
 Ogni isola tremò.
 
@@ -948,9 +718,7 @@ Dal basso salì il vento.
 
 Era freddo.
 
-Odorava di pioggia e di qualcosa di dimenticato.
-
-Lev sentì la voce di sua madre.
+Odorava di pioggia e di qualcosa di dimenticato. Lev sentì la voce di sua madre.
 
 — Lev.
 
@@ -962,11 +730,7 @@ Ma la voce ripeté:
 
 — Lev, ti aspettavo.
 
-Il petto gli fece male.
-
-Lev chiuse gli occhi.
-
-Poteva immaginare il suo volto.
+Il petto gli fece male. Lev chiuse gli occhi. Poteva immaginare il suo volto.
 
 Quasi.
 
@@ -974,9 +738,7 @@ Ma più si sforzava, più quel volto si allontanava.
 
 Capì:
 
-l'Hotel non gli stava mostrando sua madre.
-
-Gli stava mostrando la sua nostalgia per lei.
+l'Hotel non gli stava mostrando sua madre. Gli stava mostrando la sua nostalgia per lei.
 
 — Lo so — disse Lev al buio.
 
@@ -1012,9 +774,7 @@ Lev guardò intorno.
 
 — Nell'uomo che sa di poter scegliere e tuttavia non sa cosa scegliere.
 
-Il meccanismo si fermò.
-
-Sulla sua superficie apparve una scritta:
+Il meccanismo si fermò. Sulla sua superficie apparve una scritta:
 
 **MACCHINA DEL DOMANI.**
 
@@ -1034,29 +794,17 @@ Per la prima volta la figura sorrise.
 
 — Ora possiamo continuare.
 
-Una porta si aprì.
-
-Dietro non c'era il corridoio successivo.
+Una porta si aprì. Dietro non c'era il corridoio successivo.
 
 C'era l'alba.
 
-La stessa che Lev aveva visto al mattino.
-
-Ma ora notò un dettaglio.
-
-All'orizzonte brillava una luce verde.
-
-E accanto c'era un uomo.
-
-Con una chiave di legno.
+La stessa che Lev aveva visto al mattino. Ma ora notò un dettaglio. All'orizzonte brillava una luce verde. E accanto c'era un uomo. Con una chiave di legno.
 
 Lev si avvicinò.
 
 L'uomo si voltò.
 
-Era il Lev più vecchio.
-
-Ma ora sembrava stanco.
+Era il Lev più vecchio. Ma ora sembrava stanco.
 
 — Sono stato io a chiamarti — disse.
 
@@ -1108,9 +856,7 @@ Il Lev più vecchio si fece da parte.
 
 — Lo saprai quando smetterai di avere paura di saperlo.
 
-La porta si aprì.
-
-Da dietro arrivò odore di pioggia, metallo caldo e pane fresco.
+La porta si aprì. Da dietro arrivò odore di pioggia, metallo caldo e pane fresco.
 
 Lev guardò Edrian.
 
@@ -1118,19 +864,7 @@ Il fratello annuì.
 
 — Insieme.
 
-Fecero un passo avanti.
-
-Alle loro spalle l'Ultimo piano continuava a ruotare, come un enorme cuore che finalmente aveva ricordato il proprio nome.
-
-E da qualche parte lontano, oltre tutti i futuri possibili, qualcuno girò una chiave nella serratura.
-
-Lev non si voltò.
-
-Aveva paura che, guardando indietro, avrebbe visto di nuovo tutte le porte e avrebbe cominciato a contarle.
-
-E contare significava trasformare di nuovo il vivente in un problema:
-
-questa porta da aprire,
+Fecero un passo avanti. Alle loro spalle l'Ultimo piano continuava a ruotare, come un enorme cuore che finalmente aveva ricordato il proprio nome. E da qualche parte lontano, oltre tutti i futuri possibili, qualcuno girò una chiave nella serratura. Lev non si voltò. Aveva paura che, guardando indietro, avrebbe visto di nuovo tutte le porte e avrebbe cominciato a contarle. E contare significava trasformare di nuovo il vivente in un problema: questa porta da aprire,
 
 questa da chiudere,
 
@@ -1138,27 +872,11 @@ qui salvare,
 
 là perdere.
 
-Non voleva più essere l'uomo che cerca di calcolare la vita fino all'ultima cifra.
-
-Camminavano su un ponte sottile di luce.
-
-Sotto di loro scorrevano ricordi altrui.
-
-Lev vedeva mani che non aveva mai tenuto.
-
-Sentiva voci di persone che non aveva mai incontrato.
-
-Sentiva odori di cucine sconosciute, strade bagnate e vecchie case.
+Non voleva più essere l'uomo che cerca di calcolare la vita fino all'ultima cifra. Camminavano su un ponte sottile di luce. Sotto di loro scorrevano ricordi altrui. Lev vedeva mani che non aveva mai tenuto. Sentiva voci di persone che non aveva mai incontrato. Sentiva odori di cucine sconosciute, strade bagnate e vecchie case.
 
 E all'improvviso capì:
 
-ogni persona ha il proprio Ultimo piano.
-
-Il luogo in cui il passato smette di essere una spiegazione e il futuro smette di essere una promessa.
-
-Il luogo in cui rimane soltanto il passo successivo.
-
-Edrian camminava accanto a lui.
+ogni persona ha il proprio Ultimo piano. Il luogo in cui il passato smette di essere una spiegazione e il futuro smette di essere una promessa. Il luogo in cui rimane soltanto il passo successivo. Edrian camminava accanto a lui.
 
 — Hai paura? — chiese.
 
@@ -1174,9 +892,7 @@ Lev sorrise.
 
 — Significa che almeno siamo sinceri.
 
-Davanti a loro si accese una luce verde.
-
-Si avvicinarono alla porta.
+Davanti a loro si accese una luce verde. Si avvicinarono alla porta.
 
 Non aveva numero.
 
@@ -1184,9 +900,7 @@ Solo una parola:
 
 **DOMANI.**
 
-Lev posò la mano sulla maniglia.
-
-E prima di aprire sentì alle sue spalle la voce del Lev più vecchio:
+Lev posò la mano sulla maniglia. E prima di aprire sentì alle sue spalle la voce del Lev più vecchio:
 
 — Ricorda: il prezzo non comincia quando paghi.
 
@@ -1198,11 +912,7 @@ La risposta arrivò dal buio:
 
 — Quando decidi di essere pronto.
 
-Lev aprì la porta.
-
-E vide una macchina che non esisteva ancora.
-
-Dietro la porta non c'era né luce né oscurità.
+Lev aprì la porta. E vide una macchina che non esisteva ancora. Dietro la porta non c'era né luce né oscurità.
 
 C'era movimento.
 
@@ -1212,9 +922,7 @@ Enorme.
 
 Quasi umano.
 
-Lev sentì un fruscio metallico e l'odore del ferro caldo.
-
-Edrian si fermò accanto a lui.
+Lev sentì un fruscio metallico e l'odore del ferro caldo. Edrian si fermò accanto a lui.
 
 — È questa la macchina del domani?
 
@@ -1222,25 +930,13 @@ Lev guardò avanti.
 
 — Penso che ci stesse aspettando.
 
-Dalle profondità dello spazio arrivò un clic.
-
-Un meccanismo entrò in movimento.
+Dalle profondità dello spazio arrivò un clic. Un meccanismo entrò in movimento.
 
 Poi un altro.
 
 Poi migliaia.
 
-E l'Ultimo piano, per la prima volta, parlò non con una voce, ma con il suono di una macchina in funzione.
-
-Lev fece un altro passo e la porta dietro di loro si chiuse.
-
-Dietro la porta qualcosa aspettava.
-
-E conosceva già il suo nome.
-
-Lev lo capì non da una voce e non da un segno.
-
-Semplicemente, nel momento in cui la porta si chiuse, da qualche parte davanti a lui si sentì un movimento appena percettibile — come se qualcuno si fosse alzato da una poltrona e avesse fatto il primo passo verso di lui.
+E l'Ultimo piano, per la prima volta, parlò non con una voce, ma con il suono di una macchina in funzione. Lev fece un altro passo e la porta dietro di loro si chiuse. Dietro la porta qualcosa aspettava. E conosceva già il suo nome. Lev lo capì non da una voce e non da un segno. Semplicemente, nel momento in cui la porta si chiuse, da qualche parte davanti a lui si sentì un movimento appena percettibile — come se qualcuno si fosse alzato da una poltrona e avesse fatto il primo passo verso di lui.
 
 Non arretrò.
 
