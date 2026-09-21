@@ -664,7 +664,7 @@ E in quel momento il futuro impossibile divenne per la prima volta reale — non
 
 Il meccanismo si fermò.
 
-Poi tutte e tre le luci si spensero.
+Poi, tutte e tre le luci si spensero.
 
 Rimase una sola porta.
 
@@ -676,7 +676,7 @@ Lev posò la mano sulla maniglia.
 
 Dall'altra parte qualcosa di enorme inspirò.
 
-E tutto il piano ventisei gli rispose con un'eco.
+E tutto il ventiseiesimo piano gli rispose con un'eco.
 
 La porta non si aprì.
 
@@ -738,7 +738,7 @@ Solo che era enorme.
 
 Il soffitto scompariva da qualche parte nell'oscurità.
 
-Le scale si incrociavano sopra le loro teste, si allontanavano ai lati e tornavano indietro.
+Le scale si incrociavano sopra le loro teste, si diramavano ai lati e poi tornavano indietro.
 
 Alle pareti erano appesi degli orologi, ma al posto dei numeri sui quadranti c'erano dei nomi.
 
@@ -880,7 +880,7 @@ Ora sembravano più tranquilli.
 
 Ognuno posò il proprio oggetto sul banco.
 
-Il libro si apriva da solo e su ogni pagina compariva una registrazione.
+Il libro si apriva da solo e su ogni pagina compariva una nuova registrazione.
 
 **HO SCELTO.**
 
@@ -902,7 +902,7 @@ Raccoglieva decisioni umane.
 
 E per tutto quel tempo l'Amministratore aveva cercato di rendere prevedibili le decisioni umane.
 
-Il meccanismo del piano ventisei non creava il destino.
+Il meccanismo del ventiseiesimo piano non creava il destino.
 
 Mostrava soltanto quanto fosse impossibile mantenerlo in un'unica forma.
 
@@ -1152,7 +1152,7 @@ Lev toccò la chiave.
 
 Era calda.
 
-E per la prima volta durante tutta quella notte — completamente normale.
+E per la prima volta, durante tutta quella notte, era completamente normale.
 
 — Andiamo — disse.
 
@@ -1166,7 +1166,7 @@ Lev si fermò.
 
 All'improvviso gli fu chiaro cosa era cambiato.
 
-Il mondo non sembrava più una porta verso l'Hotel.
+Il mondo non sembrava più una porta che conduceva all'Hotel.
 
 Era di nuovo il mondo.
 
