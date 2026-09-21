@@ -4,33 +4,48 @@ on:
   push:
     paths:
       - "manuscript/**"
+      - "manuscript_it/**"
       - "tools/build_epub.py"
+      - "tools/build_epub_it.py"
       - ".github/workflows/build-epub.yml"
       - "docs/B14.8_EPUB_BUILD.md"
+      - "docs/B15.3_ITALIAN_EPUB_ASSEMBLY.md"
       - "assets/cover/**"
   workflow_dispatch:
 
 jobs:
-  build-and-validate:
+  build-and-validate-russian:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Build EPUB
+      - name: Build Russian EPUB
         run: python3 tools/build_epub.py
-
       - name: Install EPUBCheck
         run: |
           curl -L --fail --silent --show-error -o epubcheck.zip https://github.com/w3c/epubcheck/releases/download/v5.1.0/epubcheck-5.1.0.zip
           unzip -q epubcheck.zip -d epubcheck
-
-      - name: Validate EPUB
-        run: |
-          java -version
-          java -jar epubcheck/epubcheck-5.1.0/epubcheck.jar dist/HOTEL_LAST_TOMORROW.epub
-
-      - name: Upload EPUB artifact
+      - name: Validate Russian EPUB
+        run: java -jar epubcheck/epubcheck-5.1.0/epubcheck.jar dist/HOTEL_LAST_TOMORROW.epub
+      - name: Upload Russian EPUB
         uses: actions/upload-artifact@v4
         with:
           name: HOTEL_LAST_TOMORROW_EPUB
           path: dist/HOTEL_LAST_TOMORROW.epub
+
+  build-and-validate-italian:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build Italian EPUB
+        run: python3 tools/build_epub_it.py
+      - name: Install EPUBCheck
+        run: |
+          curl -L --fail --silent --show-error -o epubcheck.zip https://github.com/w3c/epubcheck/releases/download/v5.1.0/epubcheck-5.1.0.zip
+          unzip -q epubcheck.zip -d epubcheck
+      - name: Validate Italian EPUB
+        run: java -jar epubcheck/epubcheck-5.1.0/epubcheck.jar dist/HOTEL_LAST_TOMORROW_IT.epub
+      - name: Upload Italian EPUB
+        uses: actions/upload-artifact@v4
+        with:
+          name: HOTEL_LAST_TOMORROW_IT_EPUB
+          path: dist/HOTEL_LAST_TOMORROW_IT.epub
