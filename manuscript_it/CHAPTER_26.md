@@ -4,9 +4,9 @@ La mattina cominciò con il silenzio.
 
 Non quel silenzio normale che arriva prima del risveglio definitivo della città.
 
-Questo silenzio era denso, quasi materiale.
+Quel silenzio era denso, quasi materiale.
 
-Stava tra le case, riempiva i cortili, si nascondeva sotto le automobili parcheggiate e rimaneva sospeso sopra i tetti.
+Stava tra le case, riempiva i cortili, si nascondeva sotto le automobili parcheggiate e restava sospeso sopra i tetti.
 
 Lev era in mezzo al cortile e guardava il punto in cui era appena scomparso l'uomo.
 
@@ -90,9 +90,9 @@ Era calda.
 
 Ormai si era abituato a quella sensazione, ma ora la chiave sembrava diversa.
 
-Non un oggetto.
+Non era un oggetto.
 
-Piuttosto una parte di qualcosa che continuava a percepirlo.
+Era piuttosto parte di qualcosa che continuava a percepirlo.
 
 Il legno era asciutto e caldo, con una ruvidità appena percettibile sotto i polpastrelli. Emanava odore di vecchia vernice e pioggia, anche se era rimasto in tasca tutta la mattina.
 
@@ -200,7 +200,7 @@ Su altri Lev vide delle date — quella di oggi, quella di domani e alcune che n
 
 Lev entrò.
 
-Il campanello sopra la porta non suonò.
+Il campanello sopra la porta non suonò affatto.
 
 Sul bancone c'era un biglietto.
 
@@ -310,7 +310,7 @@ Mira guardò l'ascensore.
 
 Le porte si chiusero.
 
-Dentro diventò stretto.
+L'ascensore sembrò stringersi.
 
 Odorava di metallo e polvere.
 
@@ -894,7 +894,7 @@ Edrian lasciò subito la mano.
 
 — Scusa.
 
-Quella semplice parola suonò più piano del meccanismo, ma Lev la sentì meglio di tutto il resto.
+Quella semplice parola fu più debole del suono del meccanismo, ma Lev la sentì meglio di tutto il resto.
 
 Girò pagina.
 
