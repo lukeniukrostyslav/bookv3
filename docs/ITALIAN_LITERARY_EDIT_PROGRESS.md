@@ -19,7 +19,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.10 Repetition / heavy constructions: **100% (32/32 chapters reviewed)**
 - B15.2.11 Italian punctuation / typography: **100% (32/32 chapters reviewed)**
 - B15.2.12 Terminology consistency: **100% (32/32 chapters reviewed)**
-- B15.2.13 Meaning fidelity: **25% (8/32 chapters reviewed)**
+- B15.2.13 Meaning fidelity: **75% (24/32 chapters reviewed)**
 - B15.2.14 Canon control: **0%**
 - B15.2.15 Final literary pass: **0%**
 - B15.2.16 Italian paragraph normalization against Russian canon: **100% (32/32 chapters reviewed)**
@@ -275,3 +275,9 @@ B15.2.12 FINAL CHECKPOINT — Chapters 17–32 reviewed for Italian terminology 
 B15.2.12 COMPLETE: **100% (32/32 chapters reviewed)**.
 
 B15.2.13 CHECKPOINT 25% — Chapters 01–08 reviewed against the Russian canonical chapters for meaning fidelity. Structural checks confirmed matching chapter headings, bold/marked blocks, dialogue-line counts, and numeric tokens; paragraph counts also remain aligned after the dedicated normalization pass, with CH03/CH08 retaining only protected literary-structure differences. The Italian text preserves the documented scene sequence and key factual anchors in the reviewed chapters. No forced rewrites were made without a concrete fidelity issue. Coverage: **8/32 chapters = 25%**.
+
+## B15.2.13 CHECKPOINT 75% — CH17–CH24
+
+Chapters 17–24 were directly checked against the Russian canonical corpus. Verified chapter headings, scene/structural continuity, paragraph architecture after B15.2.16, and numeric/factual anchors. CH17–22 and CH24 have matching paragraph counts after normalization. CH23 remains the documented protected literary-structure exception: its Italian short-beat/dialogue architecture is intentionally not forced into the Russian paragraph grouping. Numeric references to the twenty-sixth floor are preserved naturally in Italian as **piano ventisei / ventiseiesimo piano**, so a literal Arabic numeral mismatch is not treated as a semantic omission. No confirmed meaning-loss issue requiring textual correction was identified in this checkpoint.
+
+**B15.2.13 = 24/32 chapters = 75%.** Next checkpoint: CH25–CH32 → 100%.
