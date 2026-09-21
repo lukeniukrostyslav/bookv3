@@ -1,12 +1,6 @@
 # Capitolo 8. La stanza del fratello
 
-La porta si apriva lentamente, troppo lentamente perché fosse un caso.
-
-Prima, tra l'anta e lo stipite apparve una sottile striscia di luce.
-
-Poi arrivò l'odore del metallo freddo, della pietra bagnata e dell'inchiostro.
-
-Edrian si voltò bruscamente verso Lev.
+La porta si apriva lentamente, troppo lentamente perché fosse un caso. Prima, tra l'anta e lo stipite apparve una sottile striscia di luce. Poi arrivò l'odore del metallo freddo, della pietra bagnata e dell'inchiostro. Edrian si voltò bruscamente verso Lev.
 
 — Alla finestra.
 
@@ -18,19 +12,13 @@ Edrian si voltò bruscamente verso Lev.
 
 — Lo so.
 
-Lev guardò la finestra.
-
-Dietro il vetro c'era la notte.
-
-In basso brillavano luci immobili, immerse nella nebbia.
+Lev guardò la finestra. Dietro il vetro c'era la notte. In basso brillavano luci immobili, immerse nella nebbia.
 
 — Vuoi che salti?
 
 — No. Voglio che tu non stia davanti alla porta.
 
-La porta si aprì ancora di una mano.
-
-Edrian le si avvicinò.
+La porta si aprì ancora di una mano. Edrian le si avvicinò.
 
 — Hai un minuto.
 
@@ -56,11 +44,7 @@ Edrian lo guardò.
 
 — Una scelta.
 
-La porta si fermò.
-
-Fuori non c'era nessuno.
-
-Il corridoio era illuminato d'oro.
+La porta si fermò. Fuori non c'era nessuno. Il corridoio era illuminato d'oro.
 
 — Non c'è nessuno — disse Lev.
 
@@ -74,11 +58,7 @@ Edrian si avvicinò alla porta e ascoltò.
 
 — L'Hotel.
 
-Edrian toccò la maniglia.
-
-Sulle sue dita comparvero sottili linee grigie, come se per un istante sotto la pelle fosse apparso dell'inchiostro.
-
-Lev lo notò.
+Edrian toccò la maniglia. Sulle sue dita comparvero sottili linee grigie, come se per un istante sotto la pelle fosse apparso dell'inchiostro. Lev lo notò.
 
 — Cosa ti succede?
 
@@ -102,9 +82,7 @@ Edrian sorrise.
 
 — Appunto.
 
-Lev notò una piccola cicatrice vicino al sopracciglio.
-
-Prima non c'era.
+Lev notò una piccola cicatrice vicino al sopracciglio. Prima non c'era.
 
 — Da dove viene?
 
@@ -128,9 +106,7 @@ Edrian lo guardò.
 
 — Diventi parte della domanda.
 
-Fuori dalla porta si sentì un rumore di passi.
-
-Edrian cambiò immediatamente espressione.
+Fuori dalla porta si sentì un rumore di passi. Edrian cambiò immediatamente espressione.
 
 — Vattene.
 
@@ -202,9 +178,7 @@ Edrian abbassò gli occhi.
 
 — Eri solo. In bicicletta. Un'auto non si fermò.
 
-Lev rimase in silenzio.
-
-Non lo ricordava.
+Lev rimase in silenzio. Non lo ricordava.
 
 — Non è successo.
 
@@ -228,9 +202,7 @@ Quella frase lo colpì più forte di tutto ciò che aveva detto prima.
 
 — Le altre sono rimaste possibili.
 
-Nel corridoio l'orologio batté un colpo.
-
-Edrian trasalì.
+Nel corridoio l'orologio batté un colpo. Edrian trasalì.
 
 — Dobbiamo andare.
 
@@ -246,9 +218,7 @@ Edrian trasalì.
 
 — Dovrebbe essere nella hall.
 
-Lev si avviò verso la porta.
-
-Edrian lo fermò.
+Lev si avviò verso la porta. Edrian lo fermò.
 
 — Aspetta.
 
@@ -256,29 +226,7 @@ Edrian lo fermò.
 
 — Guarda la stanza.
 
-Lev si voltò.
-
-Ora notava dettagli che prima non aveva visto.
-
-Alle pareti erano appese decine di fotografie.
-
-Tutte scattate in anni diversi.
-
-In alcune Edrian era adolescente.
-
-In altre era adulto.
-
-In altre ancora accanto a lui c'era Lev.
-
-Ma ogni fotografia mostrava una vita leggermente diversa.
-
-In una erano seduti sulla riva del mare.
-
-In un'altra stavano costruendo una casa.
-
-In una terza Lev era più grande e teneva in braccio un bambino.
-
-Nella quarta Edrian era solo.
+Lev si voltò. Ora notava dettagli che prima non aveva visto. Alle pareti erano appese decine di fotografie. Tutte scattate in anni diversi. In alcune Edrian era adolescente. In altre era adulto. In altre ancora accanto a lui c'era Lev. Ma ogni fotografia mostrava una vita leggermente diversa. In una erano seduti sulla riva del mare. In un'altra stavano costruendo una casa. In una terza Lev era più grande e teneva in braccio un bambino. Nella quarta Edrian era solo.
 
 — Sono tutte possibilità future?
 
@@ -288,19 +236,7 @@ Nella quarta Edrian era solo.
 
 — Alcune sono ricordi.
 
-Lev si avvicinò a una fotografia.
-
-Edrian era in piedi vicino a una casa.
-
-Sul portico sedeva sua madre.
-
-Il padre riparava una bicicletta.
-
-Lev, di circa dodici anni, rideva.
-
-Una sera normale.
-
-Troppo normale.
+Lev si avvicinò a una fotografia. Edrian era in piedi vicino a una casa. Sul portico sedeva sua madre. Il padre riparava una bicicletta. Lev, di circa dodici anni, rideva. Una sera normale. Troppo normale.
 
 — Me lo ricordo.
 
@@ -322,9 +258,7 @@ Lev guardò suo fratello.
 
 — Per rendere più facile restare.
 
-Quelle parole rimasero sospese nella stanza.
-
-Lev si voltò.
+Quelle parole rimasero sospese nella stanza. Lev si voltò.
 
 — Hai davvero scelto questo?
 
@@ -344,17 +278,11 @@ Edrian rimase a lungo in silenzio.
 
 — No.
 
-Nel petto esplose la rabbia.
-
-Calda.
-
-Quasi rassicurante.
+Nel petto esplose la rabbia. Calda. Quasi rassicurante.
 
 — Allora perché?
 
-Edrian si avvicinò alla finestra.
-
-Fuori dal vetro ora nevicava.
+Edrian si avvicinò alla finestra. Fuori dal vetro ora nevicava.
 
 — Perché ho visto un futuro in cui tornavo a casa.
 
@@ -370,9 +298,7 @@ Edrian chiuse gli occhi.
 
 — Allora perché hai deciso di avere il diritto di scegliere per me?
 
-Edrian non rispose.
-
-Lev sentì la rabbia diventare più calda.
+Edrian non rispose. Lev sentì la rabbia diventare più calda.
 
 — Non me l'hai nemmeno chiesto.
 
@@ -392,21 +318,11 @@ Edrian lo guardò.
 
 — Scegliere il dolore invece dell'ignoto.
 
-Lev rimase in silenzio.
-
-Era la prima spiegazione di Edrian che non suonava come una giustificazione.
-
-Suo fratello si avvicinò alla parete.
+Lev rimase in silenzio. Era la prima spiegazione di Edrian che non suonava come una giustificazione. Suo fratello si avvicinò alla parete.
 
 — Vedi questa fotografia?
 
-Nella foto c'erano Lev, Mira ed Edrian.
-
-Tutti e tre più grandi.
-
-Dietro di loro brillava una luce verde.
-
-Lev prese la fotografia.
+Nella foto c'erano Lev, Mira ed Edrian. Tutti e tre più grandi. Dietro di loro brillava una luce verde. Lev prese la fotografia.
 
 — Quando è?
 
@@ -446,19 +362,11 @@ Edrian abbassò la testa.
 
 — Ma non permettere alla rabbia di scegliere al posto tuo.
 
-Nel corridoio si sentirono di nuovo dei passi.
-
-Questa volta più vicini.
-
-Edrian guardò bruscamente la porta.
+Nel corridoio si sentirono di nuovo dei passi. Questa volta più vicini. Edrian guardò bruscamente la porta.
 
 — Ora dobbiamo davvero andare.
 
-Aprì.
-
-Mira era fuori.
-
-Respirava affannosamente.
+Aprì. Mira era fuori. Respirava affannosamente.
 
 — Dov'eri? — chiese Lev.
 
@@ -482,9 +390,7 @@ Edrian annuì.
 
 — Allora abbiamo poco tempo.
 
-Lev uscì.
-
-Mira lo guardò.
+Lev uscì. Mira lo guardò.
 
 — Hai visto?
 
@@ -506,9 +412,7 @@ Lev guardò Edrian.
 
 — Voglio riportarlo a casa.
 
-Mira non disse nulla.
-
-Edrian disse:
+Mira non disse nulla. Edrian disse:
 
 — No.
 
@@ -524,31 +428,15 @@ Lev si voltò bruscamente.
 
 — Adesso non lo sei.
 
-Edrian rimase in silenzio.
-
-Lev fece un passo verso di lui.
+Edrian rimase in silenzio. Lev fece un passo verso di lui.
 
 — Adesso decido io.
 
-Edrian lo guardò negli occhi.
-
-E per la prima volta sorrise.
-
-Non allegramente.
-
-Tristemente.
+Edrian lo guardò negli occhi. E per la prima volta sorrise. Non allegramente. Tristemente.
 
 — È proprio questo che temevo.
 
-Da qualche parte in basso risuonò un campanello.
-
-Uno.
-
-Due.
-
-Tre.
-
-Mira guardò l'orologio.
+Da qualche parte in basso risuonò un campanello. Uno. Due. Tre. Mira guardò l'orologio.
 
 — Ha capito.
 
@@ -556,41 +444,15 @@ Mira guardò l'orologio.
 
 — L'Amministratore.
 
-Tutti e tre sentirono contemporaneamente dei passi.
-
-Ma i passi non arrivavano dal corridoio.
-
-Provenivano dall'interno delle pareti.
-
-Edrian sussurrò:
+Tutti e tre sentirono contemporaneamente dei passi. Ma i passi non arrivavano dal corridoio. Provenivano dall'interno delle pareti. Edrian sussurrò:
 
 — L'Hotel si sta svegliando.
 
-La luce si spense.
-
-Nel buio totale, Lev sentì qualcuno prendergli la mano.
-
-Mira.
-
-Poi un'altra mano gli si posò sulla spalla.
-
-Edrian.
-
-Tre persone.
-
-Tre respiri.
-
-E nel buio l'Hotel disse piano:
+La luce si spense. Nel buio totale, Lev sentì qualcuno prendergli la mano. Mira. Poi un'altra mano gli si posò sulla spalla. Edrian. Tre persone. Tre respiri. E nel buio l'Hotel disse piano:
 
 — Finalmente.
 
-La luce tornò.
-
-Il corridoio non c'era più.
-
-Davanti a loro c'era una scala che scendeva.
-
-Su ogni gradino brillava lo stesso numero:
+La luce tornò. Il corridoio non c'era più. Davanti a loro c'era una scala che scendeva. Su ogni gradino brillava lo stesso numero:
 
 **314**
 
@@ -606,21 +468,7 @@ Suo fratello rispose:
 
 — Là dove ho visto per la prima volta il tuo futuro.
 
-E cominciarono a scendere.
-
-Cominciarono a scendere.
-
-Il primo gradino era caldo.
-
-Il secondo era freddo.
-
-Il terzo odorava di fumo.
-
-Il quarto di mele.
-
-Il quinto di pioggia.
-
-A ogni passo l'Hotel sembrava sfogliare gli anni.
+E cominciarono a scendere. Cominciarono a scendere. Il primo gradino era caldo. Il secondo era freddo. Il terzo odorava di fumo. Il quarto di mele. Il quinto di pioggia. A ogni passo l'Hotel sembrava sfogliare gli anni.
 
 — Che scala è? — chiese Lev.
 
@@ -636,11 +484,7 @@ Edrian camminava davanti.
 
 — Non dovrebbe essere da nessuna parte.
 
-Mira camminava per ultima.
-
-Contava i gradini.
-
-Lev sentiva il suo sussurro.
+Mira camminava per ultima. Contava i gradini. Lev sentiva il suo sussurro.
 
 — Undici... dodici... tredici...
 
@@ -658,15 +502,7 @@ Lev sorrise.
 
 — Certo.
 
-Al ventesimo gradino respirare diventò difficile.
-
-Non per l'aria.
-
-L'aria era pulita.
-
-Semplicemente sembrava che ogni respiro occupasse troppo spazio.
-
-Edrian si fermò.
+Al ventesimo gradino respirare diventò difficile. Non per l'aria. L'aria era pulita. Semplicemente sembrava che ogni respiro occupasse troppo spazio. Edrian si fermò.
 
 — Più avanti, attenzione.
 
@@ -678,35 +514,7 @@ Edrian si fermò.
 
 — Decisioni.
 
-Lev guardò in basso.
-
-La scala continuava.
-
-Sulle pareti cominciarono ad apparire porte.
-
-La prima era aperta.
-
-Dietro c'era Lev a scuola.
-
-Rideva con gli amici.
-
-Edrian non era mai scomparso.
-
-La seconda porta mostrava la casa.
-
-Una sera calda.
-
-La madre preparava la cena.
-
-Edrian litigava con il padre.
-
-La terza mostrava un ospedale.
-
-Lev era solo.
-
-Edrian non c'era.
-
-Non guardò oltre.
+Lev guardò in basso. La scala continuava. Sulle pareti cominciarono ad apparire porte. La prima era aperta. Dietro c'era Lev a scuola. Rideva con gli amici. Edrian non era mai scomparso. La seconda porta mostrava la casa. Una sera calda. La madre preparava la cena. Edrian litigava con il padre. La terza mostrava un ospedale. Lev era solo. Edrian non c'era. Non guardò oltre.
 
 — Non guardare — disse Edrian.
 
@@ -722,13 +530,7 @@ Mira disse:
 
 — E la scelta cambia la scala.
 
-Dietro di loro una porta si chiuse.
-
-Poi un'altra.
-
-La terza.
-
-Lev sentì le serrature scattare.
+Dietro di loro una porta si chiuse. Poi un'altra. La terza. Lev sentì le serrature scattare.
 
 — Cosa succede?
 
@@ -762,71 +564,23 @@ Edrian non rispose subito.
 
 — E il prezzo?
 
-Edrian guardò Mira.
-
-Lei abbassò gli occhi.
+Edrian guardò Mira. Lei abbassò gli occhi.
 
 — Un prezzo c'è sempre — disse.
 
-Continuarono a scendere.
-
-Al centesimo gradino le porte scomparvero.
-
-Al duecentesimo scomparvero le pareti.
-
-Rimasero soltanto i gradini, circondati dall'oscurità.
-
-Al duecentotredicesimo Lev sentì della musica.
-
-Vecchia.
-
-Familiare.
-
-La stessa melodia che Edrian fischiettava quando preparava la colazione.
-
-Lev sorrise.
+Continuarono a scendere. Al centesimo gradino le porte scomparvero. Al duecentesimo scomparvero le pareti. Rimasero soltanto i gradini, circondati dall'oscurità. Al duecentotredicesimo Lev sentì della musica. Vecchia. Familiare. La stessa melodia che Edrian fischiettava quando preparava la colazione. Lev sorrise.
 
 — Te la ricordi?
 
-Edrian non rispose.
-
-Continuò a camminare.
-
-Al duecentoquattordicesimo gradino la musica si interruppe.
-
-Edrian si fermò.
+Edrian non rispose. Continuò a camminare. Al duecentoquattordicesimo gradino la musica si interruppe. Edrian si fermò.
 
 — Qui.
 
-Davanti a loro c'era una porta.
-
-Normale.
-
-Di legno.
-
-Senza numero.
-
-Su di essa era appesa una fotografia.
-
-Lev si avvicinò.
-
-Nella fotografia c'era Edrian.
-
-Giovane.
-
-In piedi davanti all'Hotel.
-
-Accanto a lui c'era Mira.
-
-Ma Mira appariva esattamente come adesso.
-
-Lev si voltò lentamente.
+Davanti a loro c'era una porta. Normale. Di legno. Senza numero. Su di essa era appesa una fotografia. Lev si avvicinò. Nella fotografia c'era Edrian. Giovane. In piedi davanti all'Hotel. Accanto a lui c'era Mira. Ma Mira appariva esattamente come adesso. Lev si voltò lentamente.
 
 — Quanti anni avevi allora?
 
-Mira non disse nulla.
-
-Edrian rispose:
+Mira non disse nulla. Edrian rispose:
 
 — Diciassette.
 
@@ -836,23 +590,7 @@ Mira guardò la porta.
 
 — Diciassette.
 
-Lev sentì qualcosa raffreddarsi dentro di sé.
-
-Ma non fece in tempo a chiedere altro.
-
-La porta si aprì.
-
-Dietro c'era una stanza senza pareti.
-
-Al centro c'era Edrian.
-
-Quello di cinque anni prima.
-
-Lev vide se stesso in un angolo.
-
-Aveva dodici anni.
-
-Sentì la propria voce:
+Lev sentì qualcosa raffreddarsi dentro di sé. Ma non fece in tempo a chiedere altro. La porta si aprì. Dietro c'era una stanza senza pareti. Al centro c'era Edrian. Quello di cinque anni prima. Lev vide se stesso in un angolo. Aveva dodici anni. Sentì la propria voce:
 
 — Edrian, dove vai?
 
@@ -882,17 +620,7 @@ Lev guardò suo fratello.
 
 — Perché avevi già deciso.
 
-Sulla parete apparve della luce.
-
-Il giovane Edrian ricevette una chiave.
-
-Lev vide un uomo in abito nero.
-
-L'Amministratore.
-
-Ma appariva più giovane.
-
-Porse la chiave a Edrian.
+Sulla parete apparve della luce. Il giovane Edrian ricevette una chiave. Lev vide un uomo in abito nero. L'Amministratore. Ma appariva più giovane. Porse la chiave a Edrian.
 
 — Puoi andartene.
 
@@ -920,35 +648,11 @@ Lev guardò il vero Edrian.
 
 — Perché sei rimasto?
 
-Edrian guardò il se stesso giovane.
-
-Teneva la chiave.
-
-E piangeva.
+Edrian guardò il se stesso giovane. Teneva la chiave. E piangeva.
 
 — Perché ho visto te.
 
-La scena cambiò.
-
-Lev vide una città futura.
-
-Sirene.
-
-Vetro infranto.
-
-Fuoco.
-
-Mira era sdraiata sull'asfalto.
-
-Edrian era accanto a Lev.
-
-E Lev teneva suo fratello per mano.
-
-Poi lo lasciò.
-
-Edrian scomparve.
-
-Il cuore gli si strinse dolorosamente, come se qualcuno lo avesse stretto con una mano.
+La scena cambiò. Lev vide una città futura. Sirene. Vetro infranto. Fuoco. Mira era sdraiata sull'asfalto. Edrian era accanto a Lev. E Lev teneva suo fratello per mano. Poi lo lasciò. Edrian scomparve. Il cuore gli si strinse dolorosamente, come se qualcuno lo avesse stretto con una mano.
 
 — Sono stato io?
 
@@ -984,11 +688,7 @@ Edrian disse:
 
 — Perché ora l'Hotel ti considera parte di questa storia.
 
-Il giovane Edrian alzò la testa.
-
-Guardò direttamente Lev.
-
-E disse:
+Il giovane Edrian alzò la testa. Guardò direttamente Lev. E disse:
 
 — Non permettergli di scegliere al posto tuo.
 
@@ -996,21 +696,11 @@ Lev si voltò.
 
 — A chi?
 
-Il giovane Edrian guardò oltre lui.
-
-Lì c'era l'Amministratore.
-
-E per la prima volta sul suo volto non c'era calma.
+Il giovane Edrian guardò oltre lui. Lì c'era l'Amministratore. E per la prima volta sul suo volto non c'era calma.
 
 — All'Hotel.
 
-La luce si spense.
-
-Quando tornò, il giovane Edrian era scomparso.
-
-Restavano soltanto Lev, Mira, Edrian adulto e la porta.
-
-Sulla porta era comparsa una scritta:
+La luce si spense. Quando tornò, il giovane Edrian era scomparso. Restavano soltanto Lev, Mira, Edrian adulto e la porta. Sulla porta era comparsa una scritta:
 
 **CUSTODE.**
 
@@ -1030,21 +720,11 @@ Edrian lo guardò negli occhi.
 
 — Allora dovrai vedere la stanza che speravo di non mostrarti mai.
 
-Aprì la porta.
-
-Dietro c'era una poltrona.
-
-Nella poltrona sedeva l'Amministratore.
-
-Davanti a lui c'era un libro.
-
-E sulla prima pagina era scritto:
+Aprì la porta. Dietro c'era una poltrona. Nella poltrona sedeva l'Amministratore. Davanti a lui c'era un libro. E sulla prima pagina era scritto:
 
 **LEV ARDEN.**
 
-Le dita di Mira strinsero più forte la mano di Lev.
-
-L'Amministratore alzò gli occhi.
+Le dita di Mira strinsero più forte la mano di Lev. L'Amministratore alzò gli occhi.
 
 — Finalmente.
 
@@ -1102,13 +782,7 @@ Aprì il libro.
 
 — Allora in piedi.
 
-Sulla pagina c'era il nome di Lev.
-
-Sotto, la data.
-
-Quella di oggi.
-
-Più in basso, una riga vuota.
+Sulla pagina c'era il nome di Lev. Sotto, la data. Quella di oggi. Più in basso, una riga vuota.
 
 — Cos'è?
 
@@ -1118,17 +792,7 @@ Più in basso, una riga vuota.
 
 — Nessuna, per ora.
 
-L'Amministratore girò pagina.
-
-C'era una fotografia.
-
-Lev vide se stesso in tre versioni.
-
-Nella prima era accanto a Edrian.
-
-Nella seconda era solo.
-
-Nella terza era accanto a Mira.
+L'Amministratore girò pagina. C'era una fotografia. Lev vide se stesso in tre versioni. Nella prima era accanto a Edrian. Nella seconda era solo. Nella terza era accanto a Mira.
 
 — Tre futuri — disse l'Amministratore.
 
@@ -1162,9 +826,7 @@ L'Amministratore lo guardò.
 
 — La differenza non è sempre evidente.
 
-Edrian tacque.
-
-Lev sentì la rabbia.
+Edrian tacque. Lev sentì la rabbia.
 
 — Cosa succederà se lo riporto indietro?
 
@@ -1206,9 +868,7 @@ Edrian annuì.
 
 — Quale?
 
-Edrian non rispose.
-
-L'Amministratore disse:
+Edrian non rispose. L'Amministratore disse:
 
 — Suo fratello non voleva pagarlo con la sua memoria.
 
@@ -1238,9 +898,7 @@ L'Amministratore chiuse il libro.
 
 — Quelli che impediscono al nuovo futuro di diventare possibile.
 
-Edrian si voltò.
-
-Lev lo guardò.
+Edrian si voltò. Lev lo guardò.
 
 — Lo sapevi.
 
@@ -1252,9 +910,7 @@ Lev lo guardò.
 
 — Hai lasciato la chiave.
 
-Edrian tacque.
-
-Mira lo guardò bruscamente.
+Edrian tacque. Mira lo guardò bruscamente.
 
 — L'hai lasciata tu?
 
@@ -1266,9 +922,7 @@ Edrian rispose:
 
 — Perché volevo vederti.
 
-Il dolore arrivò piano.
-
-Quasi senza preavviso.
+Il dolore arrivò piano. Quasi senza preavviso.
 
 — Quindi anche tu volevi che venissi qui.
 
@@ -1292,11 +946,7 @@ Guardò Lev.
 
 — Perché non sono più sicuro di aver fatto la scelta giusta.
 
-Nella stanza calò il silenzio.
-
-Perfino gli orologi smisero di ticchettare.
-
-L'Amministratore chiuse lentamente il libro.
+Nella stanza calò il silenzio. Perfino gli orologi smisero di ticchettare. L'Amministratore chiuse lentamente il libro.
 
 — Ecco. Adesso comincia la vera storia.
 
@@ -1318,15 +968,11 @@ Lev si voltò verso di lei.
 
 — Cosa sapevi?
 
-Mira rimase in silenzio a lungo.
-
-Poi disse:
+Mira rimase in silenzio a lungo. Poi disse:
 
 — In uno dei futuri diventi un Custode.
 
-Lev si immobilizzò.
-
-Edrian chiuse gli occhi.
+Lev si immobilizzò. Edrian chiuse gli occhi.
 
 — Mira...
 
@@ -1344,25 +990,11 @@ Mira rispose:
 
 — Custode dell'Hotel.
 
-L'Amministratore non sorrise.
-
-Si limitò a guardare Lev.
+L'Amministratore non sorrise. Si limitò a guardare Lev.
 
 — Ecco perché suo fratello non voleva che venisse qui.
 
-Lev batté le palpebre.
-
-Le lampade calde gli ferirono improvvisamente gli occhi e tutto intorno divenne innaturalmente luminoso.
-
-Lampade calde.
-
-Legno.
-
-Pagine nere.
-
-Ottone dorato.
-
-Tutto sembrava parte di un enorme meccanismo.
+Lev batté le palpebre. Le lampade calde gli ferirono improvvisamente gli occhi e tutto intorno divenne innaturalmente luminoso. Lampade calde. Legno. Pagine nere. Ottone dorato. Tutto sembrava parte di un enorme meccanismo.
 
 — Non sarò un Custode.
 
@@ -1388,21 +1020,11 @@ L'Amministratore rispose:
 
 — Allora l'Hotel sceglierà il prezzo.
 
-In quel momento il libro si aprì da solo.
-
-Le pagine cominciarono a voltarsi rapidamente.
-
-Si fermarono.
-
-Sulla riga vuota apparve una parola.
+In quel momento il libro si aprì da solo. Le pagine cominciarono a voltarsi rapidamente. Si fermarono. Sulla riga vuota apparve una parola.
 
 **DOMANI.**
 
-Mira impallidì.
-
-Edrian fece un passo indietro.
-
-Per la prima volta l'Amministratore aggrottò la fronte.
+Mira impallidì. Edrian fece un passo indietro. Per la prima volta l'Amministratore aggrottò la fronte.
 
 — Questo non dovrebbe esserci.
 
@@ -1422,11 +1044,7 @@ L'Amministratore rispose lentamente:
 
 — Perché il giorno di domani non è ancora stato scelto da nessuno.
 
-La pagina si mosse.
-
-L'inchiostro scivolò oltre.
-
-E sotto la parola «DOMANI» comparve una nuova riga:
+La pagina si mosse. L'inchiostro scivolò oltre. E sotto la parola «DOMANI» comparve una nuova riga:
 
 **LEV ARDEN — NON DETERMINATO.**
 
@@ -1440,22 +1058,7 @@ Edrian lo guardò.
 
 — Lontano dal libro.
 
-Mira afferrò la mano di Lev.
-
-Ma era troppo tardi.
-
-In tutto l'Hotel gli orologi cominciarono a battere contemporaneamente.
-
-Un colpo.
-
-Il secondo.
-
-Il terzo.
-
-Il quarto.
-
-Il quinto.
-
-E per la prima volta l'Amministratore non sembrava calmo.
+Mira afferrò la mano di Lev. Ma era troppo tardi. In tutto l'Hotel gli orologi cominciarono a battere contemporaneamente. Un colpo. Il secondo. Il terzo. Il quarto. Il quinto. E per la prima volta l'Amministratore non sembrava calmo.
 
 — Si è svegliato.
+
