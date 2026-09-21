@@ -116,6 +116,8 @@ Chapter 28 checkpoint: `717c9717996181aad55ca7d44425eb341b312fec`.
 
 Chapter 29 checkpoint: `6aa9d4ab56a1cfceead62c578584eb28c7cd817f`.
 
+Chapter 30 checkpoint: `b32afffb1f5b33a27e9710dba47d0354fa386801`.
+
 Chapter 25 checkpoint: `bfa347b16fdfdbc9adcc2d50ba9f74ee2800cfb8`.
 
 This is an editing checkpoint, not final Italian proofreading and not native-speaker QA.
