@@ -202,3 +202,10 @@ B15.2.8 checkpoint — Chapters 09–16 reviewed for mystery-scene rhythm.
 Checked suspense pacing, revelation timing, ambiguity control, clue placement, silence/pause cadence, supernatural atmosphere, transitions between explanation and uncertainty, and preservation of intentional short beats. No forced rewrites were introduced where the existing Italian already served the intended mystery rhythm.
 
 Coverage: **16/32 chapters = 50%**. Chapters 09–16 completed in this checkpoint.
+
+
+B15.2.8 checkpoint — Chapters 17–24 reviewed for mystery-scene rhythm.
+
+Checked suspense pacing, revelation timing, ambiguity control, clue placement, silence/pause cadence, supernatural atmosphere, transitions between explanation and uncertainty, and preservation of intentional short beats. Chapter 23 was treated with particular care because its unusually large prose architecture should not be fragmented merely to satisfy a mechanical paragraph metric. No forced rewrites were introduced where the existing Italian already served the intended mystery rhythm.
+
+Coverage: **24/32 chapters = 75%**.
