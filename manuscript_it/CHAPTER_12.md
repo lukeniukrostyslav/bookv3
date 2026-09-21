@@ -74,7 +74,7 @@ Continuarono. Sulla prima porta non c'era alcun numero. Solo una rettangolare ta
 
 Guardò una poltrona contro la parete. Sembrava quasi finita. Ma non aveva gambe. Il tappeto iniziava in mezzo al pavimento e si interrompeva. Sulla parete c'era uno specchio senza riflesso. Lev si avvicinò.
 
-— Non mi mostra.
+— Non mi riflette.
 
 — Qui tu non ci sei ancora.
 
