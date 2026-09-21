@@ -243,3 +243,80 @@ B15.3 — ITALIAN EPUB PUBLICATION ASSEMBLY: **20%**. После закрыти�
 B15.3 — ITALIAN EPUB PUBLICATION ASSEMBLY: **50%**. Определён базовый production metadata: рабочее итальянское название **L'Hotel dell'ultimo domani**, автор **Rostyslav Lukeniuk**, язык **it**, 32 главы, без эпилога. Итальянский EPUB build pipeline и документация присутствуют. Открыты: интеграция обложки, фактическая сборка EPUB-артефакта в runnable environment, EPUBCheck и платформенные пакеты.
 
 B15.3 — ITALIAN EPUB PUBLICATION ASSEMBLY: **75%**. Итальянская публикационная структура приведена в соответствие с существующим Russian EPUB production approach: 32 источника глав, Italian language metadata, navigation, OPF и отдельный deterministic build script присутствуют. Остались фактический запуск сборки в executable environment, интеграция финальной обложки и EPUBCheck, затем platform-specific packages.
+
+---
+
+## B15.5 — ITALIAN AMAZON KDP PUBLICATION CHECKPOINT — 21.09.2026
+
+**Status: 100% SUBMITTED / IN REVIEW**
+
+The Italian edition **L'Hotel dell'ultimo domani** by **Rostislav Lukeniuk** was submitted through Amazon KDP.
+
+Confirmed publication settings at submission:
+- Marketplace: **Amazon.it**
+- Format: **Kindle eBook**
+- Price: **€5.99**
+- Royalty plan: **70%**
+- Displayed KDP royalty for Amazon.it: **€3.59**
+- Territories: **All territories / worldwide rights**
+- KDP Select: **not enrolled**
+- Manuscript: Italian EPUB with internal cover
+- Marketing cover: Italian JPG uploaded separately
+- KDP Previewer: checked successfully
+- Identity verification: **successfully verified**
+- Tax profile: **Validated**
+- Account information: completed sufficiently for submission
+- Final KDP status after publication command: **In review**
+
+Important: **100% here means the KDP submission step is completed. It does not mean Amazon has finished review or that the book is already live.**
+
+Expected next state: KDP review → Live/Published → store/search propagation.
+
+## B15.6 — ITALIAN GOOGLE PLAY BOOKS
+
+**0% — not yet submitted.**
+
+Google Play Books officially supports ebook sales in Italy and accepts EPUB/PDF. It is a separate distribution channel and does not require Amazon exclusivity. citeturn0search2turn0search14
+
+## B15.7 — OTHER ITALIAN / INTERNATIONAL DISTRIBUTION
+
+**0% — not yet started.**
+
+Planned channels to evaluate:
+- Kobo Writing Life — direct publishing
+- Apple Books — direct publishing
+- Google Play Books — direct publishing
+- StreetLib — multi-store distribution, especially useful for Italian retail reach
+- Optional additional distributors after checking exclusivity, fees, ISBN requirements and duplicate-store conflicts
+
+StreetLib currently states that its ebook distribution can reach 50+ online bookstores/digital channels and lists Amazon Kindle Store, Kobo Books, Apple Books and Google Play among its channels. citeturn0search18
+
+**Important distribution rule:** because the Italian ebook is already being published directly through KDP, do not activate a distributor's Amazon channel for the same edition. StreetLib explicitly advises authors to exclude its Amazon distribution when the book is already published or intended to be self-published through KDP. citeturn0search1
+
+## ITALIAN EDITION — CURRENT MASTER STATUS
+
+| Block | Status | Progress |
+|---|---|---:|
+| B15.1 — Italian translation | complete | **100%** |
+| B15.2 — Italian literary editing + QA | complete | **100%** |
+| B15.3 — Italian EPUB production | complete | **100%** |
+| B15.4 — Spanish version | not started | **0%** |
+| B15.5 — Amazon KDP Italy submission | submitted / in review | **100%** |
+| B15.6 — Google Play Books Italy | not started | **0%** |
+| B15.7 — Other distribution channels | not started | **0%** |
+
+### Current operational sequence
+
+1. 🇮🇹 Italian manuscript — **100%**
+2. 📚 Italian editorial QA — **100%**
+3. 📦 Italian EPUB — **100%**
+4. 🇮🇹 Amazon KDP — **100% submitted / IN REVIEW**
+5. 🔎 Wait for KDP review / Live status — **in progress**
+6. 📱 Google Play Books — **0%**
+7. 📚 Kobo / Apple Books / additional channels — **0%**
+8. 🌍 International expansion — **0%**
+
+### Commercial publication note
+
+The KDP submission is a completed checkpoint. Do not count the book as "Amazon Live" until the Bookshelf status changes from **In review** to the corresponding published/live state.
+
