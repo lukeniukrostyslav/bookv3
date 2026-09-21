@@ -4,13 +4,11 @@ L'ascensore si muoveva senza il minimo sobbalzo.
 
 Era peggio.
 
-Quel movimento troppo fluido privava Lev della sua abituale percezione del tempo. Non riusciva a capire quanti piani avessero già lasciato alle spalle e quanti ce ne fossero ancora sopra di loro.
+Quel movimento, troppo fluido, privava Lev della sua abituale percezione del tempo. Non riusciva a capire quanti piani avessero già lasciato alle spalle e quanti ce ne fossero ancora sopra di loro.
 
 Lev era abituato al fatto che un ascensore dovesse tremare appena quando il cavo si tendeva, che qualcosa scattasse al suo interno, che il pavimento vibrasse quasi impercettibilmente sotto i piedi.
 
-Qui non c'era nulla.
-
-Solo un movimento regolare verso l'alto e il silenzio.
+Qui non c'era nulla: solo un movimento regolare verso l'alto e il silenzio.
 
 Mira stava accanto a lui, con una spalla appoggiata alla parete. Il suo cappotto verde, alla luce rossastra della piccola lampada, sembrava quasi nero.
 
@@ -26,9 +24,7 @@ Mira stava accanto a lui, con una spalla appoggiata alla parete. Il suo cappotto
 
 — Non lo so.
 
-Lev guardò lo specchio.
-
-Ora vi si riflettevano soltanto loro due.
+Lev guardò lo specchio. Ora vi si riflettevano soltanto loro due.
 
 — Edrian ha detto «domani».
 
@@ -50,9 +46,7 @@ Le porte si aprirono.
 
 Davanti a loro c'era un corridoio.
 
-Sembrava quasi normale.
-
-Pannelli di legno scuro.
+Sembrava quasi normale: pannelli di legno scuro.
 
 Pareti color crema.
 
@@ -60,9 +54,7 @@ Lampade sotto paralumi di vetro opaco.
 
 Uno stretto tappeto sul quale un motivo rosso scuro si ripeteva ogni pochi metri.
 
-E l'odore.
-
-Lev lo sentì immediatamente.
+E l'odore. Lev lo sentì immediatamente.
 
 Polvere.
 
@@ -74,9 +66,7 @@ Un vecchio armadio.
 
 E qualcos'altro di caldo — cannella, forse.
 
-Si fermò.
-
-L'odore lo colpì con un ricordo così improvviso che per un istante smise di sentire il pavimento sotto i piedi.
+Si fermò. L'odore lo colpì con un ricordo così improvviso che, per un istante, smise di sentire il pavimento sotto i piedi.
 
 — Cosa? — chiese Mira.
 
