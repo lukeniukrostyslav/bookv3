@@ -11,7 +11,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.2 Paragraph structure: **100%**
 - B15.2.3 Sentence length / cadence: **100%**
 - B15.2.4 Natural literary Italian: **100%**
-- B15.2.5 Dialogue naturalness: **75%**
+- B15.2.5 Dialogue naturalness: **100%**
 - B15.2.6 Atmosphere / tension: **0%**
 - B15.2.7 Action-scene rhythm: **0%**
 - B15.2.8 Mystery-scene rhythm: **0%**
@@ -127,6 +127,6 @@ The chapter-based B15.2 pass is complete at 100% for all 32 chapters.
 
 Dedicated passes B15.2.5–B15.2.15 remain separate and are not included in the chapter-based 100%.
 
-B15.2.5 dialogue-naturalness coverage is now 24/32 chapters = 75%. Chapters 17–24 were checked in this checkpoint. The dialogue in these chapters was retained where it is natural, canon-consistent, or intentionally terse for suspense; no forced rewrites were introduced where the existing phrasing already works.
+B15.2.5 dialogue-naturalness coverage is now 32/32 chapters = 100%. Chapters 25–32 were checked in this checkpoint. The full 32-chapter dialogue pass is complete. Existing dialogue was preserved where natural, canon-consistent, or intentionally terse for suspense; no forced rewrites were introduced.
 
 This is an editing checkpoint, not final Italian proofreading and not native-speaker QA.
