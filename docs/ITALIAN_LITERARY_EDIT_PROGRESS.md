@@ -11,7 +11,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.2 Paragraph structure: **100%**
 - B15.2.3 Sentence length / cadence: **100%**
 - B15.2.4 Natural literary Italian: **100%**
-- B15.2.5 Dialogue naturalness: **50%**
+- B15.2.5 Dialogue naturalness: **75%**
 - B15.2.6 Atmosphere / tension: **0%**
 - B15.2.7 Action-scene rhythm: **0%**
 - B15.2.8 Mystery-scene rhythm: **0%**
@@ -41,13 +41,13 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - Chapter 14 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
 - Chapter 15 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
 - Chapter 16 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 17 — rhythm/literary pass checkpointed.
-- Chapter 18 — rhythm/literary pass checkpointed.
-- Chapter 19 — rhythm/literary pass checkpointed.
-- Chapter 20 — rhythm/literary pass checkpointed.
-- Chapter 21 — rhythm/literary pass checkpointed.
-- Chapter 22 — rhythm/literary pass checkpointed.
-- Chapter 23 — rhythm/literary pass checkpointed.
+- Chapter 17 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 18 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 19 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 20 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 21 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 22 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 23 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
 - Chapter 24 — rhythm/literary and language pass checkpointed.
 - Chapter 25 — rhythm/literary and language pass checkpointed.
 - Chapters 26–32 — completed in the chapter-based pass.
@@ -127,6 +127,6 @@ The chapter-based B15.2 pass is complete at 100% for all 32 chapters.
 
 Dedicated passes B15.2.5–B15.2.15 remain separate and are not included in the chapter-based 100%.
 
-B15.2.5 dialogue-naturalness coverage is now 16/32 chapters = 50%. Chapters 09–16 were checked in this checkpoint. Two clear naturalness fixes were committed in Chapters 11 and 12; other dialogue was retained where it is natural or intentionally terse for suspense.
+B15.2.5 dialogue-naturalness coverage is now 24/32 chapters = 75%. Chapters 17–24 were checked in this checkpoint. The dialogue in these chapters was retained where it is natural, canon-consistent, or intentionally terse for suspense; no forced rewrites were introduced where the existing phrasing already works.
 
 This is an editing checkpoint, not final Italian proofreading and not native-speaker QA.
