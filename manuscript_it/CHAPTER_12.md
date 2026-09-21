@@ -112,11 +112,7 @@ Lev guardò in basso.
 
 — Qui questa parola è più utile di tutte le altre.
 
-Entrò. Mira lo seguì. Le porte si chiusero. L'ascensore non partì. Scomparve.
-
-Lev si ritrovò di nuovo nel corridoio.
-
-Ora, accanto a lui, c'erano decine di porte. Una dopo l'altra. E su ognuna c'era una data.
+Entrò. Mira lo seguì. Le porte si chiusero. L'ascensore non partì. Scomparve. Lev si ritrovò di nuovo nel corridoio. Ora, accanto a lui, c'erano decine di porte. Una dopo l'altra. E su ognuna c'era una data.
 
 **12.06.2021.**
 
@@ -126,9 +122,7 @@ Ora, accanto a lui, c'erano decine di porte. Una dopo l'altra. E su ognuna c'era
 
 **07.03.2026.**
 
-Lev si avvicinò all'ultima.
-
-Sulla porta c'era una data:
+Lev si avvicinò all'ultima. Sulla porta c'era una data:
 
 **7 marzo 2021.**
 
@@ -160,27 +154,7 @@ Lev la guardò.
 
 — Perché qui una risposta diretta è più pericolosa.
 
-Inserì la chiave. Non la 314. La chiave con la targhetta «11».
-
-La serratura girò.
-
-Ma la porta non si aprì.
-
-Dall'interno arrivò un rumore.
-
-Qualcuno posava una tazza sul tavolo.
-
-Poi una sedia veniva spostata.
-
-Lev sentì un odore familiare.
-
-Caffè.
-
-Giacca bagnata.
-
-Sapone.
-
-Edrian.
+Inserì la chiave. Non la 314. La chiave con la targhetta «11». La serratura girò. Ma la porta non si aprì. Dall'interno arrivò un rumore. Qualcuno posava una tazza sul tavolo. Poi una sedia veniva spostata. Lev sentì un odore familiare. Caffè. Giacca bagnata. Sapone. Edrian.
 
 — È lì.
 
@@ -210,21 +184,7 @@ Lev aggrottò la fronte.
 
 — A volte un solo dettaglio reale è più pericoloso di mille falsi.
 
-La porta si aprì.
-
-Dietro c'era una cucina.
-
-La loro cucina.
-
-Il vecchio tavolo.
-
-Le tazze blu.
-
-La crepa vicino alla finestra.
-
-Il frigorifero con una calamita a forma d'Italia.
-
-Lev non riusciva a respirare.
+La porta si aprì. Dietro c'era una cucina. La loro cucina. Il vecchio tavolo. Le tazze blu. La crepa vicino alla finestra. Il frigorifero con una calamita a forma d'Italia. Lev non riusciva a respirare.
 
 — È impossibile.
 
@@ -232,21 +192,7 @@ Mira era dietro di lui.
 
 — Lo so.
 
-Sul tavolo c'era la giacca di Edrian.
-
-Quella stessa.
-
-Accanto, le sue vecchie chiavi.
-
-E una tazza.
-
-Da essa saliva vapore.
-
-Lev si avvicinò.
-
-Toccò la tazza.
-
-Era calda.
+Sul tavolo c'era la giacca di Edrian. Quella stessa. Accanto, le sue vecchie chiavi. E una tazza. Da essa saliva vapore. Lev si avvicinò. Toccò la tazza. Era calda.
 
 — Qui c'era qualcuno.
 
@@ -254,13 +200,7 @@ Dal corridoio arrivò una voce:
 
 — Lev.
 
-Si immobilizzò.
-
-Edrian.
-
-Ma la voce non arrivava dal muro.
-
-Arrivava dalla cucina.
+Si immobilizzò. Edrian. Ma la voce non arrivava dal muro. Arrivava dalla cucina.
 
 — Non aprire il frigorifero.
 
@@ -278,37 +218,13 @@ Mira sussurrò:
 
 — Edrian non diceva mai «non c'è cibo».
 
-Lev ricordò.
+Lev ricordò. Suo fratello diceva sempre: «Non abbiamo comprato niente, di nuovo». Quasi sorrise. Poi il frigorifero si aprì da solo. Dentro era buio. Non vuoto. Buio. Lev fece un passo indietro.
 
-Suo fratello diceva sempre:
-
-«Non abbiamo comprato niente, di nuovo».
-
-Quasi sorrise.
-
-Poi il frigorifero si aprì da solo.
-
-Dentro era buio.
-
-Non vuoto.
-
-Buio.
-
-Lev fece un passo indietro.
-
-Dall'interno arrivò un'ondata di freddo.
-
-E il profumo della neve vecchia.
-
-Mira chiuse lo sportello.
+Dall'interno arrivò un'ondata di freddo. E il profumo della neve vecchia. Mira chiuse lo sportello.
 
 — Andiamo via.
 
-Ma sulla parete della cucina apparve una nuova porta.
-
-Un secondo prima non c'era.
-
-Sulla porta c'era una data:
+Ma sulla parete della cucina apparve una nuova porta. Un secondo prima non c'era. Sulla porta c'era una data:
 
 **7 marzo 2021.**
 
@@ -330,11 +246,7 @@ Guardò la porta.
 
 — Il luogo in cui la sua scelta ha cominciato a esistere.
 
-Lev appoggiò la mano sulla maniglia.
-
-Da dietro la porta arrivò la voce di Edrian.
-
-Questa volta era molto bassa.
+Lev appoggiò la mano sulla maniglia. Da dietro la porta arrivò la voce di Edrian. Questa volta era molto bassa.
 
 — Se sei arrivato fin qui, significa che non sono riuscito a fermarti.
 
@@ -370,53 +282,19 @@ Le dita strinsero istintivamente la maniglia.
 
 — Allora l'Hotel lo sa già.
 
-La porta si socchiuse da sola.
-
-Dentro c'era la notte.
-
-Non una stanza.
-
-Non una cucina.
-
-Solo notte.
-
-Cielo nero.
-
-Neve.
-
-Un lampione.
-
-E Edrian.
-
-Stava in strada con quella stessa giacca.
-
-Vivo.
-
-Giovane.
-
-Proprio come Lev lo ricordava cinque anni prima.
+La porta si socchiuse da sola. Dentro c'era la notte. Non una stanza. Non una cucina. Solo notte. Cielo nero. Neve. Un lampione. E Edrian. Stava in strada con quella stessa giacca. Vivo. Giovane. Proprio come Lev lo ricordava cinque anni prima.
 
 — Edrian...
 
-Mira coprì la bocca di Lev con una mano.
-
-Edrian alzò gli occhi.
-
-Guardò direttamente verso di loro.
-
-E disse:
+Mira coprì la bocca di Lev con una mano. Edrian alzò gli occhi. Guardò direttamente verso di loro. E disse:
 
 — Non credere a chi è accanto a te.
 
-Mira impallidì.
-
-Lev girò lentamente la testa.
+Mira impallidì. Lev girò lentamente la testa.
 
 — A chi?
 
-Edrian indicò Mira.
-
-Lei indietreggiò.
+Edrian indicò Mira. Lei indietreggiò.
 
 — Lev, no.
 
@@ -432,13 +310,7 @@ Dentro Lev tutto diventò ghiaccio.
 
 — È vero?
 
-Mira rimase in silenzio.
-
-E fu sufficiente.
-
-La porta sbatté.
-
-Lev indietreggiò.
+Mira rimase in silenzio. E fu sufficiente. La porta sbatté. Lev indietreggiò.
 
 — Hai scelto la mia morte?
 
@@ -460,45 +332,13 @@ Mira abbassò gli occhi.
 
 La rabbia esplose nel petto di Lev, ma prima che potesse dire qualcosa, su tutto il piano cominciarono ad aprirsi le porte.
 
-Decine.
+Decine. Centinaia. Dietro ognuna c'era una vita diversa. In una Lev rideva. In un'altra piangeva. In una Edrian era accanto a lui. In un'altra non esisteva. In una Mira era anziana. In un'altra era bambina.
 
-Centinaia.
-
-Dietro ognuna c'era una vita diversa.
-
-In una Lev rideva.
-
-In un'altra piangeva.
-
-In una Edrian era accanto a lui.
-
-In un'altra non esisteva.
-
-In una Mira era anziana.
-
-In un'altra era bambina.
-
-E in un'altra ancora Lev stava da solo davanti a un Hotel vuoto.
-
-Mira sussurrò:
+E in un'altra ancora Lev stava da solo davanti a un Hotel vuoto. Mira sussurrò:
 
 — Non guardare.
 
-Ma Lev stava già guardando.
-
-Una porta mostrava una casa.
-
-La seconda un ospedale.
-
-La terza un cimitero.
-
-La quarta il mare.
-
-La quinta la stanza del Custode.
-
-La sesta era completamente vuota.
-
-Lev le si avvicinò.
+Ma Lev stava già guardando. Una porta mostrava una casa. La seconda un ospedale. La terza un cimitero. La quarta il mare. La quinta la stanza del Custode. La sesta era completamente vuota. Lev le si avvicinò.
 
 — Perché lì non c'è niente?
 
@@ -510,25 +350,9 @@ La guardò.
 
 — O un futuro che non si può vedere?
 
-Lei non rispose.
+Lei non rispose. Lev capì che per la prima volta davanti a lui c'era una porta senza risposta. E proprio per questo desiderò aprirla più di tutte le altre. Allungò la mano. Le dita toccarono la maniglia.
 
-Lev capì che per la prima volta davanti a lui c'era una porta senza risposta.
-
-E proprio per questo desiderò aprirla più di tutte le altre.
-
-Allungò la mano.
-
-Le dita toccarono la maniglia.
-
-E l'intero piano sprofondò nel silenzio.
-
-Tutte le porte si chiusero contemporaneamente.
-
-Tranne una.
-
-Quella con la data della scomparsa di Edrian.
-
-Su di essa apparve una nuova scritta:
+E l'intero piano sprofondò nel silenzio. Tutte le porte si chiusero contemporaneamente. Tranne una. Quella con la data della scomparsa di Edrian. Su di essa apparve una nuova scritta:
 
 **RITORNO.**
 
@@ -550,11 +374,7 @@ Dalla porta arrivò la voce di Edrian.
 
 — Finalmente hai capito.
 
-E la porta si aprì da sola.
-
-Lev non entrò.
-
-Rimase davanti alla porta e sentì il freddo della notte, anche se tra loro c'era soltanto una soglia di legno.
+E la porta si aprì da sola. Lev non entrò. Rimase davanti alla porta e sentì il freddo della notte, anche se tra loro c'era soltanto una soglia di legno.
 
 — Edrian — disse.
 
@@ -582,9 +402,7 @@ Lev guardò Mira.
 
 — Cosa?
 
-Lei non rispose.
-
-Edrian dietro la porta disse:
+Lei non rispose. Edrian dietro la porta disse:
 
 — Chiedile perché era qui il giorno della mia scomparsa.
 
@@ -614,9 +432,7 @@ Lev sentì la rabbia.
 
 — Perché nella possibilità in cui lo fermavo, tu morivi cinque anni dopo.
 
-Lui la guardò.
-
-Per la prima volta la sua calma era completamente scomparsa.
+Lui la guardò. Per la prima volta la sua calma era completamente scomparsa.
 
 — Per questo gli hai permesso di andarsene?
 
@@ -626,9 +442,7 @@ Per la prima volta la sua calma era completamente scomparsa.
 
 — Ora capisco che non era una scelta che spettava a me.
 
-Lev voleva rispondere.
-
-Ma dietro la porta Edrian parlò di nuovo.
+Lev voleva rispondere. Ma dietro la porta Edrian parlò di nuovo.
 
 — Ecco perché sono rimasto.
 
@@ -646,11 +460,7 @@ La voce si fece più bassa.
 
 — Ho creduto alla paura.
 
-Lev sentì la rabbia cedere lentamente il posto a qualcos'altro.
-
-Dolore.
-
-Guardò la porta.
+Lev sentì la rabbia cedere lentamente il posto a qualcos'altro. Dolore. Guardò la porta.
 
 — Allora perché non sei tornato?
 
@@ -664,41 +474,11 @@ Pausa.
 
 — Adesso voglio che scelga tu.
 
-La porta si aprì.
-
-Dietro non c'era Edrian.
-
-Solo un piccolo tavolo.
-
-Su di esso c'erano tre oggetti:
-
-la chiave 314;
-
-una fotografia di Lev;
-
-e un libro nero.
-
-Lev entrò.
-
-Mira rimase fuori.
-
-Sul libro non c'era alcun titolo.
-
-Aprì la prima pagina.
-
-Vuota.
-
-La seconda.
-
-Vuota.
-
-Sulla terza comparve una riga:
+La porta si aprì. Dietro non c'era Edrian. Solo un piccolo tavolo. Su di esso c'erano tre oggetti: la chiave 314; una fotografia di Lev; e un libro nero. Lev entrò. Mira rimase fuori. Sul libro non c'era alcun titolo. Aprì la prima pagina. Vuota. La seconda. Vuota. Sulla terza comparve una riga:
 
 **PRIMA SCELTA DI LEV ARDEN.**
 
-Lev non toccò la pagina.
-
-L'inchiostro continuò a comparire.
+Lev non toccò la pagina. L'inchiostro continuò a comparire.
 
 **APRIRE LA PORTA.**
 
@@ -722,39 +502,15 @@ La voce di Edrian rispose:
 
 — Se riuscirai a vedere la terza via.
 
-Lev guardò la pagina.
-
-Mira disse dal corridoio:
+Lev guardò la pagina. Mira disse dal corridoio:
 
 — Lev!
 
-Si voltò.
-
-Lei era lontana.
-
-E all'improvviso capì che tra loro c'era più spazio.
-
-Non metri.
-
-Tempo.
-
-Il corridoio si allungò.
-
-Mira diventò piccola in lontananza.
+Si voltò. Lei era lontana. E all'improvviso capì che tra loro c'era più spazio. Non metri. Tempo. Il corridoio si allungò. Mira diventò piccola in lontananza.
 
 — Lev, non muoverti!
 
-Ma il pavimento sotto i suoi piedi stava già cambiando.
-
-Le pareti diventavano più alte.
-
-Le porte scomparivano.
-
-Il libro tra le sue mani diventava più pesante.
-
-Guardò in basso.
-
-Sulla pagina vuota era comparso:
+Ma il pavimento sotto i suoi piedi stava già cambiando. Le pareti diventavano più alte. Le porte scomparivano. Il libro tra le sue mani diventava più pesante. Guardò in basso. Sulla pagina vuota era comparso:
 
 **LA TERZA VIA NON ERA STATA PREVISTA.**
 
@@ -762,25 +518,7 @@ Lev sentì un sorriso strano.
 
 — Allora, probabilmente, fa per me.
 
-In quel momento il piano tremò.
-
-Tutte le porte si spalancarono.
-
-Da ognuna sgorgò luce.
-
-In una c'era un giorno d'estate.
-
-In un'altra neve.
-
-In una terza un corridoio d'ospedale.
-
-In una quarta una casa.
-
-In una quinta una città che Lev non aveva mai visto.
-
-E tra tutte le voci ne sentì una.
-
-La propria.
+In quel momento il piano tremò. Tutte le porte si spalancarono. Da ognuna sgorgò luce. In una c'era un giorno d'estate. In un'altra neve. In una terza un corridoio d'ospedale. In una quarta una casa. In una quinta una città che Lev non aveva mai visto. E tra tutte le voci ne sentì una. La propria.
 
 — Non scegliere.
 
@@ -792,17 +530,7 @@ La risposta arrivò da ogni parte:
 
 — Perché la scelta l'ha già fatta qualcun altro.
 
-Lev chiuse il libro.
-
-Immediatamente divenne più silenzioso.
-
-Non del tutto silenzioso: in lontananza i meccanismi continuavano a tintinnare e dietro le pareti si muovevano porte.
-
-Ma il caos che aveva appena riempito il piano si ritirò.
-
-Lev fece un passo indietro.
-
-Il pavimento sotto di lui era solido.
+Lev chiuse il libro. Immediatamente divenne più silenzioso. Non del tutto silenzioso: in lontananza i meccanismi continuavano a tintinnare e dietro le pareti si muovevano porte. Ma il caos che aveva appena riempito il piano si ritirò. Lev fece un passo indietro. Il pavimento sotto di lui era solido.
 
 — Cosa è successo? — chiese.
 
@@ -862,17 +590,7 @@ Un freddo gli attraversò la pelle.
 
 — Perché nemmeno io capisco.
 
-Per la prima volta Lev le credette.
-
-Tornarono indietro.
-
-Ma il corridoio era cambiato.
-
-Ora le pareti erano ricoperte di linee sottili, simili a progetti.
-
-Mostravano stanze, scale, ascensori e porte.
-
-Lev si fermò.
+Per la prima volta Lev le credette. Tornarono indietro. Ma il corridoio era cambiato. Ora le pareti erano ricoperte di linee sottili, simili a progetti. Mostravano stanze, scale, ascensori e porte. Lev si fermò.
 
 — È la pianta dell'Hotel?
 
@@ -882,9 +600,7 @@ Lev si fermò.
 
 — Perché questo è il suo inizio.
 
-Passò un dito sulla linea.
-
-Sotto di essa comparve una data:
+Passò un dito sulla linea. Sotto di essa comparve una data:
 
 **PRIMA DEL PRIMO OSPITE.**
 
@@ -906,55 +622,15 @@ Guardò il progetto.
 
 — Il luogo in cui ancora nulla è stato scelto.
 
-Lev capì.
+Lev capì. Non era un vecchio piano. Era una bozza. Un luogo prima delle decisioni. Prima delle storie. Prima delle conseguenze. Arrivarono all'ascensore. Ora dentro c'era un pavimento vero.
 
-Non era un vecchio piano.
-
-Era una bozza.
-
-Un luogo prima delle decisioni.
-
-Prima delle storie.
-
-Prima delle conseguenze.
-
-Arrivarono all'ascensore.
-
-Ora dentro c'era un pavimento vero.
-
-Lev entrò.
-
-Sul pannello comparve un unico pulsante.
+Lev entrò. Sul pannello comparve un unico pulsante.
 
 **HALL.**
 
-Lo premette.
+Lo premette. Le porte si chiusero. Prima che si richiudessero del tutto, Lev vide Edrian nel corridoio. Era lontano. Non giovane. Non vecchio. Semplicemente suo fratello. Lev alzò la mano. Edrian fece lo stesso. E disse senza voce:
 
-Le porte si chiusero.
-
-Prima che si richiudessero del tutto, Lev vide Edrian nel corridoio.
-
-Era lontano.
-
-Non giovane.
-
-Non vecchio.
-
-Semplicemente suo fratello.
-
-Lev alzò la mano.
-
-Edrian fece lo stesso.
-
-E disse senza voce:
-
-«Non riportarmi indietro al prezzo di te stesso».
-
-Le porte si chiusero.
-
-L'ascensore salì.
-
-Lev guardò Mira.
+«Non riportarmi indietro al prezzo di te stesso». Le porte si chiusero. L'ascensore salì. Lev guardò Mira.
 
 — Ora capisco perché avevi paura del ristorante.
 
@@ -972,29 +648,11 @@ Mira guardò le porte chiuse.
 
 — L'Hotel vuole che crediamo che non ci sia scelta.
 
-L'ascensore si fermò.
-
-Le porte si aprirono.
-
-Nella hall c'era odore di caffè e pioggia.
-
-Ma sul banco della reception c'era un nuovo libro.
-
-Non il registro degli ospiti.
-
-Un altro.
-
-Nero.
-
-Lo stesso.
-
-Lev lo guardò.
+L'ascensore si fermò. Le porte si aprirono. Nella hall c'era odore di caffè e pioggia. Ma sul banco della reception c'era un nuovo libro. Non il registro degli ospiti. Un altro. Nero. Lo stesso. Lev lo guardò.
 
 — È venuto con noi.
 
-Mira annuì lentamente.
-
-Sulla prima pagina ora c'era scritto:
+Mira annuì lentamente. Sulla prima pagina ora c'era scritto:
 
 **TERZA VIA.**
 
@@ -1002,37 +660,9 @@ E sotto:
 
 **NON TROVATA.**
 
-Lev tese la mano.
+Lev tese la mano. E si fermò. Ricordò la voce dal muro. «Ho visto la tua morte». Ricordò la fotografia. La porta con la data. Edrian. Mira. E capì che la domanda era cambiata. Non voleva più sapere quale futuro lo aspettasse.
 
-E si fermò.
-
-Ricordò la voce dal muro.
-
-«Ho visto la tua morte».
-
-Ricordò la fotografia.
-
-La porta con la data.
-
-Edrian.
-
-Mira.
-
-E capì che la domanda era cambiata.
-
-Non voleva più sapere quale futuro lo aspettasse.
-
-Voleva sapere chi aveva deciso che non dovessero esistere altri futuri.
-
-Dalle profondità dell'Hotel arrivò un suono.
-
-Pesante.
-
-Lento.
-
-Come se un enorme meccanismo avesse cominciato a girare.
-
-Mira guardò verso il corridoio.
+Voleva sapere chi aveva deciso che non dovessero esistere altri futuri. Dalle profondità dell'Hotel arrivò un suono. Pesante. Lento. Come se un enorme meccanismo avesse cominciato a girare. Mira guardò verso il corridoio.
 
 — Ha sentito.
 
@@ -1042,19 +672,7 @@ Lei rispose:
 
 — L'Ultimo Piano.
 
-Lev non rispose.
-
-Rimase semplicemente davanti al libro e ascoltò l'ignoto meccanismo girare sotto il pavimento.
-
-Il suono era simile a un enorme cuore.
-
-Un battito lento.
-
-Una pausa.
-
-Un altro.
-
-Mira disse:
+Lev non rispose. Rimase semplicemente davanti al libro e ascoltò l'ignoto meccanismo girare sotto il pavimento. Il suono era simile a un enorme cuore. Un battito lento. Una pausa. Un altro. Mira disse:
 
 — Quando l'Hotel comincia a funzionare così, non cambiano le stanze.
 
@@ -1098,11 +716,7 @@ Mira lo guardò.
 
 — Per questo ora l'Hotel deve decidere cosa fare con te.
 
-Lev toccò il libro.
-
-L'inchiostro scomparve.
-
-Al suo posto comparve una sola frase:
+Lev toccò il libro. L'inchiostro scomparve. Al suo posto comparve una sola frase:
 
 **LASCIA CHE DECIDA DA SOLO.**
 
@@ -1120,10 +734,4 @@ Per la prima volta dopo molto tempo sorrise.
 
 — Forse l'inizio.
 
-E in quel momento, da qualche parte in lontananza, una porta sbatté.
-
-Poi un'altra.
-
-E un'altra ancora.
-
-L'Hotel cominciò a cambiare forma.
+E in quel momento, da qualche parte in lontananza, una porta sbatté. Poi un'altra. E un'altra ancora. L'Hotel cominciò a cambiare forma.
