@@ -1,6 +1,6 @@
 # Capitolo 3. La ragazza dal cappotto verde
 
-Lev non amava le persone che rispondevano per enigmi, soprattutto quando avevano l'aria di conoscere la risposta. Mira stava accanto alla finestra e guardava la pioggia, come se dietro il vetro stesse accadendo qualcosa di molto più importante di una sera qualunque. Il suo cappotto verde sembrava quasi troppo vivo per quell'atrio: il colore profondo dell'erba bagnata, più scuro vicino al colletto, più chiaro là dove la luce dorata delle lampade cadeva sul tessuto.
+Lev non amava le persone che rispondevano per enigmi, soprattutto quando avevano l'aria di conoscere la risposta. Mira stava accanto alla finestra e guardava la pioggia, come se dietro il vetro stesse accadendo qualcosa di molto più importante di quella sera qualunque. Il suo cappotto verde sembrava quasi troppo vivo per quell'atrio: il colore profondo dell'erba bagnata, più scuro vicino al colletto, più chiaro là dove la luce dorata delle lampade cadeva sul tessuto.
 
 Lev notò all'improvviso qualcosa di strano.
 
@@ -10,7 +10,7 @@ Né sull'orlo, né sulle spalle, né sul tessuto scuro del colletto.
 
 Fuori dalle finestre la pioggia cadeva a parete, eppure il cappotto verde di Mira era perfettamente asciutto, come se lei non fosse arrivata dalla strada, ma da un'altra aria.
 
-Era appena scesa dalle scale, mentre fuori pioveva.
+Era appena scesa dalle scale, mentre fuori continuava a piovere.
 
 — Sei qui da molto? — chiese.
 
@@ -24,7 +24,7 @@ Mira voltò la testa.
 
 — Allora rispondi normalmente.
 
-Lei lo guardò per alcuni secondi.
+Lei lo guardò per qualche secondo.
 
 — Da molto.
 
@@ -52,13 +52,7 @@ Toc.
 
 Toc.
 
-Il suono si perse da qualche parte all'interno.
-
-Non sordo.
-
-Non limpido.
-
-Come se dietro la tappezzeria ci fosse uno spazio vuoto.
+Il suono si perse da qualche parte all'interno. Non era sordo, né limpido: sembrava provenire da uno spazio vuoto dietro la tappezzeria.
 
 Lev bussò ancora.
 
@@ -96,9 +90,7 @@ Lev sorrise.
 
 Mira non rispose.
 
-L'irritazione si accese più in fretta della paura.
-
-Lev serrò la mascella.
+L'irritazione si accese più in fretta della paura, e Lev serrò la mascella.
 
 — Tu parli sempre a metà.
 
@@ -180,9 +172,7 @@ Lev rimase in silenzio.
 
 — Me l'hanno già detto.
 
-Lei sorrise.
-
-Appena.
+Lei sorrise appena.
 
 E per la prima volta Lev vide com'era senza quella cautela.
 
@@ -312,7 +302,7 @@ Lei non negò.
 
 — Domani.
 
-Un brivido gli passò sotto le costole, anche se nell'atrio faceva caldo.
+Un brivido gli passò sotto le costole, benché nell'atrio facesse caldo.
 
 — Hai visto il futuro?
 
@@ -466,9 +456,7 @@ Mira gli strinse più forte la mano.
 
 — Non aprire.
 
-Lev quasi non la sentiva.
-
-Fece un passo verso la porta.
+Lev quasi non la sentiva e fece un passo verso la porta.
 
 — Edrian?
 
@@ -710,9 +698,7 @@ Un segno.
 
 Un avvertimento.
 
-Lev lo capì troppo tardi.
-
-L'Hotel aveva già cominciato a ricordarsi di lui.
+Lev lo capì troppo tardi: l'Hotel aveva già cominciato a ricordarsi di lui.
 
 Ed era peggio che sentire il proprio nome.
 
@@ -720,7 +706,7 @@ Non era più sicuro che la porta aspettasse soltanto lui.
 
 Ora l'Hotel aspettava entrambi.
 
-Adesso entrambi.
+Ora entrambi.
 
 Lev non capì subito cosa fosse cambiato.
 
@@ -928,11 +914,7 @@ Il volto era normale.
 
 Troppo normale.
 
-Nessuna cicatrice.
-
-Nessun occhio strano.
-
-Nessun sorriso.
+Nessuna cicatrice, nessun occhio strano, nessun sorriso.
 
 Ed era proprio questo a spaventare Lev più di tutto.
 
@@ -940,11 +922,7 @@ Mira sussurrò:
 
 — Non parlargli.
 
-L'uomo si fermò.
-
-Guardò Lev.
-
-Poi Mira.
+L'uomo si fermò, guardò Lev, poi Mira.
 
 — Buonasera.
 
