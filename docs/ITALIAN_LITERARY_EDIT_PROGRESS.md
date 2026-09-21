@@ -15,7 +15,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.6 Atmosphere / tension: **100%**
 - B15.2.7 Action-scene rhythm: **100%**
 - B15.2.8 Mystery-scene rhythm: **100% (32/32 chapters reviewed)**
-- B15.2.9 Emotional-scene rhythm: **0%**
+- B15.2.9 Emotional-scene rhythm: **25% (8/32 chapters reviewed)**
 - B15.2.10 Repetition / heavy constructions: **0%**
 - B15.2.11 Italian punctuation / typography: **0%**
 - B15.2.12 Terminology consistency: **0%**
@@ -218,3 +218,10 @@ The final eight chapters were reviewed for suspense pacing, revelation timing, a
 Coverage: **32/32 chapters = 100%**.
 
 B15.2.8 COMPLETE: **100% (32/32 chapters reviewed)**.
+
+
+B15.2.9 CHECKPOINT — Chapters 01–08 reviewed for emotional-scene rhythm.
+
+Reviewed emotional escalation and release, grief and longing, sibling bond, anger/fear interplay, hope versus doubt, emotional subtext in dialogue, sensory triggers connected to memory, and the balance between explicit emotion and restrained prose. The Italian already carries the intended emotional beats in these eight chapters; no forced rewrites were introduced merely to create visible changes. Intentional short emotional beats, pauses, and restrained reactions were preserved.
+
+Coverage: **8/32 chapters = 25%**.
