@@ -1,6 +1,6 @@
 # Capitolo 16. Il Custode
 
-La porta si chiuse dietro Lev.
+La porta si chiuse alle spalle di Lev.
 
 Capì subito di non essere in una stanza.
 
@@ -12,7 +12,7 @@ Qui le pareti erano più basse, il soffitto più scuro e le lampade si accendeva
 
 Il pavimento era coperto da un vecchio tappeto color vino secco.
 
-Su di esso si vedevano le tracce di molti passi, come se per anni avessero attraversato quel luogo persone alle quali era proibito lasciare tracce.
+Su di esso si vedevano le tracce di molti passi, come se per anni quel luogo fosse stato attraversato da persone alle quali era proibito lasciare tracce.
 
 Odorava di cera, ferro e caffè freddo.
 
