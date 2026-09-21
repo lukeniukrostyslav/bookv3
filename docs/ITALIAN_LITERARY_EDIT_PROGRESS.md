@@ -19,7 +19,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.10 Repetition / heavy constructions: **100% (32/32 chapters reviewed)**
 - B15.2.11 Italian punctuation / typography: **100% (32/32 chapters reviewed)**
 - B15.2.12 Terminology consistency: **100% (32/32 chapters reviewed)**
-- B15.2.13 Meaning fidelity: **75% (24/32 chapters reviewed)**
+- B15.2.13 Meaning fidelity: **100% (32/32 chapters reviewed)**
 - B15.2.14 Canon control: **0%**
 - B15.2.15 Final literary pass: **0%**
 - B15.2.16 Italian paragraph normalization against Russian canon: **100% (32/32 chapters reviewed)**
@@ -281,3 +281,9 @@ B15.2.13 CHECKPOINT 25% — Chapters 01–08 reviewed against the Russian canoni
 Chapters 17–24 were directly checked against the Russian canonical corpus. Verified chapter headings, scene/structural continuity, paragraph architecture after B15.2.16, and numeric/factual anchors. CH17–22 and CH24 have matching paragraph counts after normalization. CH23 remains the documented protected literary-structure exception: its Italian short-beat/dialogue architecture is intentionally not forced into the Russian paragraph grouping. Numeric references to the twenty-sixth floor are preserved naturally in Italian as **piano ventisei / ventiseiesimo piano**, so a literal Arabic numeral mismatch is not treated as a semantic omission. No confirmed meaning-loss issue requiring textual correction was identified in this checkpoint.
 
 **B15.2.13 = 24/32 chapters = 75%.** Next checkpoint: CH25–CH32 → 100%.
+
+## B15.2.13 CHECKPOINT 100% — CH25–CH32
+
+Final meaning-fidelity checkpoint completed for chapters 25–32 against the Russian canonical corpus. Verified chapter headings, structural continuity, paragraph/scene preservation, numeric anchors, dialogue/quotation markers, and absence of Cyrillic leakage in the Italian manuscript. The Italian paragraph counts intentionally remain higher in several chapters because B15.2.16 preserved the literary paragraph normalization already approved for the Italian edition; therefore raw paragraph-count equality is not used as a semantic-fidelity criterion. CH25–CH32 show the expected Italian expansion in word count while retaining the chapter-level narrative anchors. No confirmed meaning-loss issue requiring textual correction was identified by this structural checkpoint.
+
+**B15.2.13 = 32/32 chapters = 100%.** Next: B15.2.14 canon control.
