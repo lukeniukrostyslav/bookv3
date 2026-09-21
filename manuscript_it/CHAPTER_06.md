@@ -1,8 +1,6 @@
 # Capitolo 6. L'ospite di domani
 
-L'orologio sopra la porta del ristorante segnava le 01:17.
-
-Lev guardò il telefono.
+L'orologio sopra la porta del ristorante segnava le 01:17. Lev guardò il telefono.
 
 00:03.
 
@@ -32,29 +30,7 @@ Lev la guardò. Alle tempie pulsava dolorosamente per la stanchezza.
 
 — Sarebbe noioso.
 
-Dietro la porta del ristorante tintinnò una tazza.
-
-Poi si udirono delle voci.
-
-Normali.
-
-Umane.
-
-L'odore del caffè si fece più intenso: chicchi appena macinati, latte caldo, un po' di cannella.
-
-A Lev si strinse lo stomaco.
-
-Ricordava troppo il normale mattino di casa.
-
-Si mescolava all'odore del pane caldo e di qualcosa di dolce, alla vaniglia.
-
-Dopo tutto quello che era successo nella stanza 314, quell'odore era quasi crudele.
-
-Gli ricordava casa.
-
-E casa, adesso, sembrava lontanissima.
-
-Mira afferrò la maniglia.
+Dietro la porta del ristorante tintinnò una tazza. Poi si udirono delle voci. Normali. Umane. L'odore del caffè si fece più intenso: chicchi appena macinati, latte caldo, un po' di cannella. A Lev si strinse lo stomaco. Ricordava troppo il normale mattino di casa. Si mescolava all'odore del pane caldo e di qualcosa di dolce, alla vaniglia. Dopo tutto quello che era successo nella stanza 314, quell'odore era quasi crudele. Gli ricordava casa. E casa, adesso, sembrava lontanissima. Mira afferrò la maniglia.
 
 — Nel ristorante è più sicuro che nel corridoio.
 
@@ -64,61 +40,11 @@ Mira afferrò la maniglia.
 
 — Bene.
 
-Aprì la porta.
+Aprì la porta. Dietro c'era una sala che Lev non si aspettava. Finestre alte. Tende pesanti. Tovaglie bianche. Legno scuro. Piccole lampade con paralumi opachi. Alle pareti c'erano specchi, ma in nessuno si riflettevano completamente le persone. Da qualche parte sparivano le mani.
 
-Dietro c'era una sala che Lev non si aspettava.
+Da qualche parte, al posto della testa, rimaneva soltanto la luce. Ai tavoli sedevano gli ospiti. Un uomo leggeva un giornale la cui data in prima pagina cambiava ogni secondo. Una donna in abito blu teneva una tazza e guardava la sedia vuota davanti a sé. Un anziano tagliava con cura una fetta di torta, anche se il piatto davanti a lui era vuoto.
 
-Finestre alte.
-
-Tende pesanti.
-
-Tovaglie bianche.
-
-Legno scuro.
-
-Piccole lampade con paralumi opachi.
-
-Alle pareti c'erano specchi, ma in nessuno si riflettevano completamente le persone.
-
-Da qualche parte sparivano le mani.
-
-Da qualche parte, al posto della testa, rimaneva soltanto la luce.
-
-Ai tavoli sedevano gli ospiti.
-
-Un uomo leggeva un giornale la cui data in prima pagina cambiava ogni secondo.
-
-Una donna in abito blu teneva una tazza e guardava la sedia vuota davanti a sé.
-
-Un anziano tagliava con cura una fetta di torta, anche se il piatto davanti a lui era vuoto.
-
-Nessuno prestava attenzione a Lev.
-
-Quasi nessuno.
-
-In fondo alla sala sedeva un uomo con un cappotto bagnato.
-
-Alzò la testa.
-
-E guardò direttamente Lev.
-
-Lev si fermò.
-
-Dentro il petto qualcosa si spezzò per un istante.
-
-L'uomo aveva circa trentacinque anni.
-
-Capelli scuri.
-
-Volto stanco.
-
-Maniche bagnate.
-
-Sul colletto brillavano gocce di pioggia.
-
-Ma fuori dalle finestre del ristorante non pioveva.
-
-L'uomo sorrise.
+Nessuno prestava attenzione a Lev. Quasi nessuno. In fondo alla sala sedeva un uomo con un cappotto bagnato. Alzò la testa. E guardò direttamente Lev. Lev si fermò. Dentro il petto qualcosa si spezzò per un istante. L'uomo aveva circa trentacinque anni. Capelli scuri. Volto stanco. Maniche bagnate. Sul colletto brillavano gocce di pioggia. Ma fuori dalle finestre del ristorante non pioveva. L'uomo sorrise.
 
 — Sei in ritardo.
 
@@ -160,11 +86,7 @@ L'uomo guardò l'orologio.
 
 — Domani.
 
-Lev non si sedette.
-
-I palmi delle mani erano diventati umidi.
-
-L'uomo sospirò.
+Lev non si sedette. I palmi delle mani erano diventati umidi. L'uomo sospirò.
 
 — Speravo che fossi meno prudente.
 
@@ -210,9 +132,7 @@ Lev sentì tornare la solita irritazione.
 
 — Perché l'Hotel insegna alle persone a essere prudenti.
 
-L'uomo prese la tazza.
-
-Da essa saliva vapore.
+L'uomo prese la tazza. Da essa saliva vapore.
 
 — Siediti.
 
@@ -224,9 +144,7 @@ Bevve un sorso di caffè.
 
 — Ma la conversazione avrà luogo comunque.
 
-Lev rimase in piedi.
-
-L'uomo guardò le sue mani.
+Lev rimase in piedi. L'uomo guardò le sue mani.
 
 — Hai ancora la chiave.
 
@@ -246,19 +164,7 @@ L'uomo sorrise.
 
 — Una buona domanda.
 
-Tirò fuori dalla tasca un piccolo oggetto metallico.
-
-Lev lo riconobbe immediatamente.
-
-Il respiro gli si fermò.
-
-Per un istante il ristorante scomparve dalla sua coscienza.
-
-Era una penna.
-
-Una vecchia penna nera con il cappuccio incrinato.
-
-Edrian gliel'aveva regalata quando Lev aveva iniziato la scuola.
+Tirò fuori dalla tasca un piccolo oggetto metallico. Lev lo riconobbe immediatamente. Il respiro gli si fermò. Per un istante il ristorante scomparve dalla sua coscienza. Era una penna. Una vecchia penna nera con il cappuccio incrinato. Edrian gliel'aveva regalata quando Lev aveva iniziato la scuola.
 
 — Da dove viene?
 
@@ -270,13 +176,7 @@ Lev la fissò.
 
 — Io non ho mai...
 
-Si interruppe.
-
-Sul corpo della penna c'era un graffio.
-
-Lev l'aveva fatto lui stesso molti anni prima, quando aveva cercato di aprire con quella penna una serratura congelata.
-
-Era la sua penna.
+Si interruppe. Sul corpo della penna c'era un graffio. Lev l'aveva fatto lui stesso molti anni prima, quando aveva cercato di aprire con quella penna una serratura congelata. Era la sua penna.
 
 — Quando gliel'ho data?
 
@@ -288,27 +188,7 @@ Mira disse bruscamente:
 
 — Non prenderla.
 
-Lev quasi non la sentì.
-
-Allungò la mano.
-
-Le dita toccarono il metallo.
-
-Il mondo intorno a lui cambiò così bruscamente che sembrò che qualcuno gli avesse tolto il pavimento da sotto i piedi.
-
-Per un secondo il ristorante scomparve.
-
-Lev si trovò in strada.
-
-Notte.
-
-Neve.
-
-Non pioggia.
-
-Davanti a lui c'era lo stesso uomo, ma più vecchio.
-
-Aveva sangue sul volto.
+Lev quasi non la sentì. Allungò la mano. Le dita toccarono il metallo. Il mondo intorno a lui cambiò così bruscamente che sembrò che qualcuno gli avesse tolto il pavimento da sotto i piedi. Per un secondo il ristorante scomparve. Lev si trovò in strada. Notte. Neve. Non pioggia. Davanti a lui c'era lo stesso uomo, ma più vecchio. Aveva sangue sul volto.
 
 — Devi restituirla — disse.
 
@@ -320,19 +200,11 @@ Gli tese la mano.
 
 — A te stesso.
 
-Lev sbatté le palpebre.
-
-Il ristorante tornò.
-
-La sua mano era ancora sul tavolo.
-
-L'uomo lo guardava.
+Lev sbatté le palpebre. Il ristorante tornò. La sua mano era ancora sul tavolo. L'uomo lo guardava.
 
 — Hai visto?
 
-Lev ritrasse la mano.
-
-Le dita tremavano.
+Lev ritrasse la mano. Le dita tremavano.
 
 — Cos'è stato?
 
@@ -378,17 +250,7 @@ Lev lo guardò.
 
 — Di cosa?
 
-L'uomo tirò fuori dalla tasca un orologio.
-
-Da tasca.
-
-Vecchio.
-
-Con il coperchio d'argento.
-
-Lo aprì.
-
-Le lancette segnavano 01:31.
+L'uomo tirò fuori dalla tasca un orologio. Da tasca. Vecchio. Con il coperchio d'argento. Lo aprì. Le lancette segnavano 01:31.
 
 — Tra ventotto minuti esprimerai un desiderio.
 
@@ -402,11 +264,7 @@ Chiuse l'orologio.
 
 — Vorrai riportare indietro tuo fratello.
 
-Lev non disse nulla.
-
-Il petto gli si fece stretto.
-
-L'uomo continuò:
+Lev non disse nulla. Il petto gli si fece stretto. L'uomo continuò:
 
 — E il desiderio si avvererà.
 
@@ -454,17 +312,11 @@ Posò l'orologio sul tavolo.
 
 — Capirai.
 
-In quel momento un cameriere portò una terza tazza.
-
-La posò davanti alla sedia vuota.
-
-Lev lo guardò.
+In quel momento un cameriere portò una terza tazza. La posò davanti alla sedia vuota. Lev lo guardò.
 
 — Non l'abbiamo ordinata.
 
-Il cameriere non rispose.
-
-Mira impallidì.
+Il cameriere non rispose. Mira impallidì.
 
 — La porti via.
 
@@ -478,9 +330,7 @@ Il cameriere disse con calma:
 
 — Edrian Arden.
 
-La tazza tremò e il caffè al suo interno cominciò a girare in cerchio.
-
-Il cuore di Lev gli colpì il petto così forte da fargli male.
+La tazza tremò e il caffè al suo interno cominciò a girare in cerchio. Il cuore di Lev gli colpì il petto così forte da fargli male.
 
 — È qui?
 
@@ -488,11 +338,7 @@ Il cameriere guardò l'orologio.
 
 — Ci sarà.
 
-E se ne andò.
-
-Lev fissava la sedia vuota.
-
-L'uomo con il cappotto bagnato disse piano:
+E se ne andò. Lev fissava la sedia vuota. L'uomo con il cappotto bagnato disse piano:
 
 — Ecco perché non devi esprimere il desiderio.
 
@@ -504,41 +350,7 @@ Lev lo guardò.
 
 — E sarebbe un male?
 
-L'uomo non rispose.
-
-Invece tirò fuori una fotografia.
-
-La posò sul tavolo.
-
-Lev vide se stesso.
-
-In piedi davanti alla porta.
-
-Accanto a lui c'era Edrian.
-
-Vivo.
-
-Mira stava dall'altra parte.
-
-E l'uomo con il cappotto bagnato era dietro di loro.
-
-Ma nella fotografia c'era anche qualcos'altro.
-
-Alle loro spalle divampava un incendio.
-
-Lev sentì odore di fumo.
-
-Non proveniva dalla fotografia.
-
-Era nell'aria.
-
-Il ristorante diventò caldo per un secondo.
-
-Qualcuno gridò.
-
-Gli ospiti voltarono tutti la testa contemporaneamente.
-
-Mira afferrò la fotografia.
+L'uomo non rispose. Invece tirò fuori una fotografia. La posò sul tavolo. Lev vide se stesso. In piedi davanti alla porta. Accanto a lui c'era Edrian. Vivo. Mira stava dall'altra parte. E l'uomo con il cappotto bagnato era dietro di loro. Ma nella fotografia c'era anche qualcos'altro. Alle loro spalle divampava un incendio. Lev sentì odore di fumo. Non proveniva dalla fotografia. Era nell'aria. Il ristorante diventò caldo per un secondo. Qualcuno gridò. Gli ospiti voltarono tutti la testa contemporaneamente. Mira afferrò la fotografia.
 
 — Da dove viene?
 
@@ -548,13 +360,7 @@ Mira afferrò la fotografia.
 
 — Qui questa parola non esiste.
 
-Le fiamme scomparvero.
-
-La temperatura tornò normale.
-
-Sul tavolo rimase la fotografia.
-
-Lev la fissò.
+Le fiamme scomparvero. La temperatura tornò normale. Sul tavolo rimase la fotografia. Lev la fissò.
 
 — Cosa sta succedendo?
 
@@ -568,19 +374,7 @@ Aprì gli occhi.
 
 — Per domani.
 
-E in quel momento tutti gli orologi del ristorante segnarono 01:31.
-
-Contemporaneamente.
-
-L'uomo si alzò.
-
-Il cappotto bagnato non era più bagnato.
-
-Le gocce erano scomparse.
-
-Sembrava più giovane.
-
-Lev lo guardò.
+E in quel momento tutti gli orologi del ristorante segnarono 01:31. Contemporaneamente. L'uomo si alzò. Il cappotto bagnato non era più bagnato. Le gocce erano scomparse. Sembrava più giovane. Lev lo guardò.
 
 — Aspetti.
 
@@ -610,35 +404,11 @@ Sorrise.
 
 — Un uomo che una volta ha già cercato di salvarti.
 
-Fece un altro passo.
-
-E scomparve.
-
-Non si dissolse.
-
-Non diventò trasparente.
-
-Semplicemente, un secondo dopo, non c'era più.
-
-La sedia era rimasta.
-
-La tazza era rimasta.
-
-L'odore della pioggia era rimasto.
-
-Sulla tovaglia bianca c'era una sola cosa.
-
-La penna di Lev.
-
-La stessa che non aveva ancora dato a nessuno.
-
-Mira la guardò.
+Fece un altro passo. E scomparve. Non si dissolse. Non diventò trasparente. Semplicemente, un secondo dopo, non c'era più. La sedia era rimasta. La tazza era rimasta. L'odore della pioggia era rimasto. Sulla tovaglia bianca c'era una sola cosa. La penna di Lev. La stessa che non aveva ancora dato a nessuno. Mira la guardò.
 
 — Non prenderla.
 
-Lev non si mosse.
-
-Gli sembrava che qualunque movimento potesse rendere reale quella scena impossibile.
+Lev non si mosse. Gli sembrava che qualunque movimento potesse rendere reale quella scena impossibile.
 
 — Perché?
 
@@ -650,41 +420,11 @@ Guardava la penna.
 
 — Ora so che può succedere.
 
-Mira non disse nulla.
-
-Lev prese la penna.
-
-Questa volta la visione arrivò immediatamente.
-
-Neve.
-
-Un enorme orologio.
-
-Edrian.
-
-E Lev stesso davanti a una porta.
-
-Edrian diceva:
+Mira non disse nulla. Lev prese la penna. Questa volta la visione arrivò immediatamente. Neve. Un enorme orologio. Edrian. E Lev stesso davanti a una porta. Edrian diceva:
 
 — Se vuoi riportarmi indietro, prima chiediti chi sei disposto a perdere.
 
-La visione scomparve.
-
-Lev aprì gli occhi.
-
-Il ristorante era silenzioso.
-
-La sedia vuota davanti a lui non era più vuota.
-
-Su di essa c'era un cappotto.
-
-Vecchio.
-
-Bagnato.
-
-E sotto il cappotto qualcuno respirava.
-
-Mira sussurrò:
+La visione scomparve. Lev aprì gli occhi. Il ristorante era silenzioso. La sedia vuota davanti a lui non era più vuota. Su di essa c'era un cappotto. Vecchio. Bagnato. E sotto il cappotto qualcuno respirava. Mira sussurrò:
 
 — Lev...
 
@@ -696,21 +436,11 @@ Da sotto il tavolo arrivò una voce:
 
 — Non esprimere il desiderio.
 
-Lev si immobilizzò.
-
-Era la sua stessa voce.
-
-Ma parlava da domani.
-
-Lev non si mosse.
-
-La propria voce da sotto il tavolo ripeté:
+Lev si immobilizzò. Era la sua stessa voce. Ma parlava da domani. Lev non si mosse. La propria voce da sotto il tavolo ripeté:
 
 — Mi senti?
 
-Guardò sotto.
-
-C'era soltanto un'ombra.
+Guardò sotto. C'era soltanto un'ombra.
 
 — Cosa vuoi?
 
@@ -722,9 +452,7 @@ Pausa.
 
 — Tu.
 
-Lev sentì la bocca asciutta.
-
-Mira si accovacciò accanto a lui.
+Lev sentì la bocca asciutta. Mira si accovacciò accanto a lui.
 
 — Non rispondere.
 
@@ -762,17 +490,7 @@ La voce risuonò di nuovo:
 
 — Ma io sono già stato qui.
 
-Il tavolo tremò.
-
-Le tazze sui tavoli vicini tintinnarono.
-
-Alcuni ospiti alzarono la testa.
-
-L'anziano smise di tagliare la torta vuota.
-
-La donna in abito blu guardò Lev per la prima volta.
-
-E sussurrò:
+Il tavolo tremò. Le tazze sui tavoli vicini tintinnarono. Alcuni ospiti alzarono la testa. L'anziano smise di tagliare la torta vuota. La donna in abito blu guardò Lev per la prima volta. E sussurrò:
 
 — Non ascoltarlo.
 
@@ -780,9 +498,7 @@ Lev la guardò.
 
 — Lo sentite anche voi?
 
-Lei non rispose.
-
-Gli occhi le si riempirono di lacrime.
+Lei non rispose. Gli occhi le si riempirono di lacrime.
 
 — Una volta l'ho ascoltato.
 
@@ -802,11 +518,7 @@ La donna toccò la tazza.
 
 — Non l'ho più riconosciuto.
 
-Lo disse con calma.
-
-E quella calma rese tutto più spaventoso.
-
-Mira tirò Lev per la manica.
+Lo disse con calma. E quella calma rese tutto più spaventoso. Mira tirò Lev per la manica.
 
 — Andiamo.
 
@@ -838,11 +550,7 @@ Lev si fermò.
 
 — È una risposta sincera.
 
-Tirò fuori dalla tasca un orologio.
-
-Un normale orologio da polso.
-
-Lo schermo segnava 00:16.
+Tirò fuori dalla tasca un orologio. Un normale orologio da polso. Lo schermo segnava 00:16.
 
 — Guarda.
 
@@ -868,17 +576,7 @@ Lev guardò la porta.
 
 — Perché ora il tempo sa che ci siamo accorti di lui.
 
-Dalla sala arrivò un tintinnio.
-
-La terza tazza era scomparsa.
-
-La sedia vuota era tornata normale.
-
-Anche il cappotto bagnato era scomparso.
-
-Lev guardò la propria mano.
-
-La penna era ancora con lui.
+Dalla sala arrivò un tintinnio. La terza tazza era scomparsa. La sedia vuota era tornata normale. Anche il cappotto bagnato era scomparso. Lev guardò la propria mano. La penna era ancora con lui.
 
 — È un oggetto del futuro?
 
@@ -904,23 +602,7 @@ Lev strinse la penna.
 
 — Quando hai preso la chiave.
 
-Quelle parole rimasero tra loro.
-
-Lev capì all'improvviso che fino a quel momento aveva pensato al futuro come a una strada.
-
-Una sola strada.
-
-Una sola fine.
-
-Un solo punto al quale arrivare o non arrivare.
-
-Ma l'Hotel non era una strada.
-
-Era una foresta.
-
-Decine di sentieri.
-
-E ognuno compariva sotto i piedi soltanto dopo il primo passo.
+Quelle parole rimasero tra loro. Lev capì all'improvviso che fino a quel momento aveva pensato al futuro come a una strada. Una sola strada. Una sola fine. Un solo punto al quale arrivare o non arrivare. Ma l'Hotel non era una strada. Era una foresta. Decine di sentieri. E ognuno compariva sotto i piedi soltanto dopo il primo passo.
 
 — Allora perché dovrei avere paura del futuro? — chiese.
 
@@ -932,53 +614,15 @@ Guardò la penna.
 
 — Di ciò che farai dopo averlo conosciuto.
 
-Lev stava per chiedere altro, ma dietro la porta del ristorante si sentì bussare.
-
-Uno.
-
-Due.
-
-Tre.
-
-Mira si immobilizzò.
-
-Il quarto non arrivò.
-
-Al suo posto qualcuno disse:
+Lev stava per chiedere altro, ma dietro la porta del ristorante si sentì bussare. Uno. Due. Tre. Mira si immobilizzò. Il quarto non arrivò. Al suo posto qualcuno disse:
 
 — Signor Arden?
 
-La voce era calma.
-
-Educata.
-
-Maschile.
-
-Lev la riconobbe.
-
-Era lo stesso uomo in abito nero.
-
-L'Amministratore.
-
-Mira chiuse gli occhi.
+La voce era calma. Educata. Maschile. Lev la riconobbe. Era lo stesso uomo in abito nero. L'Amministratore. Mira chiuse gli occhi.
 
 — Lo sa già.
 
-La porta del ristorante si aprì.
-
-L'Amministratore stava nel corridoio.
-
-Senza ombrello.
-
-Senza cappotto.
-
-Sul bavero non c'era nemmeno una goccia di pioggia.
-
-Guardò Lev.
-
-Poi la penna nella sua mano.
-
-E sorrise appena.
+La porta del ristorante si aprì. L'Amministratore stava nel corridoio. Senza ombrello. Senza cappotto. Sul bavero non c'era nemmeno una goccia di pioggia. Guardò Lev. Poi la penna nella sua mano. E sorrise appena.
 
 — Quindi l'ospite di domani è arrivato comunque.
 
@@ -1014,11 +658,7 @@ Guardò Lev.
 
 — Ho soltanto comunicato l'ora.
 
-Poi si voltò.
-
-E se ne andò.
-
-Lev guardò Mira.
+Poi si voltò. E se ne andò. Lev guardò Mira.
 
 — L'ha fatto apposta.
 
@@ -1034,11 +674,7 @@ Guardò la penna.
 
 — Ed è tutto ciò di cui l'Hotel ha bisogno.
 
-Uscirono dal ristorante.
-
-Il corridoio li accolse con il freddo.
-
-Lev si fermò.
+Uscirono dal ristorante. Il corridoio li accolse con il freddo. Lev si fermò.
 
 — Hai detto che restano ventidue minuti.
 
@@ -1060,13 +696,7 @@ Lev quasi rise.
 
 — Esatto.
 
-Continuarono.
-
-Dopo pochi passi Lev notò che le pareti erano diventate più chiare.
-
-Il legno scompariva, lasciando spazio alla pietra grigia.
-
-Sul pavimento comparvero tracce d'acqua, come se decine di persone avessero camminato lì a piedi nudi dopo la pioggia.
+Continuarono. Dopo pochi passi Lev notò che le pareti erano diventate più chiare. Il legno scompariva, lasciando spazio alla pietra grigia. Sul pavimento comparvero tracce d'acqua, come se decine di persone avessero camminato lì a piedi nudi dopo la pioggia.
 
 — Siamo già stati qui?
 
@@ -1082,19 +712,7 @@ Mira si fermò.
 
 — Nella fotografia.
 
-Lev tirò fuori la foto.
-
-Sullo sfondo c'era davvero quel corridoio.
-
-Guardò la fotografia.
-
-Poi le pareti.
-
-Coincidevano le lampade.
-
-La crepa vicino al soffitto.
-
-Perfino una piccola macchia sul tappeto.
+Lev tirò fuori la foto. Sullo sfondo c'era davvero quel corridoio. Guardò la fotografia. Poi le pareti. Coincidevano le lampade. La crepa vicino al soffitto. Perfino una piccola macchia sul tappeto.
 
 — È proprio questo.
 
@@ -1118,33 +736,11 @@ Lev la guardò.
 
 — Ho paura che l'Hotel stia cominciando a parlare come noi.
 
-In fondo al corridoio c'era una porta.
-
-Non aveva numero.
-
-Solo una piccola targhetta di ottone:
+In fondo al corridoio c'era una porta. Non aveva numero. Solo una piccola targhetta di ottone:
 
 **DOMANI**
 
-Lev si avvicinò.
-
-Da dietro la porta arrivava odore di neve.
-
-Non il suono della neve.
-
-L'odore.
-
-Aria fredda.
-
-Fumo dai camini.
-
-Lana bagnata.
-
-Gelo.
-
-Sentiva l'inverno.
-
-Anche se fuori dalle finestre dell'Hotel continuava a piovere.
+Lev si avvicinò. Da dietro la porta arrivava odore di neve. Non il suono della neve. L'odore. Aria fredda. Fumo dai camini. Lana bagnata. Gelo. Sentiva l'inverno. Anche se fuori dalle finestre dell'Hotel continuava a piovere.
 
 — Non aprire — disse Mira.
 
@@ -1164,23 +760,7 @@ Lev posò la mano sulla maniglia.
 
 — È proprio così che iniziano tutte le violazioni.
 
-Ritrasse la mano.
-
-In quel momento sotto la porta comparve una striscia di luce.
-
-E su di essa cadde un'ombra.
-
-Due persone.
-
-Lev ed Edrian.
-
-Vide le loro gambe.
-
-Più grandi.
-
-Future.
-
-Edrian diceva:
+Ritrasse la mano. In quel momento sotto la porta comparve una striscia di luce. E su di essa cadde un'ombra. Due persone. Lev ed Edrian. Vide le loro gambe. Più grandi. Future. Edrian diceva:
 
 — Se apre, lo perderemo.
 
@@ -1204,34 +784,13 @@ Mira chiuse gli occhi.
 
 — Non hai ancora detto niente.
 
-Lev guardò la porta.
-
-L'ombra scomparve.
-
-All'improvviso capì che la cosa più spaventosa dell'Hotel non era vedere la propria morte.
-
-Alla morte una persona, almeno, non può rimproverarsi una scelta.
-
-La cosa più spaventosa era vedere la propria decisione.
-
-E capire quanto facilmente si è capaci di prenderla.
-
-Mira gli prese la mano.
+Lev guardò la porta. L'ombra scomparve. All'improvviso capì che la cosa più spaventosa dell'Hotel non era vedere la propria morte. Alla morte una persona, almeno, non può rimproverarsi una scelta. La cosa più spaventosa era vedere la propria decisione. E capire quanto facilmente si è capaci di prenderla. Mira gli prese la mano.
 
 — Andiamo.
 
-Questa volta Lev non protestò.
-
-Se ne andarono.
-
-E dietro la porta chiusa qualcuno disse piano:
+Questa volta Lev non protestò. Se ne andarono. E dietro la porta chiusa qualcuno disse piano:
 
 — Il desiderio principale si avvererà.
 
-E la voce non era quella di Edrian.
+E la voce non era quella di Edrian. Non quella dell'Amministratore. Non quella di Mira. La voce apparteneva all'Hotel stesso.
 
-Non quella dell'Amministratore.
-
-Non quella di Mira.
-
-La voce apparteneva all'Hotel stesso.
