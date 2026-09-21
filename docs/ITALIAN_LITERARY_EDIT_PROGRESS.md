@@ -16,7 +16,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.7 Action-scene rhythm: **100%**
 - B15.2.8 Mystery-scene rhythm: **100% (32/32 chapters reviewed)**
 - B15.2.9 Emotional-scene rhythm: **100% (32/32 chapters reviewed)**
-- B15.2.10 Repetition / heavy constructions: **50% (24/32 chapters reviewed)**
+- B15.2.10 Repetition / heavy constructions: **100% (32/32 chapters reviewed)**
 - B15.2.11 Italian punctuation / typography: **0%**
 - B15.2.12 Terminology consistency: **0%**
 - B15.2.13 Meaning fidelity: **0%**
@@ -253,3 +253,7 @@ B15.2.10 CHECKPOINT 50% — Chapters 17–24 reviewed for repetition and heavy c
 
 
 B15.2.10 CHECKPOINT 50% — Chapters 17–24 reviewed for repetition and heavy constructions. Checked repeated wording, duplicated semantic explanations, overloaded clause chains, repetitive sentence openings, redundant intensifiers, and recurring descriptive formulations. Intentional thematic repetition around future/choice/memory/Hotel motifs, suspense beats, and deliberate parallel constructions was preserved. No forced rewrites were introduced where repetition was structurally or thematically justified. Coverage: **24/32 chapters = 75% of the workflow, 50% of the block**. GitHub checkpoint: `428fb955064bb72f15c47fd9eb14376310a52e86`.
+
+B15.2.10 FINAL CHECKPOINT — Chapters 25–32 reviewed for repetition and heavy constructions. Repeated wording, duplicated semantic explanations, overloaded clause chains, repetitive sentence openings, redundant intensifiers, and recurring descriptive formulations were checked. Recurrent motifs such as the man at the window, the older Lev, clocks, doors, and repeated sensory beats were retained where they function as deliberate literary leitmotifs or suspense devices. No forced rewrites were introduced merely to reduce visible repetition. Coverage: **32/32 chapters = 100%**.
+
+B15.2.10 COMPLETE: **100%**.
