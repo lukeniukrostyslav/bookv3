@@ -247,3 +247,6 @@ Coverage: **32/32 chapters = 100%**. B15.2.9 is complete.
 
 
 B15.2.10 CHECKPOINT 25% — Chapters 1–16 reviewed for repetition and heavy constructions. Checked repeated words/phrases, duplicated semantic statements, excessive nominalizations, stacked subordinate clauses, repeated sentence openings, redundant explanatory phrases, and recurrence of identical imagery. Intentional motifs and deliberate repetition were preserved; no forced rewrites were introduced where repetition served rhythm, suspense, memory, or thematic continuity. Coverage: **16/32 chapters = 50% of chapter coverage**, while this checkpoint represents **25% of the planned B15.2.10 workflow**. Next checkpoint: chapters 17–24.
+
+
+B15.2.10 CHECKPOINT 50% — Chapters 17–24 reviewed for repetition and heavy constructions. Checked repeated wording, duplicated semantic explanations, overlong clause chains, repetitive sentence openings, redundant intensifiers, and recurring descriptive formulations. Intentional thematic repetition (future/choice/memory/Hotel motifs), suspense beats, and deliberately parallel constructions were preserved. No forced rewrites were introduced where repetition was structurally or thematically justified. Coverage: **24/32 chapters reviewed**. B15.2.10 workflow progress: **50%**.
