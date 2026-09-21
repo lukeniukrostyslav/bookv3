@@ -33,14 +33,14 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - Chapter 06 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
 - Chapter 07 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
 - Chapter 08 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
-- Chapter 09 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 10 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 11 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 12 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 13 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 14 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 15 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 16 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 09 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
+- Chapter 10 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
+- Chapter 11 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
+- Chapter 12 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
+- Chapter 13 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
+- Chapter 14 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
+- Chapter 15 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
+- Chapter 16 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
 - Chapter 17 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
 - Chapter 18 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
 - Chapter 19 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
@@ -129,6 +129,6 @@ Dedicated passes B15.2.5–B15.2.15 remain separate and are not included in the 
 
 B15.2.5 dialogue-naturalness coverage is now 32/32 chapters = 100%. Chapters 25–32 were checked in this checkpoint. The full 32-chapter dialogue pass is complete.
 
-B15.2.6 atmosphere/tension coverage is now 8/32 chapters = 25%. Chapters 01–08 were checked in the new pass. No forced rewrites were introduced where the existing atmosphere already serves the mystery, suspense, or emotional architecture. Existing dialogue was preserved where natural, canon-consistent, or intentionally terse for suspense; no forced rewrites were introduced.
+B15.2.6 atmosphere/tension coverage is now 16/32 chapters = 50%. Chapters 01–16 were checked in the new pass. Chapters 09–16 were reviewed for suspense, sensory atmosphere, mystery pressure, scene transitions, and tension release. No forced rewrites were introduced where the existing Italian already serves the intended atmosphere. Existing dialogue was preserved where natural, canon-consistent, or intentionally terse for suspense; no forced rewrites were introduced.
 
 This is an editing checkpoint, not final Italian proofreading and not native-speaker QA.
