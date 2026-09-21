@@ -1,22 +1,6 @@
 # Capitolo 16. Il Custode
 
-La porta si chiuse alle spalle di Lev.
-
-Capì subito di non essere in una stanza.
-
-Era un corridoio.
-
-Ma non il corridoio dell'Hotel che già conosceva.
-
-Qui le pareti erano più basse, il soffitto più scuro e le lampade si accendevano una sì e una no.
-
-Il pavimento era coperto da un vecchio tappeto color vino secco.
-
-Su di esso si vedevano le tracce di molti passi, come se per anni quel luogo fosse stato attraversato da persone alle quali era proibito lasciare tracce.
-
-Odorava di cera, ferro e caffè freddo.
-
-Mira era accanto a lui.
+La porta si chiuse alle spalle di Lev. Capì subito di non essere in una stanza. Era un corridoio. Ma non il corridoio dell'Hotel che già conosceva. Qui le pareti erano più basse, il soffitto più scuro e le lampade si accendevano una sì e una no. Il pavimento era coperto da un vecchio tappeto color vino secco. Su di esso si vedevano le tracce di molti passi, come se per anni quel luogo fosse stato attraversato da persone alle quali era proibito lasciare tracce. Odorava di cera, ferro e caffè freddo. Mira era accanto a lui.
 
 — Hai mai visto questo corridoio?
 
@@ -28,19 +12,7 @@ Lev la guardò.
 
 — Sembra di sì.
 
-Da qualche parte davanti a loro gocciolava acqua.
-
-Una goccia.
-
-Pausa.
-
-Una goccia.
-
-Pausa.
-
-Lev seguì il suono.
-
-Mira lo raggiunse.
+Da qualche parte davanti a loro gocciolava acqua. Una goccia. Pausa. Una goccia. Pausa. Lev seguì il suono. Mira lo raggiunse.
 
 — Aspetta.
 
@@ -60,25 +32,7 @@ Si concentrò.
 
 — Qui il silenzio ascolta.
 
-Lev si fermò.
-
-Ora lo sentiva anche lui.
-
-Non era acqua.
-
-Era respiro.
-
-Il respiro di qualcuno.
-
-Proprio accanto.
-
-Si voltò lentamente.
-
-Nessuno.
-
-Solo una porta chiusa.
-
-Su di essa c'era una piccola targhetta di metallo:
+Lev si fermò. Ora lo sentiva anche lui. Non era acqua. Era respiro. Il respiro di qualcuno. Proprio accanto. Si voltò lentamente. Nessuno. Solo una porta chiusa. Su di essa c'era una piccola targhetta di metallo:
 
 **CUSTODE.**
 
@@ -92,25 +46,7 @@ Mira gli posò una mano sulla spalla.
 
 — No.
 
-Aprì la porta.
-
-La stanza era piccola.
-
-Non c'era il lusso dell'Hotel.
-
-Niente oro.
-
-Niente tende pesanti.
-
-Solo una scrivania, una sedia, una libreria e una finestra stretta.
-
-Sul tavolo era accesa una lampada.
-
-Accanto c'era una tazza di caffè.
-
-Da essa saliva ancora il vapore.
-
-Lev si immobilizzò.
+Aprì la porta. La stanza era piccola. Non c'era il lusso dell'Hotel. Niente oro. Niente tende pesanti. Solo una scrivania, una sedia, una libreria e una finestra stretta. Sul tavolo era accesa una lampada. Accanto c'era una tazza di caffè. Da essa saliva ancora il vapore. Lev si immobilizzò.
 
 — È qui.
 
@@ -118,39 +54,19 @@ Da dietro la libreria arrivò una voce:
 
 — Entravi sempre senza bussare.
 
-Lev smise di respirare.
-
-Edrian uscì dall'ombra.
-
-Era più vecchio di come Lev lo ricordava — non nel volto, ma negli occhi.
-
-La leggerezza da ragazzo era scomparsa.
-
-Ma quando vide suo fratello, per un secondo tornò tutto.
+Lev smise di respirare. Edrian uscì dall'ombra. Era più vecchio di come Lev lo ricordava — non nel volto, ma negli occhi. La leggerezza da ragazzo era scomparsa. Ma quando vide suo fratello, per un secondo tornò tutto.
 
 — Ciao, piccolo.
 
-Lev non rispose.
-
-Si avvicinò.
-
-Si fermò a un passo.
-
-Edrian sorrise.
+Lev non rispose. Si avvicinò. Si fermò a un passo. Edrian sorrise.
 
 — Sei cresciuto.
 
-Lev lo colpì.
-
-Il pugno gli arrivò sulla spalla.
-
-Edrian vacillò.
+Lev lo colpì. Il pugno gli arrivò sulla spalla. Edrian vacillò.
 
 — Era prevedibile.
 
-Lev lo colpì di nuovo.
-
-Questa volta Edrian non si scansò.
+Lev lo colpì di nuovo. Questa volta Edrian non si scansò.
 
 — E questo?
 
@@ -198,23 +114,7 @@ Edrian lo guardò.
 
 — Più di ogni altra cosa al mondo.
 
-Lev voleva colpirlo di nuovo.
-
-Ma non ci riuscì.
-
-Invece abbracciò suo fratello.
-
-Edrian rimase immobile.
-
-Poi lo abbracciò.
-
-Odorava di pioggia, legno e dello stesso sapone che usavano a casa.
-
-Per alcuni secondi l'Hotel non esistette.
-
-C'erano solo il fratello maggiore e quello minore che aveva aspettato troppo a lungo.
-
-Lev sentì Edrian espirare piano contro la sua spalla.
+Lev voleva colpirlo di nuovo. Ma non ci riuscì. Invece abbracciò suo fratello. Edrian rimase immobile. Poi lo abbracciò. Odorava di pioggia, legno e dello stesso sapone che usavano a casa. Per alcuni secondi l'Hotel non esistette. C'erano solo il fratello maggiore e quello minore che aveva aspettato troppo a lungo. Lev sentì Edrian espirare piano contro la sua spalla.
 
 — Perdonami.
 
@@ -226,17 +126,11 @@ Lev sentì Edrian espirare piano contro la sua spalla.
 
 — Lo so anche questo.
 
-Lev si staccò.
-
-Gli occhi di Edrian erano rossi.
+Lev si staccò. Gli occhi di Edrian erano rossi.
 
 — Siediti.
 
-Lev si sedette.
-
-Mira rimase sulla porta.
-
-Edrian la guardò.
+Lev si sedette. Mira rimase sulla porta. Edrian la guardò.
 
 — Alla fine gliel'hai raccontato.
 
@@ -244,9 +138,7 @@ Edrian la guardò.
 
 — Certo.
 
-Versò il caffè nella terza tazza.
-
-Lev la guardò.
+Versò il caffè nella terza tazza. Lev la guardò.
 
 — Sapevi che sarei venuto?
 
@@ -318,41 +210,11 @@ Una tensione familiare gli strinse le spalle.
 
 — Raccontami tutto.
 
-Edrian rimase a lungo in silenzio.
-
-Poi tirò fuori dalla libreria una cartella.
-
-Era spessa, consumata e legata con un nastro nero.
+Edrian rimase a lungo in silenzio. Poi tirò fuori dalla libreria una cartella. Era spessa, consumata e legata con un nastro nero.
 
 — Questo è ciò che ho visto la notte prima della mia scomparsa.
 
-Lev la aprì.
-
-La prima era una fotografia della loro casa.
-
-La loro casa.
-
-Alla finestra c'era la luce.
-
-Nella fotografia successiva Lev era davanti alla porta.
-
-Poi sulle scale.
-
-Poi vicino all'Hotel.
-
-Poi nella stanza della morte.
-
-Lev sfogliava le fotografie.
-
-A ogni immagine diventava più freddo.
-
-In una era steso sul pavimento.
-
-In un'altra stava accanto a Mira.
-
-Nella terza teneva il libro bianco.
-
-Nella quarta l'Amministratore era immobile a terra.
+Lev la aprì. La prima era una fotografia della loro casa. La loro casa. Alla finestra c'era la luce. Nella fotografia successiva Lev era davanti alla porta. Poi sulle scale. Poi vicino all'Hotel. Poi nella stanza della morte. Lev sfogliava le fotografie. A ogni immagine diventava più freddo. In una era steso sul pavimento. In un'altra stava accanto a Mira. Nella terza teneva il libro bianco. Nella quarta l'Amministratore era immobile a terra.
 
 — Hai visto la sua morte?
 
@@ -396,11 +258,7 @@ Lev lo guardò.
 
 — Racconta.
 
-Edrian si avvicinò alla finestra.
-
-Fuori nevicava.
-
-Anche se un minuto prima pioveva.
+Edrian si avvicinò alla finestra. Fuori nevicava. Anche se un minuto prima pioveva.
 
 — Torno a casa.
 
@@ -482,9 +340,7 @@ Nella stanza fece freddo.
 
 — Non proprio.
 
-Lev guardò Mira.
-
-Edrian annuì.
+Lev guardò Mira. Edrian annuì.
 
 — Lei mi aiutava.
 
@@ -522,11 +378,7 @@ Quelle parole suonarono troppo calme.
 
 — Cosa esattamente?
 
-Edrian tirò fuori una nuova fotografia.
-
-Era quasi vuota.
-
-Solo sul bordo si vedeva Lev.
+Edrian tirò fuori una nuova fotografia. Era quasi vuota. Solo sul bordo si vedeva Lev.
 
 — Prima del tuo arrivo esisteva un numero limitato di possibilità stabili.
 
@@ -544,17 +396,7 @@ Lev lo guardò attentamente.
 
 — Non così.
 
-Edrian posò la fotografia sul tavolo.
-
-Su di essa c'erano tre porte.
-
-La prima rossa.
-
-La seconda bianca.
-
-La terza nera.
-
-Nessuna aveva un numero.
+Edrian posò la fotografia sul tavolo. Su di essa c'erano tre porte. La prima rossa. La seconda bianca. La terza nera. Nessuna aveva un numero.
 
 — Prima l'Hotel sapeva distribuire solo le probabilità già esistenti.
 
@@ -598,9 +440,7 @@ Edrian sorrise.
 
 — Ho deciso che potevo scegliere al posto tuo.
 
-Lev abbassò gli occhi.
-
-Edrian si avvicinò.
+Lev abbassò gli occhi. Edrian si avvicinò.
 
 — Pensavo che, se fossi rimasto, saresti stato al sicuro.
 
@@ -612,9 +452,7 @@ Edrian si avvicinò.
 
 — Sì.
 
-Lo disse senza giustificarsi.
-
-Per la prima volta Lev vide in suo fratello non il Custode né l'uomo delle fotografie, ma semplicemente Edrian — un fratello che aveva sbagliato.
+Lo disse senza giustificarsi. Per la prima volta Lev vide in suo fratello non il Custode né l'uomo delle fotografie, ma semplicemente Edrian — un fratello che aveva sbagliato.
 
 — Cosa devo fare?
 
@@ -650,13 +488,7 @@ Edrian rispose:
 
 — Perché non so ancora quale versione di me si trovi dietro quella porta.
 
-Nel corridoio suonò un campanello.
-
-Un colpo.
-
-Poi un secondo.
-
-Edrian si alzò bruscamente.
+Nel corridoio suonò un campanello. Un colpo. Poi un secondo. Edrian si alzò bruscamente.
 
 — Dobbiamo andare.
 
@@ -694,55 +526,11 @@ Edrian lo guardò.
 
 — Perché non l'ho mai fotografata.
 
-In quel momento la macchina fotografica nella sua mano scattò da sola.
-
-Edrian impallidì.
-
-Dalla macchina cadde una fotografia.
-
-Nella foto c'era una quarta porta.
-
-Quella che ancora non esisteva.
-
-Davanti a essa c'era Lev.
-
-Ma accanto a lui non c'erano Mira.
-
-Non c'era Edrian.
-
-Non c'era l'Amministratore.
-
-Lev si chinò.
-
-Nella riflessione della maniglia vide il proprio volto.
-
-Solo che gli occhi non erano i suoi.
-
-E la fotografia cominciò lentamente a diventare nera.
-
-Lev guardò la fotografia.
-
-La macchia nera si allargava dai bordi verso il centro.
-
-Prima scomparve il corridoio.
-
-Poi la porta.
-
-Poi la figura di Edrian.
-
-Rimase soltanto Lev.
-
-Ma gli occhi nella fotografia continuavano a guardare.
+In quel momento la macchina fotografica nella sua mano scattò da sola. Edrian impallidì. Dalla macchina cadde una fotografia. Nella foto c'era una quarta porta. Quella che ancora non esisteva. Davanti a essa c'era Lev. Ma accanto a lui non c'erano Mira. Non c'era Edrian. Non c'era l'Amministratore. Lev si chinò. Nella riflessione della maniglia vide il proprio volto. Solo che gli occhi non erano i suoi. E la fotografia cominciò lentamente a diventare nera. Lev guardò la fotografia. La macchia nera si allargava dai bordi verso il centro. Prima scomparve il corridoio. Poi la porta. Poi la figura di Edrian. Rimase soltanto Lev. Ma gli occhi nella fotografia continuavano a guardare.
 
 — Cos'è? — chiese.
 
-Edrian non rispose.
-
-Prese la fotografia e la girò.
-
-Sul retro comparvero lentamente delle parole.
-
-Come se venissero scritte con inchiostro invisibile.
+Edrian non rispose. Prese la fotografia e la girò. Sul retro comparvero lentamente delle parole. Come se venissero scritte con inchiostro invisibile.
 
 **NUOVA POSSIBILITÀ RILEVATA.**
 
@@ -784,9 +572,7 @@ Mira disse piano:
 
 — E hai scelto di cercare una terza via.
 
-Lev ricordò il libro nero.
-
-Quella pagina.
+Lev ricordò il libro nero. Quella pagina.
 
 **TERZA VIA — NON TROVATA.**
 
@@ -818,19 +604,7 @@ Edrian lo guardò.
 
 — Per tutte le possibilità.
 
-Nella stanza fece più freddo.
-
-Mira si avvicinò alla finestra.
-
-Fuori non c'erano più neve o pioggia.
-
-La strada si muoveva lentamente.
-
-Le persone camminavano all'indietro.
-
-Le auto procedevano in retromarcia.
-
-I lampioni si spegnevano uno dopo l'altro.
+Nella stanza fece più freddo. Mira si avvicinò alla finestra. Fuori non c'erano più neve o pioggia. La strada si muoveva lentamente. Le persone camminavano all'indietro. Le auto procedevano in retromarcia. I lampioni si spegnevano uno dopo l'altro.
 
 — L'Hotel sta riavvolgendo il tempo — disse.
 
@@ -854,13 +628,7 @@ Edrian lo guardò.
 
 — Allora il sistema comincerà a rompersi.
 
-Da qualche parte nella parete risuonò un colpo sordo.
-
-Poi un secondo.
-
-La polvere cadde dal soffitto.
-
-La lampada tremò.
+Da qualche parte nella parete risuonò un colpo sordo. Poi un secondo. La polvere cadde dal soffitto. La lampada tremò.
 
 — Dobbiamo andare — disse Edrian.
 
@@ -872,19 +640,7 @@ La lampada tremò.
 
 — Ora l'Hotel cambia direzione.
 
-Uscirono nel corridoio.
-
-Le pareti si muovevano.
-
-Molto lentamente.
-
-Così lentamente che all'inizio Lev pensò di esserselo immaginato.
-
-Poi la porta a destra si spostò di alcuni centimetri.
-
-Il quadro sulla parete ruotò.
-
-Il tappeto si increspò.
+Uscirono nel corridoio. Le pareti si muovevano. Molto lentamente. Così lentamente che all'inizio Lev pensò di esserselo immaginato. Poi la porta a destra si spostò di alcuni centimetri. Il quadro sulla parete ruotò. Il tappeto si increspò.
 
 — Si sta davvero svegliando — sussurrò Lev.
 
@@ -892,13 +648,7 @@ Edrian annuì.
 
 — E non capisce più chi siamo.
 
-Camminarono.
-
-Lev procedeva accanto a suo fratello.
-
-Per alcuni secondi nessuno parlò.
-
-Poi Lev chiese:
+Camminarono. Lev procedeva accanto a suo fratello. Per alcuni secondi nessuno parlò. Poi Lev chiese:
 
 — Sei felice che ti abbia trovato?
 
@@ -918,9 +668,7 @@ Si fermò.
 
 — Ora ho capito che non dovrebbe esserci una scelta tra le persone.
 
-Lev non disse nulla.
-
-Edrian continuò:
+Lev non disse nulla. Edrian continuò:
 
 — Avrei potuto tornare.
 
@@ -942,9 +690,7 @@ Lev lo guardò.
 
 — Diventavi il Custode.
 
-Lev si immobilizzò.
-
-Edrian disse:
+Lev si immobilizzò. Edrian disse:
 
 — Nella maggior parte delle possibilità.
 
@@ -958,33 +704,7 @@ Edrian lo guardò.
 
 — Nella nuova non lo so.
 
-Per la prima volta Lev vide nei suoi occhi una paura autentica.
-
-Non per se stesso.
-
-Per l'ignoto.
-
-Arrivarono all'ascensore.
-
-Non c'erano pulsanti.
-
-Come sempre.
-
-Le porte si aprirono.
-
-Al posto dello specchio c'era una fotografia.
-
-Mostrava Lev.
-
-Edrian.
-
-Mira.
-
-E l'Amministratore.
-
-I quattro guardavano verso il basso.
-
-Sotto la fotografia c'era scritto:
+Per la prima volta Lev vide nei suoi occhi una paura autentica. Non per se stesso. Per l'ignoto. Arrivarono all'ascensore. Non c'erano pulsanti. Come sempre. Le porte si aprirono. Al posto dello specchio c'era una fotografia. Mostrava Lev. Edrian. Mira. E l'Amministratore. I quattro guardavano verso il basso. Sotto la fotografia c'era scritto:
 
 **LA QUARTA POSSIBILITÀ NON APPARTIENE A NESSUNO.**
 
@@ -1008,57 +728,9 @@ Edrian lo guardò.
 
 — A ciò che vuoi cambiare.
 
-Lev chiuse gli occhi.
+Lev chiuse gli occhi. Pensò a Edrian. Non al suo ritorno. Non ai cinque anni perduti. A quella sera a casa in cui erano seduti sul pavimento a montare un vecchio modellino di aereo. Edrian aveva incollato male un'ala. Avevano riso. Lev ricordò ciò che suo fratello aveva detto: «Se non sai dove volare, prima decidi da dove decollare». L'ascensore tremò. Le porte si chiusero. Mira era accanto a lui. Edrian di fronte.
 
-Pensò a Edrian.
-
-Non al suo ritorno.
-
-Non ai cinque anni perduti.
-
-A quella sera a casa in cui erano seduti sul pavimento a montare un vecchio modellino di aereo.
-
-Edrian aveva incollato male un'ala.
-
-Avevano riso.
-
-Lev ricordò ciò che suo fratello aveva detto:
-
-«Se non sai dove volare, prima decidi da dove decollare».
-
-L'ascensore tremò.
-
-Le porte si chiusero.
-
-Mira era accanto a lui.
-
-Edrian di fronte.
-
-Le lancette senza quadrante si muovevano.
-
-Su.
-
-Giù.
-
-Di nuovo su.
-
-Poi si fermarono.
-
-Le porte si aprirono.
-
-Davanti a loro c'era un corridoio.
-
-Ma in fondo c'erano quattro porte.
-
-La prima rossa.
-
-La seconda bianca.
-
-La terza nera.
-
-La quarta trasparente.
-
-Lev inspirò lentamente.
+Le lancette senza quadrante si muovevano. Su. Giù. Di nuovo su. Poi si fermarono. Le porte si aprirono. Davanti a loro c'era un corridoio. Ma in fondo c'erano quattro porte. La prima rossa. La seconda bianca. La terza nera. La quarta trasparente. Lev inspirò lentamente.
 
 — Hai detto che la quarta porta non esisteva.
 
@@ -1070,23 +742,7 @@ Edrian rispose:
 
 — Adesso sì.
 
-Sulla porta trasparente apparve un riflesso.
-
-Lev vide se stesso.
-
-Poi Mira.
-
-Poi Edrian.
-
-E infine l'Amministratore.
-
-Ma nel riflesso l'Amministratore non era accanto a loro.
-
-Era dall'altra parte della porta.
-
-E teneva una fotografia.
-
-Edrian disse:
+Sulla porta trasparente apparve un riflesso. Lev vide se stesso. Poi Mira. Poi Edrian. E infine l'Amministratore. Ma nel riflesso l'Amministratore non era accanto a loro. Era dall'altra parte della porta. E teneva una fotografia. Edrian disse:
 
 — Ecco la nuova possibilità.
 
@@ -1110,13 +766,7 @@ Per la prima volta Lev sorrise a sua volta.
 
 — Perché anch'io.
 
-Rimasero davanti alla porta trasparente.
-
-Nessuno la aprì.
-
-Per il momento.
-
-Lev guardò suo fratello.
+Rimasero davanti alla porta trasparente. Nessuno la aprì. Per il momento. Lev guardò suo fratello.
 
 — Capisci che non me ne andrò senza di te.
 
@@ -1138,25 +788,11 @@ Lev si stupì.
 
 — Perché sono ancora tuo fratello.
 
-Mira rise piano.
-
-E per un secondo tutto tornò quasi normale.
-
-Quasi.
-
-Poi sulla porta trasparente comparve una scritta.
-
-Non con l'inchiostro.
-
-Non con la luce.
-
-Apparve direttamente dentro il vetro.
+Mira rise piano. E per un secondo tutto tornò quasi normale. Quasi. Poi sulla porta trasparente comparve una scritta. Non con l'inchiostro. Non con la luce. Apparve direttamente dentro il vetro.
 
 **IL PRIMO UOMO CHE ENTRERÀ PERDERÀ UN RICORDO.**
 
-Lev la lesse.
-
-Edrian disse:
+Lev la lesse. Edrian disse:
 
 — Non farlo.
 
@@ -1172,31 +808,15 @@ Lev lo guardò.
 
 — Allora entra tu.
 
-Edrian rimase sorpreso.
-
-Lev sorrise.
+Edrian rimase sorpreso. Lev sorrise.
 
 — Sto imparando.
 
-Edrian rise.
-
-Ma la risata si interruppe.
-
-Da dietro la porta trasparente arrivò un suono.
-
-Lo scatto di una macchina fotografica.
-
-E una voce.
+Edrian rise. Ma la risata si interruppe. Da dietro la porta trasparente arrivò un suono. Lo scatto di una macchina fotografica. E una voce.
 
 — Finalmente.
 
-L'Amministratore.
-
-Mira indietreggiò.
-
-Edrian si mise davanti a Lev.
-
-Ma Lev lo fermò.
+L'Amministratore. Mira indietreggiò. Edrian si mise davanti a Lev. Ma Lev lo fermò.
 
 — No.
 
@@ -1208,39 +828,11 @@ Ma Lev lo fermò.
 
 — Se devo scegliere, devo scegliere da solo.
 
-Edrian abbassò lentamente la mano.
-
-E per la prima volta non fece un passo avanti.
-
-Lev si avvicinò alla porta.
-
-Appoggiò la mano sul vetro.
-
-Era caldo.
-
-Dall'altra parte arrivava odore di mare.
-
-Erba secca.
-
-E casa.
-
-Poi apparve un altro odore.
-
-Inchiostro.
-
-Lev ricordò il libro bianco.
-
-L'ultima pagina.
-
-Le parole:
+Edrian abbassò lentamente la mano. E per la prima volta non fece un passo avanti. Lev si avvicinò alla porta. Appoggiò la mano sul vetro. Era caldo. Dall'altra parte arrivava odore di mare. Erba secca. E casa. Poi apparve un altro odore. Inchiostro. Lev ricordò il libro bianco. L'ultima pagina. Le parole:
 
 **ORA PUOI SCEGLIERE TU.**
 
-Chiuse gli occhi.
-
-E non aprì la porta.
-
-Invece si allontanò.
+Chiuse gli occhi. E non aprì la porta. Invece si allontanò.
 
 — No.
 
@@ -1252,52 +844,8 @@ Lev lo guardò.
 
 — Non sceglierò tra le vostre porte.
 
-Silenzio.
-
-Edrian sorrise lentamente.
-
-Mira, per la prima volta dopo molto tempo, espirò liberamente.
-
-E la porta trasparente si ricoprì di una sottile crepa.
-
-Non si ruppe.
-
-Si incrinò soltanto.
-
-Dietro di essa apparve il buio.
-
-E nel buio si aprì un nuovo corridoio.
-
-Non quattro porte.
-
-Non tre.
-
-Una sola.
-
-Senza numero.
-
-Senza maniglia.
-
-Lev la guardò.
-
-Edrian sussurrò:
+Silenzio. Edrian sorrise lentamente. Mira, per la prima volta dopo molto tempo, espirò liberamente. E la porta trasparente si ricoprì di una sottile crepa. Non si ruppe. Si incrinò soltanto. Dietro di essa apparve il buio. E nel buio si aprì un nuovo corridoio. Non quattro porte. Non tre. Una sola. Senza numero. Senza maniglia. Lev la guardò. Edrian sussurrò:
 
 — Ecco quella che non esisteva.
 
-Lev capì.
-
-Era un nuovo percorso.
-
-Non mostrato in anticipo.
-
-Non scelto dall'Hotel.
-
-Non offerto dall'Amministratore.
-
-E per la prima volta l'Hotel non sapeva cosa ci fosse dietro la porta.
-
-Lev fece un passo.
-
-Alle sue spalle, tutti gli orologi si fermarono contemporaneamente.
-
-E da qualche parte lontano, all'ultimo piano che ancora non esisteva, qualcosa di enorme aprì gli occhi.
+Lev capì. Era un nuovo percorso. Non mostrato in anticipo. Non scelto dall'Hotel. Non offerto dall'Amministratore. E per la prima volta l'Hotel non sapeva cosa ci fosse dietro la porta. Lev fece un passo. Alle sue spalle, tutti gli orologi si fermarono contemporaneamente. E da qualche parte lontano, all'ultimo piano che ancora non esisteva, qualcosa di enorme aprì gli occhi.
