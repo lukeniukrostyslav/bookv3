@@ -1,6 +1,6 @@
 # Capitolo 20. La città dopo mezzanotte
 
-Lev entrò nella porta dell'ultimo piano e sentì per prima cosa il freddo. Non era il freddo dell'inverno. Era diverso. Non toccava la pelle. La attraversava. Per un istante Lev smise di sentire le mani, le gambe e perfino il proprio respiro. Sembrava essere finito dentro uno spazio vuoto tra due secondi, dove non era ancora successo nulla e ormai non si poteva più annullare niente.
+Lev entrò nella porta dell'ultimo piano e sentì per prima cosa il freddo. Non era il freddo dell'inverno. Era diverso. Non toccava la pelle. La attraversava. Per un istante Lev smise di sentire le mani, le gambe e perfino il proprio respiro. Sembrava essere finito in uno spazio vuoto tra due secondi, dove non era ancora successo nulla e ormai non si poteva più annullare niente.
 
 Poi sotto le suole comparve la pietra.
 
@@ -374,7 +374,7 @@ La lancetta scattò.
 
 Poi 00:18.
 
-La strada oscillò davanti agli occhi per un istante.
+Per un istante, la strada oscillò davanti agli occhi.
 
 Le persone nella piazza si immobilizzarono.
 
