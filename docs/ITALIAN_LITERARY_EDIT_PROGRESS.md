@@ -287,3 +287,9 @@ Chapters 17–24 were directly checked against the Russian canonical corpus. Ver
 Final meaning-fidelity checkpoint completed for chapters 25–32 against the Russian canonical corpus. Verified chapter headings, structural continuity, paragraph/scene preservation, numeric anchors, dialogue/quotation markers, and absence of Cyrillic leakage in the Italian manuscript. The Italian paragraph counts intentionally remain higher in several chapters because B15.2.16 preserved the literary paragraph normalization already approved for the Italian edition; therefore raw paragraph-count equality is not used as a semantic-fidelity criterion. CH25–CH32 show the expected Italian expansion in word count while retaining the chapter-level narrative anchors. No confirmed meaning-loss issue requiring textual correction was identified by this structural checkpoint.
 
 **B15.2.13 = 32/32 chapters = 100%.** Next: B15.2.14 canon control.
+
+## B15.2.14 CANON CONTROL — CHECKPOINT 20%
+
+Initial canon-control pass started against PROJECT_BIBLE, WORLD_BIBLE, MYTHOLOGY, CHARACTERS and LOGIC_CHECK. The canonical source set was loaded and representative Italian chapters were checked for continuity of the principal entities and concepts: Lev, Mira, Edrian, L'Amministratore, Custode, Hotel, meccanismo, chiave and family/choice terminology. The check confirms that the Italian localization uses the expected Italian forms (for example L'Amministratore, Custode, Hotel, meccanismo, chiave) and that the core narrative entities are present in the inspected chapter samples. This is a canon-presence checkpoint, not yet a complete 32-chapter canon audit.
+
+**B15.2.14 = 20% — initial canon-control pass complete.** Next: extend canon-control coverage across all 32 Italian chapters and reconcile any entity/role/timeline exceptions before closing the block.
