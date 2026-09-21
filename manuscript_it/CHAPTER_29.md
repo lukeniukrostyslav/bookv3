@@ -4,7 +4,7 @@ La città li accolse con la pioggia. Non forte. Solo una pioggia fine e fredda, 
 
 Un'auto schizzò acqua da una pozzanghera. Tutto era normale. Troppo normale. Dopo l'Hotel, il mondo normale sembrava quasi strano. Lev inspirò. Pane. Asfalto bagnato. Benzina. Caffè da un piccolo chiosco. E il metallo freddo dell'acqua piovana sulla lingua. Guardò Edrian. Era lì accanto e taceva. Cinque anni. Lev conosceva quel numero. Cinque anni dal giorno in cui suo fratello era scomparso.
 
-Ma ora il numero era vuoto. Come una data su un vecchio calendario.
+Ma ora quel numero era vuoto. Come una data su un vecchio calendario.
 
 — Dobbiamo andare di là? — chiese Edrian.
 
@@ -42,7 +42,7 @@ Guardò il vaso.
 
 — L'hai piantata quando avevi dieci anni.
 
-Lev toccò il vetro. Non ricordava. Ma immaginò piccole dita nella terra. Il sole. La cucina buia. Una tazza. E una risata di qualcuno. Ritirò la mano.
+Lev toccò il vetro. Non ricordava, ma immaginò piccole dita nella terra. Il sole. La cucina buia. Una tazza. E una risata di qualcuno. Ritirò la mano.
 
 — Non farlo.
 
@@ -62,7 +62,7 @@ Il fratello annuì.
 
 — Adesso sì.
 
-Entrarono nell'androne. L'ascensore odorava di polvere e vecchio ferro. Lev premette il pulsante. Per un secondo gli sembrò che i pulsanti fossero due. Uno portava al secondo piano. Il secondo al ventiseiesimo. Sbatté le palpebre. Ne rimase uno solo.
+Entrarono nell'androne. L'ascensore odorava di polvere e vecchio ferro. Lev premette il pulsante. Per un secondo gli sembrò che i pulsanti fossero due. Uno portava al secondo piano, l'altro al ventiseiesimo. Sbatté le palpebre. Ne rimase uno solo.
 
 — L'hai visto anche tu? — chiese Edrian.
 
@@ -282,7 +282,7 @@ Lev abbassò gli occhi.
 
 — Sì.
 
-La risposta fu così semplice che Lev non trovò nulla da dire. Fuori passò un autobus. I vetri della stanza tremarono.
+La risposta fu così semplice che Lev non trovò nulla da aggiungere. Fuori passò un autobus. I vetri della stanza tremarono.
 
 — Ero arrabbiato con te — disse Lev.
 
@@ -530,7 +530,7 @@ Lev guardò le sue mani.
 
 In una c'era la catenina d'argento.
 
-Nell'altra la chiave di legno.
+Nell'altra, la chiave di legno.
 
 — Perché non abbiamo finito.
 
@@ -1046,7 +1046,7 @@ Salirono sulla banchina.
 
 La porta alle loro spalle si chiuse.
 
-Ma nessuno ebbe paura.
+Ma nessuno dei due ebbe paura.
 
 Perché per la prima volta Lev non cercava di indovinare cosa ci fosse davanti.
 
@@ -1098,7 +1098,7 @@ Dentro odorava di vecchia pelle, polvere, tè caldo e pioggia.
 
 Il treno oscillò.
 
-Fuori dal finestrino la città si allungò in lunghe strisce di luce, anche se davanti non si vedevano i binari.
+Fuori dal finestrino la città si allungò in lunghe strisce di luce, anche se davanti a loro non si vedevano i binari.
 
 Lev passò il palmo sul vetro.
 
