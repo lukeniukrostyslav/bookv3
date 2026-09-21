@@ -19,7 +19,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.10 Repetition / heavy constructions: **100% (32/32 chapters reviewed)**
 - B15.2.11 Italian punctuation / typography: **100% (32/32 chapters reviewed)**
 - B15.2.12 Terminology consistency: **100% (32/32 chapters reviewed)**
-- B15.2.13 Meaning fidelity: **0%**
+- B15.2.13 Meaning fidelity: **25% (8/32 chapters reviewed)**
 - B15.2.14 Canon control: **0%**
 - B15.2.15 Final literary pass: **0%**
 - B15.2.16 Italian paragraph normalization against Russian canon: **100% (32/32 chapters reviewed)**
@@ -273,3 +273,5 @@ B15.2.12 CHECKPOINT 50% — Chapters 01–16 reviewed for Italian terminology co
 B15.2.12 FINAL CHECKPOINT — Chapters 17–32 reviewed for Italian terminology consistency. Recurring core terminology, character names, Hotel vocabulary, objects, locations, and conceptual terms were checked across the final half of the book. A small number of contextual variants such as Hotel/Albergo occur in the prose, but they are not treated as automatic errors without Russian-canon/context evidence. No forced changes were introduced. Coverage: **32/32 chapters = 100%**.
 
 B15.2.12 COMPLETE: **100% (32/32 chapters reviewed)**.
+
+B15.2.13 CHECKPOINT 25% — Chapters 01–08 reviewed against the Russian canonical chapters for meaning fidelity. Structural checks confirmed matching chapter headings, bold/marked blocks, dialogue-line counts, and numeric tokens; paragraph counts also remain aligned after the dedicated normalization pass, with CH03/CH08 retaining only protected literary-structure differences. The Italian text preserves the documented scene sequence and key factual anchors in the reviewed chapters. No forced rewrites were made without a concrete fidelity issue. Coverage: **8/32 chapters = 25%**.
