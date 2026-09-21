@@ -4,7 +4,7 @@ Il mattino arrivò quasi senza farsi notare, come se la città avesse paura di s
 
 Lev si svegliò sul divano per una striscia di luce pallida che gli cadeva sul viso. Per alcuni secondi rimase immobile e ascoltò la casa: il lontano brontolio dei tubi, le rare auto fuori dalla finestra, il respiro regolare di qualcun altro.
 
-Per alcuni secondi non capì dove fosse.
+Per alcuni secondi non capì dove si trovasse.
 
 Il soffitto era normale.
 
@@ -346,7 +346,7 @@ Paura.
 
 Mira lo guardò.
 
-— Perché una volta ho già visto cosa fa.
+— Perché una volta ho già visto ciò che fa.
 
 — Cosa?
 
@@ -392,11 +392,11 @@ Lev capì.
 
 Non era stata la lettera a cambiare il tempo.
 
-La loro decisione aveva creato le condizioni in cui la lettera era diventata possibile.
+La loro decisione aveva creato le condizioni perché quella lettera diventasse possibile.
 
 Il futuro non era venuto da loro.
 
-Erano stati loro ad aprire una porta per lui.
+Erano stati loro ad aprirgli una porta.
 
 — Quindi l'Hotel non è finito — disse.
 
@@ -546,7 +546,7 @@ Alcune cose le tenne per sé.
 
 Non perché avesse paura di perderle.
 
-Perché ora capiva: la memoria appartiene a una persona.
+Perché ora capiva: la memoria appartiene a chi la vive.
 
 Non può essere costretta.
 
@@ -554,7 +554,7 @@ Non può essere trattenuta con la forza.
 
 Non può essere trasformata in una prova.
 
-Può solo essere vissuta.
+Può soltanto essere vissuta.
 
 A mezzogiorno la pioggia finì.
 
