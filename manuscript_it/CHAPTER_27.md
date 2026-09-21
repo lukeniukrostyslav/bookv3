@@ -1,8 +1,6 @@
 # Capitolo 27. La macchina del domani
 
-La macchina non assomigliava a nulla di ciò che Lev avesse mai visto prima. Non stava sul pavimento e non era sospesa nell'aria. Esisteva tra due stati dello spazio, come se qualcuno avesse preso un enorme meccanismo, lo avesse tagliato a metà e avesse dimenticato di ricomporlo. Intorno a essa l'aria tremava come sopra l'asfalto rovente, solo che non c'era calore. Lev vedeva metallo e, un secondo dopo, vuoto; vedeva un anello e, sbattendo le palpebre, trovava al suo posto una sottile linea di luce.
-
-Alcune parti ruotavano. Altre respiravano. Altre cambiavano soltanto quando Lev le guardava. Dalla macchina proveniva calore. Non era rassicurante. Era viva. Lev sentì odore di ferro rovente, ozono e qualcosa di dolce, simile alle mele rimaste a lungo in una cassetta di legno.
+La macchina non assomigliava a nulla di ciò che Lev avesse mai visto prima. Non stava sul pavimento e non era sospesa nell'aria. Esisteva tra due stati dello spazio, come se qualcuno avesse preso un enorme meccanismo, lo avesse tagliato a metà e avesse dimenticato di ricomporlo. Intorno a essa l'aria tremava come sopra l'asfalto rovente, solo che non c'era calore. Lev vedeva metallo e, un secondo dopo, vuoto; vedeva un anello e, sbattendo le palpebre, trovava al suo posto una sottile linea di luce. Alcune parti ruotavano. Altre respiravano. Altre cambiavano soltanto quando Lev le guardava. Dalla macchina proveniva calore. Non era rassicurante. Era viva. Lev sentì odore di ferro rovente, ozono e qualcosa di dolce, simile alle mele rimaste a lungo in una cassetta di legno.
 
 — Non avvicinarti — disse Edrian.
 
@@ -126,9 +124,7 @@ Edrian lo guardò.
 
 — Quando una persona prende una decisione che le rende impossibili.
 
-Lev sentì uno strano dolore. Prima pensava al futuro come a delle porte. Ora capiva che alcune porte si chiudevano per sempre. Ed era normale. Era così che funzionava la vita.
-
-La macchina ruotò. Sulla superficie apparve Edrian.
+Lev sentì uno strano dolore. Prima pensava al futuro come a delle porte. Ora capiva che alcune porte si chiudevano per sempre. Ed era normale. Era così che funzionava la vita. La macchina ruotò. Sulla superficie apparve Edrian.
 
 **EDRIAN ARDEN.**
 
@@ -248,9 +244,7 @@ Guardò Lev.
 
 — È parte della vita.
 
-All'improvviso la macchina emise un suono acuto. Tutte le luci si spensero. Ne rimase una. Rossa.
-
-Davanti a Lev apparve:
+All'improvviso la macchina emise un suono acuto. Tutte le luci si spensero. Ne rimase una. Rossa. Davanti a Lev apparve:
 
 **POSSIBILITÀ: ALTA.**
 
@@ -268,9 +262,7 @@ Edrian si avvicinò.
 
 — Quella di cui parlava il Lev più vecchio.
 
-La macchina mostrò un'immagine. Lev era solo. Davanti a lui c'era una casa. Teneva una chiave. Ma non ricordava a chi appartenesse quella casa. Non ricordava Edrian. Non ricordava l'Hotel. Non ricordava Mira. Sapeva soltanto una cosa. Doveva aprire la porta.
-
-Lev si voltò. Gli era difficile guardare se stesso, che già viveva senza le persone che lui non era ancora pronto a perdere.
+La macchina mostrò un'immagine. Lev era solo. Davanti a lui c'era una casa. Teneva una chiave. Ma non ricordava a chi appartenesse quella casa. Non ricordava Edrian. Non ricordava l'Hotel. Non ricordava Mira. Sapeva soltanto una cosa. Doveva aprire la porta. Lev si voltò. Gli era difficile guardare se stesso, che già viveva senza le persone che lui non era ancora pronto a perdere.
 
 — No.
 
@@ -314,15 +306,7 @@ Lev rispose:
 
 — Ho detto che non ho deciso.
 
-Edrian tacque. In quel momento Lev sentì che finalmente stava ascoltando suo fratello non come un protettore, ma come una persona. Anche lui aveva paura. Non per Lev. Per se stesso. Per la possibilità di perdere ciò che c'era tra loro.
-
-Lev posò il palmo sul metallo freddo. La macchina reagì immediatamente. Tutti gli anelli ruotarono. La luce gli colpì gli occhi.
-
-Sulla superficie apparve il volto di Edrian.
-
-Poi il volto di Lev.
-
-Poi la loro infanzia.
+Edrian tacque. In quel momento Lev sentì che finalmente stava ascoltando suo fratello non come un protettore, ma come una persona. Anche lui aveva paura. Non per Lev. Per se stesso. Per la possibilità di perdere ciò che c'era tra loro. Lev posò il palmo sul metallo freddo. La macchina reagì immediatamente. Tutti gli anelli ruotarono. La luce gli colpì gli occhi. Sulla superficie apparve il volto di Edrian. Poi il volto di Lev. Poi la loro infanzia.
 
 Una piccola stanza.
 
@@ -340,15 +324,11 @@ La prima neve.
 
 E un giorno.
 
-Il giorno della scomparsa.
-
-Lev vide Edrian alla stazione. Teneva un biglietto. Davanti a lui c'era un treno. Sul biglietto c'era scritto:
+Il giorno della scomparsa. Lev vide Edrian alla stazione. Teneva un biglietto. Davanti a lui c'era un treno. Sul biglietto c'era scritto:
 
 **CASA.**
 
-Edrian guardò il treno.
-
-Poi la fotografia di Lev.
+Edrian guardò il treno. Poi la fotografia di Lev.
 
 E non salì.
 
@@ -376,11 +356,7 @@ Fece una pausa.
 
 — Ma perché non sa come attraversarla insieme a un'altra persona.
 
-Lev chiuse gli occhi. La macchina ripartì.
-
-Ora davanti a loro c'era un'altra immagine. Edrian tornava a casa. Lev cresceva. E sette anni dopo entrava nell'Hotel. Diventava il Custode.
-
-Lev aprì gli occhi.
+Lev chiuse gli occhi. La macchina ripartì. Ora davanti a loro c'era un'altra immagine. Edrian tornava a casa. Lev cresceva. E sette anni dopo entrava nell'Hotel. Diventava il Custode. Lev aprì gli occhi.
 
 — Questa è la versione originaria.
 
@@ -488,9 +464,7 @@ Edrian guardò Lev.
 
 Lev annuì.
 
-Ma prima che se ne andassero, la macchina mostrò un'altra immagine. Breve. Soltanto per un secondo.
-
-Mira era sola nella luce verde. Davanti a lei c'era una chiave. La raccolse.
+Ma prima che se ne andassero, la macchina mostrò un'altra immagine. Breve. Soltanto per un secondo. Mira era sola nella luce verde. Davanti a lei c'era una chiave. La raccolse.
 
 — Ricordo.
 
@@ -500,11 +474,7 @@ Lev si immobilizzò.
 
 — Cosa ricorda?
 
-L'uomo non rispose. Nemmeno la macchina.
-
-Solo da qualche parte in profondità nel meccanismo arrivò un suono sommesso. Un clic. Come se una serratura si fosse aperta.
-
-Sulla parete più lontana apparve una porta.
+L'uomo non rispose. Nemmeno la macchina. Solo da qualche parte in profondità nel meccanismo arrivò un suono sommesso. Un clic. Come se una serratura si fosse aperta. Sulla parete più lontana apparve una porta.
 
 Non verde.
 
@@ -532,9 +502,7 @@ Lev sorrise.
 
 — Nemmeno io.
 
-Andarono verso la porta. E per la prima volta durante tutto il viaggio Lev sentì che la paura non lo spingeva indietro. Camminava semplicemente accanto a lui. Come un'ombra. Come un ricordo. Come un prezzo che ancora non aveva un nome.
-
-Ma prima che Lev toccasse la porta sentì un suono dall'altra parte.
+Andarono verso la porta. E per la prima volta durante tutto il viaggio Lev sentì che la paura non lo spingeva indietro. Camminava semplicemente accanto a lui. Come un'ombra. Come un ricordo. Come un prezzo che ancora non aveva un nome. Ma prima che Lev toccasse la porta sentì un suono dall'altra parte.
 
 Tre colpi brevi.
 
@@ -552,59 +520,27 @@ Edrian si fermò.
 
 — Allora chi?
 
-Lev appoggiò il palmo sul legno bianco. Dall'altra parte faceva caldo. Troppo caldo. Odorava di casa. Pane fresco. Legno vecchio. E gomma da masticare alla menta.
-
-Lev chiuse gli occhi.
-
-Capì che a volte l'odore dice la verità meglio delle parole.
-
-Dietro la porta non c'era il futuro.
-
-Dietro la porta c'era ciò da cui era fuggito per tutta la vita.
-
-E per la prima volta non voleva fuggire.
+Lev appoggiò il palmo sul legno bianco. Dall'altra parte faceva caldo. Troppo caldo. Odorava di casa. Pane fresco. Legno vecchio. E gomma da masticare alla menta. Lev chiuse gli occhi. Capì che a volte l'odore dice la verità meglio delle parole. Dietro la porta non c'era il futuro. Dietro la porta c'era ciò da cui era fuggito per tutta la vita. E per la prima volta non voleva fuggire.
 
 Aprì gli occhi.
 
 — Andiamo.
 
-Edrian si mise accanto a lui.
-
-Toccarono insieme la maniglia.
-
-La porta si aprì.
-
-E da dietro di essa arrivò una voce che Lev non sentiva da cinque anni.
+Edrian si mise accanto a lui. Toccarono insieme la maniglia. La porta si aprì. E da dietro di essa arrivò una voce che Lev non sentiva da cinque anni.
 
 — Lev.
 
 Smise di respirare.
 
-Era la voce di Edrian.
-
-Ma dietro la porta non c'era Edrian.
-
-C'era una stanza vuota.
-
-Sul tavolo c'era una fotografia.
-
-Nella fotografia c'erano due fratelli.
+Era la voce di Edrian. Ma dietro la porta non c'era Edrian. C'era una stanza vuota. Sul tavolo c'era una fotografia. Nella fotografia c'erano due fratelli.
 
 Uno sorrideva.
 
-L'altro guardava di lato.
-
-Sul retro era scritto:
+L'altro guardava di lato. Sul retro era scritto:
 
 **NON OGNI PERDITA VUOLE ESSERE CORRETTA.**
 
-Lev prese la fotografia.
-
-Sulle dita gli rimase della polvere calda.
-
-Alle sue spalle la macchina cominciò a funzionare più velocemente.
-
-L'uomo in completo grigio disse:
+Lev prese la fotografia. Sulle dita gli rimase della polvere calda. Alle sue spalle la macchina cominciò a funzionare più velocemente. L'uomo in completo grigio disse:
 
 — Ora comincia il prezzo.
 
@@ -622,29 +558,11 @@ Lev guardò Edrian.
 
 — Il prezzo è cominciato da molto tempo.
 
-Suo fratello non disse nulla.
-
-Per la prima volta non cercò di fermarlo.
-
-E da qualche parte lontano, nel cuore stesso dell'Ultimo piano, l'ultimo meccanismo ruotò.
-
-La porta successiva si aprì da sola.
-
-Su di essa c'era scritto:
+Suo fratello non disse nulla. Per la prima volta non cercò di fermarlo. E da qualche parte lontano, nel cuore stesso dell'Ultimo piano, l'ultimo meccanismo ruotò. La porta successiva si aprì da sola. Su di essa c'era scritto:
 
 **PREZZO.**
 
-Lev fece un passo.
-
-Questa volta — da solo.
-
-Edrian rimase accanto a lui: non davanti, non dietro, ma accanto.
-
-E la macchina del domani continuò a contare.
-
-Davanti alla porta «PREZZO» Lev si fermò.
-
-Sul legno bianco apparvero sottili linee. Sembravano una mappa di fiumi. Una saliva. Una scendeva. Una terza scompariva a metà, come se qualcuno l'avesse cancellata.
+Lev fece un passo. Questa volta — da solo. Edrian rimase accanto a lui: non davanti, non dietro, ma accanto. E la macchina del domani continuò a contare. Davanti alla porta «PREZZO» Lev si fermò. Sul legno bianco apparvero sottili linee. Sembravano una mappa di fiumi. Una saliva. Una scendeva. Una terza scompariva a metà, come se qualcuno l'avesse cancellata.
 
 — Sono anche queste possibilità? — chiese Edrian.
 
@@ -654,11 +572,7 @@ Sul legno bianco apparvero sottili linee. Sembravano una mappa di fiumi. Una sal
 
 — I percorsi attraverso cui una persona arriva alle conseguenze.
 
-Lev toccò una linea. Era calda.
-
-Dentro il legno si sentì un fruscio.
-
-E all'improvviso Lev sentì una risata di bambino.
+Lev toccò una linea. Era calda. Dentro il legno si sentì un fruscio. E all'improvviso Lev sentì una risata di bambino.
 
 La propria.
 
@@ -672,13 +586,7 @@ Termosifone caldo.
 
 Scricchiolio del pavimento.
 
-Un bicchiere blu in cucina.
-
-Tutto era così reale che Lev sorrise senza volerlo.
-
-Poi il ricordo cambiò.
-
-Edrian scomparve dal corridoio.
+Un bicchiere blu in cucina. Tutto era così reale che Lev sorrise senza volerlo. Poi il ricordo cambiò. Edrian scomparve dal corridoio.
 
 Lev rimase solo.
 
@@ -746,9 +654,7 @@ Lev sentì qualcosa stringersi nel petto.
 
 — Adesso so che l'età non rende una persona padrona della vita di un'altra.
 
-L'uomo in grigio si voltò.
-
-Per la prima volta non sembrava indifferente, ma stanco.
+L'uomo in grigio si voltò. Per la prima volta non sembrava indifferente, ma stanco.
 
 — È questo che la macchina non può calcolare — disse.
 
@@ -762,9 +668,7 @@ E all'improvviso capì che, durante tutto il tempo trascorso nell'Hotel, non gli
 
 Non per Lev.
 
-Non per la madre.
-
-Non per il futuro.
+Non per la madre. Non per il futuro.
 
 Per se stesso.
 
@@ -774,9 +678,7 @@ Per se stesso.
 
 — Se potessi scegliere soltanto per te, cosa vorresti?
 
-Suo fratello rimase a lungo in silenzio.
-
-Dietro la macchina si muovevano migliaia di luci.
+Suo fratello rimase a lungo in silenzio. Dietro la macchina si muovevano migliaia di luci.
 
 — Tornare a casa — disse.
 
@@ -800,13 +702,7 @@ Edrian aprì gli occhi.
 
 Dentro c'era paura.
 
-Ma accanto alla paura era comparsa la libertà.
-
-La macchina emise un suono profondo.
-
-La luce rossa diventò bianca.
-
-Sulla superficie apparve una nuova frase:
+Ma accanto alla paura era comparsa la libertà. La macchina emise un suono profondo. La luce rossa diventò bianca. Sulla superficie apparve una nuova frase:
 
 **SMETTERE DI SALVARE — È ANCHE UN PREZZO.**
 
@@ -824,9 +720,7 @@ Guardò suo fratello.
 
 La macchina tacque.
 
-Per la prima volta tutto quello spazio enorme diventò completamente silenzioso.
-
-Lev sentì il proprio cuore.
+Per la prima volta tutto quello spazio enorme diventò completamente silenzioso. Lev sentì il proprio cuore.
 
 Toc.
 
@@ -838,19 +732,11 @@ Guardò la porta.
 
 Ora era aperta.
 
-Dietro non c'erano né futuro né passato.
-
-Solo una lunga scala verso il basso.
-
-Sul primo gradino c'era una chiave di legno.
+Dietro non c'erano né futuro né passato. Solo una lunga scala verso il basso. Sul primo gradino c'era una chiave di legno.
 
 Lev la raccolse.
 
-La chiave era fredda.
-
-Per la prima volta.
-
-Capì: la macchina non lo chiamava più verso l'alto. Lo mandava là dove la decisione doveva diventare un'azione. E questo faceva più paura di qualsiasi porta, perché un'azione non si può annullare semplicemente chiudendo un libro.
+La chiave era fredda. Per la prima volta. Capì: la macchina non lo chiamava più verso l'alto. Lo mandava là dove la decisione doveva diventare un'azione. E questo faceva più paura di qualsiasi porta, perché un'azione non si può annullare semplicemente chiudendo un libro.
 
 — Andiamo — disse.
 
@@ -858,9 +744,7 @@ Edrian annuì.
 
 Cominciarono a scendere.
 
-Alle loro spalle la macchina riprese a funzionare.
-
-Ma ora il suo ritmo non assomigliava a quello di un orologio.
+Alle loro spalle la macchina riprese a funzionare. Ma ora il suo ritmo non assomigliava a quello di un orologio.
 
 A un treno.
 
@@ -870,17 +754,7 @@ In avvicinamento.
 
 Inevitabile.
 
-Lev non sapeva dove stesse andando.
-
-Ma per la prima volta non voleva saperlo in anticipo.
-
-Al terzo gradino si fermò.
-
-Sulla parete apparve una fotografia di Mira.
-
-Era in piedi vicino alla finestra e teneva quella stessa chiave verde.
-
-Sotto la fotografia c'era scritto:
+Lev non sapeva dove stesse andando. Ma per la prima volta non voleva saperlo in anticipo. Al terzo gradino si fermò. Sulla parete apparve una fotografia di Mira. Era in piedi vicino alla finestra e teneva quella stessa chiave verde. Sotto la fotografia c'era scritto:
 
 **LEI HA GIÀ PAGATO.**
 
@@ -900,11 +774,7 @@ E sussurrò:
 
 — Non cercatemi.
 
-La fotografia si spense.
-
-Lev strinse la chiave.
-
-Edrian fece un passo verso la parete.
+La fotografia si spense. Lev strinse la chiave. Edrian fece un passo verso la parete.
 
 — Lo sapeva.
 
@@ -912,24 +782,8 @@ Edrian fece un passo verso la parete.
 
 — Che saremmo venuti qui.
 
-In fondo alla scala si aprì una porta.
-
-Dietro odorava di pioggia.
-
-Ma non di pioggia cittadina.
+In fondo alla scala si aprì una porta. Dietro odorava di pioggia. Ma non di pioggia cittadina.
 
 Di mare.
 
-E insieme all'odore arrivò il suono delle onde.
-
-Lev guardò in basso.
-
-L'Ultimo piano era cambiato ancora.
-
-Ora non conduceva al prezzo.
-
-Conduceva alla persona che aveva già pagato una volta.
-
-E per la prima volta Lev capì che il prezzo poteva non essere il futuro.
-
-A volte era il passato che una persona aveva volontariamente lasciato alle proprie spalle.
+E insieme all'odore arrivò il suono delle onde. Lev guardò in basso. L'Ultimo piano era cambiato ancora. Ora non conduceva al prezzo. Conduceva alla persona che aveva già pagato una volta. E per la prima volta Lev capì che il prezzo poteva non essere il futuro. A volte era il passato che una persona aveva volontariamente lasciato alle proprie spalle.
