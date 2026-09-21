@@ -11,7 +11,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.2 Paragraph structure: **100%**
 - B15.2.3 Sentence length / cadence: **100%**
 - B15.2.4 Natural literary Italian: **100%**
-- B15.2.5 Dialogue naturalness: **0%**
+- B15.2.5 Dialogue naturalness: **3%**
 - B15.2.6 Atmosphere / tension: **0%**
 - B15.2.7 Action-scene rhythm: **0%**
 - B15.2.8 Mystery-scene rhythm: **0%**
@@ -25,7 +25,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 
 ## Chapter status
 
-- Chapter 01 — rhythm/literary pass checkpointed.
+- Chapter 01 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
 - Chapter 02 — rhythm/literary pass checkpointed.
 - Chapter 03 — rhythm/literary pass checkpointed.
 - Chapter 04 — rhythm/literary and language pass checkpointed.
