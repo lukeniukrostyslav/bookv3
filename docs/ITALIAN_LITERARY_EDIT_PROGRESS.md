@@ -18,7 +18,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.9 Emotional-scene rhythm: **100% (32/32 chapters reviewed)**
 - B15.2.10 Repetition / heavy constructions: **100% (32/32 chapters reviewed)**
 - B15.2.11 Italian punctuation / typography: **100% (32/32 chapters reviewed)**
-- B15.2.12 Terminology consistency: **0%**
+- B15.2.12 Terminology consistency: **50% (16/32 chapters reviewed)**
 - B15.2.13 Meaning fidelity: **0%**
 - B15.2.14 Canon control: **0%**
 - B15.2.15 Final literary pass: **0%**
@@ -267,3 +267,5 @@ B15.2.11 CHECKPOINT 75% — Chapters 17–24 reviewed for Italian punctuation an
 B15.2.11 FINAL CHECKPOINT — Chapters 25–32 reviewed for Italian punctuation and typography. Checked punctuation spacing, duplicate spaces, quotation/apostrophe usage, dialogue em dashes, ellipses, dialogue-line consistency, and obvious typographic anomalies. No corrective edits were required. Ellipses and punctuation pauses were retained where they serve deliberate rhythm. All 32 chapters are now covered.
 
 B15.2.11 COMPLETE: **100% (32/32 chapters reviewed)**.
+
+B15.2.12 CHECKPOINT 50% — Chapters 01–16 reviewed for Italian terminology consistency. Checked recurring core terms and named entities including Hotel, Amministratore, meccanismo, chiave, orologio, piano, porta, futuro, scelta, memoria, ospite/ospiti, and character names. Usage is consistent in the reviewed corpus; no forced terminology changes were introduced. Coverage: **16/32 chapters = 50%**.
