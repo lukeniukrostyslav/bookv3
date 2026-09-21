@@ -994,7 +994,7 @@ Lev sentì crescere l'irritazione.
 
 — Allora mi aiuti.
 
-— L'ho già aiutata.
+— L'ho già aiutato.
 
 — Come?
 
