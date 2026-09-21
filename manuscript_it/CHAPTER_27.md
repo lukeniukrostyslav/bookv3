@@ -1,8 +1,8 @@
 # Capitolo 27. La macchina del domani
 
-La macchina non era simile a nulla di ciò che Lev avesse mai visto prima. Non stava sul pavimento e non era sospesa nell'aria. Esisteva tra due stati dello spazio, come se qualcuno avesse preso un enorme meccanismo, lo avesse tagliato a metà e avesse dimenticato di ricomporlo. Intorno a essa l'aria tremava come sopra l'asfalto rovente, solo che non c'era calore. Lev vedeva metallo e, un secondo dopo, vuoto; vedeva un anello e, sbattendo le palpebre, trovava al suo posto una sottile linea di luce.
+La macchina non assomigliava a nulla di ciò che Lev avesse mai visto prima. Non stava sul pavimento e non era sospesa nell'aria. Esisteva tra due stati dello spazio, come se qualcuno avesse preso un enorme meccanismo, lo avesse tagliato a metà e avesse dimenticato di ricomporlo. Intorno a essa l'aria tremava come sopra l'asfalto rovente, solo che non c'era calore. Lev vedeva metallo e, un secondo dopo, vuoto; vedeva un anello e, sbattendo le palpebre, trovava al suo posto una sottile linea di luce.
 
-Alcune parti ruotavano. Altre respiravano. Altre cambiavano soltanto quando Lev le guardava. Dalla macchina proveniva calore. Non rassicurante. Vivo. Lev sentì odore di ferro rovente, ozono e qualcosa di dolce, simile alle mele rimaste a lungo in una cassetta di legno.
+Alcune parti ruotavano. Altre respiravano. Altre cambiavano soltanto quando Lev le guardava. Dalla macchina proveniva calore. Non era rassicurante. Era viva. Lev sentì odore di ferro rovente, ozono e qualcosa di dolce, simile alle mele rimaste a lungo in una cassetta di legno.
 
 — Non avvicinarti — disse Edrian.
 
@@ -60,7 +60,7 @@ Edrian guardò il meccanismo.
 
 — Tutti.
 
-L'uomo toccò un pannello metallico. Su di esso apparvero migliaia di piccoli punti.
+L'uomo toccò un pannello metallico. Su di esso apparvero migliaia di piccoli punti luminosi.
 
 — Ogni volta che una persona si è chiesta: «Cosa succederà se faccio diversamente?», ha creato una possibilità.
 
@@ -156,7 +156,7 @@ Lev si voltò bruscamente.
 
 — Perché «casa» non è un solo punto.
 
-Sulla superficie apparvero decine di immagini. Edrian apre una porta. Edrian abbraccia la madre. Edrian siede in cucina. Edrian ride. Edrian litiga con Lev. Edrian scompare di nuovo. Edrian diventa il Custode. Edrian muore. Ogni immagine viveva soltanto pochi secondi. Ma Lev riusciva a sentire tutto. L'odore della cucina. Il freddo del corridoio dell'ospedale. L'aria secca della stazione. La neve. La pioggia.
+Sulla superficie apparvero decine di immagini. Edrian apriva una porta. Edrian abbracciava la madre. Edrian sedeva in cucina. Edrian rideva. Edrian litigava con Lev. Edrian scompariva di nuovo. Edrian diventava il Custode. Edrian moriva. Ogni immagine viveva soltanto pochi secondi. Ma Lev riusciva a sentire tutto. L'odore della cucina. Il freddo del corridoio dell'ospedale. L'aria secca della stazione. La neve. La pioggia.
 
 Casa. Perdita. Speranza.
 
@@ -172,7 +172,7 @@ L'uomo lo guardò.
 
 — Mostriamo che ogni futuro ha un prezzo.
 
-L'irritazione salì rapidamente, quasi come un sollievo. Voleva discutere con quell'uomo che rispondeva come se ogni parola fosse una porta e dietro ogni porta ce ne fosse un'altra.
+L'irritazione gli salì rapidamente, quasi come un sollievo. Voleva discutere con quell'uomo che rispondeva come se ogni parola fosse una porta e dietro ogni porta ce ne fosse un'altra.
 
 — È la stessa cosa.
 
@@ -438,7 +438,7 @@ Edrian sorrise.
 
 — Lo so.
 
-La macchina tacque. L'uomo si allontanò.
+La macchina tacque e l'uomo si allontanò.
 
 — Ora capite.
 
@@ -704,7 +704,7 @@ Lev guardò la macchina.
 
 — Perché il prezzo sa già a cosa aggrapparsi.
 
-La bocca di Lev si seccò.
+La bocca di Lev si fece secca.
 
 Edrian si avvicinò.
 
