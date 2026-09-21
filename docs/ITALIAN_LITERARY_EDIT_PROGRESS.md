@@ -188,3 +188,10 @@ GitHub checkpoints:
 - CH32: `bc09fabfb537f0e9e5b5eb20604f9943aec0bf46`
 
 B15.2.16 COMPLETE: **100% (32/32 chapters reviewed)**.
+
+
+B15.2.8 checkpoint — Chapters 01–08 reviewed for mystery-scene rhythm.
+
+Checked: suspense entry/exit, revelation timing, controlled ambiguity, silence and pause placement, supernatural/mystery atmosphere, clue disclosure cadence, transitions between known and unknown information, and preservation of intentional short beats. No forced rewrites were introduced where the Italian already carried the intended mystery rhythm.
+
+Coverage: **8/32 chapters = 25%**.
