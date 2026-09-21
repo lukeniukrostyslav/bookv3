@@ -228,7 +228,7 @@ Rimisi la fotografia al suo posto.
 
 — Per la scelta, non sempre.
 
-L'irritazione esplose con un calore secco e tagliente.
+L'irritazione esplose, secca e tagliente.
 
 — Basta parlare per enigmi.
 
@@ -240,7 +240,7 @@ Schoccò le dita.
 
 Tutti gli orologi si fermarono.
 
-Il silenzio diventò così denso che Lev sentiva il proprio cuore quasi come un passo estraneo.
+Il silenzio diventò così denso che Lev sentiva il proprio cuore, quasi come un passo estraneo.
 
 Un battito.
 
@@ -746,7 +746,7 @@ Edrian annuì.
 
 — Lo so.
 
-Per la prima volta quella frase non suonò come una confessione di sconfitta.
+Per la prima volta, quella frase non suonò come una confessione di sconfitta.
 
 Suonò come una promessa.
 
