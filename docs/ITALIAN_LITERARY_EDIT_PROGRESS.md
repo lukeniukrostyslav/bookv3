@@ -317,3 +317,9 @@ Chronology and causal-chain control advanced using the canonical LOGIC_CHECK. Th
 Final canon-control consolidation completed against PROJECT_BIBLE, WORLD_BIBLE, MYTHOLOGY, CHARACTERS and LOGIC_CHECK. The Italian localization preserves the established principal entities, roles, causal chain, Hotel rules, Last Floor concept, choice/free-will logic, mechanism function and prepared cost rule in the reviewed evidence. Natural Italian renderings are treated as localization choices where they preserve the underlying canon. No confirmed canon-breaking discrepancy requiring a manuscript rewrite was identified. B15.2.14 is closed.
 
 **B15.2.14 = 100% (32/32 chapters covered by the canon-control workflow).** Next: B15.2.15 final Italian literary pass.
+
+## B15.2.15 FINAL ITALIAN LITERARY PASS — CHECKPOINT 25%
+
+First quarter of the final literary pass completed for CH01–CH08. The pass checked Italian readability at paragraph/sentence level, punctuation rhythm, dialogue cadence, repeated constructions, accidental Cyrillic leakage, and obvious non-Italian artifacts. Automated lexical probes were manually interpreted to distinguish genuine foreign-language residue from valid Italian substrings (for example English-looking tokens occurring inside Italian words or context). No confirmed foreign-language contamination or literary defect requiring a manuscript rewrite was established in CH01–CH08 by this checkpoint.
+
+**B15.2.15 = 8/32 chapters = 25%.** Next: CH09–CH16.
