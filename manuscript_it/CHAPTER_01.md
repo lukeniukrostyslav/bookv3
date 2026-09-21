@@ -1,6 +1,6 @@
 # Capitolo 1. La chiave
 
-Quella sera Lev, per la prima volta dopo cinque anni, non mise su il bollitore. Se ne accorse solo quando la cucina diventò troppo silenziosa. Di solito, appena rientrava a casa, lasciava lo zaino sulla sedia, apriva il rubinetto, metteva sul fuoco il bollitore e, mentre l'acqua cominciava a fremere, guardava fuori dalla finestra. Era diventata un'abitudine ai tempi in cui Edrian era ancora a casa. Cinque anni prima Lev era troppo piccolo per capire che certe abitudini non nascono perché fanno comodo, ma perché si sta aspettando qualcuno.
+Quella sera, per la prima volta dopo cinque anni, Lev non mise il bollitore sul fuoco. Se ne accorse solo quando la cucina diventò troppo silenziosa. Di solito, appena rientrava a casa, lasciava lo zaino sulla sedia, apriva il rubinetto, metteva sul fuoco il bollitore e, mentre l'acqua cominciava a fremere, guardava fuori dalla finestra. Era diventata un'abitudine ai tempi in cui Edrian era ancora a casa. Cinque anni prima Lev era troppo piccolo per capire che certe abitudini non nascono perché fanno comodo, ma perché si sta aspettando qualcuno.
 
 Quel giorno non aspettava nessuno — almeno, era questo che si ripeteva per tutto il tragitto da scuola.
 
@@ -10,7 +10,7 @@ Il bordo della tazza era irregolare e Lev vi lasciò lo sguardo per qualche seco
 
 — Non stasera — disse piano.
 
-La propria voce gli sembrò estranea. Si tolse la giacca e salì al piano di sopra. La terza tavola scricchiolò. Scricchiolava sempre lì. Anche la quinta. L'ottava, poi, faceva un rumore particolarmente forte. Lev si fermò. Per un istante ebbe l'impressione che, facendo un altro passo, avrebbe sentito: «Dai, piccolo. Più veloce».
+La sua voce gli sembrò estranea. Si tolse la giacca e salì al piano di sopra. Il terzo gradino scricchiolò. Scricchiolava sempre lì. Anche il quinto. L'ottavo, poi, faceva un rumore particolarmente forte. Lev si fermò. Per un istante ebbe l'impressione che, facendo un altro passo, avrebbe sentito: «Dai, piccolo. Più veloce».
 
 Edrian saliva sempre due gradini alla volta. Lev aveva provato a imitarlo, ma quasi ogni volta inciampava con la punta della scarpa e cadeva. Posò il piede sul gradino successivo. Silenzio. Niente. Solo la vecchia casa, la sera oltre le finestre e il debole rumore delle auto in strada. Lev continuò a salire. Aveva compiuto diciassette anni tre mesi prima, ma a volte una casa sapeva restituirgli dodici anni con un solo scricchiolio del pavimento.
 
@@ -28,7 +28,7 @@ Le conosceva con la stessa precisione del proprio numero di telefono. Edrian era
 
 Lev era dietro la finestra. Aveva pensato che suo fratello lo stesse salutando. Anche Lev aveva alzato la mano. Pochi minuti dopo Edrian non c'era più. La polizia lo aveva cercato. Lo avevano cercato gli amici. Lo avevano cercato i volontari. Avevano cercato nel fiume. Poi avevano smesso. Prima dicevano «per ora». Poi «se». Poi non dicevano più niente. Solo la mamma continuava a lasciare la sua tazza sulla mensola della cucina.
 
-A volte Lev avrebbe voluto buttarla via, ma non lo faceva. Quella mattina l'aveva vista di nuovo. E aveva deciso che non avrebbe più aspettato.
+A volte Lev avrebbe voluto buttarla via, ma non lo faceva. Quella mattina l'aveva vista di nuovo e aveva deciso che non avrebbe più aspettato.
 
 Al piano di sopra l'orologio segnava le nove e quarantuno. Lev se ne accorse passando. Si fermò.
 
@@ -70,7 +70,7 @@ Controllò i messaggi. Nessuna traccia. Il telefono era sbloccato. Niente. Lev l
 
 Per la prima volta quella sera pensò che forse avrebbe fatto meglio a restare a casa.
 
-Salì al piano di sopra. Aprì la scatola di Edrian. E solo allora trovò la chiave.
+Salì al piano di sopra, aprì la scatola di Edrian e solo allora trovò la chiave.
 
 Lev si sedette sul bordo del letto. Nella stanza di Edrian non era cambiato nulla da cinque anni.
 
@@ -276,7 +276,7 @@ La mamma lavorava fino a tardi.
 
 Lev scese al piano di sotto.
 
-In cucina non c'era nessuno. La finestra era chiusa. La porta era chiusa a chiave.
+In cucina non c'era nessuno. La finestra era chiusa e la porta era chiusa a chiave.
 
 Sul tavolo c'era la tazza di Edrian.
 
@@ -342,7 +342,7 @@ Provò il CAP.
 
 La mappa gli indicò un quartiere vicino.
 
-Controllò con un altro servizio. Poi con una ricerca online. Poi trovò una vecchia mappa della città.
+Controllò con un altro servizio, poi con una ricerca online e infine trovò una vecchia mappa della città.
 
 La strada non esisteva.
 
