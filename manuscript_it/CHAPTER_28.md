@@ -1,6 +1,6 @@
 # Capitolo 28. Il prezzo
 
-Il mare era oltre la porta. Lev lo capì ancora prima di vedere l'acqua. L'odore arrivò per primo. Sale. Pietra umida. Alghe fredde. Il fumo lontano dei motori delle barche. E qualcos'altro: un sottile odore di mela verde che gli ricordò Mira. Si fermò sulla soglia. Un vento freddo gli sfiorò il viso, portò umidità salata e gli ricordò subito quanto tempo avevano trascorso in spazi dove gli odori potevano essere menzogne.
+Il mare era oltre la porta. Lev lo capì prima ancora di vedere l'acqua. L'odore arrivò per primo. Sale. Pietra umida. Alghe fredde. Il fumo lontano dei motori delle barche. E qualcos'altro: un sottile odore di mela verde che gli ricordò Mira. Si fermò sulla soglia. Un vento freddo gli sfiorò il viso, portò umidità salata e gli ricordò quanto tempo avevano trascorso in spazi dove gli odori potevano mentire.
 
 Oltre la porta iniziava la riva. Ma lì non avrebbe dovuto esserci nessuna riva. Sopra di loro incombeva un cielo grigio. Nuvole basse sfioravano quasi l'acqua. Le onde si infrangevano contro rocce nere e ogni goccia brillava di luce verde prima di scomparire. Edrian uscì accanto a lui.
 
@@ -32,7 +32,7 @@ Lev voleva rispondere, ma vide delle impronte sulla sabbia. Umane. Andavano lung
 
 — Mira.
 
-Li seguirono. La sabbia era fredda. Entrava nelle scarpe, si attaccava alle suole, scricchiolava tra le dita. Il vento tagliava il viso, entrava sotto il colletto e faceva intorpidire le dita; sulle labbra si posava il sale. Le impronte conducevano a un molo di legno, dove stava Mira. Il cappotto verde le svolazzava al vento. Guardava il mare.
+Li seguirono. La sabbia era fredda. Entrava nelle scarpe, si attaccava alle suole, scricchiolava tra le dita. Il vento tagliava il viso, entrava sotto il colletto e intorpidiva le dita; sulle labbra si posava il sale. Le impronte conducevano a un molo di legno, dove stava Mira. Il cappotto verde le svolazzava al vento. Guardava il mare.
 
 — Vi avevo chiesto di non cercarmi.
 
@@ -282,7 +282,7 @@ Mira rispose:
 
 — Quella che creerai.
 
-Lev rise. Brevemente. Senza gioia.
+Lev rise, brevemente e senza gioia.
 
 — Comodo.
 
@@ -406,7 +406,7 @@ Mira lo guardò.
 
 — Per la possibilità di incontrarti di nuovo.
 
-L'aria gli rimase bloccata in gola.
+L'aria gli si fermò in gola.
 
 — E cosa hai dato?
 
@@ -644,7 +644,7 @@ Non la persona.
 
 Il legame.
 
-Il meccanismo colpì.
+Il meccanismo pulsò.
 
 Toc.
 
@@ -670,7 +670,7 @@ Edrian inspirò lentamente.
 
 — Sono Edrian.
 
-Il nome non suscitò nulla.
+Quel nome non suscitò nulla.
 
 Lev ripeté:
 
@@ -774,7 +774,7 @@ Ma non ricordava da dove lo sapesse.
 
 La memoria se ne andava.
 
-E qualcos'altro rimaneva.
+Ma qualcos'altro rimaneva.
 
 Abilità.
 
