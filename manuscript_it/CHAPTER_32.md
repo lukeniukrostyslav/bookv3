@@ -184,7 +184,7 @@ L'aria odorava di terra, pane e foglie.
 
 Lev camminava accanto a Edrian.
 
-Non si voltava più ogni minuto.
+Non si voltava più a ogni minuto.
 
 Non cercava porte.
 
@@ -440,7 +440,7 @@ L'uomo lo guardò.
 
 — Più di quanto tu ricordi.
 
-Lev sentì dentro di sé risalire il vecchio desiderio.
+Lev sentì riaffiorare dentro di sé il vecchio desiderio.
 
 Sapere.
 
