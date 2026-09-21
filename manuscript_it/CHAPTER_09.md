@@ -1,32 +1,16 @@
 # Capitolo 9. Il nome nel libro degli ospiti
 
-Dopo che gli orologi cominciarono a battere, l'Hotel non diventò più rumoroso.
-
-Al contrario: tacque.
-
-Così tace una grande casa dopo un'improvvisa interruzione di corrente: un secondo prima tutto è vivo — i tubi, l'acqua dietro la parete, i passi, il cigolio del legno — e poi rimane soltanto il proprio respiro.
-
-Lev era in piedi al centro della stanza e guardava il libro.
-
-Le dita ricordavano ancora il calore del palmo di Edrian.
-
-Sulla pagina c'era ancora il suo nome.
+Dopo che gli orologi cominciarono a battere, l'Hotel non diventò più rumoroso. Al contrario: tacque. Così tace una grande casa dopo un'improvvisa interruzione di corrente: un secondo prima tutto è vivo — i tubi, l'acqua dietro la parete, i passi, il cigolio del legno — e poi rimane soltanto il proprio respiro. Lev era in piedi al centro della stanza e guardava il libro. Le dita ricordavano ancora il calore del palmo di Edrian. Sulla pagina c'era ancora il suo nome.
 
 **LEV ARDEN.**
 
-Sotto, la data di oggi.
-
-E la parola comparsa da sola:
+Sotto, la data di oggi. E la parola comparsa da sola:
 
 **NON DETERMINATO.**
 
 — Cosa significa «si è svegliato»? — chiese Lev.
 
-L'Amministratore non rispose.
-
-Guardava la parete dove un minuto prima c'era l'orologio.
-
-Ora c'era una porta.
+L'Amministratore non rispose. Guardava la parete dove un minuto prima c'era l'orologio. Ora c'era una porta.
 
 — Edrian — disse Lev.
 
@@ -58,25 +42,7 @@ Lev fece un passo verso il tavolo.
 
 — Allora guarderò io.
 
-Prese il libro.
-
-Le pagine erano sorprendentemente pesanti e odoravano di colla vecchia, polvere e metallo freddo.
-
-Lev voltò pagina.
-
-Vuota.
-
-Un'altra.
-
-Vuota.
-
-Sulla terza c'era un disegno dell'Hotel.
-
-Sulla quarta, un elenco di nomi.
-
-Sulla quinta, fotografie.
-
-Poi vide un cognome familiare.
+Prese il libro. Le pagine erano sorprendentemente pesanti e odoravano di colla vecchia, polvere e metallo freddo. Lev voltò pagina. Vuota. Un'altra. Vuota. Sulla terza c'era un disegno dell'Hotel. Sulla quarta, un elenco di nomi. Sulla quinta, fotografie. Poi vide un cognome familiare.
 
 **ARDEN.**
 
@@ -84,21 +50,15 @@ Sotto c'erano diverse registrazioni.
 
 **Edrian Arden — 14 ottobre.**
 
-L'anno era stato cancellato.
-
-Poi:
+L'anno era stato cancellato. Poi:
 
 **Edrian Arden — 2 novembre.**
 
-Un altro anno.
-
-Poi:
+Un altro anno. Poi:
 
 **Edrian Arden — 19 gennaio.**
 
-Un altro ancora.
-
-Lev alzò gli occhi.
+Un altro ancora. Lev alzò gli occhi.
 
 — Perché ha così tante registrazioni?
 
@@ -178,13 +138,7 @@ L'inchiostro era fresco, quasi umido.
 
 **Edrian Arden — domani.**
 
-Senza data.
-
-Senza anno.
-
-Solo una parola.
-
-Lev guardò suo fratello.
+Senza data. Senza anno. Solo una parola. Lev guardò suo fratello.
 
 — Cosa hai fatto?
 
@@ -192,9 +146,7 @@ Lev guardò suo fratello.
 
 — Allora perché il libro scrive che tornerai?
 
-Edrian non rispose.
-
-Mira disse:
+Edrian non rispose. Mira disse:
 
 — Perché una delle versioni di Edrian non ha ancora completato il suo percorso.
 
@@ -212,25 +164,11 @@ Lei tacque.
 
 — So abbastanza per capire che questo libro è pericoloso.
 
-Lev lo chiuse.
-
-Nello stesso istante tutte le lampade si spensero.
-
-Dopo alcuni secondi se ne accese una.
-
-Poi una seconda.
-
-Poi una terza.
-
-Ma la luce non veniva più dal soffitto.
-
-Veniva da sotto la porta.
+Lev lo chiuse. Nello stesso istante tutte le lampade si spensero. Dopo alcuni secondi se ne accese una. Poi una seconda. Poi una terza. Ma la luce non veniva più dal soffitto. Veniva da sotto la porta.
 
 — Dobbiamo andare nella hall — ripeté Mira.
 
-Edrian annuì.
-
-L'Amministratore rimase dov'era.
+Edrian annuì. L'Amministratore rimase dov'era.
 
 — Non ve lo consiglio.
 
@@ -264,11 +202,7 @@ L'Amministratore sorrise.
 
 — Perché l'Hotel ha deciso che non avete ancora finito.
 
-La porta si aprì da sola.
-
-Dietro c'era un corridoio che prima non esisteva.
-
-Il tappeto era diventato rosso, le pareti più chiare e sulle porte, al posto dei numeri, c'erano dei nomi.
+La porta si aprì da sola. Dietro c'era un corridoio che prima non esisteva. Il tappeto era diventato rosso, le pareti più chiare e sulle porte, al posto dei numeri, c'erano dei nomi.
 
 **MARIA.**
 
@@ -294,11 +228,7 @@ Edrian rispose piano:
 
 — Di coloro che hanno lasciato qui una parte di sé.
 
-Proseguirono.
-
-Il nome di Edrian si ripeteva: sulla porta, su una placca di rame, su un vecchio foglio appuntato alla parete.
-
-Lev sentiva che l'Hotel gli stava mostrando suo fratello da ogni lato.
+Proseguirono. Il nome di Edrian si ripeteva: sulla porta, su una placca di rame, su un vecchio foglio appuntato alla parete. Lev sentiva che l'Hotel gli stava mostrando suo fratello da ogni lato.
 
 — Vuole che lo veda.
 
@@ -314,11 +244,7 @@ Mira lo guardò.
 
 — Chi di loro è quello vero.
 
-Lev si fermò.
-
-Il corridoio diventò freddo.
-
-Edrian si avvicinò.
+Lev si fermò. Il corridoio diventò freddo. Edrian si avvicinò.
 
 — Io.
 
@@ -342,13 +268,7 @@ Tacque.
 
 — Ma non dice mai tutta la verità.
 
-Lev non li seguì subito.
-
-Rimase davanti alla porta e guardò la targhetta con il nome di Edrian.
-
-Le lettere erano vecchie, scurite ai bordi.
-
-Passò un dito sulla superficie d'ottone. Era calda.
+Lev non li seguì subito. Rimase davanti alla porta e guardò la targhetta con il nome di Edrian. Le lettere erano vecchie, scurite ai bordi. Passò un dito sulla superficie d'ottone. Era calda.
 
 — Perché è calda? — chiese.
 
@@ -364,47 +284,17 @@ Lev lo guardò.
 
 — Allora chi?
 
-Edrian non rispose.
-
-Da dietro la porta arrivò un suono sommesso.
-
-Qualcuno rideva.
-
-Con una voce molto giovane.
-
-Lev la riconobbe.
-
-Era la sua voce.
-
-Ritrasse la mano.
+Edrian non rispose. Da dietro la porta arrivò un suono sommesso. Qualcuno rideva. Con una voce molto giovane. Lev la riconobbe. Era la sua voce. Ritrasse la mano.
 
 — Cos'è?
 
 — Non ascoltare.
 
-Ma era troppo tardi.
-
-Da dietro la porta qualcuno disse:
+Ma era troppo tardi. Da dietro la porta qualcuno disse:
 
 — Edrian, avevi promesso di tornare prima di cena.
 
-Lev sentì la gola stringersi.
-
-Ricordava quella sera.
-
-O credeva di ricordarla.
-
-Edrian, quindicenne, era in piedi vicino alla finestra della cucina, infilava una giacca nello zaino e diceva che sarebbe tornato presto.
-
-Solo ora Lev capì la stranezza.
-
-Quel giorno Edrian non aveva detto quelle parole.
-
-Le aveva dette in un altro giorno.
-
-O l'Hotel aveva mescolato due ricordi.
-
-La porta si socchiuse. Mira afferrò Lev per il gomito.
+Lev sentì la gola stringersi. Ricordava quella sera. O credeva di ricordarla. Edrian, quindicenne, era in piedi vicino alla finestra della cucina, infilava una giacca nello zaino e diceva che sarebbe tornato presto. Solo ora Lev capì la stranezza. Quel giorno Edrian non aveva detto quelle parole. Le aveva dette in un altro giorno. O l'Hotel aveva mescolato due ricordi. La porta si socchiuse. Mira afferrò Lev per il gomito.
 
 — Non entrare.
 
@@ -412,31 +302,7 @@ La porta si socchiuse. Mira afferrò Lev per il gomito.
 
 — È proprio questo che vuole l'Hotel.
 
-Lev si costrinse a indietreggiare.
-
-La porta si chiuse.
-
-E con essa scomparve la voce.
-
-Continuarono a camminare.
-
-Il tappeto rosso sotto i piedi era morbido, ma in alcuni punti umido.
-
-Lev sentiva un lieve fruscio di stoffa mentre passavano davanti alle porte.
-
-A volte da dietro arrivava un odore che non avrebbe dovuto poter esistere lì: mele fritte, mare, disinfettante d'ospedale, erba bagnata.
-
-Ogni porta sembrava custodire la serata incompiuta di qualcuno.
-
-Su una c'era il nome **LUCAS**.
-
-Da dietro arrivava odore di fumo.
-
-Su un'altra **ELENA**.
-
-Da lì proveniva il pianto di un bambino.
-
-Sulla terza c'era un nome che Lev non fece in tempo a leggere: le lettere si cancellavano lentamente dal legno.
+Lev si costrinse a indietreggiare. La porta si chiuse. E con essa scomparve la voce. Continuarono a camminare. Il tappeto rosso sotto i piedi era morbido, ma in alcuni punti umido. Lev sentiva un lieve fruscio di stoffa mentre passavano davanti alle porte. A volte da dietro arrivava un odore che non avrebbe dovuto poter esistere lì: mele fritte, mare, disinfettante d'ospedale, erba bagnata. Ogni porta sembrava custodire la serata incompiuta di qualcuno. Su una c'era il nome **LUCAS**. Da dietro arrivava odore di fumo. Su un'altra **ELENA**. Da lì proveniva il pianto di un bambino. Sulla terza c'era un nome che Lev non fece in tempo a leggere: le lettere si cancellavano lentamente dal legno.
 
 — Scompaiono? — chiese.
 
@@ -492,53 +358,11 @@ Edrian lo guardò.
 
 — Cambia colui che la riceve.
 
-Lev voleva rispondere, ma non ci riuscì.
-
-Ricordò la fotografia.
-
-Se stesso più grande.
-
-Il libro tra le mani.
-
-Mira accanto.
-
-Edrian accanto.
-
-Se quel futuro esisteva, allora da qualche parte esisteva già una persona che aveva preso decisioni che Lev non aveva ancora preso.
-
-Eppure la fotografia lo guardava come se stesse aspettando.
-
-Arrivarono alla scala.
-
-Sul pianerottolo c'era uno specchio.
-
-Normale.
-
-Alto.
-
-Dentro una pesante cornice di legno.
-
-Lev gli passò accanto e si fermò.
-
-Nel riflesso Edrian era solo.
-
-Mira era scomparsa.
-
-Anche Lev era scomparso.
-
-Era rimasto soltanto suo fratello.
-
-Stava alla reception e teneva in mano il libro.
-
-Poi alzò la testa.
-
-E guardò direttamente Lev.
+Lev voleva rispondere, ma non ci riuscì. Ricordò la fotografia. Se stesso più grande. Il libro tra le mani. Mira accanto. Edrian accanto. Se quel futuro esisteva, allora da qualche parte esisteva già una persona che aveva preso decisioni che Lev non aveva ancora preso. Eppure la fotografia lo guardava come se stesse aspettando. Arrivarono alla scala. Sul pianerottolo c'era uno specchio. Normale. Alto. Dentro una pesante cornice di legno. Lev gli passò accanto e si fermò. Nel riflesso Edrian era solo. Mira era scomparsa. Anche Lev era scomparso. Era rimasto soltanto suo fratello. Stava alla reception e teneva in mano il libro. Poi alzò la testa. E guardò direttamente Lev.
 
 — Non leggere la mia ultima registrazione — disse l'Edrian riflesso.
 
-Lev si voltò.
-
-L'Edrian reale era accanto a lui.
+Lev si voltò. L'Edrian reale era accanto a lui.
 
 — L'hai detto tu?
 
@@ -568,17 +392,7 @@ Il riflesso sorrise.
 
 — Lei mi ha già risposto.
 
-Mira impallidì.
-
-Lo specchio si oscurò.
-
-Sulla sua superficie apparve un orologio.
-
-Le lancette si muovevano all'indietro.
-
-Poi il riflesso scomparve.
-
-Lev guardò Edrian.
+Mira impallidì. Lo specchio si oscurò. Sulla sua superficie apparve un orologio. Le lancette si muovevano all'indietro. Poi il riflesso scomparve. Lev guardò Edrian.
 
 — Cos'era?
 
@@ -590,21 +404,7 @@ Edrian rimase a lungo in silenzio.
 
 — È abbastanza reale da poter fare del male.
 
-Quella frase fece capire definitivamente a Lev che l'Hotel non mostrava soltanto il futuro.
-
-Mostrava alle persone i loro stessi dubbi.
-
-E a volte li trasformava in porte.
-
-Tornarono nella hall.
-
-Mentre si avvicinavano alla reception, Lev notò un altro dettaglio.
-
-Tutte le porte avevano una maniglia.
-
-La porta con il nome di Edrian non ne aveva.
-
-Soltanto una superficie liscia d'ottone.
+Quella frase fece capire definitivamente a Lev che l'Hotel non mostrava soltanto il futuro. Mostrava alle persone i loro stessi dubbi. E a volte li trasformava in porte. Tornarono nella hall. Mentre si avvicinavano alla reception, Lev notò un altro dettaglio. Tutte le porte avevano una maniglia. La porta con il nome di Edrian non ne aveva. Soltanto una superficie liscia d'ottone.
 
 — Perché non si può aprire? — chiese.
 
@@ -626,11 +426,7 @@ Lev aggrottò la fronte.
 
 — Un ricordo.
 
-Lev la guardò di nuovo.
-
-Ora distingueva sotto lo strato di legno graffi appena visibili.
-
-Qualcuno aveva cercato molte volte di aprirla.
+Lev la guardò di nuovo. Ora distingueva sotto lo strato di legno graffi appena visibili. Qualcuno aveva cercato molte volte di aprirla.
 
 — Tu?
 
@@ -674,27 +470,7 @@ Edrian non rispose subito.
 
 — Perché tu sei qui.
 
-Quella semplice frase suonò più terribile di un avvertimento.
-
-Lev guardò la hall.
-
-Il caffè nella tazza si era raffreddato.
-
-Le lancette dell'orologio avevano ricominciato a muoversi.
-
-Questa volta in avanti.
-
-E per la prima volta Lev capì che l'Hotel non si era limitato ad aspettarlo.
-
-Stava verificando cosa avrebbe fatto.
-
-Arrivarono nella hall.
-
-Qui tornava a esserci odore di caffè, cera e pioggia.
-
-Dietro la reception non c'era nessuno.
-
-Il grande orologio ticchettava.
+Quella semplice frase suonò più terribile di un avvertimento. Lev guardò la hall. Il caffè nella tazza si era raffreddato. Le lancette dell'orologio avevano ricominciato a muoversi. Questa volta in avanti. E per la prima volta Lev capì che l'Hotel non si era limitato ad aspettarlo. Stava verificando cosa avrebbe fatto. Arrivarono nella hall. Qui tornava a esserci odore di caffè, cera e pioggia. Dietro la reception non c'era nessuno. Il grande orologio ticchettava.
 
 Tic.
 
@@ -702,15 +478,7 @@ Tic.
 
 Tic.
 
-Lev guardò il registro.
-
-Era lì, nello stesso posto.
-
-Aperto.
-
-Alla pagina con il nome di Edrian.
-
-Mira si fermò.
+Lev guardò il registro. Era lì, nello stesso posto. Aperto. Alla pagina con il nome di Edrian. Mira si fermò.
 
 — Lev.
 
@@ -740,23 +508,7 @@ Edrian rispose:
 
 — Perché ho sentito cosa succede dopo.
 
-Lev posò la mano sulla pagina.
-
-La carta era fredda.
-
-Voltò pagina.
-
-Su quella successiva c'erano nomi.
-
-Alcuni cancellati.
-
-Alcuni scomparivano proprio davanti ai suoi occhi.
-
-Un nome era scritto con grafia infantile.
-
-Un altro con lettere tremanti.
-
-Un terzo era quasi completamente sbiadito:
+Lev posò la mano sulla pagina. La carta era fredda. Voltò pagina. Su quella successiva c'erano nomi. Alcuni cancellati. Alcuni scomparivano proprio davanti ai suoi occhi. Un nome era scritto con grafia infantile. Un altro con lettere tremanti. Un terzo era quasi completamente sbiadito:
 
 **…ARD…**
 
@@ -768,9 +520,7 @@ Edrian disse bruscamente:
 
 — Non toccare.
 
-Lev ritirò la mano.
-
-Ma aveva già notato un'altra registrazione.
+Lev ritirò la mano. Ma aveva già notato un'altra registrazione.
 
 **L'ospite è tornato.**
 
@@ -782,9 +532,7 @@ Lev sentì la bocca secca.
 
 — Cosa significa «non quello giusto»?
 
-Edrian non rispose.
-
-Mira si avvicinò al registro.
+Edrian non rispose. Mira si avvicinò al registro.
 
 — Non parla di lui.
 
@@ -794,17 +542,7 @@ La risposta arrivò da dietro la reception.
 
 — Di colui che verrà dopo di lui.
 
-Lev si voltò lentamente.
-
-Un portiere era lì dove, un secondo prima, non c'era nessuno.
-
-Gilet grigio.
-
-Camicia bianca.
-
-Cravatta impeccabile.
-
-Sorriso cortese.
+Lev si voltò lentamente. Un portiere era lì dove, un secondo prima, non c'era nessuno. Gilet grigio. Camicia bianca. Cravatta impeccabile. Sorriso cortese.
 
 — Buonasera, signor Arden.
 
@@ -824,9 +562,7 @@ Poi aprì il registro.
 
 — Volevate sapere quante volte vostro fratello è stato qui.
 
-Lev annuì.
-
-Il portiere passò un dito sulle registrazioni.
+Lev annuì. Il portiere passò un dito sulle registrazioni.
 
 — Sette.
 
@@ -852,29 +588,11 @@ Il portiere sorrise.
 
 — Per cosa?
 
-Il portiere voltò pagina.
-
-C'era una fotografia.
-
-Lev vide Edrian, molto giovane.
-
-Accanto a lui c'era Mira.
-
-Tra loro c'era lui stesso.
-
-Solo che era più grande.
-
-Molto più grande.
-
-In mano teneva lo stesso libro.
-
-Sotto la fotografia c'era una data.
+Il portiere voltò pagina. C'era una fotografia. Lev vide Edrian, molto giovane. Accanto a lui c'era Mira. Tra loro c'era lui stesso. Solo che era più grande. Molto più grande. In mano teneva lo stesso libro. Sotto la fotografia c'era una data.
 
 **8 marzo 2027.**
 
-Domani.
-
-Lev sentì un gelo pungente alle dita.
+Domani. Lev sentì un gelo pungente alle dita.
 
 — Sono io?
 
@@ -884,11 +602,7 @@ Mira guardava la fotografia senza respirare.
 
 — Da dove viene?
 
-Non rispose.
-
-Lev guardò Edrian.
-
-Anche suo fratello taceva.
+Non rispose. Lev guardò Edrian. Anche suo fratello taceva.
 
 — Tu lo sapevi?
 
@@ -914,17 +628,7 @@ Mira lo guardò.
 
 — Adesso è cambiata.
 
-Lev guardò di nuovo la fotografia.
-
-Su di essa era comparsa una macchia nera.
-
-All'inizio pensò fosse un danno sulla carta.
-
-Ma la macchia si muoveva.
-
-Si espandeva lentamente dal bordo della fotografia verso la figura di Lev.
-
-Edrian afferrò bruscamente la foto.
+Lev guardò di nuovo la fotografia. Su di essa era comparsa una macchia nera. All'inizio pensò fosse un danno sulla carta. Ma la macchia si muoveva. Si espandeva lentamente dal bordo della fotografia verso la figura di Lev. Edrian afferrò bruscamente la foto.
 
 — Indietro.
 
@@ -936,33 +640,11 @@ Il portiere smise di sorridere.
 
 — Troppo tardi.
 
-La macchia nera raggiunse la mano di Lev nella fotografia.
-
-Nella sua mano apparve una chiave.
-
-La stessa.
-
-314.
-
-Ma sulla chiave non c'era più il numero.
-
-Ora vi era incisa una parola:
+La macchia nera raggiunse la mano di Lev nella fotografia. Nella sua mano apparve una chiave. La stessa. 314. Ma sulla chiave non c'era più il numero. Ora vi era incisa una parola:
 
 **DOMANI.**
 
-Lev si fermò accanto alla reception e guardò il proprio riflesso nel legno lucido.
-
-Il volto gli sembrava familiare, ma in qualche modo estraneo.
-
-Troppo adulto.
-
-Per un istante gli parve che nel riflesso, dietro la sua spalla, ci fosse qualcuno.
-
-Lev si voltò bruscamente.
-
-Nessuno.
-
-Solo Edrian.
+Lev si fermò accanto alla reception e guardò il proprio riflesso nel legno lucido. Il volto gli sembrava familiare, ma in qualche modo estraneo. Troppo adulto. Per un istante gli parve che nel riflesso, dietro la sua spalla, ci fosse qualcuno. Lev si voltò bruscamente. Nessuno. Solo Edrian.
 
 — Cosa hai visto?
 
@@ -972,9 +654,7 @@ Edrian sorrise appena.
 
 — Menti di nuovo.
 
-Lev passò istintivamente l'unghia sul pollice.
-
-Un movimento abituale.
+Lev passò istintivamente l'unghia sul pollice. Un movimento abituale.
 
 — Va bene.
 
@@ -996,27 +676,17 @@ Edrian guardò lo specchio.
 
 — Ciò che ha paura di te.
 
-Lev avrebbe voluto ridere, ma non ci riuscì.
-
-In fondo alla hall qualcosa tintinnò piano.
-
-Il portiere era già di nuovo accanto al registro.
-
-Alzò la penna.
+Lev avrebbe voluto ridere, ma non ci riuscì. In fondo alla hall qualcosa tintinnò piano. Il portiere era già di nuovo accanto al registro. Alzò la penna.
 
 — Signor Arden, avete dimenticato qualcosa.
 
 — Cosa?
 
-Il portiere indicò la pagina.
-
-Accanto al nome di Edrian c'era una riga vuota.
+Il portiere indicò la pagina. Accanto al nome di Edrian c'era una riga vuota.
 
 — La firma.
 
-Lev guardò suo fratello.
-
-Edrian impallidì.
+Lev guardò suo fratello. Edrian impallidì.
 
 — Non firmare.
 
@@ -1030,23 +700,7 @@ Chiuse con cura il registro.
 
 — Per ora.
 
-E proprio allora Lev capì che la prossima registrazione sarebbe stata la sua.
-
-Nella hall risuonò un suono.
-
-Qualcuno aveva voltato una pagina del libro.
-
-Da solo.
-
-Lev guardò in basso.
-
-Sulla pagina bianca comparvero delle lettere.
-
-Prima una.
-
-Poi una seconda.
-
-Poi un'intera riga.
+E proprio allora Lev capì che la prossima registrazione sarebbe stata la sua. Nella hall risuonò un suono. Qualcuno aveva voltato una pagina del libro. Da solo. Lev guardò in basso. Sulla pagina bianca comparvero delle lettere. Prima una. Poi una seconda. Poi un'intera riga.
 
 **EDRIAN ARDEN — OSPITE.**
 
@@ -1066,36 +720,8 @@ Il portiere chiuse lentamente il registro.
 
 — Purtroppo — disse — l'Hotel ha già fatto la sua prima mossa.
 
-Lev guardò il registro chiuso.
-
-All'improvviso ebbe voglia di riaprirlo.
-
-Non per curiosità.
-
-Per paura.
-
-Capì che non temeva di trovarci il proprio nome.
-
-Temeva di vedere il proprio nome accanto al futuro di qualcun altro.
-
-Mira disse piano:
+Lev guardò il registro chiuso. All'improvviso ebbe voglia di riaprirlo. Non per curiosità. Per paura. Capì che non temeva di trovarci il proprio nome. Temeva di vedere il proprio nome accanto al futuro di qualcun altro. Mira disse piano:
 
 — Non permettere all'Hotel di metterti fretta.
 
-Lev annuì.
-
-Ma da qualche parte, nel profondo, sapeva già: l'Hotel non chiede il permesso.
-
-Aspetta soltanto il momento in cui una persona tende la mano da sola.
-
-Guardò ancora una volta il libro.
-
-Giaceva immobile.
-
-Quasi innocente.
-
-Ma Lev ormai sapeva che, in quell'Hotel, le cose più pericolose avevano sempre quell'aspetto.
-
-E da qualche parte, in profondità sotto l'edificio, risuonò un unico rintocco.
-
-Il suono rimase a lungo vivo nella pietra.
+Lev annuì. Ma da qualche parte, nel profondo, sapeva già: l'Hotel non chiede il permesso. Aspetta soltanto il momento in cui una persona tende la mano da sola. Guardò ancora una volta il libro. Giaceva immobile. Quasi innocente. Ma Lev ormai sapeva che, in quell'Hotel, le cose più pericolose avevano sempre quell'aspetto. E da qualche parte, in profondità sotto l'edificio, risuonò un unico rintocco. Il suono rimase a lungo vivo nella pietra.
