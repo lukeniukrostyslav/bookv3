@@ -848,5 +848,4 @@ Guardò suo fratello.
 
 — Adesso l'Hotel sa che mi hai trovato.
 
-La porta cominciò ad aprirsi da sola. Una corrente d'aria fredda entrò nella stanza. La lampada sopra di loro tremolò.
-
+La porta cominciò ad aprirsi da sola. Una corrente d'aria fredda entrò nella stanza. La lampada sopra di loro tremolò. 
