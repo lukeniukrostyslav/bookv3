@@ -1,6 +1,6 @@
 # Capitolo 8. La stanza del fratello
 
-La porta si apriva lentamente, troppo lentamente perché si potesse chiamare un caso.
+La porta si apriva lentamente, troppo lentamente perché fosse un caso.
 
 Prima, tra l'anta e lo stipite apparve una sottile striscia di luce.
 
@@ -22,7 +22,7 @@ Lev guardò la finestra.
 
 Dietro il vetro c'era la notte.
 
-In basso brillavano luci immobili, tra loro giaceva la nebbia.
+In basso brillavano luci immobili, immerse nella nebbia.
 
 — Vuoi che salti?
 
@@ -48,7 +48,7 @@ Edrian annuì.
 
 — Perché dopo questo smetterai di essere un ospite.
 
-Il freddo strinse lo stomaco di Lev, come se qualcosa gli avesse fatto un nodo dentro.
+Il freddo gli strinse lo stomaco, come se qualcosa gli avesse annodato le viscere.
 
 — E cosa diventerò?
 
@@ -222,7 +222,7 @@ Edrian lo guardò.
 
 — Ho salvato una versione di te.
 
-Quella frase colpì più forte di tutto ciò che aveva detto prima.
+Quella frase lo colpì più forte di tutto ciò che aveva detto prima.
 
 — E cosa è successo alle altre?
 
@@ -568,7 +568,7 @@ Edrian sussurrò:
 
 La luce si spense.
 
-Nel buio totale Lev sentì qualcuno prendergli la mano.
+Nel buio totale, Lev sentì qualcuno prendergli la mano.
 
 Mira.
 
@@ -836,7 +836,7 @@ Mira guardò la porta.
 
 — Diciassette.
 
-Lev sentì qualcosa raffreddarsi dentro di lui.
+Lev sentì qualcosa raffreddarsi dentro di sé.
 
 Ma non fece in tempo a chiedere altro.
 
