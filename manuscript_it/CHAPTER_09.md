@@ -4,7 +4,7 @@ Dopo che gli orologi cominciarono a battere, l'Hotel non diventò più rumoroso.
 
 Al contrario: tacque.
 
-Così tace una grande casa dopo un'improvvisa interruzione di corrente: un secondo prima tutto era vivo — i tubi, l'acqua dietro la parete, i passi, il cigolio del legno — e poi rimane soltanto il proprio respiro.
+Così tace una grande casa dopo un'improvvisa interruzione di corrente: un secondo prima tutto è vivo — i tubi, l'acqua dietro la parete, i passi, il cigolio del legno — e poi rimane soltanto il proprio respiro.
 
 Lev era in piedi al centro della stanza e guardava il libro.
 
@@ -112,7 +112,7 @@ Edrian rimase in silenzio.
 
 — Non le ho contate.
 
-Lev guardò lentamente il libro, sentendo il freddo salire lungo la schiena senza lasciarlo più.
+Lev guardò lentamente il libro e sentì il freddo salire lungo la schiena, senza più lasciarlo.
 
 — Ma il libro sì.
 
@@ -348,9 +348,7 @@ Rimase davanti alla porta e guardò la targhetta con il nome di Edrian.
 
 Le lettere erano vecchie, scurite ai bordi.
 
-Passò un dito sulla superficie d'ottone.
-
-Era calda.
+Passò un dito sulla superficie d'ottone. Era calda.
 
 — Perché è calda? — chiese.
 
@@ -406,9 +404,7 @@ Le aveva dette in un altro giorno.
 
 O l'Hotel aveva mescolato due ricordi.
 
-La porta si socchiuse.
-
-Mira afferrò Lev per il gomito.
+La porta si socchiuse. Mira afferrò Lev per il gomito.
 
 — Non entrare.
 
