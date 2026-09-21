@@ -14,9 +14,9 @@ A volte si sentiva un lieve tintinnio di porcellana, anche se intorno non c'era 
 
 Lev sentiva ancora l'odore della neve.
 
-Gli raffreddava il naso e la gola, anche se intorno faceva caldo, come se una parte del futuro fosse rimasta su di lui sotto forma di una brina invisibile.
+Gli raffreddava il naso e la gola, anche se intorno faceva caldo, come se una parte del futuro gli fosse rimasta addosso sotto forma di una brina invisibile.
 
-Il freddo dell'inverno sembrava essere rimasto dentro il naso e nella gola, mescolandosi all'odore del legno vecchio.
+Il freddo dell'inverno sembrava essergli rimasto nel naso e nella gola, mescolandosi all'odore del legno vecchio.
 
 — Lo senti anche tu? — chiese.
 
@@ -186,9 +186,7 @@ L'ascensore partì.
 
 Non verso l'alto né verso il basso.
 
-All'inizio Lev pensò che fossero fermi.
-
-Poi capì che era il pavimento stesso a muoversi.
+All'inizio Lev pensò che fossero fermi. Poi capì che era il pavimento stesso a muoversi.
 
 Il pavimento sotto i piedi sembrò spostarsi di lato per un istante.
 
@@ -272,7 +270,7 @@ Edrian sorrise.
 
 — Hai sempre ascoltato Mira?
 
-Dentro Lev tutto si strinse così forte che dimenticò di respirare.
+Dentro di lui tutto si strinse così forte che dimenticò di respirare.
 
 Non era soltanto la voce.
 
