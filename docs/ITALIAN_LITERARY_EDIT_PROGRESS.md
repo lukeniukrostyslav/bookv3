@@ -14,7 +14,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.5 Dialogue naturalness: **100%**
 - B15.2.6 Atmosphere / tension: **100%**
 - B15.2.7 Action-scene rhythm: **100%**
-- B15.2.8 Mystery-scene rhythm: **0%**
+- B15.2.8 Mystery-scene rhythm: **100% (32/32 chapters reviewed)**
 - B15.2.9 Emotional-scene rhythm: **0%**
 - B15.2.10 Repetition / heavy constructions: **0%**
 - B15.2.11 Italian punctuation / typography: **0%**
