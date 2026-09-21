@@ -1,24 +1,6 @@
 # Capitolo 15. L'ultima fotografia
 
-La porta si aprì senza scricchiolare.
-
-Dietro non c'era un corridoio.
-
-C'era una sala enorme e rotonda, immersa in una luce lattiginosa.
-
-All'inizio Lev non vide né il soffitto né le pareti.
-
-Solo fotografie.
-
-Erano sospese nell'aria — centinaia, migliaia: grandi, piccole, a colori, in bianco e nero.
-
-Alcune erano immobili.
-
-Altre si muovevano come vecchi film: una persona nella fotografia girava la testa, una tenda oscillava, l'acqua scivolava sul vetro.
-
-Nell'aria c'era odore di sostanze chimiche, carta bagnata e ozono.
-
-Mira si fermò sulla soglia.
+La porta si aprì senza scricchiolare. Dietro non c'era un corridoio. C'era una sala enorme e rotonda, immersa in una luce lattiginosa. All'inizio Lev non vide né il soffitto né le pareti. Solo fotografie. Erano sospese nell'aria — centinaia, migliaia: grandi, piccole, a colori, in bianco e nero. Alcune erano immobili. Altre si muovevano come vecchi film: una persona nella fotografia girava la testa, una tenda oscillava, l'acqua scivolava sul vetro. Nell'aria c'era odore di sostanze chimiche, carta bagnata e ozono. Mira si fermò sulla soglia.
 
 — Non sapevo che questo posto esistesse.
 
@@ -30,33 +12,11 @@ Lev la guardò attentamente.
 
 — Me ne sono già accorto.
 
-Fece un passo.
-
-Il pavimento era di vetro.
-
-Sotto di esso c'era il buio.
-
-Molto più in basso brillavano alcune finestre, come se un'intera città fosse distesa sotto i loro piedi.
-
-Lev si avvicinò alla fotografia più vicina.
-
-C'era la stanza 314.
-
-Quella stessa.
-
-Ma la fotografia era stata scattata prima del suo arrivo.
-
-Sul letto c'era una vecchia valigia.
-
-Sul tavolo una tazza.
-
-Sullo specchio compariva una scritta:
+Fece un passo. Il pavimento era di vetro. Sotto di esso c'era il buio. Molto più in basso brillavano alcune finestre, come se un'intera città fosse distesa sotto i loro piedi. Lev si avvicinò alla fotografia più vicina. C'era la stanza 314. Quella stessa. Ma la fotografia era stata scattata prima del suo arrivo. Sul letto c'era una vecchia valigia. Sul tavolo una tazza. Sullo specchio compariva una scritta:
 
 **NON APRIRE.**
 
-Lev tese la mano.
-
-La fotografia scomparve.
+Lev tese la mano. La fotografia scomparve.
 
 — Non toccarla — disse Mira.
 
@@ -68,17 +28,7 @@ La fotografia scomparve.
 
 — Poi possono mostrare te.
 
-Lev ritirò la mano.
-
-Dietro di loro la porta si chiuse.
-
-Nello stesso istante l'intera sala sembrò inspirare.
-
-Migliaia di fotografie si girarono contemporaneamente.
-
-I volti guardavano Lev.
-
-Sentì la pelle sulla nuca coprirsi di brividi.
+Lev ritirò la mano. Dietro di loro la porta si chiuse. Nello stesso istante l'intera sala sembrò inspirare. Migliaia di fotografie si girarono contemporaneamente. I volti guardavano Lev. Sentì la pelle sulla nuca coprirsi di brividi.
 
 — Mi conoscono tutti?
 
@@ -90,19 +40,7 @@ Lev alzò lo sguardo.
 
 — Ogni fotografia è un momento che avrebbe potuto diventare reale.
 
-Camminò lentamente.
-
-In una fotografia era adulto.
-
-In un'altra bambino.
-
-Nella terza sedeva in una stanza d'ospedale.
-
-Nella quarta stava vicino al mare.
-
-Nella quinta teneva la mano di un vecchio.
-
-Nella sesta era completamente solo.
+Camminò lentamente. In una fotografia era adulto. In un'altra bambino. Nella terza sedeva in una stanza d'ospedale. Nella quarta stava vicino al mare. Nella quinta teneva la mano di un vecchio. Nella sesta era completamente solo.
 
 — Chi le fa? — chiese.
 
@@ -114,25 +52,13 @@ Lev si fermò come se avesse urtato contro una parete invisibile.
 
 — Cosa?
 
-Indicò una macchina fotografica appoggiata sul tavolo.
-
-Una vecchia macchina a pellicola.
-
-Nera.
-
-Con la pelle consumata.
-
-Lev la riconobbe.
+Indicò una macchina fotografica appoggiata sul tavolo. Una vecchia macchina a pellicola. Nera. Con la pelle consumata. Lev la riconobbe.
 
 — Era sua.
 
 — Sì.
 
-Prese la macchina.
-
-Era calda.
-
-Sulla cinghia era rimasto un piccolo distintivo di metallo.
+Prese la macchina. Era calda. Sulla cinghia era rimasto un piccolo distintivo di metallo.
 
 **A.A.**
 
@@ -156,21 +82,7 @@ Lev guardò le fotografie.
 
 — Per lui sì.
 
-Mira si avvicinò alla parete.
-
-Le fotografie erano disposte per data.
-
-2019.
-
-2020.
-
-2021.
-
-2022.
-
-2023.
-
-Poi le date scomparivano.
+Mira si avvicinò alla parete. Le fotografie erano disposte per data. 2019. 2020. 2021. 2022. 2023. Poi le date scomparivano.
 
 — Edrian cominciò a fotografare dopo essere diventato il Custode — disse.
 
@@ -214,31 +126,7 @@ Lev la guardò.
 
 — No.
 
-Davanti a loro si accese una lampada.
-
-Poi la successiva.
-
-Le fotografie cominciarono a disporsi in fila.
-
-Lev le seguì.
-
-La prima mostrava un corridoio.
-
-La seconda un ascensore.
-
-La terza il ristorante.
-
-La quarta la biblioteca.
-
-La quinta una stanza senza numero.
-
-Si fermò.
-
-Nella fotografia c'era Edrian.
-
-Guardava direttamente nell'obiettivo e teneva in mano un foglio.
-
-Sul foglio c'era scritto:
+Davanti a loro si accese una lampada. Poi la successiva. Le fotografie cominciarono a disporsi in fila. Lev le seguì. La prima mostrava un corridoio. La seconda un ascensore. La terza il ristorante. La quarta la biblioteca. La quinta una stanza senza numero. Si fermò. Nella fotografia c'era Edrian. Guardava direttamente nell'obiettivo e teneva in mano un foglio. Sul foglio c'era scritto:
 
 **NON LASCIARLO ARRIVARE ALL'ULTIMA STANZA.**
 
@@ -250,11 +138,7 @@ L'irritazione esplose all'improvviso, quasi dolorosa.
 
 — Cercava di controllarmi.
 
-Mira non obiettò.
-
-Lev girò la fotografia.
-
-Sul retro:
+Mira non obiettò. Lev girò la fotografia. Sul retro:
 
 **SE LEV È GIÀ QUI, SIGNIFICA CHE SONO ARRIVATO TARDI.**
 
@@ -294,25 +178,7 @@ Mira guardò le fotografie.
 
 — Che trovassi te stesso.
 
-Lev non rispose.
-
-Arrivarono alla parete più lontana.
-
-C'erano fotografie dello stesso luogo.
-
-Una porta vuota.
-
-Nella prima fotografia non c'era.
-
-Nella seconda compariva il telaio.
-
-Nella terza una maniglia.
-
-Nella quarta la porta.
-
-Nella quinta, dietro di essa, c'era luce.
-
-L'ansia gli salì dallo stomaco alla gola.
+Lev non rispose. Arrivarono alla parete più lontana. C'erano fotografie dello stesso luogo. Una porta vuota. Nella prima fotografia non c'era. Nella seconda compariva il telaio. Nella terza una maniglia. Nella quarta la porta. Nella quinta, dietro di essa, c'era luce. L'ansia gli salì dallo stomaco alla gola.
 
 — Cos'è?
 
@@ -382,21 +248,7 @@ Mira guardò l'ultima fotografia.
 
 — No.
 
-Lev si avvicinò.
-
-La foto era quasi nera.
-
-Si vedeva un lungo corridoio.
-
-In fondo, una porta.
-
-Davanti alla porta c'era Edrian.
-
-Teneva la macchina fotografica e guardava di lato, come se vedesse qualcuno fuori dall'inquadratura.
-
-Lev girò la fotografia.
-
-Sul retro c'era scritto:
+Lev si avvicinò. La foto era quasi nera. Si vedeva un lungo corridoio. In fondo, una porta. Davanti alla porta c'era Edrian. Teneva la macchina fotografica e guardava di lato, come se vedesse qualcuno fuori dall'inquadratura. Lev girò la fotografia. Sul retro c'era scritto:
 
 **L'HO TROVATO.**
 
@@ -424,25 +276,7 @@ Lev sentì di non capire.
 
 — Allora come poteva fotografarmi?
 
-Mira rimase in silenzio.
-
-Lev girò di nuovo la fotografia.
-
-E vide un'altra figura.
-
-Nell'angolo più lontano.
-
-Sotto una lampada.
-
-All'inizio pensò fosse un'ombra.
-
-Ma l'ombra si muoveva.
-
-L'uomo girò la testa.
-
-Lev riconobbe il volto.
-
-L'Amministratore.
+Mira rimase in silenzio. Lev girò di nuovo la fotografia. E vide un'altra figura. Nell'angolo più lontano. Sotto una lampada. All'inizio pensò fosse un'ombra. Ma l'ombra si muoveva. L'uomo girò la testa. Lev riconobbe il volto. L'Amministratore.
 
 — Era lì — sussurrò Lev.
 
@@ -464,31 +298,7 @@ Lev la guardò.
 
 — Non lo so.
 
-La fotografia tremò.
-
-E all'improvviso cambiò.
-
-Il corridoio scomparve.
-
-Nella fotografia apparve Lev.
-
-Era di spalle alla macchina.
-
-Non aveva diciassette anni.
-
-Venti.
-
-Forse ventuno.
-
-Indossava abiti scuri.
-
-In mano aveva una chiave.
-
-Davanti a lui c'era una porta.
-
-La stessa che ancora non esisteva.
-
-Lev sentì il respiro bloccarsi.
+La fotografia tremò. E all'improvviso cambiò. Il corridoio scomparve. Nella fotografia apparve Lev. Era di spalle alla macchina. Non aveva diciassette anni. Venti. Forse ventuno. Indossava abiti scuri. In mano aveva una chiave. Davanti a lui c'era una porta. La stessa che ancora non esisteva. Lev sentì il respiro bloccarsi.
 
 — Sono io.
 
@@ -512,15 +322,7 @@ Si avvicinò.
 
 — Quello che non è ancora stato scelto.
 
-Lev guardava se stesso nella fotografia.
-
-Il Lev adulto era completamente immobile.
-
-Non spaventato.
-
-Non felice.
-
-Sembrava aver aspettato troppo a lungo.
+Lev guardava se stesso nella fotografia. Il Lev adulto era completamente immobile. Non spaventato. Non felice. Sembrava aver aspettato troppo a lungo.
 
 — Perché ha la chiave?
 
@@ -540,19 +342,11 @@ Lev sentì l'ansia crescere.
 
 — Perché?
 
-Nella fotografia apparve un nuovo dettaglio.
-
-Dietro Lev adulto c'era qualcuno.
-
-L'Amministratore.
-
-Lev indietreggiò bruscamente.
+Nella fotografia apparve un nuovo dettaglio. Dietro Lev adulto c'era qualcuno. L'Amministratore. Lev indietreggiò bruscamente.
 
 — È lì.
 
-Mira guardò.
-
-Il suo volto cambiò.
+Mira guardò. Il suo volto cambiò.
 
 — Sì.
 
@@ -566,9 +360,7 @@ Il suo volto cambiò.
 
 — Basta!
 
-Lev colpì il tavolo con il palmo.
-
-Le fotografie tremarono.
+Lev colpì il tavolo con il palmo. Le fotografie tremarono.
 
 — Continui a dire «forse» perché hai paura di dire la verità.
 
@@ -594,15 +386,7 @@ Lev tacque.
 
 — Lui usa questa regola meglio di tutti.
 
-All'improvviso la macchina fotografica sul tavolo scattò.
-
-Da sola.
-
-Lev e Mira si voltarono contemporaneamente.
-
-Dentro la macchina era comparsa una nuova pellicola.
-
-Lev sentì un suono meccanico.
+All'improvviso la macchina fotografica sul tavolo scattò. Da sola. Lev e Mira si voltarono contemporaneamente. Dentro la macchina era comparsa una nuova pellicola. Lev sentì un suono meccanico.
 
 Click.
 
@@ -610,23 +394,7 @@ Click.
 
 Click.
 
-Dalla macchina uscì lentamente una fotografia.
-
-Lev la raccolse.
-
-Era fresca.
-
-Ancora umida.
-
-Mostrava quella stessa sala.
-
-Solo che la fotografia era stata scattata dall'altra parte.
-
-C'erano Lev e Mira.
-
-E dietro di loro c'era Edrian.
-
-Lev impallidì.
+Dalla macchina uscì lentamente una fotografia. Lev la raccolse. Era fresca. Ancora umida. Mostrava quella stessa sala. Solo che la fotografia era stata scattata dall'altra parte. C'erano Lev e Mira. E dietro di loro c'era Edrian. Lev impallidì.
 
 — È qui?
 
@@ -636,11 +404,7 @@ Mira guardava la fotografia.
 
 — Allora perché è nella foto?
 
-Lei non rispose.
-
-Lev girò la fotografia.
-
-Sul retro c'era scritto:
+Lei non rispose. Lev girò la fotografia. Sul retro c'era scritto:
 
 **NON TUTTE LE FOTOGRAFIE MOSTRANO IL FUTURO.**
 
@@ -652,21 +416,7 @@ Mira sussurrò:
 
 — L'osservatore.
 
-Lev sentì dei passi.
-
-Uno.
-
-Due.
-
-Tre.
-
-Dall'oscurità tra le fotografie uscì l'Amministratore.
-
-Sembrava calmo come sempre.
-
-Solo che questa volta teneva in mano una macchina fotografica.
-
-Uguale.
+Lev sentì dei passi. Uno. Due. Tre. Dall'oscurità tra le fotografie uscì l'Amministratore. Sembrava calmo come sempre. Solo che questa volta teneva in mano una macchina fotografica. Uguale.
 
 — Una bella fotografia — disse.
 
@@ -704,49 +454,15 @@ Guardò l'ultima fotografia.
 
 — Una stanza che ancora non esiste.
 
-In quel momento tutte le fotografie della sala si spensero.
-
-Ne rimase una sola.
-
-Quella in cui Lev adulto era davanti alla porta inesistente.
-
-E dietro la sua spalla c'era l'Amministratore.
-
-Ma ora l'Amministratore nella fotografia sorrideva.
-
-E Lev adulto si stava lentamente voltando.
-
-Come se avesse sentito una voce dietro di sé.
-
-Lev avvicinò la fotografia al volto.
-
-E vide qualcosa che prima non c'era.
-
-Il suo io adulto guardava direttamente nell'obiettivo.
-
-E sussurrava:
+In quel momento tutte le fotografie della sala si spensero. Ne rimase una sola. Quella in cui Lev adulto era davanti alla porta inesistente. E dietro la sua spalla c'era l'Amministratore. Ma ora l'Amministratore nella fotografia sorrideva. E Lev adulto si stava lentamente voltando. Come se avesse sentito una voce dietro di sé. Lev avvicinò la fotografia al volto. E vide qualcosa che prima non c'era. Il suo io adulto guardava direttamente nell'obiettivo. E sussurrava:
 
 **«Non aprire la porta se lui sarà accanto a te».**
 
-Dietro Lev risuonò una voce bassa.
-
-Non dell'Amministratore.
-
-Non di Mira.
-
-Edrian.
+Dietro Lev risuonò una voce bassa. Non dell'Amministratore. Non di Mira. Edrian.
 
 — Troppo tardi.
 
-Lev non si voltò subito.
-
-Aveva paura che, se avesse girato la testa, avrebbe visto la persona che cercava da tutti quegli anni e, allo stesso tempo, la prova che anche quello era soltanto una delle possibilità.
-
-Ma la voce era reale.
-
-Conosceva la pausa tra le parole.
-
-Conosceva l'abitudine di Edrian di allungare leggermente le ultime sillabe quando voleva scherzare o nascondere l'ansia.
+Lev non si voltò subito. Aveva paura che, se avesse girato la testa, avrebbe visto la persona che cercava da tutti quegli anni e, allo stesso tempo, la prova che anche quello era soltanto una delle possibilità. Ma la voce era reale. Conosceva la pausa tra le parole. Conosceva l'abitudine di Edrian di allungare leggermente le ultime sillabe quando voleva scherzare o nascondere l'ansia.
 
 — Edrian?
 
@@ -754,33 +470,11 @@ Mira chiuse gli occhi.
 
 — Non guardare.
 
-Lev si voltò comunque.
-
-Tra le fotografie non c'era nessuno.
-
-Solo la macchina fotografica sul tavolo.
-
-E una luce rossa che un secondo prima non esisteva.
-
-Lampeggiò.
+Lev si voltò comunque. Tra le fotografie non c'era nessuno. Solo la macchina fotografica sul tavolo. E una luce rossa che un secondo prima non esisteva. Lampeggiò.
 
 Click.
 
-Una nuova fotografia cadde sul pavimento.
-
-Lev la raccolse.
-
-Nella foto Edrian era in una stanza vuota.
-
-Sulla parete dietro di lui c'era un orologio senza lancette.
-
-Guardava direttamente nell'obiettivo.
-
-In mano teneva un biglietto.
-
-Lev avvicinò la fotografia.
-
-C'erano quattro parole:
+Una nuova fotografia cadde sul pavimento. Lev la raccolse. Nella foto Edrian era in una stanza vuota. Sulla parete dietro di lui c'era un orologio senza lancette. Guardava direttamente nell'obiettivo. In mano teneva un biglietto. Lev avvicinò la fotografia. C'erano quattro parole:
 
 **NON CREDERE ALLA MIA VOCE.**
 
@@ -818,17 +512,11 @@ L'Amministratore rimase in silenzio.
 
 — Sì.
 
-Per la prima volta dopo molto tempo Lev sentì speranza.
-
-Ma l'Amministratore continuò:
+Per la prima volta dopo molto tempo Lev sentì speranza. Ma l'Amministratore continuò:
 
 — E allo stesso tempo può essere morto.
 
-La speranza non scomparve.
-
-Diventò più spaventosa.
-
-Mira gli si avvicinò.
+La speranza non scomparve. Diventò più spaventosa. Mira gli si avvicinò.
 
 — Dobbiamo andare.
 
@@ -846,9 +534,7 @@ Lev mise la fotografia in tasca.
 
 — Allora andiamo.
 
-L'Amministratore non li fermò.
-
-Quando passarono accanto a lui, disse:
+L'Amministratore non li fermò. Quando passarono accanto a lui, disse:
 
 — Lev.
 
@@ -862,21 +548,7 @@ Lev si voltò.
 
 — Perché allora potresti diventare la causa di ciò che vi è raffigurato.
 
-Lev non rispose.
-
-Uscirono.
-
-Il corridoio era vuoto.
-
-Solo sulla parete era comparsa una nuova porta.
-
-Senza numero.
-
-Senza maniglia.
-
-Solo una superficie liscia di legno scuro.
-
-Mira si fermò.
+Lev non rispose. Uscirono. Il corridoio era vuoto. Solo sulla parete era comparsa una nuova porta. Senza numero. Senza maniglia. Solo una superficie liscia di legno scuro. Mira si fermò.
 
 — Eccola.
 
@@ -892,33 +564,11 @@ Mira scosse lentamente la testa.
 
 — Per noi era nel futuro.
 
-Lev appoggiò il palmo sul legno.
-
-Era caldo.
-
-Da dietro la porta arrivava odore di pioggia.
-
-E mele.
-
-Casa.
-
-Infanzia.
-
-Edrian.
-
-Lev chiuse gli occhi.
-
-Dietro la porta qualcuno disse piano:
+Lev appoggiò il palmo sul legno. Era caldo. Da dietro la porta arrivava odore di pioggia. E mele. Casa. Infanzia. Edrian. Lev chiuse gli occhi. Dietro la porta qualcuno disse piano:
 
 — Lev.
 
-Riconobbe la voce.
-
-Quella vera.
-
-O così simile a quella vera che ormai non c'era più differenza.
-
-Mira gli afferrò il polso.
+Riconobbe la voce. Quella vera. O così simile a quella vera che ormai non c'era più differenza. Mira gli afferrò il polso.
 
 — Non aprire.
 
@@ -932,91 +582,21 @@ Dietro la porta risuonò la risata di Edrian.
 
 — Troppo tardi.
 
-La chiave nella tasca gli bruciò improvvisamente la coscia.
-
-La porta acquisì lentamente una maniglia.
-
-Sul legno apparve una fotografia.
-
-Fresca.
-
-Nella foto c'era Lev.
-
-Davanti a quella stessa porta.
-
-E dietro la sua spalla c'era l'Amministratore.
-
-Ma ora, nella fotografia, Lev non teneva la chiave.
-
-Teneva il libro bianco.
-
-E sull'ultima pagina era scritto:
+La chiave nella tasca gli bruciò improvvisamente la coscia. La porta acquisì lentamente una maniglia. Sul legno apparve una fotografia. Fresca. Nella foto c'era Lev. Davanti a quella stessa porta. E dietro la sua spalla c'era l'Amministratore. Ma ora, nella fotografia, Lev non teneva la chiave. Teneva il libro bianco. E sull'ultima pagina era scritto:
 
 **L'ULTIMA FOTOGRAFIA È STATA SCATTATA DOPO CHE LA PORTA SI È APERTA.**
 
-Lev alzò lentamente gli occhi.
-
-Mira lo guardava.
+Lev alzò lentamente gli occhi. Mira lo guardava.
 
 — Non aprire.
 
-Ma la maniglia si girò da sola.
+Ma la maniglia si girò da sola. Lev sentì lo scatto della serratura. E capì che questa volta l'Hotel non gli stava mostrando il futuro. Gli stava mostrando una fotografia di ciò che qualcun altro aveva già deciso. E la porta cominciò ad aprirsi. La luce oltre la porta non era bianca. Era dorata. La stessa luce che Lev ricordava dalla cucina di casa d'inverno, quando Edrian tornava tardi e lasciava la giacca bagnata vicino al termosifone. Ma insieme alla luce arrivò un odore. Cannella. Lana bagnata. Vecchi libri. E fumo di un falò. Lev fece un passo. Davanti a lui apparve una stanza che non avrebbe dovuto esistere.
 
-Lev sentì lo scatto della serratura.
-
-E capì che questa volta l'Hotel non gli stava mostrando il futuro.
-
-Gli stava mostrando una fotografia di ciò che qualcun altro aveva già deciso.
-
-E la porta cominciò ad aprirsi.
-
-La luce oltre la porta non era bianca.
-
-Era dorata.
-
-La stessa luce che Lev ricordava dalla cucina di casa d'inverno, quando Edrian tornava tardi e lasciava la giacca bagnata vicino al termosifone.
-
-Ma insieme alla luce arrivò un odore.
-
-Cannella.
-
-Lana bagnata.
-
-Vecchi libri.
-
-E fumo di un falò.
-
-Lev fece un passo.
-
-Davanti a lui apparve una stanza che non avrebbe dovuto esistere.
-
-Al centro c'era un tavolo.
-
-Sul tavolo una fotografia.
-
-Accanto, due tazze.
-
-Una vuota.
-
-L'altra ancora calda.
-
-Mira si fermò dietro di lui.
+Al centro c'era un tavolo. Sul tavolo una fotografia. Accanto, due tazze. Una vuota. L'altra ancora calda. Mira si fermò dietro di lui.
 
 — Lev.
 
-Non rispose.
-
-Sulla parete di fondo c'era un orologio.
-
-Le lancette si muovevano all'indietro.
-
-Dieci minuti.
-
-Nove.
-
-Otto.
-
-Il cuore gli batteva più forte, rimbombando alle tempie.
+Non rispose. Sulla parete di fondo c'era un orologio. Le lancette si muovevano all'indietro. Dieci minuti. Nove. Otto. Il cuore gli batteva più forte, rimbombando alle tempie.
 
 — Perché l'orologio va all'indietro?
 
@@ -1024,13 +604,7 @@ Mira disse piano:
 
 — Perché qui non è ancora accaduto ciò che deve accadere.
 
-Sul tavolo c'era un biglietto.
-
-Lev si avvicinò.
-
-La grafia era quella di Edrian.
-
-La riconobbe subito.
+Sul tavolo c'era un biglietto. Lev si avvicinò. La grafia era quella di Edrian. La riconobbe subito.
 
 **SE STAI LEGGENDO QUESTO, SIGNIFICA CHE LA FOTOGRAFIA È ARRIVATA TARDI.**
 
@@ -1042,87 +616,19 @@ Più sotto:
 
 **MA POSSO PROVARE A LASCIARTI UNA SCELTA.**
 
-Lev alzò gli occhi.
-
-Sulla parete apparve una nuova fotografia.
-
-Edrian era accanto a una porta.
-
-Ma questa volta accanto a lui non c'erano l'Amministratore.
-
-Non c'era Mira.
-
-Non c'era Lev.
-
-Edrian era solo.
-
-E per la prima volta sembrava spaventato.
-
-Sotto la fotografia comparvero delle parole:
+Lev alzò gli occhi. Sulla parete apparve una nuova fotografia. Edrian era accanto a una porta. Ma questa volta accanto a lui non c'erano l'Amministratore. Non c'era Mira. Non c'era Lev. Edrian era solo. E per la prima volta sembrava spaventato. Sotto la fotografia comparvero delle parole:
 
 **L'ULTIMA FOTOGRAFIA NON PARLA DI CIÒ CHE ACCADRÀ.**
 
-Pausa.
-
-Apparve una seconda riga:
+Pausa. Apparve una seconda riga:
 
 **PARLA DI CHI GUARDA.**
 
-Lev capì.
-
-Qualcuno lo stava guardando in quel momento.
-
-Si voltò lentamente.
-
-Nell'apertura della porta non c'era nessuno.
-
-Solo l'Amministratore.
-
-Ma l'Amministratore era troppo lontano.
-
-E dietro di lui, alla fine del corridoio, c'era Edrian.
-
-Il vero.
-
-O tanto vero quanto si poteva essere nell'Hotel.
-
-Alzò una mano.
-
-Non salutò.
-
-Indicò soltanto la macchina fotografica.
-
-Poi Lev.
-
-E scomparve.
-
-Lev corse avanti.
+Lev capì. Qualcuno lo stava guardando in quel momento. Si voltò lentamente. Nell'apertura della porta non c'era nessuno. Solo l'Amministratore. Ma l'Amministratore era troppo lontano. E dietro di lui, alla fine del corridoio, c'era Edrian. Il vero. O tanto vero quanto si poteva essere nell'Hotel. Alzò una mano. Non salutò. Indicò soltanto la macchina fotografica. Poi Lev. E scomparve. Lev corse avanti.
 
 — Edrian!
 
-Il corridoio era vuoto.
-
-Sul pavimento c'era la macchina fotografica.
-
-E accanto a essa l'ultima fotografia.
-
-Mostrava Lev.
-
-Mira.
-
-L'Amministratore.
-
-Ed Edrian.
-
-Tutti e quattro guardavano nell'obiettivo.
-
-Ma la fotografia era stata scattata dall'altra parte della porta.
-
-Da quella parte in cui Lev non era ancora entrato.
-
-Girò la fotografia.
-
-Sul retro c'era scritto:
+Il corridoio era vuoto. Sul pavimento c'era la macchina fotografica. E accanto a essa l'ultima fotografia. Mostrava Lev. Mira. L'Amministratore. Ed Edrian. Tutti e quattro guardavano nell'obiettivo. Ma la fotografia era stata scattata dall'altra parte della porta. Da quella parte in cui Lev non era ancora entrato. Girò la fotografia. Sul retro c'era scritto:
 
 **ORA SAI COSA HO VISTO.**
 
@@ -1130,12 +636,4 @@ E sotto:
 
 **NON LASCIARGLI SCEGLIERE AL POSTO TUO.**
 
-Lev guardò l'Amministratore.
-
-Quello non disse nulla.
-
-Si limitò a chiudere la porta.
-
-E in quel momento Lev capì: la cosa più terribile dell'Hotel non era che mostrasse il futuro.
-
-La cosa più terribile era che poteva mostrarlo in modo tale che una persona facesse da sola tutto ciò che serviva perché quel futuro si avverasse.
+Lev guardò l'Amministratore. Quello non disse nulla. Si limitò a chiudere la porta. E in quel momento Lev capì: la cosa più terribile dell'Hotel non era che mostrasse il futuro. La cosa più terribile era che poteva mostrarlo in modo tale che una persona facesse da sola tutto ciò che serviva perché quel futuro si avverasse.
