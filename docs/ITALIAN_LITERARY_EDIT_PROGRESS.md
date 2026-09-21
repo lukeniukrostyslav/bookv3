@@ -341,3 +341,9 @@ Third quarter completed for CH17–CH24. Reviewed readability, sentence and para
 Final quarter completed for CH25–CH32. Reviewed readability, sentence/paragraph cadence, dialogue rhythm, punctuation, repetition patterns, Cyrillic leakage and obvious foreign-language residue. Apparent lexical hits such as “not”, “and” and “was” were context-checked and correspond to valid Italian forms such as *notò* and *andò*, not English contamination. No confirmed literary-language defect requiring a manuscript rewrite was established in CH25–CH32.
 
 **B15.2.15 = 32/32 chapters = 100%. The final Italian literary-pass block is closed.** Next production stage: Italian publication assembly (metadata, cover, EPUB, EPUBCheck and platform packages).
+
+## B15.3 ITALIAN EPUB PUBLICATION ASSEMBLY — CHECKPOINT 20%
+
+Publication-stage work started after B15.2.15 reached 100%. Added `tools/build_epub_it.py`, a dedicated Italian EPUB 3 build pipeline using `manuscript_it/CHAPTER_01.md` … `CHAPTER_32.md`, Italian language metadata, 32 XHTML chapters, navigation and OPF. Added `docs/B15.3_ITALIAN_EPUB_ASSEMBLY.md` documenting the publication workflow. Cover integration, production metadata, EPUBCheck and platform packaging remain open.
+
+**B15.3 = 20%.**
