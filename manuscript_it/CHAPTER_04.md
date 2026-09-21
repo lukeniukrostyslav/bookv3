@@ -1,20 +1,8 @@
 # Capitolo 4. Le regole
 
-Mira non disse «andiamo». Si voltò semplicemente e imboccò il corridoio.
+Mira non disse «andiamo». Si voltò semplicemente e imboccò il corridoio. Lev rimase fermo ancora per un secondo. Dietro la porta 314 era tutto silenzioso. Troppo silenzioso dopo quella voce. Guardò la maniglia.
 
-Lev rimase fermo ancora per un secondo. Dietro la porta 314 era tutto silenzioso. Troppo silenzioso dopo quella voce.
-
-Guardò la maniglia.
-
-L'ottone era freddo, nonostante il calore dell'atrio, e rifletteva il suo volto in una striscia sottile e deformata. Nel riflesso Lev sembrava più pallido di quanto si sentisse, e dietro la sua spalla c'era Mira.
-
-O quasi.
-
-Nel riflesso era un po' più lontana.
-
-Lev si voltò bruscamente.
-
-Mira era accanto a lui.
+L'ottone era freddo, nonostante il calore dell'atrio, e rifletteva il suo volto in una striscia sottile e deformata. Nel riflesso Lev sembrava più pallido di quanto si sentisse, e dietro la sua spalla c'era Mira. O quasi. Nel riflesso era un po' più lontana. Lev si voltò bruscamente. Mira era accanto a lui.
 
 — L'hai notato anche tu? — chiese.
 
@@ -32,21 +20,9 @@ Lei annuì.
 
 — A volte.
 
-Riprese a camminare e Lev la raggiunse.
+Riprese a camminare e Lev la raggiunse. Il tappeto sotto i piedi era spesso e morbido, quasi senza rumore. I suoi stessi passi sparivano, e per questo Lev aveva continuamente l'impressione che qualcuno lo seguisse.
 
-Il tappeto sotto i piedi era spesso e morbido, quasi senza rumore. I suoi stessi passi sparivano, e per questo Lev aveva continuamente l'impressione che qualcuno lo seguisse.
-
-In un edificio normale una persona sente se stessa: la suola, il cigolio del pavimento, il fruscio dei vestiti.
-
-Qui lo spazio sembrava prendersi i suoni.
-
-Svoltarono a sinistra.
-
-Lev memorizzò la svolta.
-
-Un'altra.
-
-Poi una scala.
+In un edificio normale una persona sente se stessa: la suola, il cigolio del pavimento, il fruscio dei vestiti. Qui lo spazio sembrava prendersi i suoni. Svoltarono a sinistra. Lev memorizzò la svolta. Un'altra. Poi una scala.
 
 — Siamo già stati qui — disse.
 
@@ -54,13 +30,7 @@ Poi una scala.
 
 — Sì.
 
-Mira si fermò.
-
-Davanti a loro c'era un quadro con una nave su un mare scuro.
-
-Lev lo riconobbe.
-
-L'aveva visto nell'atrio.
+Mira si fermò. Davanti a loro c'era un quadro con una nave su un mare scuro. Lev lo riconobbe. L'aveva visto nell'atrio.
 
 — È lo stesso.
 
@@ -72,17 +42,7 @@ Mira guardò il quadro.
 
 — Sarebbe più semplice.
 
-Salì le scale.
-
-Lev la seguì.
-
-Sul pianerottolo faceva più freddo. Non molto — appena qualche grado — ma la pelle notò subito il cambiamento: gli si formò la pelle d'oca sugli avambracci.
-
-Dalla ringhiera saliva umidità.
-
-Da qualche parte, più in alto, odorava di erbe secche e carta vecchia.
-
-Mira si fermò davanti a una porta senza numero.
+Salì le scale. Lev la seguì. Sul pianerottolo faceva più freddo. Non molto — appena qualche grado — ma la pelle notò subito il cambiamento: gli si formò la pelle d'oca sugli avambracci. Dalla ringhiera saliva umidità. Da qualche parte, più in alto, odorava di erbe secche e carta vecchia. Mira si fermò davanti a una porta senza numero.
 
 — È qui.
 
@@ -90,19 +50,7 @@ Mira si fermò davanti a una porta senza numero.
 
 — Le regole.
 
-Aprì la porta.
-
-Dietro c'era un piccolo studio.
-
-Un tavolo rotondo, due sedie, un armadio con gli scaffali vuoti e una lampada con il paralume verde.
-
-Sul tavolo c'era una tazza di porcellana con del tè ormai freddo.
-
-Lev entrò.
-
-Mira chiuse la porta.
-
-La serratura scattò.
+Aprì la porta. Dietro c'era un piccolo studio. Un tavolo rotondo, due sedie, un armadio con gli scaffali vuoti e una lampada con il paralume verde. Sul tavolo c'era una tazza di porcellana con del tè ormai freddo. Lev entrò. Mira chiuse la porta. La serratura scattò.
 
 — Ci hai chiusi dentro?
 
@@ -122,13 +70,7 @@ Lev la guardò.
 
 — Perché qui ce l'ha.
 
-Si sedette.
-
-Ma non con le spalle alla porta.
-
-Lev lo notò.
-
-Mira posò le mani sul tavolo.
+Si sedette. Ma non con le spalle alla porta. Lev lo notò. Mira posò le mani sul tavolo.
 
 — Ricordati tre regole.
 
@@ -156,11 +98,7 @@ Lev pensò alla porta 314.
 
 — E se bussano quattro volte?
 
-Per un istante Mira smise di respirare.
-
-Appena.
-
-Ma Lev lo notò.
+Per un istante Mira smise di respirare. Appena. Ma Lev lo notò.
 
 — La risposta la sai già.
 
@@ -202,9 +140,7 @@ Lev aggrottò la fronte.
 
 — Comincerai a vivere come se la risposta fosse già accaduta.
 
-Lo disse piano.
-
-Fuori dalla finestra dello studio la pioggia scendeva sul vetro in lunghe linee d'argento.
+Lo disse piano. Fuori dalla finestra dello studio la pioggia scendeva sul vetro in lunghe linee d'argento.
 
 — Se ti dicessero che domani perderai una persona — continuò Mira — cominceresti a evitarla oggi. E allora domani cambierebbe. E insieme a domani cambierebbe il motivo per cui ti hanno mostrato il futuro.
 
@@ -240,15 +176,11 @@ Lei lo guardò.
 
 — Allora perché fai proprio le domande che mi fanno venire mal di testa?
 
-Per la prima volta da quando erano arrivati, Lev sorrise.
-
-Anche Mira sorrise appena, ma quasi subito il sorriso scomparve.
+Per la prima volta da quando erano arrivati, Lev sorrise. Anche Mira sorrise appena, ma quasi subito il sorriso scomparve.
 
 — La terza regola.
 
-Si alzò e si avvicinò all'armadio.
-
-Passò le dita sullo scaffale vuoto.
+Si alzò e si avvicinò all'armadio. Passò le dita sullo scaffale vuoto.
 
 — Non entrare mai in una stanza sulla cui porta è scritto il tuo cognome.
 
@@ -294,33 +226,9 @@ Mira lo guardò troppo a lungo.
 
 — Esatto.
 
-Qualcosa colpì dolcemente il vetro.
+Qualcosa colpì dolcemente il vetro. Lev guardò fuori. Non c'era nessuno. Solo la pioggia. E il riflesso della stanza. Vide Mira. Vide se stesso. Vide la lampada e il suo paralume verde, che gettava sul tavolo una luce dolorosamente morbida.
 
-Lev guardò fuori.
-
-Non c'era nessuno.
-
-Solo la pioggia.
-
-E il riflesso della stanza.
-
-Vide Mira.
-
-Vide se stesso.
-
-Vide la lampada e il suo paralume verde, che gettava sul tavolo una luce dolorosamente morbida.
-
-Poi notò una terza figura.
-
-Era in piedi dietro di lui.
-
-Lev si voltò di scatto.
-
-Nessuno.
-
-Guardò di nuovo la finestra.
-
-La figura era scomparsa.
+Poi notò una terza figura. Era in piedi dietro di lui. Lev si voltò di scatto. Nessuno. Guardò di nuovo la finestra. La figura era scomparsa.
 
 — Non guardare a lungo i riflessi — disse Mira.
 
@@ -358,17 +266,7 @@ Mira si avvicinò alla porta.
 
 — Tutto.
 
-Aprì la porta.
-
-Il corridoio era diverso.
-
-Lev si immobilizzò.
-
-Era certo che la scala fosse a sinistra.
-
-Ora a sinistra c'era una lunga parete con tre porte.
-
-A destra c'era la scala.
+Aprì la porta. Il corridoio era diverso. Lev si immobilizzò. Era certo che la scala fosse a sinistra. Ora a sinistra c'era una lunga parete con tre porte. A destra c'era la scala.
 
 — Hai visto?
 
@@ -382,17 +280,7 @@ A destra c'era la scala.
 
 — Avresti smesso di ascoltare.
 
-Lev guardò le porte.
-
-Sulla prima c'era il numero 118.
-
-Sulla seconda 119.
-
-La terza era senza numero.
-
-Da quella porta arrivava odore di pane fresco.
-
-Da qualche parte, lontano, tintinnò la porcellana.
+Lev guardò le porte. Sulla prima c'era il numero 118. Sulla seconda 119. La terza era senza numero. Da quella porta arrivava odore di pane fresco. Da qualche parte, lontano, tintinnò la porcellana.
 
 — È un ristorante?
 
@@ -408,13 +296,7 @@ Mira indicò la scala.
 
 — Giù.
 
-Scesero.
-
-Sul secondo pianerottolo Lev notò una piccola targhetta sul muro.
-
-«PIANO 3».
-
-Si fermò.
+Scesero. Sul secondo pianerottolo Lev notò una piccola targhetta sul muro. «PIANO 3». Si fermò.
 
 — Eravamo al terzo piano.
 
@@ -428,31 +310,9 @@ Mira non rispose.
 
 — Non adesso.
 
-Continuarono a scendere.
+Continuarono a scendere. Al primo piano faceva più caldo. Da lontano arrivava odore di caffè. Solo allora Lev si rese conto di quanto fosse stanco. Gli dolevano le spalle, aveva la bocca secca e le gambe sembravano pesanti, come se camminasse da ore.
 
-Al primo piano faceva più caldo.
-
-Da lontano arrivava odore di caffè.
-
-Solo allora Lev si rese conto di quanto fosse stanco.
-
-Gli dolevano le spalle, aveva la bocca secca e le gambe sembravano pesanti, come se camminasse da ore.
-
-Per la prima volta quella sera desiderò semplicemente sedersi, chiudere gli occhi e svegliarsi a casa.
-
-Immaginò il suo letto.
-
-La sua stanza.
-
-La vecchia finestra.
-
-Il rumore delle tubature.
-
-L'odore del sapone alle mele in bagno.
-
-Per un secondo l'Hotel scomparve.
-
-Poi Mira disse:
+Per la prima volta quella sera desiderò semplicemente sedersi, chiudere gli occhi e svegliarsi a casa. Immaginò il suo letto. La sua stanza. La vecchia finestra. Il rumore delle tubature. L'odore del sapone alle mele in bagno. Per un secondo l'Hotel scomparve. Poi Mira disse:
 
 — Non pensare a casa.
 
@@ -466,23 +326,7 @@ Lev aprì gli occhi.
 
 — L'ascensore.
 
-Guardò davanti a sé.
-
-In fondo al corridoio c'erano delle porte metalliche.
-
-L'ascensore.
-
-Lev non aveva ancora capito da dove fosse comparso.
-
-Le porte si aprirono.
-
-Dentro era buio.
-
-Non semplicemente senza luce.
-
-Buio come se lo spazio oltre quelle porte non fosse mai stato illuminato.
-
-Mira si fermò.
+Guardò davanti a sé. In fondo al corridoio c'erano delle porte metalliche. L'ascensore. Lev non aveva ancora capito da dove fosse comparso. Le porte si aprirono. Dentro era buio. Non semplicemente senza luce. Buio come se lo spazio oltre quelle porte non fosse mai stato illuminato. Mira si fermò.
 
 — Non entrare.
 
@@ -494,11 +338,7 @@ Mira si fermò.
 
 — È il desiderio più pericoloso.
 
-Lev guardò il vano nero.
-
-Da lì arrivava freddo.
-
-Odorava di pietra bagnata e di qualcosa di lontano, quasi domestico.
+Lev guardò il vano nero. Da lì arrivava freddo. Odorava di pietra bagnata e di qualcosa di lontano, quasi domestico.
 
 — Hai paura dell'ascensore?
 
@@ -510,41 +350,19 @@ Mira toccò la manica.
 
 — Che ti senta prima che tu possa sentirlo.
 
-Le porte cominciarono a chiudersi.
-
-Lev fece istintivamente un passo avanti.
-
-Mira lo afferrò.
+Le porte cominciarono a chiudersi. Lev fece istintivamente un passo avanti. Mira lo afferrò.
 
 — Fermo!
 
-Le porte si chiusero.
-
-Sul metallo comparve un numero.
+Le porte si chiusero. Sul metallo comparve un numero.
 
 314.
 
-Lev guardò Mira.
-
-Lei impallidì.
+Lev guardò Mira. Lei impallidì.
 
 — Cosa?
 
-Non rispose.
-
-Da dietro le porte chiuse arrivò un tintinnio sommesso.
-
-Come se qualcuno avesse sollevato una chiave.
-
-Poi una voce.
-
-Non quella di Edrian.
-
-Non quella dell'uomo.
-
-Non quella di Mira.
-
-La voce di Lev stesso.
+Non rispose. Da dietro le porte chiuse arrivò un tintinnio sommesso. Come se qualcuno avesse sollevato una chiave. Poi una voce. Non quella di Edrian. Non quella dell'uomo. Non quella di Mira. La voce di Lev stesso.
 
 — La prima regola è già stata violata.
 
@@ -560,9 +378,7 @@ Lev non staccava gli occhi dalla porta dell'ascensore.
 
 — Cosa significa «non ancora»?
 
-Mira non rispose subito.
-
-Guardava le porte metalliche come se cercasse di vedere attraverso di esse non una cabina, ma qualcosa di molto più profondo.
+Mira non rispose subito. Guardava le porte metalliche come se cercasse di vedere attraverso di esse non una cabina, ma qualcosa di molto più profondo.
 
 — Mira.
 
@@ -592,11 +408,7 @@ Mira lo guardò.
 
 — Appunto.
 
-Lev tacque.
-
-Mira si avvicinò alla parete e passò le dita sulla vecchia tappezzeria.
-
-Su di essa apparve un disegno appena visibile: rami sottili, foglie, piccoli uccelli neri.
+Lev tacque. Mira si avvicinò alla parete e passò le dita sulla vecchia tappezzeria. Su di essa apparve un disegno appena visibile: rami sottili, foglie, piccoli uccelli neri.
 
 — All'Hotel piacciono le persone sicure di sé.
 
@@ -620,11 +432,7 @@ Toccò di nuovo la manica.
 
 — Lo so.
 
-Lev guardò l'orologio sopra le scale.
-
-La lancetta dei secondi avanzava a scatti.
-
-Ogni salto era accompagnato da un lieve clic.
+Lev guardò l'orologio sopra le scale. La lancetta dei secondi avanzava a scatti. Ogni salto era accompagnato da un lieve clic.
 
 — Cosa succederà a mezzanotte?
 
@@ -632,11 +440,7 @@ Mira alzò bruscamente gli occhi.
 
 — Non chiedere.
 
-Lev capì.
-
-La seconda regola.
-
-Sorrise.
+Lev capì. La seconda regola. Sorrise.
 
 — Quindi lo sai.
 
@@ -664,21 +468,13 @@ Il freddo toccò Lev prima ancora che comprendesse il senso delle sue parole.
 
 — Soprattutto se cambia idea.
 
-Da qualche parte dietro la parete si sentì un fruscio sommesso.
-
-Come se qualcuno stesse voltando delle pagine.
-
-Lev guardò Mira.
+Da qualche parte dietro la parete si sentì un fruscio sommesso. Come se qualcuno stesse voltando delle pagine. Lev guardò Mira.
 
 — Cosa c'è là?
 
 — Niente.
 
-Il fruscio si ripeté.
-
-Questa volta più vicino.
-
-Lev si avvicinò alla parete.
+Il fruscio si ripeté. Questa volta più vicino. Lev si avvicinò alla parete.
 
 — Non farlo — disse Mira.
 
@@ -696,11 +492,7 @@ Si fermò.
 
 — Se l'Hotel decide che stai ascoltando, sì.
 
-Lev ritirò lentamente la mano.
-
-Il fruscio cessò.
-
-Poi qualcuno bussò tre volte dietro la parete.
+Lev ritirò lentamente la mano. Il fruscio cessò. Poi qualcuno bussò tre volte dietro la parete.
 
 Toc.
 
@@ -708,17 +500,11 @@ Toc.
 
 Toc.
 
-Entrambi si immobilizzarono.
-
-Lev sentì le dita stringersi da sole.
-
-Mira non si mosse.
+Entrambi si immobilizzarono. Lev sentì le dita stringersi da sole. Mira non si mosse.
 
 Toc.
 
-Il quarto.
-
-Silenzio.
+Il quarto. Silenzio.
 
 — Non è una porta — sussurrò Lev.
 
@@ -726,23 +512,11 @@ Silenzio.
 
 Toc.
 
-Il quinto.
-
-Mira gli afferrò la manica.
+Il quinto. Mira gli afferrò la manica.
 
 — Non rispondere.
 
-Lev fissava la parete.
-
-Sulla tappezzeria apparve una sottile crepa.
-
-Passò tra i rami del disegno, salì verso l'alto e si fermò vicino al soffitto.
-
-Dalla crepa arrivò freddo.
-
-Poi odore di terra bagnata.
-
-Lev fece un passo indietro.
+Lev fissava la parete. Sulla tappezzeria apparve una sottile crepa. Passò tra i rami del disegno, salì verso l'alto e si fermò vicino al soffitto. Dalla crepa arrivò freddo. Poi odore di terra bagnata. Lev fece un passo indietro.
 
 — Cosa sta succedendo?
 
@@ -754,45 +528,11 @@ Mira guardò la crepa.
 
 — Ti dà la possibilità di infrangerle.
 
-Nella parete comparve una fessura.
-
-Dietro c'era il buio.
-
-E nel buio c'era una luce.
-
-Calda.
-
-Domestica.
-
-Lev vide una cucina.
-
-La riconobbe immediatamente.
-
-La loro vecchia cucina.
-
-La lampada gialla sopra il tavolo.
-
-La tazza blu della madre.
-
-Il vecchio graffio sul davanzale.
-
-Edrian.
-
-Era ai fornelli.
-
-Vivo.
-
-Più giovane di come appariva nella voce dietro la porta.
-
-Esattamente come Lev lo ricordava.
+Nella parete comparve una fessura. Dietro c'era il buio. E nel buio c'era una luce. Calda. Domestica. Lev vide una cucina. La riconobbe immediatamente. La loro vecchia cucina. La lampada gialla sopra il tavolo. La tazza blu della madre. Il vecchio graffio sul davanzale. Edrian. Era ai fornelli. Vivo. Più giovane di come appariva nella voce dietro la porta. Esattamente come Lev lo ricordava.
 
 — Lev! — gridò Edrian. — Vieni qui.
 
-Lev fece un passo.
-
-Dalla fessura arrivò odore di mele fritte, l'odore delle domeniche mattina che non sentiva da cinque anni.
-
-Mira lo trattenne.
+Lev fece un passo. Dalla fessura arrivò odore di mele fritte, l'odore delle domeniche mattina che non sentiva da cinque anni. Mira lo trattenne.
 
 — No.
 
@@ -808,11 +548,7 @@ Edrian sorrise dalla fessura.
 
 — Perché sei fermo? Faremo tardi.
 
-Lev sentì il profumo delle mele fritte.
-
-Così odorava la cucina di casa loro la domenica.
-
-Gli si strinse la gola.
+Lev sentì il profumo delle mele fritte. Così odorava la cucina di casa loro la domenica. Gli si strinse la gola.
 
 — Sa cosa dire.
 
@@ -828,31 +564,15 @@ Edrian smise di sorridere.
 
 — Lev.
 
-Ora la sua voce era diversa.
-
-Più vecchia.
-
-Stanca.
+Ora la sua voce era diversa. Più vecchia. Stanca.
 
 — Ascoltala.
 
-Lev rimase immobile.
-
-Anche Mira.
-
-Edrian lo guardò dritto negli occhi.
+Lev rimase immobile. Anche Mira. Edrian lo guardò dritto negli occhi.
 
 — Ma non crederle in tutto.
 
-La luce si spense.
-
-La fessura si chiuse.
-
-La parete tornò intera.
-
-Lev rimase immobile a lungo.
-
-Nelle orecchie aveva ancora la voce di Edrian e la mano stringeva involontariamente la chiave.
+La luce si spense. La fessura si chiuse. La parete tornò intera. Lev rimase immobile a lungo. Nelle orecchie aveva ancora la voce di Edrian e la mano stringeva involontariamente la chiave.
 
 — Era vero?
 
@@ -882,25 +602,7 @@ Tic.
 
 Tic.
 
-Lev guardò l'orologio.
-
-23:41.
-
-Mancavano diciannove minuti a mezzanotte.
-
-E per la prima volta quella sera ebbe paura non perché non capisse nulla.
-
-Ma perché cominciava a capire troppo.
-
-Lev non si accorse di aver iniziato a contare i rintocchi dell'orologio insieme a Mira.
-
-Uno.
-
-Due.
-
-Tre.
-
-Al quarto lei smise di contare.
+Lev guardò l'orologio. 23:41. Mancavano diciannove minuti a mezzanotte. E per la prima volta quella sera ebbe paura non perché non capisse nulla. Ma perché cominciava a capire troppo. Lev non si accorse di aver iniziato a contare i rintocchi dell'orologio insieme a Mira. Uno. Due. Tre. Al quarto lei smise di contare.
 
 — Perché hai smesso?
 
@@ -914,13 +616,7 @@ Al quarto lei smise di contare.
 
 — Esperienza.
 
-Lo disse senza orgoglio.
-
-Lev guardò il suo volto e all'improvviso capì che dietro la calma di Mira si nascondeva la stanchezza.
-
-Non la normale stanchezza dopo una lunga giornata.
-
-Quella che arriva quando una persona aspetta troppe volte lo stesso brutto evento.
+Lo disse senza orgoglio. Lev guardò il suo volto e all'improvviso capì che dietro la calma di Mira si nascondeva la stanchezza. Non la normale stanchezza dopo una lunga giornata. Quella che arriva quando una persona aspetta troppe volte lo stesso brutto evento.
 
 — L'hai già visto — disse.
 
@@ -964,19 +660,7 @@ Alzò gli occhi.
 
 — Sei uscito dall'Hotel come una persona che non ricordava più perché fosse venuta.
 
-Lev non disse nulla.
-
-Era peggio della morte.
-
-Si immaginò a casa.
-
-La stanza di Edrian.
-
-Le fotografie.
-
-La chiave.
-
-E il vuoto dentro di sé, là dove prima viveva la risposta.
+Lev non disse nulla. Era peggio della morte. Si immaginò a casa. La stanza di Edrian. Le fotografie. La chiave. E il vuoto dentro di sé, là dove prima viveva la risposta.
 
 — Per questo cercavi di fermarmi?
 
@@ -998,13 +682,7 @@ Scosse la testa.
 
 — No.
 
-Nella sua voce, per la prima volta, comparve qualcosa che somigliava alla speranza.
-
-Molto piccola.
-
-Ma reale.
-
-Lev la notò.
+Nella sua voce, per la prima volta, comparve qualcosa che somigliava alla speranza. Molto piccola. Ma reale. Lev la notò.
 
 — Ti spaventa ciò che non conosci?
 
@@ -1016,57 +694,17 @@ Mira guardò l'ascensore chiuso.
 
 — Perché ciò che conosci, almeno, puoi provare a fermarlo.
 
-In quel momento le porte metalliche dell'ascensore si aprirono.
+In quel momento le porte metalliche dell'ascensore si aprirono. Dentro c'era una luce calda. Troppo accogliente per uno spazio che un minuto prima sembrava un pozzo nero e vuoto. Nessun pulsante. Nessun numero. Solo uno specchio sulla parete di fondo.
 
-Dentro c'era una luce calda.
-
-Troppo accogliente per uno spazio che un minuto prima sembrava un pozzo nero e vuoto.
-
-Nessun pulsante.
-
-Nessun numero.
-
-Solo uno specchio sulla parete di fondo.
-
-Lev vi guardò.
-
-Questa volta il riflesso era corretto.
-
-Lui.
-
-Mira.
-
-Il corridoio.
-
-Ma tra loro c'era Edrian.
-
-Lev si voltò.
-
-Niente.
-
-Nello specchio Edrian alzò una mano.
-
-E portò un dito alle labbra.
-
-Mira disse piano:
+Lev vi guardò. Questa volta il riflesso era corretto. Lui. Mira. Il corridoio. Ma tra loro c'era Edrian. Lev si voltò. Niente. Nello specchio Edrian alzò una mano. E portò un dito alle labbra. Mira disse piano:
 
 — Non guardare.
 
-Lev non riusciva a distogliere lo sguardo.
-
-Edrian nel riflesso sussurrò:
+Lev non riusciva a distogliere lo sguardo. Edrian nel riflesso sussurrò:
 
 — Il quarto colpo non era una porta.
 
-Lo specchio si oscurò.
-
-Poi, in fondo all'ascensore, si accese una piccola luce rossa.
-
-Lev fece un passo verso l'ascensore.
-
-Il cuore batteva così forte che quasi si aspettava di sentirlo risuonare nelle pareti metalliche.
-
-Mira lo trattenne.
+Lo specchio si oscurò. Poi, in fondo all'ascensore, si accese una piccola luce rossa. Lev fece un passo verso l'ascensore. Il cuore batteva così forte che quasi si aspettava di sentirlo risuonare nelle pareti metalliche. Mira lo trattenne.
 
 — Non adesso.
 
@@ -1076,52 +714,21 @@ Guardò la luce rossa.
 
 — Perché ora sa che hai capito.
 
-Le porte cominciarono a chiudersi.
-
-Per un istante Lev vide nello specchio il volto di Edrian.
-
-Suo fratello sorrise.
-
-E disse appena:
+Le porte cominciarono a chiudersi. Per un istante Lev vide nello specchio il volto di Edrian. Suo fratello sorrise. E disse appena:
 
 — Domani.
 
-Le porte si chiusero.
-
-La luce rossa si spense.
-
-E l'orologio nel corridoio segnò 00:00.
-
-Mira chiuse gli occhi.
+Le porte si chiusero. La luce rossa si spense. E l'orologio nel corridoio segnò 00:00. Mira chiuse gli occhi.
 
 — Ora comincia la notte.
 
-Lev guardò l'orologio.
-
-Le lancette si fermarono.
-
-Poi tornarono indietro.
-
-E da qualche parte, lontano, dietro una parete, risuonò di nuovo un colpo solitario.
-
-Lev capì che era il primo.
-
-Mira aprì gli occhi.
+Lev guardò l'orologio. Le lancette si fermarono. Poi tornarono indietro. E da qualche parte, lontano, dietro una parete, risuonò di nuovo un colpo solitario. Lev capì che era il primo. Mira aprì gli occhi.
 
 — Lev — disse — ora la cosa più importante è non rispondere.
 
-Ma il colpo si ripeté.
-
-E questa volta furono quattro.
-
-Mira impallidì.
+Ma il colpo si ripeté. E questa volta furono quattro. Mira impallidì.
 
 — Il quarto non esiste.
 
-Lev sapeva già che non era vero.
+Lev sapeva già che non era vero. E questo lo spaventava. Molto. E l'ascensore salì.
 
-E questo lo spaventava.
-
-Molto.
-
-E l'ascensore salì.
