@@ -408,7 +408,7 @@ Mira indicò la scala.
 
 — Giù.
 
-Scendero.
+Scesero.
 
 Sul secondo pianerottolo Lev notò una piccola targhetta sul muro.
 
