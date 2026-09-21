@@ -244,3 +244,6 @@ Coverage: **24/32 chapters = 75%**.
 B15.2.9 FINAL CHECKPOINT — Chapters 25–32 reviewed for emotional-scene rhythm. Reviewed emotional escalation/release, grief, sibling bond, fear/hope interplay, memory triggers, restrained reactions, consequences of choices, reconciliation, acceptance and final emotional closure. The Italian text already carries the intended emotional architecture; no forced rewrites were introduced merely to create visible changes. Intentional short emotional beats and pauses were preserved.
 
 Coverage: **32/32 chapters = 100%**. B15.2.9 is complete.
+
+
+B15.2.10 CHECKPOINT 25% — Chapters 1–16 reviewed for repetition and heavy constructions. Checked repeated words/phrases, duplicated semantic statements, excessive nominalizations, stacked subordinate clauses, repeated sentence openings, redundant explanatory phrases, and recurrence of identical imagery. Intentional motifs and deliberate repetition were preserved; no forced rewrites were introduced where repetition served rhythm, suspense, memory, or thematic continuity. Coverage: **16/32 chapters = 50% of chapter coverage**, while this checkpoint represents **25% of the planned B15.2.10 workflow**. Next checkpoint: chapters 17–24.
