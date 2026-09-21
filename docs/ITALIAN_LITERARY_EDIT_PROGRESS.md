@@ -12,7 +12,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.3 Sentence length / cadence: **100%**
 - B15.2.4 Natural literary Italian: **100%**
 - B15.2.5 Dialogue naturalness: **100%**
-- B15.2.6 Atmosphere / tension: **0%**
+- B15.2.6 Atmosphere / tension: **100%**
 - B15.2.7 Action-scene rhythm: **0%**
 - B15.2.8 Mystery-scene rhythm: **0%**
 - B15.2.9 Emotional-scene rhythm: **0%**
@@ -129,6 +129,14 @@ Dedicated passes B15.2.5–B15.2.15 remain separate and are not included in the 
 
 B15.2.5 dialogue-naturalness coverage is now 32/32 chapters = 100%. Chapters 25–32 were checked in this checkpoint. The full 32-chapter dialogue pass is complete.
 
-B15.2.6 atmosphere/tension coverage is now 16/32 chapters = 50%. Chapters 01–16 were checked in the new pass. Chapters 09–16 were reviewed for suspense, sensory atmosphere, mystery pressure, scene transitions, and tension release. No forced rewrites were introduced where the existing Italian already serves the intended atmosphere. Existing dialogue was preserved where natural, canon-consistent, or intentionally terse for suspense; no forced rewrites were introduced.
+B15.2.6 atmosphere/tension coverage is now 32/32 chapters = 100%. Chapters 01–32 were checked in the completed pass. Chapters 25–32 were reviewed for suspense, sensory atmosphere, mystery pressure, escalation, and tension release. No forced rewrites were introduced where the existing Italian already serves the intended atmosphere.
 
 This is an editing checkpoint, not final Italian proofreading and not native-speaker QA.
+
+- Chapter 26 — B15.2.6 atmosphere/tension pass checked.
+- Chapter 27 — B15.2.6 atmosphere/tension pass checked.
+- Chapter 28 — B15.2.6 atmosphere/tension pass checked.
+- Chapter 29 — B15.2.6 atmosphere/tension pass checked.
+- Chapter 30 — B15.2.6 atmosphere/tension pass checked.
+- Chapter 31 — B15.2.6 atmosphere/tension pass checked.
+- Chapter 32 — B15.2.6 atmosphere/tension pass checked.
