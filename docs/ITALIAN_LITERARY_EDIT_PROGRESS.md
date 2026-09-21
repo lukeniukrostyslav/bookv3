@@ -17,7 +17,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.8 Mystery-scene rhythm: **100% (32/32 chapters reviewed)**
 - B15.2.9 Emotional-scene rhythm: **100% (32/32 chapters reviewed)**
 - B15.2.10 Repetition / heavy constructions: **100% (32/32 chapters reviewed)**
-- B15.2.11 Italian punctuation / typography: **50% (16/32 chapters reviewed)**
+- B15.2.11 Italian punctuation / typography: **75% (24/32 chapters reviewed)**
 - B15.2.12 Terminology consistency: **0%**
 - B15.2.13 Meaning fidelity: **0%**
 - B15.2.14 Canon control: **0%**
@@ -261,3 +261,5 @@ B15.2.10 COMPLETE: **100%**.
 B15.2.11 CHECKPOINT 25% — Chapters 01–08 reviewed for Italian punctuation and typography. Checked spaces before punctuation, duplicate spaces, apostrophe usage, guillemets/quotation marks, em-dash dialogue formatting, dialogue-line consistency, and obvious typographic anomalies. No corrective text edits were required in this checkpoint; the existing Italian formatting is consistent in the reviewed chapters. Coverage: **8/32 chapters = 25%**.
 
 B15.2.11 CHECKPOINT 50% — Chapters 09–16 reviewed for Italian punctuation and typography. Checked spaces before punctuation, duplicate spaces, quotation/apostrophe usage, em-dash dialogue formatting, ellipsis forms, dialogue-line consistency, and obvious typographic anomalies. The reviewed chapters show consistent formatting; existing ellipses were retained where they serve deliberate pauses. No forced corrective rewrites were introduced. Coverage: **16/32 chapters = 50%**.
+
+B15.2.11 CHECKPOINT 75% — Chapters 17–24 reviewed for Italian punctuation and typography. Checked punctuation spacing, quotation/apostrophe usage, dialogue em dashes, ellipses, dialogue-line consistency, and obvious typographic anomalies. No corrective edits were required; ellipses and short punctuation beats were retained where they serve deliberate hesitation or rhythm. Coverage: **24/32 chapters = 75%**.
