@@ -239,3 +239,8 @@ B15.2.9 CHECKPOINT — Chapters 17–24 reviewed for emotional-scene rhythm.
 Reviewed emotional escalation/release, grief and longing, sibling-bond subtext, fear versus anger, hope/doubt, emotional consequences of alternate futures, memory-triggered sensory detail, restrained reactions, and the emotional weight of reconciliation, loss and choice. Chapters 17–24 already carry the intended emotional architecture; no forced rewrites were introduced merely to create visible changes. Protected key beats include Lev confronting a future where he is forgotten, the emotional cost of alternate possibilities, Edrian's and Mira's disclosures, Lev's refusal to let others choose for him, and the late-stage movement from fear toward personal agency.
 
 Coverage: **24/32 chapters = 75%**.
+
+
+B15.2.9 FINAL CHECKPOINT — Chapters 25–32 reviewed for emotional-scene rhythm. Reviewed emotional escalation/release, grief, sibling bond, fear/hope interplay, memory triggers, restrained reactions, consequences of choices, reconciliation, acceptance and final emotional closure. The Italian text already carries the intended emotional architecture; no forced rewrites were introduced merely to create visible changes. Intentional short emotional beats and pauses were preserved.
+
+Coverage: **32/32 chapters = 100%**. B15.2.9 is complete.
