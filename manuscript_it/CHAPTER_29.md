@@ -1,10 +1,6 @@
 # Capitolo 29. Il fratello
 
-La città li accolse con la pioggia. Non forte. Solo una pioggia fine e fredda, sospesa nell'aria così fitta che sembrava che la notte non fosse ancora riuscita a finire del tutto. Lev si fermò sul marciapiede. Davanti a lui c'erano case familiari. La farmacia all'angolo. La fermata dell'autobus con la vernice blu scrostata. Il panificio da cui già arrivava odore di pane caldo. Un vecchio con un ombrello che si affrettava ad attraversare la strada.
-
-Un'auto schizzò acqua da una pozzanghera. Tutto era normale. Troppo normale. Dopo l'Hotel, il mondo normale sembrava quasi strano. Lev inspirò. Pane. Asfalto bagnato. Benzina. Caffè da un piccolo chiosco. E il metallo freddo dell'acqua piovana sulla lingua. Guardò Edrian. Era lì accanto e taceva. Cinque anni. Lev conosceva quel numero. Cinque anni dal giorno in cui suo fratello era scomparso.
-
-Ma ora quel numero era vuoto. Come una data su un vecchio calendario.
+La città li accolse con la pioggia. Non forte. Solo una pioggia fine e fredda, sospesa nell'aria così fitta che sembrava che la notte non fosse ancora riuscita a finire del tutto. Lev si fermò sul marciapiede. Davanti a lui c'erano case familiari. La farmacia all'angolo. La fermata dell'autobus con la vernice blu scrostata. Il panificio da cui già arrivava odore di pane caldo. Un vecchio con un ombrello che si affrettava ad attraversare la strada. Un'auto schizzò acqua da una pozzanghera. Tutto era normale. Troppo normale. Dopo l'Hotel, il mondo normale sembrava quasi strano. Lev inspirò. Pane. Asfalto bagnato. Benzina. Caffè da un piccolo chiosco. E il metallo freddo dell'acqua piovana sulla lingua. Guardò Edrian. Era lì accanto e taceva. Cinque anni. Lev conosceva quel numero. Cinque anni dal giorno in cui suo fratello era scomparso. Ma ora quel numero era vuoto. Come una data su un vecchio calendario.
 
 — Dobbiamo andare di là? — chiese Edrian.
 
@@ -72,17 +68,13 @@ L'ascensore arrivò. Salirono. Sul pianerottolo Lev tirò fuori una chiave. Norm
 
 Clic.
 
-La porta si aprì.
-
-Dentro odorava di polvere, legno vecchio e qualcosa di dolce.
+La porta si aprì. Dentro odorava di polvere, legno vecchio e qualcosa di dolce.
 
 Casa.
 
 Lev entrò.
 
-Nella stanza c'erano oggetti che non ricordava. Fotografie. Libri. Una poltrona. Una vecchia giacca.
-
-Sul muro c'era un orologio.
+Nella stanza c'erano oggetti che non ricordava. Fotografie. Libri. Una poltrona. Una vecchia giacca. Sul muro c'era un orologio.
 
 Segnava le 08:00.
 
@@ -154,9 +146,7 @@ Lev lo guardò negli occhi.
 
 Edrian rise.
 
-Per la prima volta davvero.
-
-E quella risata colpì Lev più di qualsiasi fotografia.
+Per la prima volta davvero. E quella risata colpì Lev più di qualsiasi fotografia.
 
 Non la ricordava.
 
@@ -176,11 +166,7 @@ Edrian smise di ridere.
 
 — Perché è giusto.
 
-Rimasero in piedi al centro della stanza.
-
-E per la prima volta tra loro non c'era l'Hotel.
-
-Non c'era la macchina.
+Rimasero in piedi al centro della stanza. E per la prima volta tra loro non c'era l'Hotel. Non c'era la macchina.
 
 Non c'erano futuri.
 
@@ -322,21 +308,7 @@ Edrian annuì.
 
 — Allora lo accetterò.
 
-Quelle parole, per qualche motivo, erano più importanti di qualsiasi promessa.
-
-Lev si avvicinò alla finestra.
-
-Sul vetro c'erano gocce.
-
-La città oltre il vetro era grigia e morbida.
-
-In basso le persone andavano al lavoro.
-
-Qualcuno litigava al telefono.
-
-Qualcuno comprava il caffè.
-
-Un bambino con una giacca rossa correva dietro a un cane.
+Quelle parole, per qualche motivo, erano più importanti di qualsiasi promessa. Lev si avvicinò alla finestra. Sul vetro c'erano gocce. La città oltre il vetro era grigia e morbida. In basso le persone andavano al lavoro. Qualcuno litigava al telefono. Qualcuno comprava il caffè. Un bambino con una giacca rossa correva dietro a un cane.
 
 Vita normale.
 
@@ -366,9 +338,7 @@ Si toccò il petto.
 
 — Qui.
 
-Lev non disse nulla.
-
-In quel momento l'orologio sulla parete ripartì.
+Lev non disse nulla. In quel momento l'orologio sulla parete ripartì.
 
 Tic.
 
@@ -384,11 +354,7 @@ Edrian alzò la testa.
 
 — Non hanno mai funzionato prima.
 
-Un brivido gli attraversò la schiena.
-
-Sul vetro dell'orologio apparve una sottile linea verde.
-
-Lentamente si trasformò in lettere.
+Un brivido gli attraversò la schiena. Sul vetro dell'orologio apparve una sottile linea verde. Lentamente si trasformò in lettere.
 
 **UNO DEVE RESTARE.**
 
@@ -488,11 +454,7 @@ Lev sorrise.
 
 Uscirono dall'appartamento.
 
-Sulle scale regnava il silenzio, troppo silenzio.
-
-Perfino i vecchi tubi, che di solito scricchiolavano dietro le pareti, sembravano aver smesso.
-
-Ma Lev non provava più la paura di prima.
+Sulle scale regnava il silenzio, troppo silenzio. Perfino i vecchi tubi, che di solito scricchiolavano dietro le pareti, sembravano aver smesso. Ma Lev non provava più la paura di prima.
 
 Sentiva qualcos'altro.
 
@@ -502,19 +464,11 @@ Non speranza.
 
 Libertà.
 
-Scese al piano terra con Edrian.
-
-La porta dell'ingresso era aperta.
-
-Fuori pioveva di nuovo.
-
-Mira era lì davanti.
+Scese al piano terra con Edrian. La porta dell'ingresso era aperta. Fuori pioveva di nuovo. Mira era lì davanti.
 
 Senza ombrello.
 
-Con il cappotto verde.
-
-Lev la guardò attentamente.
+Con il cappotto verde. Lev la guardò attentamente.
 
 — Hai detto di andarcene.
 
@@ -526,11 +480,7 @@ Lei sorrise.
 
 — Allora perché l'Hotel vi segue?
 
-Lev guardò le sue mani.
-
-In una c'era la catenina d'argento.
-
-Nell'altra, la chiave di legno.
+Lev guardò le sue mani. In una c'era la catenina d'argento. Nell'altra, la chiave di legno.
 
 — Perché non abbiamo finito.
 
@@ -556,9 +506,7 @@ Mira lo guardò.
 
 — È esattamente ciò che l'Hotel aspetta.
 
-La pioggia gli scorreva sul viso.
-
-L'acqua fredda si mescolò a una lacrima che non aveva nemmeno notato.
+La pioggia gli scorreva sul viso. L'acqua fredda si mescolò a una lacrima che non aveva nemmeno notato.
 
 — Allora faremo diversamente.
 
@@ -578,9 +526,7 @@ Poi guardò la porta dell'ingresso.
 
 — La apriremo insieme.
 
-La chiave di legno nella mano di Mira si scaldò.
-
-Da qualche parte sotto la città suonò un orologio.
+La chiave di legno nella mano di Mira si scaldò. Da qualche parte sotto la città suonò un orologio.
 
 Una volta.
 
@@ -588,17 +534,7 @@ Poi una seconda.
 
 Una terza.
 
-E per un istante tutta la città tacque.
-
-Le auto si fermarono.
-
-Il cane smise di abbaiare.
-
-La pioggia sembrò sospesa nell'aria.
-
-Alle finestre delle case si accese una luce verde.
-
-E in fondo alla strada apparve una porta.
+E per un istante tutta la città tacque. Le auto si fermarono. Il cane smise di abbaiare. La pioggia sembrò sospesa nell'aria. Alle finestre delle case si accese una luce verde. E in fondo alla strada apparve una porta.
 
 Una sola.
 
@@ -620,9 +556,7 @@ Edrian prese Lev per la spalla.
 
 — Qualunque cosa accada...
 
-Lev guardò la sua mano.
-
-E per la prima volta non ebbe bisogno di ricordare.
+Lev guardò la sua mano. E per la prima volta non ebbe bisogno di ricordare.
 
 Conosceva quel tocco.
 
@@ -634,9 +568,7 @@ Lev sorrise.
 
 — Sei qui.
 
-Si avviarono verso la porta.
-
-Il vento portò odore di mare.
+Si avviarono verso la porta. Il vento portò odore di mare.
 
 Poi caffè.
 
@@ -662,9 +594,7 @@ Non il futuro.
 
 Una persona.
 
-Quella che Lev avrebbe dovuto vedere prima di tutti.
-
-Sulla maniglia apparve una scritta:
+Quella che Lev avrebbe dovuto vedere prima di tutti. Sulla maniglia apparve una scritta:
 
 **INGRESSO PER CHI È PRONTO A PERDERE L'ULTIMA COSA.**
 
@@ -694,17 +624,7 @@ Sorrise.
 
 — Ma la apro.
 
-Lev non abbassò la maniglia.
-
-Per alcuni secondi tenne semplicemente il palmo sul metallo.
-
-La porta era calda.
-
-Troppo calda per una mattina piovosa.
-
-Il calore passava nelle dita, risaliva lungo il braccio e in qualche modo rispondeva nel petto.
-
-Come se dietro la porta ci fosse qualcuno con il palmo appoggiato dall'altra parte.
+Lev non abbassò la maniglia. Per alcuni secondi tenne semplicemente il palmo sul metallo. La porta era calda. Troppo calda per una mattina piovosa. Il calore passava nelle dita, risaliva lungo il braccio e in qualche modo rispondeva nel petto. Come se dietro la porta ci fosse qualcuno con il palmo appoggiato dall'altra parte.
 
 — È viva — disse Edrian.
 
@@ -730,9 +650,7 @@ Poi arrivò una voce:
 
 Si immobilizzò.
 
-Era la voce di sua madre.
-
-Come Lev la ricordava dall'infanzia: calda, un po' stanca, con quella particolare dolcezza che compariva solo la sera.
+Era la voce di sua madre. Come Lev la ricordava dall'infanzia: calda, un po' stanca, con quella particolare dolcezza che compariva solo la sera.
 
 — Non ascoltare — disse piano Edrian.
 
@@ -786,17 +704,13 @@ Guardò di nuovo la porta.
 
 — Ma abbastanza.
 
-La voce dietro la porta cambiò.
-
-Ora era la voce dello stesso Lev.
+La voce dietro la porta cambiò. Ora era la voce dello stesso Lev.
 
 — Se apri, lo dimenticherai definitivamente.
 
 Edrian impallidì.
 
-La paura arrivò immediatamente.
-
-Ma non per lui.
+La paura arrivò immediatamente. Ma non per lui.
 
 Per Lev.
 
@@ -814,9 +728,7 @@ L'Hotel non lo sapeva.
 
 Stava verificando.
 
-Come una persona che fa una domanda conoscendo già diverse risposte possibili.
-
-Lev tolse la mano.
+Come una persona che fa una domanda conoscendo già diverse risposte possibili. Lev tolse la mano.
 
 — Non sa cosa succederà.
 
@@ -844,11 +756,7 @@ Lev la guardò.
 
 — A scegliere.
 
-Quell'idea fu più spaventosa di qualsiasi stanza.
-
-Se l'Hotel avesse imparato a scegliere per le persone, tutto ciò che avevano fatto fino a quel momento sarebbe stato soltanto l'inizio.
-
-Lev guardò suo fratello.
+Quell'idea fu più spaventosa di qualsiasi stanza. Se l'Hotel avesse imparato a scegliere per le persone, tutto ciò che avevano fatto fino a quel momento sarebbe stato soltanto l'inizio. Lev guardò suo fratello.
 
 — Ricordi cosa è successo prima della scomparsa?
 
@@ -934,9 +842,7 @@ Lev annuì lentamente.
 
 Ora capiva.
 
-Edrian era scomparso non perché volesse diventare un eroe.
-
-Era scomparso perché aveva avuto paura di vedere il fratello minore diventare una persona che non avrebbe più potuto proteggere.
+Edrian era scomparso non perché volesse diventare un eroe. Era scomparso perché aveva avuto paura di vedere il fratello minore diventare una persona che non avrebbe più potuto proteggere.
 
 — Potevi semplicemente dirmelo.
 
@@ -984,9 +890,7 @@ Mira lo guardò.
 
 — Perché?
 
-Lev prese la mano di Edrian.
-
-Il fratello ebbe un sussulto.
+Lev prese la mano di Edrian. Il fratello ebbe un sussulto.
 
 — Per tornare insieme.
 
@@ -998,13 +902,7 @@ Poi la porta.
 
 — Nella vita.
 
-La maniglia si abbassò da sola.
-
-La porta nera si aprì.
-
-Dietro non c'era una stanza.
-
-Non c'era una scala.
+La maniglia si abbassò da sola. La porta nera si aprì. Dietro non c'era una stanza. Non c'era una scala.
 
 Non c'era luce.
 
@@ -1018,9 +916,7 @@ Scuro.
 
 Con finestre gialle.
 
-Lev sentì odore di carbone, metallo bagnato e pane.
-
-Sul tabellone brillava una sola scritta:
+Lev sentì odore di carbone, metallo bagnato e pane. Sul tabellone brillava una sola scritta:
 
 **CASA.**
 
@@ -1044,23 +940,11 @@ Lev sorrise.
 
 Salirono sulla banchina.
 
-La porta alle loro spalle si chiuse.
-
-Ma nessuno dei due ebbe paura.
-
-Perché per la prima volta Lev non cercava di indovinare cosa ci fosse davanti.
-
-Camminava semplicemente accanto a suo fratello.
+La porta alle loro spalle si chiuse. Ma nessuno dei due ebbe paura. Perché per la prima volta Lev non cercava di indovinare cosa ci fosse davanti. Camminava semplicemente accanto a suo fratello.
 
 Ed era sufficiente.
 
-La banchina era più fresca.
-
-Lev sentì il freddo attraversare le suole.
-
-Da qualche parte sopra il tetto tuonava, anche se il cielo oltre la porta era immobile.
-
-Il treno era fermo con le porte aperte.
+La banchina era più fresca. Lev sentì il freddo attraversare le suole. Da qualche parte sopra il tetto tuonava, anche se il cielo oltre la porta era immobile. Il treno era fermo con le porte aperte.
 
 Nessuno usciva.
 
@@ -1090,19 +974,11 @@ Presagio.
 
 Edrian non protestò.
 
-Salirono insieme nel vagone.
-
-La porta si chiuse alle loro spalle con un clic morbido.
-
-Dentro odorava di vecchia pelle, polvere, tè caldo e pioggia.
+Salirono insieme nel vagone. La porta si chiuse alle loro spalle con un clic morbido. Dentro odorava di vecchia pelle, polvere, tè caldo e pioggia.
 
 Il treno oscillò.
 
-Fuori dal finestrino la città si allungò in lunghe strisce di luce, anche se davanti a loro non si vedevano i binari.
-
-Lev passò il palmo sul vetro.
-
-Su di esso apparvero tre parole:
+Fuori dal finestrino la città si allungò in lunghe strisce di luce, anche se davanti a loro non si vedevano i binari. Lev passò il palmo sul vetro. Su di esso apparvero tre parole:
 
 **NON GUARDARTI INDIETRO.**
 
@@ -1132,9 +1008,7 @@ Lev annuì.
 
 Il treno accelerò.
 
-Per un istante tutti i finestrini si spensero.
-
-Nel buio Lev sentì il respiro di Edrian accanto a sé e un altro respiro, davanti, nell'ultima carrozza.
+Per un istante tutti i finestrini si spensero. Nel buio Lev sentì il respiro di Edrian accanto a sé e un altro respiro, davanti, nell'ultima carrozza.
 
 Alzò la testa.
 
@@ -1144,21 +1018,11 @@ Edrian guardò il corridoio.
 
 — Lo so.
 
-L'ombra nell'ultimo finestrino scomparve.
-
-Ma la porta tra i vagoni si aprì lentamente da sola.
-
-Dietro c'era un uomo.
-
-Il volto era nascosto nell'ombra.
-
-Indossava la giacca grigia del Custode.
+L'ombra nell'ultimo finestrino scomparve. Ma la porta tra i vagoni si aprì lentamente da sola. Dietro c'era un uomo. Il volto era nascosto nell'ombra. Indossava la giacca grigia del Custode.
 
 Lev si immobilizzò.
 
-L'uomo alzò la testa.
-
-E Lev vide il proprio volto.
+L'uomo alzò la testa. E Lev vide il proprio volto.
 
 Solo più vecchio.
 
@@ -1180,9 +1044,7 @@ Il Lev più vecchio lo guardò.
 
 — Nell'ultima.
 
-Lev sentì le dita di Edrian stringersi.
-
-Il Lev più vecchio spostò lo sguardo sul suo io più giovane.
+Lev sentì le dita di Edrian stringersi. Il Lev più vecchio spostò lo sguardo sul suo io più giovane.
 
 — E se adesso pensi di essere tornato per tuo fratello, ti sbagli.
 
@@ -1192,21 +1054,11 @@ Il Lev più vecchio lo guardò dritto negli occhi.
 
 — Per te stesso.
 
-La luce nel vagone lampeggiò.
-
-Per un secondo il Lev più vecchio scomparve.
-
-Quando le lampade si riaccesero, il corridoio era vuoto.
-
-Sul pavimento c'era soltanto una chiave di legno.
-
-La stessa che Lev aveva tenuto in mano prima.
+La luce nel vagone lampeggiò. Per un secondo il Lev più vecchio scomparve. Quando le lampade si riaccesero, il corridoio era vuoto. Sul pavimento c'era soltanto una chiave di legno. La stessa che Lev aveva tenuto in mano prima.
 
 La raccolse.
 
-La chiave era calda.
-
-Sul metallo apparve una nuova scritta:
+La chiave era calda. Sul metallo apparve una nuova scritta:
 
 **L'ULTIMA PORTA — NON È UN'USCITA.**
 
@@ -1218,21 +1070,7 @@ Edrian scosse la testa.
 
 — No.
 
-Il treno continuava a viaggiare nel buio.
-
-E per la prima volta Lev capì che la porta successiva poteva non essere una porta dell'Hotel.
-
-Poteva essere una porta dentro di lui.
-
-Sul sedile c'era una fotografia.
-
-Su di essa c'erano due ragazzi.
-
-E un uomo adulto vicino al finestrino.
-
-Lev prese la fotografia.
-
-Sul retro c'era scritto:
+Il treno continuava a viaggiare nel buio. E per la prima volta Lev capì che la porta successiva poteva non essere una porta dell'Hotel. Poteva essere una porta dentro di lui. Sul sedile c'era una fotografia. Su di essa c'erano due ragazzi. E un uomo adulto vicino al finestrino. Lev prese la fotografia. Sul retro c'era scritto:
 
 **NON TUTTI I FRATELLI TROVANO LA STRADA DI CASA. ALCUNI DEVONO PRIMA PERDERE LA STRADA.**
 
@@ -1250,13 +1088,7 @@ Guardò fuori dal finestrino.
 
 Il treno partì.
 
-Dietro il vetro scorrevano le luci della città.
-
-E da qualche parte davanti si apriva già la porta successiva.
-
-Lev non prese la fotografia.
-
-Posò semplicemente la mano sulla spalla di Edrian.
+Dietro il vetro scorrevano le luci della città. E da qualche parte davanti si apriva già la porta successiva. Lev non prese la fotografia. Posò semplicemente la mano sulla spalla di Edrian.
 
 — E se ti dimenticassi di nuovo?
 
@@ -1286,31 +1118,11 @@ Mattutina.
 
 Reale.
 
-Ma prima che il treno vi entrasse, Lev vide il riflesso nel vetro.
-
-Per un secondo accanto a lui c'era un bambino di sette anni.
-
-Aveva in mano una macchinina di legno.
-
-Guardava Lev e sorrideva.
-
-Poi il riflesso scomparve.
-
-Lev non cercò di farlo tornare.
-
-Continuò semplicemente a guardare avanti.
-
-Edrian era seduto accanto a lui.
-
-E per la prima volta in cinque anni Lev non sentiva di dover restituire il passato.
-
-Gli bastava sapere che suo fratello era lì.
+Ma prima che il treno vi entrasse, Lev vide il riflesso nel vetro. Per un secondo accanto a lui c'era un bambino di sette anni. Aveva in mano una macchinina di legno. Guardava Lev e sorrideva. Poi il riflesso scomparve. Lev non cercò di farlo tornare. Continuò semplicemente a guardare avanti. Edrian era seduto accanto a lui. E per la prima volta in cinque anni Lev non sentiva di dover restituire il passato. Gli bastava sapere che suo fratello era lì.
 
 Per ora.
 
-E il treno li portava già verso il luogo in cui avrebbe dovuto aprirsi la porta successiva.
-
-Sul vetro apparve una scritta:
+E il treno li portava già verso il luogo in cui avrebbe dovuto aprirsi la porta successiva. Sul vetro apparve una scritta:
 
 **L'ULTIMA PORTA.**
 
@@ -1330,9 +1142,7 @@ Lev annuì.
 
 — Insieme.
 
-Il treno entrò nella luce.
-
-E in quel momento, da qualche parte davanti, risuonò un colpo familiare.
+Il treno entrò nella luce. E in quel momento, da qualche parte davanti, risuonò un colpo familiare.
 
 Toc.
 
