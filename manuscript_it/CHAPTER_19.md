@@ -102,7 +102,7 @@ L'inchiostro continuò ad apparire.
 
 **VIENE DA TE.**
 
-Un freddo sottile gli passò sotto le costole.
+Un freddo sottile gli attraversò il petto.
 
 — Cosa esattamente?
 
@@ -268,7 +268,7 @@ Pausa.
 
 — Ma non sentirai che ero io.
 
-La stanza sembrò farsi più piccola e l'aria più densa.
+La stanza sembrò farsi più piccola, e l'aria più densa.
 
 Lev guardò Edrian.
 
@@ -342,7 +342,7 @@ Il silenzio diventò quasi fisico.
 
 Edrian chiuse gli occhi.
 
-La rabbia salì alla gola.
+La rabbia gli salì alla gola.
 
 — L'hai visto?
 
@@ -978,7 +978,7 @@ Le strade si dividevano.
 
 Un autobus percorreva contemporaneamente due strade.
 
-Per un attimo il pavimento oscillò sotto i loro piedi.
+Per un attimo, il pavimento oscillò sotto i loro piedi.
 
 — Dobbiamo fermarlo.
 
