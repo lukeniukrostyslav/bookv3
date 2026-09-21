@@ -232,3 +232,10 @@ B15.2.9 CHECKPOINT — Chapters 09–16 reviewed for emotional-scene rhythm.
 Reviewed emotional escalation/release, grief and longing, sibling-bond subtext, anger/fear interplay, hope versus doubt, memory-triggered sensory emotion, emotional restraint versus explicit statement, and the emotional consequences of revelations. Chapters 09–16 already carry the intended emotional architecture; no forced rewrites were introduced merely to create visible changes. Key emotional beats were preserved, including Lev's confrontation with future possibilities, the memory/food sequence, Pavel's isolation, the revelation around Mira's past and Lev's possible death, Edrian's return and the sibling reconciliation, and Lev's decision to reject the Hotel's offered choices.
 
 Coverage: **16/32 chapters = 50%**.
+
+
+B15.2.9 CHECKPOINT — Chapters 17–24 reviewed for emotional-scene rhythm.
+
+Reviewed emotional escalation/release, grief and longing, sibling-bond subtext, fear versus anger, hope/doubt, emotional consequences of alternate futures, memory-triggered sensory detail, restrained reactions, and the emotional weight of reconciliation, loss and choice. Chapters 17–24 already carry the intended emotional architecture; no forced rewrites were introduced merely to create visible changes. Protected key beats include Lev confronting a future where he is forgotten, the emotional cost of alternate possibilities, Edrian's and Mira's disclosures, Lev's refusal to let others choose for him, and the late-stage movement from fear toward personal agency.
+
+Coverage: **24/32 chapters = 75%**.
