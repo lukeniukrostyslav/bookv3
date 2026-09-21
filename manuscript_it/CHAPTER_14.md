@@ -142,7 +142,7 @@ Mira.
 
 Sempre diciassette anni.
 
-Un freddo sottile come un ago gli passò tra le scapole.
+Un freddo sottile, come un ago, gli passò tra le scapole.
 
 — Quanti anni hai?
 
@@ -332,7 +332,7 @@ Mira appoggiò la fotografia sul tavolo.
 
 Nel camino un ceppo crepitò.
 
-Per un istante dentro Lev tutto diventò vuoto, come se gli avessero tolto l'aria dal petto.
+Per un istante, dentro Lev tutto diventò vuoto, come se gli avessero tolto l'aria dal petto.
 
 — Dove?
 
@@ -394,7 +394,7 @@ Guardò le fotografie.
 
 — Perché il tempo si è fermato prima che riuscissi a fare la mia scelta.
 
-L'irritazione divampò secca sotto le costole.
+L'irritazione divampò, secca, sotto le costole.
 
 — Spiegalo normalmente.
 
@@ -830,7 +830,7 @@ Mira abbassò lo sguardo.
 
 — Scegliere se salvarti o no.
 
-L'irritazione divampò secca sotto le costole.
+L'irritazione divampò, secca, sotto le costole.
 
 — Io non ti ho chiesto di salvarmi.
 
