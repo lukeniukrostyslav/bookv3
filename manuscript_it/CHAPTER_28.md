@@ -1,8 +1,6 @@
 # Capitolo 28. Il prezzo
 
-Il mare era oltre la porta. Lev lo capì prima ancora di vedere l'acqua. L'odore arrivò per primo. Sale. Pietra umida. Alghe fredde. Il fumo lontano dei motori delle barche. E qualcos'altro: un sottile odore di mela verde che gli ricordò Mira. Si fermò sulla soglia. Un vento freddo gli sfiorò il viso, portò umidità salata e gli ricordò quanto tempo avevano trascorso in spazi dove gli odori potevano mentire.
-
-Oltre la porta iniziava la riva. Ma lì non avrebbe dovuto esserci nessuna riva. Sopra di loro incombeva un cielo grigio. Nuvole basse sfioravano quasi l'acqua. Le onde si infrangevano contro rocce nere e ogni goccia brillava di luce verde prima di scomparire. Edrian uscì accanto a lui.
+Il mare era oltre la porta. Lev lo capì prima ancora di vedere l'acqua. L'odore arrivò per primo. Sale. Pietra umida. Alghe fredde. Il fumo lontano dei motori delle barche. E qualcos'altro: un sottile odore di mela verde che gli ricordò Mira. Si fermò sulla soglia. Un vento freddo gli sfiorò il viso, portò umidità salata e gli ricordò quanto tempo avevano trascorso in spazi dove gli odori potevano mentire. Oltre la porta iniziava la riva. Ma lì non avrebbe dovuto esserci nessuna riva. Sopra di loro incombeva un cielo grigio. Nuvole basse sfioravano quasi l'acqua. Le onde si infrangevano contro rocce nere e ogni goccia brillava di luce verde prima di scomparire. Edrian uscì accanto a lui.
 
 — Dove siamo?
 
@@ -500,9 +498,7 @@ L'uomo in grigio lo guardò.
 
 — E tu speri ancora di sentirne di sbagliate.
 
-Lev tacque. Faceva male. Perché era vero.
-
-Si avvicinò al meccanismo. Sulla superficie apparve:
+Lev tacque. Faceva male. Perché era vero. Si avvicinò al meccanismo. Sulla superficie apparve:
 
 **PREZZO: MEMORIA.**
 
@@ -564,11 +560,7 @@ Edrian rimase a lungo in silenzio.
 
 — Sì.
 
-Quella parola fu la più difficile. Lev capì. Edrian aveva finalmente smesso di scegliere per lui. E ora Lev doveva smettere di scegliere per Edrian. Posò la mano sul meccanismo. Il freddo gli attraversò le dita.
-
-Davanti agli occhi esplosero ricordi.
-
-Una macchinina di legno.
+Quella parola fu la più difficile. Lev capì. Edrian aveva finalmente smesso di scegliere per lui. E ora Lev doveva smettere di scegliere per Edrian. Posò la mano sul meccanismo. Il freddo gli attraversò le dita. Davanti agli occhi esplosero ricordi. Una macchinina di legno.
 
 Una tazza blu.
 
@@ -604,15 +596,7 @@ Rabbia.
 
 Speranza.
 
-E capì: se l'Hotel avesse preso un ricordo, non significava che tutto sarebbe scomparso. Una persona non è soltanto il ricordo di una persona. È anche ciò che quella persona gli ha insegnato. Il modo in cui rideva. Come teneva la tazza.
-
-Come chiudeva la porta.
-
-Come pronunciava il suo nome.
-
-Come lo costringeva a guardare avanti.
-
-Lev chiuse gli occhi.
+E capì: se l'Hotel avesse preso un ricordo, non significava che tutto sarebbe scomparso. Una persona non è soltanto il ricordo di una persona. È anche ciò che quella persona gli ha insegnato. Il modo in cui rideva. Come teneva la tazza. Come chiudeva la porta. Come pronunciava il suo nome. Come lo costringeva a guardare avanti. Lev chiuse gli occhi.
 
 — Sono pronto.
 
@@ -632,9 +616,7 @@ Il meccanismo ronzò. La luce rossa diventò bianca. Sulla superficie apparve un
 
 **PREZZO ACCETTATO.**
 
-Un dolore acuto esplose dietro gli occhi. L'odore della menta scomparve. Poi quello del legno. Poi la voce. Cercò di trattenerla. Non ci riuscì.
-
-E allora Edrian gridò:
+Un dolore acuto esplose dietro gli occhi. L'odore della menta scomparve. Poi quello del legno. Poi la voce. Cercò di trattenerla. Non ci riuscì. E allora Edrian gridò:
 
 — Lev!
 
@@ -648,21 +630,15 @@ Il meccanismo pulsò.
 
 Toc.
 
-E l'Ultimo piano si spense.
-
-Quando la luce scomparve, Lev non capì subito dove si trovasse. Era sdraiato su qualcosa di duro e freddo. Sotto la guancia sentiva una superficie liscia che odorava di polvere e metallo. Nelle orecchie aveva un sottile ronzio.
+E l'Ultimo piano si spense. Quando la luce scomparve, Lev non capì subito dove si trovasse. Era sdraiato su qualcosa di duro e freddo. Sotto la guancia sentiva una superficie liscia che odorava di polvere e metallo. Nelle orecchie aveva un sottile ronzio.
 
 Aprì gli occhi.
 
-Edrian era seduto accanto a lui.
-
-Ma Lev lo guardava come se lo vedesse per la prima volta.
+Edrian era seduto accanto a lui. Ma Lev lo guardava come se lo vedesse per la prima volta.
 
 — Chi sei?
 
-Suo fratello si immobilizzò.
-
-Erano soltanto due parole.
+Suo fratello si immobilizzò. Erano soltanto due parole.
 
 Ma cambiarono l'aria.
 
@@ -680,9 +656,7 @@ La parola era familiare.
 
 Ma non calda.
 
-Come il nome di una strada sulla quale era passato una volta.
-
-Lev si mise seduto.
+Come il nome di una strada sulla quale era passato una volta. Lev si mise seduto.
 
 — Perché sei qui?
 
@@ -702,17 +676,7 @@ Edrian non rispose subito.
 
 Lev lo guardò.
 
-Il significato delle parole era chiaro.
-
-Ma il sentimento dietro di esse era scomparso.
-
-La cosa più terribile era proprio questa: la memoria non aveva cancellato la persona, aveva cancellato la strada abituale che portava a lei.
-
-Sapeva cosa fosse un fratello.
-
-Semplicemente non sentiva che Edrian fosse il suo.
-
-Da qualche parte lontano la macchina ripartì.
+Il significato delle parole era chiaro. Ma il sentimento dietro di esse era scomparso. La cosa più terribile era proprio questa: la memoria non aveva cancellato la persona, aveva cancellato la strada abituale che portava a lei. Sapeva cosa fosse un fratello. Semplicemente non sentiva che Edrian fosse il suo. Da qualche parte lontano la macchina ripartì.
 
 Toc.
 
@@ -736,15 +700,11 @@ Notò che la mano di Edrian tremava.
 
 — No.
 
-Ma la voce si spezzò.
-
-Lev lo guardò più a lungo e all'improvviso sentì uno strano desiderio di tendere la mano.
+Ma la voce si spezzò. Lev lo guardò più a lungo e all'improvviso sentì uno strano desiderio di tendere la mano.
 
 Non perché ricordasse.
 
-Ma perché vedeva una persona che stava soffrendo.
-
-Gli toccò la spalla.
+Ma perché vedeva una persona che stava soffrendo. Gli toccò la spalla.
 
 Edrian si immobilizzò.
 
@@ -766,13 +726,7 @@ Lev guardò la porta.
 
 Camminarono.
 
-Lungo il percorso Lev notava cose strane.
-
-Sapeva dove svoltare, quale porta non aprire e dove non mettere piede vicino al terzo gradino.
-
-Ma non ricordava da dove lo sapesse.
-
-La memoria se ne andava.
+Lungo il percorso Lev notava cose strane. Sapeva dove svoltare, quale porta non aprire e dove non mettere piede vicino al terzo gradino. Ma non ricordava da dove lo sapesse. La memoria se ne andava.
 
 Ma qualcos'altro rimaneva.
 
@@ -784,13 +738,7 @@ Intonazione.
 
 Calore.
 
-Davanti alla porta Lev si fermò.
-
-Sulla parete c'era una fotografia.
-
-Lui ed Edrian erano in piedi al mare.
-
-Lev non ricordava quel giorno.
+Davanti alla porta Lev si fermò. Sulla parete c'era una fotografia. Lui ed Edrian erano in piedi al mare. Lev non ricordava quel giorno.
 
 Ma sorrise.
 
@@ -812,15 +760,7 @@ Edrian si voltò.
 
 — Sì.
 
-La porta si aprì.
-
-Dietro c'era un corridoio inondato di luce mattutina.
-
-In fondo stava Mira.
-
-Lev riconobbe il cappotto verde.
-
-Ma non conosceva il suo nome.
+La porta si aprì. Dietro c'era un corridoio inondato di luce mattutina. In fondo stava Mira. Lev riconobbe il cappotto verde. Ma non conosceva il suo nome.
 
 Lei lo guardò.
 
@@ -864,9 +804,7 @@ Come direzione.
 
 Andarono.
 
-Alle loro spalle l'Ultimo piano cominciò a chiudersi: un'isola scomparve, poi un'altra. La macchina rallentò.
-
-E da qualche parte nel buio una voce sussurrò:
+Alle loro spalle l'Ultimo piano cominciò a chiudersi: un'isola scomparve, poi un'altra. La macchina rallentò. E da qualche parte nel buio una voce sussurrò:
 
 — Prezzo pagato.
 
@@ -874,11 +812,7 @@ Ma nessuno di loro notò che sulla porta bianca era rimasta una piccola macchia 
 
 Pulsava.
 
-Come un cuore vivo.
-
-E aspettava la prossima scelta.
-
-Alla porta Mira si fermò.
+Come un cuore vivo. E aspettava la prossima scelta. Alla porta Mira si fermò.
 
 — C'è ancora una cosa.
 
@@ -886,21 +820,13 @@ Lev la guardò.
 
 — Cosa?
 
-Tirò fuori una fotografia.
-
-Su di essa c'era un bambino.
+Tirò fuori una fotografia. Su di essa c'era un bambino.
 
 Lev.
 
 Aveva sette anni.
 
-Accanto a lui c'era Edrian.
-
-Tenevano una sola macchinina di legno.
-
-Lev guardò la fotografia e non sentì nulla.
-
-Ma le dita si strinsero da sole.
+Accanto a lui c'era Edrian. Tenevano una sola macchinina di legno. Lev guardò la fotografia e non sentì nulla. Ma le dita si strinsero da sole.
 
 — Avresti dovuto dimenticare questa fotografia — disse Mira.
 
@@ -920,15 +846,11 @@ Guardò Lev.
 
 — Era il cambiamento.
 
-Lev passò un dito sul bordo della fotografia.
-
-All'improvviso nella sua mente balenò qualcosa di breve.
+Lev passò un dito sul bordo della fotografia. All'improvviso nella sua mente balenò qualcosa di breve.
 
 Una risata.
 
-Il gusto della menta.
-
-La mano di Edrian sui suoi capelli.
+Il gusto della menta. La mano di Edrian sui suoi capelli.
 
 E una voce:
 
@@ -952,9 +874,7 @@ Si toccò il petto.
 
 — La sensazione.
 
-Edrian chiuse gli occhi.
-
-Sul suo viso apparve un sorriso.
+Edrian chiuse gli occhi. Sul suo viso apparve un sorriso.
 
 — È abbastanza.
 
@@ -962,23 +882,11 @@ Mira si voltò verso la porta.
 
 — Per cominciare.
 
-Lev guardò la luce verde.
-
-Capì che la memoria non era scomparsa completamente.
-
-Era diventata simile all'odore dopo la pioggia: impossibile da trattenere tra le mani, ma impossibile dire che non ci fosse mai stata.
-
-E forse proprio questo lo aveva salvato dalla cosa più terribile.
-
-Non poteva più vivere nel passato.
-
-Ma il passato non poteva più governarlo.
+Lev guardò la luce verde. Capì che la memoria non era scomparsa completamente. Era diventata simile all'odore dopo la pioggia: impossibile da trattenere tra le mani, ma impossibile dire che non ci fosse mai stata. E forse proprio questo lo aveva salvato dalla cosa più terribile. Non poteva più vivere nel passato. Ma il passato non poteva più governarlo.
 
 Uscirono dall'Ultimo piano.
 
-La porta si chiuse.
-
-Davanti a loro apparve un normale corridoio d'albergo.
+La porta si chiuse. Davanti a loro apparve un normale corridoio d'albergo.
 
 Lampade calde.
 
@@ -1018,9 +926,7 @@ Mira sorrise.
 
 — Allora glielo insegneremo.
 
-In fondo al corridoio si aprì una porta.
-
-Dietro c'era la città.
+In fondo al corridoio si aprì una porta. Dietro c'era la città.
 
 Reale.
 
@@ -1038,13 +944,7 @@ Vita normale.
 
 Fece un passo.
 
-Per strada odorava di pane.
-
-E all'improvviso capì di conoscere quell'odore.
-
-Non perché lo ricordasse.
-
-Perché un tempo lo aveva amato.
+Per strada odorava di pane. E all'improvviso capì di conoscere quell'odore. Non perché lo ricordasse. Perché un tempo lo aveva amato.
 
 Guardò Edrian.
 
@@ -1056,10 +956,6 @@ Edrian annuì.
 
 Uscirono.
 
-Alle loro spalle la porta si chiuse silenziosamente.
-
-Ma sulla sua superficie rimase un piccolo graffio a forma di chiave.
-
-E da qualche parte, nel profondo dell'edificio, risuonò di nuovo un colpo.
+Alle loro spalle la porta si chiuse silenziosamente. Ma sulla sua superficie rimase un piccolo graffio a forma di chiave. E da qualche parte, nel profondo dell'edificio, risuonò di nuovo un colpo.
 
 Toc.
