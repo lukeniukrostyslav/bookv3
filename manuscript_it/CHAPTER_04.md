@@ -130,7 +130,7 @@ Lev lo notò.
 
 Mira posò le mani sul tavolo.
 
-— Ricorda tre regole.
+— Ricordati tre regole.
 
 — Solo tre?
 
