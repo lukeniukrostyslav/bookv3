@@ -356,9 +356,7 @@ Le porte cominciarono a chiudersi. Lev fece istintivamente un passo avanti. Mira
 
 Le porte si chiusero. Sul metallo comparve un numero.
 
-314.
-
-Lev guardò Mira. Lei impallidì.
+314. Lev guardò Mira. Lei impallidì.
 
 — Cosa?
 
@@ -731,4 +729,5 @@ Ma il colpo si ripeté. E questa volta furono quattro. Mira impallidì.
 — Il quarto non esiste.
 
 Lev sapeva già che non era vero. E questo lo spaventava. Molto. E l'ascensore salì.
+
 
