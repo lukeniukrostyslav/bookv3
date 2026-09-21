@@ -46,9 +46,7 @@ Lei lo guardò.
 
 — Da lì.
 
-In fondo al corridoio c'era una porta. Sulla porta, un numero di ottone.
-
-314.
+In fondo al corridoio c'era una porta. Sulla porta, un numero di ottone. 314.
 
 Lev non si mosse. La chiave nella tasca divenne calda. Il calore attraversò rapidamente il tessuto e gli bruciò la pelle della coscia. Così caldo che persino il tessuto dei pantaloni non serviva a proteggerlo. La tirò fuori. Il metallo sembrava vivo.
 
@@ -663,4 +661,5 @@ Mira guardò verso il corridoio.
 — Perché ora l'Hotel sa che l'hai letta.
 
 Continuarono a camminare. L'odore del caffè diventava sempre più forte. E l'orologio sopra la porta del ristorante segnava un'ora che non era ancora arrivata.
+
 
