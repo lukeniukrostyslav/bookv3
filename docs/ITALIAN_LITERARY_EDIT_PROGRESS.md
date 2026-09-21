@@ -41,13 +41,13 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - Chapter 14 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
 - Chapter 15 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
 - Chapter 16 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
-- Chapter 17 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 18 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 19 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 20 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 21 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 22 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
-- Chapter 23 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked.
+- Chapter 17 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
+- Chapter 18 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
+- Chapter 19 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
+- Chapter 20 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
+- Chapter 21 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
+- Chapter 22 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
+- Chapter 23 — rhythm/literary pass checkpointed; B15.2.5 dialogue-naturalness pass checked. B15.2.6 atmosphere/tension pass checked.
 - Chapter 24 — rhythm/literary and language pass checkpointed.
 - Chapter 25 — rhythm/literary and language pass checkpointed.
 - Chapters 26–32 — completed in the chapter-based pass.
