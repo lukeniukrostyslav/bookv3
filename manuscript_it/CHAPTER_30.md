@@ -1,6 +1,6 @@
 # Capitolo 30. L'ultima porta
 
-Il treno viaggiava senza binari. Sotto le ruote non c'erano né acciaio né pietra: solo una vibrazione sorda che attraversava il pavimento della carrozza e rimbombava nei denti. Sembrava che non si muovesse nello spazio, ma attraverso di esso. Fuori dal finestrino sfilavano lampioni, case, strade bagnate, ma non si sentivano le ruote. C'era soltanto un ritmo morbido di movimento, come se un enorme treno stesse galleggiando attraverso la città.
+Il treno viaggiava senza binari. Sotto le ruote non c'erano né acciaio né pietra: solo una vibrazione sorda che attraversava il pavimento della carrozza e rimbombava nei denti. Sembrava che non si muovesse nello spazio, ma lo attraversasse. Fuori dal finestrino sfilavano lampioni, case, strade bagnate, ma non si sentivano le ruote. C'era soltanto un ritmo morbido di movimento, come se un enorme treno stesse galleggiando attraverso la città.
 
 Toc.
 
@@ -20,7 +20,7 @@ Mira scosse la testa.
 
 — Vite.
 
-In una finestra una donna rideva con un bambino. In un'altra un vecchio chiudeva un negozio. In una terza un ragazzo stava in una stazione. In una quarta una ragazza scriveva una lettera. Ogni vita era piccola. Reale. E proprio per questo più inquietante.
+In una finestra una donna rideva con un bambino. In un'altra un vecchio chiudeva un negozio. In una terza un ragazzo stava in una stazione. In una quarta una ragazza scriveva una lettera. Ogni vita era piccola. Reale. E proprio per questo erano più inquietanti.
 
 — L'Hotel le mostra tutte? — chiese Lev.
 
@@ -162,7 +162,7 @@ Edrian sorrise.
 
 Lev chiuse gli occhi.
 
-Quella frase lo attraversò con dolore.
+Quella frase lo attraversò come un dolore.
 
 Non un ricordo.
 
@@ -418,7 +418,7 @@ Ogni tentativo di conoscere il domani aveva creato una nuova porta.
 
 Ogni tentativo di evitare il dolore aveva creato un nuovo percorso.
 
-L'Hotel era diventato un enorme accumulo della paura degli altri.
+L'Hotel era diventato un enorme accumulo delle paure degli altri.
 
 E ora la paura aveva imparato a pensare.
 
@@ -582,7 +582,7 @@ Ma allora sarebbe ricaduto nella stessa trappola.
 
 Perché non avrebbe scelto una vita.
 
-Ne avrebbe scelto la descrizione.
+Ne avrebbe scelto soltanto la descrizione.
 
 Lev posò lentamente la chiave sul pavimento.
 
@@ -1170,7 +1170,7 @@ Mira lo guardò.
 
 Edrian rise.
 
-E finalmente la tensione si sciolse.
+E finalmente la tensione si allentò.
 
 Si sedettero vicino alla finestra.
 
