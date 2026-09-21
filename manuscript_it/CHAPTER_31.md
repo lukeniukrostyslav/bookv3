@@ -1,28 +1,14 @@
 # Capitolo 31. Il mattino
 
-Il mattino arrivò quasi senza farsi notare, come se la città avesse paura di svegliarli dopo quella notte. Prima si schiarirono le finestre. Poi la pioggia si fece più rada. Poi in città comparve il primo suono: un autobus che sospirò pesantemente alla fermata e ripartì.
-
-Lev si svegliò sul divano per una striscia di luce pallida che gli cadeva sul viso. Per alcuni secondi rimase immobile e ascoltò la casa: il lontano brontolio dei tubi, le rare auto fuori dalla finestra, il respiro regolare di qualcun altro.
-
-Per alcuni secondi non capì dove si trovasse.
-
-Il soffitto era normale.
+Il mattino arrivò quasi senza farsi notare, come se la città avesse paura di svegliarli dopo quella notte. Prima si schiarirono le finestre. Poi la pioggia si fece più rada. Poi in città comparve il primo suono: un autobus che sospirò pesantemente alla fermata e ripartì. Lev si svegliò sul divano per una striscia di luce pallida che gli cadeva sul viso. Per alcuni secondi rimase immobile e ascoltò la casa: il lontano brontolio dei tubi, le rare auto fuori dalla finestra, il respiro regolare di qualcun altro. Per alcuni secondi non capì dove si trovasse. Il soffitto era normale.
 
 Bianco.
 
-Con una piccola crepa vicino alla lampada.
-
-Sul tavolo c'era una tazza.
-
-Nella stanza odorava di caffè, vestiti bagnati e pane fresco.
+Con una piccola crepa vicino alla lampada. Sul tavolo c'era una tazza. Nella stanza odorava di caffè, vestiti bagnati e pane fresco.
 
 Si mise seduto.
 
-Edrian dormiva sulla poltrona di fronte. La testa rovesciata all'indietro. Le mani incrociate sul petto.
-
-Lev lo guardò a lungo.
-
-Dentro sentiva una calma strana, quasi dolorosa.
+Edrian dormiva sulla poltrona di fronte. La testa rovesciata all'indietro. Le mani incrociate sul petto. Lev lo guardò a lungo. Dentro sentiva una calma strana, quasi dolorosa.
 
 Non ricordava tutto.
 
@@ -36,9 +22,7 @@ Non un ruolo.
 
 Una persona.
 
-Lev si alzò e gli mise addosso una vecchia coperta.
-
-Edrian aprì gli occhi.
+Lev si alzò e gli mise addosso una vecchia coperta. Edrian aprì gli occhi.
 
 — Non dormivo.
 
@@ -52,9 +36,7 @@ Edrian aprì gli occhi.
 
 Lev sorrise.
 
-In cucina l'acqua cominciò a fare rumore.
-
-Mira era alla finestra.
+In cucina l'acqua cominciò a fare rumore. Mira era alla finestra.
 
 Era già vestita.
 
@@ -94,9 +76,7 @@ La città viveva.
 
 Qualcuno si affrettava.
 
-Qualcuno portava a spasso il cane.
-
-Nel negozio di fronte alzavano le serrande.
+Qualcuno portava a spasso il cane. Nel negozio di fronte alzavano le serrande.
 
 — Mi aspettavo che il mondo cambiasse.
 
@@ -116,9 +96,7 @@ Guardò Lev.
 
 Lev non rispose.
 
-Sul tavolo c'era la chiave di legno.
-
-Sembrava del tutto normale.
+Sul tavolo c'era la chiave di legno. Sembrava del tutto normale.
 
 Legno scuro.
 
@@ -128,11 +106,7 @@ Una vecchia cerniera metallica.
 
 Lev la prese.
 
-Questa volta la chiave non era fredda.
-
-Il legno aveva conservato il calore della stanza, come se qualcuno l'avesse tenuta in mano fino a poco prima.
-
-E nella sua testa comparve una voce.
+Questa volta la chiave non era fredda. Il legno aveva conservato il calore della stanza, come se qualcuno l'avesse tenuta in mano fino a poco prima. E nella sua testa comparve una voce.
 
 Non estranea.
 
@@ -188,11 +162,7 @@ Mira alzò gli occhi.
 
 Lev si immobilizzò.
 
-Ma non successe nulla.
-
-Le lancette ripresero a muoversi.
-
-Le dieci e un minuto.
+Ma non successe nulla. Le lancette ripresero a muoversi. Le dieci e un minuto.
 
 — Vedi? — disse Edrian.
 
@@ -206,9 +176,7 @@ Lev sorrise.
 
 — Proprio per questo.
 
-Mira si avvicinò alla finestra.
-
-Fuori c'era una donna.
+Mira si avvicinò alla finestra. Fuori c'era una donna.
 
 Guardava la casa.
 
@@ -224,9 +192,7 @@ Mira guardò più attentamente.
 
 — Perché non è ancora pronta.
 
-La donna posò la busta sul davanzale del primo piano.
-
-Poi se ne andò.
+La donna posò la busta sul davanzale del primo piano. Poi se ne andò.
 
 Lev scese.
 
@@ -252,11 +218,7 @@ Mira guardò la busta e impallidì.
 
 Prese la busta.
 
-Il sigillo era verde.
-
-Lo stesso che Lev aveva visto sulle porte dell'Hotel.
-
-Mira non la aprì per molto tempo.
+Il sigillo era verde. Lo stesso che Lev aveva visto sulle porte dell'Hotel. Mira non la aprì per molto tempo.
 
 — Cosa c'è dentro?
 
@@ -264,9 +226,7 @@ Mira non la aprì per molto tempo.
 
 Aprì la busta.
 
-Dentro c'era un solo foglio.
-
-Lev lesse insieme a lei.
+Dentro c'era un solo foglio. Lev lesse insieme a lei.
 
 **«Se stai leggendo questo, significa che l'Hotel li ha lasciati uscire.**
 
@@ -284,9 +244,7 @@ Lev guardò Mira.
 
 — Chi l'ha scritto?
 
-Lei girò il foglio.
-
-Sul retro c'era una firma.
+Lei girò il foglio. Sul retro c'era una firma.
 
 **Mira.**
 
@@ -310,9 +268,7 @@ Mira disse piano:
 
 — Dopo l'Hotel non uso più questa parola.
 
-Lev prese il foglio.
-
-L'inchiostro odorava di ferro.
+Lev prese il foglio. L'inchiostro odorava di ferro.
 
 Fresco.
 
@@ -368,9 +324,7 @@ Mira guardò fuori dalla finestra.
 
 — Lui seduce.
 
-Fuori il sole era salito più in alto.
-
-Per un secondo la luce diventò verde.
+Fuori il sole era salito più in alto. Per un secondo la luce diventò verde.
 
 Lev si voltò.
 
@@ -390,13 +344,7 @@ Mira rispose:
 
 Lev capì.
 
-Non era stata la lettera a cambiare il tempo.
-
-La loro decisione aveva creato le condizioni perché quella lettera diventasse possibile.
-
-Il futuro non era venuto da loro.
-
-Erano stati loro ad aprirgli una porta.
+Non era stata la lettera a cambiare il tempo. La loro decisione aveva creato le condizioni perché quella lettera diventasse possibile. Il futuro non era venuto da loro. Erano stati loro ad aprirgli una porta.
 
 — Quindi l'Hotel non è finito — disse.
 
@@ -416,9 +364,7 @@ Lev si stupì.
 
 — Perché ora l'Hotel deve venire da noi.
 
-La stanza si fece silenziosa.
-
-Perfino la città fuori dalla finestra sembrò fare un passo indietro.
+La stanza si fece silenziosa. Perfino la città fuori dalla finestra sembrò fare un passo indietro.
 
 Edrian guardò l'orologio.
 
@@ -430,25 +376,13 @@ Lev guardò la finestra.
 
 Prese la chiave.
 
-Ma non la mise in tasca.
-
-La posò sul tavolo.
-
-Come una cosa normale.
-
-Come un oggetto che non governava più la sua mano.
-
-Fuori la città diventava più luminosa.
-
-L'acqua brillava sui tetti.
+Ma non la mise in tasca. La posò sul tavolo. Come una cosa normale. Come un oggetto che non governava più la sua mano. Fuori la città diventava più luminosa. L'acqua brillava sui tetti.
 
 Odorava di caffè.
 
 Pane.
 
-Sole che scaldava la pietra bagnata.
-
-Mira indossò il cappotto verde.
+Sole che scaldava la pietra bagnata. Mira indossò il cappotto verde.
 
 — Devo andare.
 
@@ -476,9 +410,7 @@ Guardò Lev.
 
 — Allora sarò comunque felice.
 
-La porta si chiuse.
-
-Lev rimase con Edrian.
+La porta si chiuse. Lev rimase con Edrian.
 
 — È strana.
 
@@ -536,65 +468,21 @@ Lev annuì.
 
 — Sì.
 
-Non disse che a volte, di notte, sentiva ancora l'odore della vecchia stazione.
-
-Non disse che a volte sentiva la risata del piccolo Edrian.
-
-Non disse che la memoria dimenticata tornava non come un'immagine, ma come il calore di una mano.
-
-Alcune cose le tenne per sé.
-
-Non perché avesse paura di perderle.
-
-Perché ora capiva: la memoria appartiene a chi la vive.
-
-Non può essere costretta.
-
-Non può essere trattenuta con la forza.
-
-Non può essere trasformata in una prova.
-
-Può soltanto essere vissuta.
-
-A mezzogiorno la pioggia finì.
+Non disse che a volte, di notte, sentiva ancora l'odore della vecchia stazione. Non disse che a volte sentiva la risata del piccolo Edrian. Non disse che la memoria dimenticata tornava non come un'immagine, ma come il calore di una mano. Alcune cose le tenne per sé. Non perché avesse paura di perderle. Perché ora capiva: la memoria appartiene a chi la vive. Non può essere costretta. Non può essere trattenuta con la forza. Non può essere trasformata in una prova. Può soltanto essere vissuta. A mezzogiorno la pioggia finì.
 
 Lev uscì.
 
-La città odorava di pietra bagnata.
-
-Il sole si rifletteva nelle vetrine.
-
-In piazza suonava della musica.
-
-I bambini giocavano a palla.
-
-Qualcuno litigava per un parcheggio.
-
-Qualcuno si baciava vicino alla fontana.
+La città odorava di pietra bagnata. Il sole si rifletteva nelle vetrine. In piazza suonava della musica. I bambini giocavano a palla. Qualcuno litigava per un parcheggio. Qualcuno si baciava vicino alla fontana.
 
 Lev si fermò.
 
 Vita normale.
 
-E all'improvviso gli fu chiaro che era proprio questo che aveva voluto per tutto il tempo.
-
-Non un futuro perfetto.
-
-Non un passato restituito.
-
-Non un mondo senza dolore.
+E all'improvviso gli fu chiaro che era proprio questo che aveva voluto per tutto il tempo. Non un futuro perfetto. Non un passato restituito. Non un mondo senza dolore.
 
 Solo un mattino.
 
-Uno in cui si può svegliarsi senza sapere cosa accadrà la sera.
-
-Sorrise e proseguì, per la prima volta senza controllare se il mondo fosse cambiato alle sue spalle.
-
-Davanti a una libreria si fermò.
-
-In vetrina c'era un vecchio libro.
-
-Sulla copertina era raffigurato un hotel.
+Uno in cui si può svegliarsi senza sapere cosa accadrà la sera. Sorrise e proseguì, per la prima volta senza controllare se il mondo fosse cambiato alle sue spalle. Davanti a una libreria si fermò. In vetrina c'era un vecchio libro. Sulla copertina era raffigurato un hotel.
 
 Lev si avvicinò.
 
@@ -650,9 +538,7 @@ Non salutò.
 
 Indicò semplicemente l'orologio.
 
-Poi si voltò e se ne andò.
-
-Lev guardò il suo.
+Poi si voltò e se ne andò. Lev guardò il suo.
 
 12:12.
 
@@ -664,9 +550,7 @@ Normale.
 
 Continuò a camminare.
 
-Ma dopo alcuni passi si fermò.
-
-A terra c'era una foglia verde.
+Ma dopo alcuni passi si fermò. A terra c'era una foglia verde.
 
 Di menta.
 
@@ -684,27 +568,15 @@ Sorrise.
 
 — Ti vedo.
 
-La foglia tremò tra le dita.
-
-Da qualche parte molto lontano un orologio batté una volta.
+La foglia tremò tra le dita. Da qualche parte molto lontano un orologio batté una volta.
 
 E Lev capì:
 
-a volte la cosa più spaventosa comincia proprio quando sembra che tutto sia finito.
-
-Ma questa volta non aveva paura.
-
-Semplicemente tornò a casa.
-
-Perché domani non era ancora arrivato.
+a volte la cosa più spaventosa comincia proprio quando sembra che tutto sia finito. Ma questa volta non aveva paura. Semplicemente tornò a casa. Perché domani non era ancora arrivato.
 
 Ed era meraviglioso.
 
-La sera Lev tornò a casa più tardi del solito.
-
-In cucina era accesa una sola lampada.
-
-Edrian sedeva alla finestra e leggeva un vecchio libro.
+La sera Lev tornò a casa più tardi del solito. In cucina era accesa una sola lampada. Edrian sedeva alla finestra e leggeva un vecchio libro.
 
 — Cos'è?
 
@@ -746,11 +618,7 @@ Prese una fotografia.
 
 Lev guardò.
 
-C'era un uomo alla finestra.
-
-Il volto era sfocato.
-
-Ma dietro di lui si vedeva la città.
+C'era un uomo alla finestra. Il volto era sfocato. Ma dietro di lui si vedeva la città.
 
 E un'insegna verde.
 
@@ -772,15 +640,11 @@ Lev posò la fotografia sul tavolo.
 
 Si guardarono.
 
-La cucina diventò più fredda.
-
-La pelle si coprì di brividi.
+La cucina diventò più fredda. La pelle si coprì di brividi.
 
 L'orologio si fermò.
 
-La lancetta dei secondi tremò.
-
-E cominciò a muoversi all'indietro.
+La lancetta dei secondi tremò. E cominciò a muoversi all'indietro.
 
 — Non di nuovo — disse Edrian.
 
@@ -790,9 +654,7 @@ Lev si alzò.
 
 Andò alla finestra.
 
-Fuori non c'era nessuno.
-
-Ma di fronte alla casa c'era un uomo.
+Fuori non c'era nessuno. Ma di fronte alla casa c'era un uomo.
 
 Cappotto scuro.
 
@@ -804,9 +666,7 @@ Lev vide il volto.
 
 E lo riconobbe.
 
-Non perché lo ricordasse.
-
-Perché lo aveva visto nel riflesso dell'ultima porta.
+Non perché lo ricordasse. Perché lo aveva visto nel riflesso dell'ultima porta.
 
 L'uomo sorrise.
 
@@ -842,11 +702,7 @@ Lev rise.
 
 Spense la luce.
 
-Ma prima di andare a letto Lev tornò alla finestra.
-
-Sul vetro, per il suo respiro, apparve una foschia bianca.
-
-In essa comparvero le parole:
+Ma prima di andare a letto Lev tornò alla finestra. Sul vetro, per il suo respiro, apparve una foschia bianca. In essa comparvero le parole:
 
 **NON TUTTO CIÒ CHE TI TROVA VUOLE FARTI DEL MALE.**
 
@@ -860,45 +716,11 @@ Poi un secondo.
 
 Un terzo.
 
-La città si addormentava.
-
-E da qualche parte ai margini della notte l'uomo alla finestra aprì un vecchio libro e voltò pagina.
-
-Sulla prima riga c'era scritto il nome di Lev.
-
-Sotto, il nome di Edrian.
-
-E la terza riga rimaneva vuota.
+La città si addormentava. E da qualche parte ai margini della notte l'uomo alla finestra aprì un vecchio libro e voltò pagina. Sulla prima riga c'era scritto il nome di Lev. Sotto, il nome di Edrian. E la terza riga rimaneva vuota.
 
 Per ora.
 
-Nella notte Lev si svegliò al suono della pioggia.
-
-Rimase immobile e ascoltò.
-
-Gocce contro il vetro.
-
-Acqua che scorreva nei tubi.
-
-Nella stanza accanto Edrian respirava piano.
-
-Lev chiuse gli occhi.
-
-E si ritrovò di nuovo nell'Hotel.
-
-Solo che ora l'Hotel era vuoto.
-
-Camminava lungo un corridoio infinito a piedi nudi.
-
-Il pavimento era caldo.
-
-Le pareti odoravano di cera e vecchia carta.
-
-Sulle pareti c'erano orologi.
-
-Ma nessuno segnava la stessa ora.
-
-In fondo al corridoio stava l'Amministratore.
+Nella notte Lev si svegliò al suono della pioggia. Rimase immobile e ascoltò. Gocce contro il vetro. Acqua che scorreva nei tubi. Nella stanza accanto Edrian respirava piano. Lev chiuse gli occhi. E si ritrovò di nuovo nell'Hotel. Solo che ora l'Hotel era vuoto. Camminava lungo un corridoio infinito a piedi nudi. Il pavimento era caldo. Le pareti odoravano di cera e vecchia carta. Sulle pareti c'erano orologi. Ma nessuno segnava la stessa ora. In fondo al corridoio stava l'Amministratore.
 
 — Sei arrivato troppo presto — disse.
 
@@ -918,15 +740,11 @@ L'Amministratore sorrise.
 
 — Perché non hai più bisogno di spiegazioni.
 
-Gli porse un libro.
-
-La copertina era bagnata.
+Gli porse un libro. La copertina era bagnata.
 
 Non aveva titolo.
 
-Lev aprì la prima pagina.
-
-C'era una sola frase:
+Lev aprì la prima pagina. C'era una sola frase:
 
 **«Una persona ha paura del futuro non perché è sconosciuto, ma perché vuole renderlo sicuro.»**
 
@@ -968,17 +786,11 @@ Quello stesso.
 
 Accese la lampada.
 
-La copertina era asciutta.
-
-Aprì la prima pagina.
+La copertina era asciutta. Aprì la prima pagina.
 
 Era vuota.
 
-Solo in fondo c'era la data di oggi.
-
-Lev la guardò a lungo.
-
-Poi prese una penna.
+Solo in fondo c'era la data di oggi. Lev la guardò a lungo. Poi prese una penna.
 
 E scrisse:
 
@@ -988,23 +800,7 @@ L'inchiostro non scomparve.
 
 Sorrise.
 
-Nella stanza accanto Edrian si girò nel sonno.
-
-Lev chiuse il libro.
-
-Il mattino non era ancora arrivato.
-
-Ma per la prima volta questo non lo spaventava.
-
-Sapeva una cosa soltanto:
-
-domani appartiene a chi ci arriva.
-
-E oggi è suo.
-
-Al mattino mostrò il libro a Edrian.
-
-Lui lesse la prima riga e rimase in silenzio a lungo.
+Nella stanza accanto Edrian si girò nel sonno. Lev chiuse il libro. Il mattino non era ancora arrivato. Ma per la prima volta questo non lo spaventava. Sapeva una cosa soltanto: domani appartiene a chi ci arriva. E oggi è suo. Al mattino mostrò il libro a Edrian. Lui lesse la prima riga e rimase in silenzio a lungo.
 
 — L'hai scritto tu?
 
@@ -1022,13 +818,7 @@ Lev scosse la testa.
 
 — No.
 
-Penso di aver semplicemente smesso di tenerlo.
-
-Fecero colazione in cucina.
-
-Sul tavolo c'erano pane, burro, mele e caffè.
-
-Lev diede un morso al pane e all'improvviso sentì un familiare sapore di menta.
+Penso di aver semplicemente smesso di tenerlo. Fecero colazione in cucina. Sul tavolo c'erano pane, burro, mele e caffè. Lev diede un morso al pane e all'improvviso sentì un familiare sapore di menta.
 
 Si fermò.
 
@@ -1042,37 +832,17 @@ Edrian lo guardò.
 
 Lev sorrise.
 
-A volte la memoria tornava a piccoli pezzi.
-
-Non come un film.
+A volte la memoria tornava a piccoli pezzi. Non come un film.
 
 Come un odore.
 
 Come un tocco.
 
-Come una parola che all'improvviso diventava familiare.
-
-Capì di non doverla ricostruire tutta, come una tazza rotta.
-
-Alcune crepe non devono essere nascoste per continuare a bere da quella tazza.
-
-Alcuni ricordi possono restare là dove sono accaduti.
-
-E continuare comunque a vivere.
+Come una parola che all'improvviso diventava familiare. Capì di non doverla ricostruire tutta, come una tazza rotta. Alcune crepe non devono essere nascoste per continuare a bere da quella tazza. Alcuni ricordi possono restare là dove sono accaduti. E continuare comunque a vivere.
 
 Dopo colazione uscirono.
 
-Il sole aveva già asciugato il marciapiede.
-
-La città sembrava quasi in festa.
-
-Il vento muoveva le foglie.
-
-In piazza qualcuno vendeva fiori.
-
-Lev si fermò davanti a una vetrina.
-
-Nel vetro si riflettevano loro due.
+Il sole aveva già asciugato il marciapiede. La città sembrava quasi in festa. Il vento muoveva le foglie. In piazza qualcuno vendeva fiori. Lev si fermò davanti a una vetrina. Nel vetro si riflettevano loro due.
 
 Lui ed Edrian.
 
@@ -1124,9 +894,7 @@ Tic.
 
 Guardò l'orologio.
 
-Tutte le lancette andavano correttamente.
-
-Nessuna si era fermata.
+Tutte le lancette andavano correttamente. Nessuna si era fermata.
 
 Tic.
 
@@ -1138,15 +906,7 @@ Un suono normale.
 
 Un mattino normale.
 
-E proprio per questo sembrava il più incredibile di tutti.
-
-Non perché contenesse un miracolo.
-
-Ma perché, per la prima volta, il miracolo non era necessario.
-
-Quel giorno non notarono una cosa.
-
-Su una vecchia strada che Lev percorreva quasi ogni giorno era comparsa una nuova insegna.
+E proprio per questo sembrava il più incredibile di tutti. Non perché contenesse un miracolo. Ma perché, per la prima volta, il miracolo non era necessario. Quel giorno non notarono una cosa. Su una vecchia strada che Lev percorreva quasi ogni giorno era comparsa una nuova insegna.
 
 Piccola.
 
@@ -1164,9 +924,7 @@ Dopo alcuni passi si fermò.
 
 Si voltò.
 
-La porta era chiusa.
-
-Sul vetro c'era un foglio:
+La porta era chiusa. Sul vetro c'era un foglio:
 
 **«Se hai perso ciò che non avresti mai dovuto cercare, entra.»**
 
@@ -1202,21 +960,7 @@ Nel vetro di fronte il riflesso della porta diventò verde.
 
 Poi tornò normale.
 
-Da qualche parte in città qualcuno voltò pagina.
-
-Ma Lev non lo sapeva.
-
-E per la prima volta non sapere non era una minaccia.
-
-Era uno spazio libero per vivere.
-
-Una pagina vuota sulla quale nessuno avrebbe scritto al posto suo.
-
-La sera aprì di nuovo il libro.
-
-Sulla prima pagina la sua frase era cambiata.
-
-Ora sotto era comparsa una seconda riga:
+Da qualche parte in città qualcuno voltò pagina. Ma Lev non lo sapeva. E per la prima volta non sapere non era una minaccia. Era uno spazio libero per vivere. Una pagina vuota sulla quale nessuno avrebbe scritto al posto suo. La sera aprì di nuovo il libro. Sulla prima pagina la sua frase era cambiata. Ora sotto era comparsa una seconda riga:
 
 **«E se domani arrivasse prima?»**
 
@@ -1228,15 +972,7 @@ Ma non scrisse la risposta.
 
 Chiuse il libro.
 
-Perché alcune domande devono vivere un po' senza risposta.
-
-Fuori si faceva buio.
-
-Edrian accese la luce.
-
-La stanza odorava di legno e caffè.
-
-Lev lo guardò e all'improvviso disse:
+Perché alcune domande devono vivere un po' senza risposta. Fuori si faceva buio. Edrian accese la luce. La stanza odorava di legno e caffè. Lev lo guardò e all'improvviso disse:
 
 — Raccontami della bicicletta.
 
@@ -1246,15 +982,7 @@ Edrian sorrise.
 
 — Dall'inizio.
 
-E cominciò a raccontare.
-
-Non perché Lev fosse obbligato a ricordare.
-
-Ma perché ora potevano creare nuovi ricordi.
-
-Non riportando indietro il passato con la forza.
-
-Vivendo qualcosa di nuovo.
+E cominciò a raccontare. Non perché Lev fosse obbligato a ricordare. Ma perché ora potevano creare nuovi ricordi. Non riportando indietro il passato con la forza. Vivendo qualcosa di nuovo.
 
 Insieme.
 
@@ -1262,13 +990,7 @@ Senza Hotel.
 
 Senza macchina.
 
-Senza un futuro scritto in anticipo.
-
-Fuori dalla finestra apparvero le prime stelle.
-
-E da qualche parte lontano, oltre la città, un uomo alla finestra alzò la testa.
-
-Guardava la stessa stella.
+Senza un futuro scritto in anticipo. Fuori dalla finestra apparvero le prime stelle. E da qualche parte lontano, oltre la città, un uomo alla finestra alzò la testa. Guardava la stessa stella.
 
 E aspettava.
 
