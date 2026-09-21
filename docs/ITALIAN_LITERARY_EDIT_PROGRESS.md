@@ -305,3 +305,9 @@ Second canon-control checkpoint completed. The canonical reference set is confir
 Third checkpoint: canonical concept reconciliation advanced. The Italian sample chapters confirm the expected localized vocabulary for the canonical concepts of Custode, L'Amministratore, meccanismo, chiave, Hotel, futuro, scelta and fratello, with natural chapter-to-chapter variation in whether a concept is active. The source canon confirms these concepts as recurring parts of the story/world/logic. No evidence from the current checks establishes a canon-breaking translation change, so no manuscript text was altered.
 
 **B15.2.14 = 60%.** Remaining: complete chronology and role continuity audit, then final canon checkpoint.
+
+## B15.2.14 CANON CONTROL — CHECKPOINT 80%
+
+Chronology and causal-chain control advanced using the canonical LOGIC_CHECK. The Italian edition must preserve the established chain: Edrian's disappearance and Hotel connection → guardian choice → key/314 invitation → Lev's arrival → disruption of the observation system → new future variant → Administrator intervention → Hotel awakening → Last Floor → Lev's final choice. The canon also requires that the Hotel does not force a single future, the Administrator controls access/probabilities rather than creating destiny, the Last Floor is an intersection of variants, and the cost rule remains causally prepared before the finale. No confirmed Italian text conflict was established by this checkpoint.
+
+**B15.2.14 = 80%.** Final 20%: consolidate chronology/roles/rules across the canon and close the canon-control block.
