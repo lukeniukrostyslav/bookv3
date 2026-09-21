@@ -103,6 +103,6 @@ Chapter 22 checkpoint: `ec5ce3e370f76e814478e1858a6e1af9b2f76956`.
 
 Chapter 23 checkpoint: `efe26b1032df145305184558dc5593653e0b913e`.
 
-Chapter 24 checkpoint: `PENDING — verify after push`.
+Chapter 24 checkpoint: `128d5aa4cadedf8abb49d7d78a132e1db1f78c0a`.
 
 This is an editing checkpoint, not final Italian proofreading and not native-speaker QA.
