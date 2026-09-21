@@ -6,11 +6,11 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 
 ### Current progress
 
-- B15.2 Italian literary editing: **21%**
-- B15.2.1 Literary rhythm: **21%**
-- B15.2.2 Paragraph structure: **21%**
-- B15.2.3 Sentence length / cadence: **21%**
-- B15.2.4 Natural literary Italian: **21%**
+- B15.2 Italian literary editing: **25%**
+- B15.2.1 Literary rhythm: **25%**
+- B15.2.2 Paragraph structure: **25%**
+- B15.2.3 Sentence length / cadence: **25%**
+- B15.2.4 Natural literary Italian: **25%**
 - B15.2.5 Dialogue naturalness: **0%**
 - B15.2.6 Atmosphere / tension: **0%**
 - B15.2.7 Action-scene rhythm: **0%**
@@ -32,7 +32,8 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - Chapter 05 — rhythm/literary pass checkpointed.
 - Chapter 06 — rhythm/literary pass checkpointed.
 - Chapter 07 — rhythm/literary pass checkpointed.
-- Chapters 08–32 — not yet edited.
+- Chapter 08 — rhythm/literary pass checkpointed.
+- Chapters 09–32 — not yet edited.
 
 ## Important rule
 
@@ -53,5 +54,7 @@ Chapter 05 checkpoint: `303f49e653f369a5eb03a9f29ae6501e7ca14a37`.
 Chapter 06 checkpoint: `d142ec14639fe8f19849f1b5311034b8277f4187`.
 
 Chapter 07 checkpoint: `4608f801a0b403c42e948bc60c0c82373ee3e2bc`.
+
+Chapter 08 checkpoint: `2eda9203a2a235b52daf305dcd0301b1695a0386`.
 
 This is an editing checkpoint, not final Italian proofreading and not native-speaker QA.
