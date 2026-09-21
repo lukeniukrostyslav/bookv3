@@ -323,3 +323,9 @@ Final canon-control consolidation completed against PROJECT_BIBLE, WORLD_BIBLE, 
 First quarter of the final literary pass completed for CH01–CH08. The pass checked Italian readability at paragraph/sentence level, punctuation rhythm, dialogue cadence, repeated constructions, accidental Cyrillic leakage, and obvious non-Italian artifacts. Automated lexical probes were manually interpreted to distinguish genuine foreign-language residue from valid Italian substrings (for example English-looking tokens occurring inside Italian words or context). No confirmed foreign-language contamination or literary defect requiring a manuscript rewrite was established in CH01–CH08 by this checkpoint.
 
 **B15.2.15 = 8/32 chapters = 25%.** Next: CH09–CH16.
+
+## B15.2.15 FINAL ITALIAN LITERARY PASS — CHECKPOINT 50%
+
+Second quarter completed for CH09–CH16. Reviewed readability, sentence/paragraph cadence, dialogue punctuation, repetition patterns, Cyrillic leakage and obvious foreign-language residue. The lexical probe produced two apparent English-token hits in CH13/CH14, but contextual inspection showed them to be substrings inside valid Italian words (not standalone English text); no manuscript correction was justified. No confirmed literary-language defect requiring a textual rewrite was established in CH09–CH16.
+
+**B15.2.15 = 16/32 chapters = 50%.** Next: CH17–CH24.
