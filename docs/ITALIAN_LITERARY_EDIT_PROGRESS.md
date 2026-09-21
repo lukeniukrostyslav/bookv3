@@ -13,7 +13,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.4 Natural literary Italian: **100%**
 - B15.2.5 Dialogue naturalness: **100%**
 - B15.2.6 Atmosphere / tension: **100%**
-- B15.2.7 Action-scene rhythm: **25%**
+- B15.2.7 Action-scene rhythm: **50%**
 - B15.2.8 Mystery-scene rhythm: **0%**
 - B15.2.9 Emotional-scene rhythm: **0%**
 - B15.2.10 Repetition / heavy constructions: **0%**
@@ -141,3 +141,5 @@ This is an editing checkpoint, not final Italian proofreading and not native-spe
 - Chapter 31 — B15.2.6 atmosphere/tension pass checked.
 - Chapter 32 — B15.2.6 atmosphere/tension pass checked.
 B15.2.7 action-scene rhythm coverage is now 8/32 chapters = 25%. Chapters 01–08 were checked for action pacing, physical clarity, sentence cadence during movement, escalation, and transition into/out of action. No forced rewrites were introduced where the existing Italian already carries the intended action rhythm.
+
+B15.2.7 action-scene rhythm checkpoint: chapters 09–16 reviewed. Coverage is now 16/32 chapters = 50%. Checked movement clarity, action cadence, escalation, physical continuity, short-sentence impact, and transitions around action beats. No forced rewrites were introduced where the existing Italian already carries the intended rhythm.
