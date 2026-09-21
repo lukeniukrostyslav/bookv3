@@ -17,7 +17,7 @@ This block is separate from the completed translation (B15.1 = 100%). The litera
 - B15.2.8 Mystery-scene rhythm: **100% (32/32 chapters reviewed)**
 - B15.2.9 Emotional-scene rhythm: **100% (32/32 chapters reviewed)**
 - B15.2.10 Repetition / heavy constructions: **100% (32/32 chapters reviewed)**
-- B15.2.11 Italian punctuation / typography: **0%**
+- B15.2.11 Italian punctuation / typography: **25% (8/32 chapters reviewed)**
 - B15.2.12 Terminology consistency: **0%**
 - B15.2.13 Meaning fidelity: **0%**
 - B15.2.14 Canon control: **0%**
@@ -257,3 +257,5 @@ B15.2.10 CHECKPOINT 50% — Chapters 17–24 reviewed for repetition and heavy c
 B15.2.10 FINAL CHECKPOINT — Chapters 25–32 reviewed for repetition and heavy constructions. Repeated wording, duplicated semantic explanations, overloaded clause chains, repetitive sentence openings, redundant intensifiers, and recurring descriptive formulations were checked. Recurrent motifs such as the man at the window, the older Lev, clocks, doors, and repeated sensory beats were retained where they function as deliberate literary leitmotifs or suspense devices. No forced rewrites were introduced merely to reduce visible repetition. Coverage: **32/32 chapters = 100%**.
 
 B15.2.10 COMPLETE: **100%**.
+
+B15.2.11 CHECKPOINT 25% — Chapters 01–08 reviewed for Italian punctuation and typography. Checked spaces before punctuation, duplicate spaces, apostrophe usage, guillemets/quotation marks, em-dash dialogue formatting, dialogue-line consistency, and obvious typographic anomalies. No corrective text edits were required in this checkpoint; the existing Italian formatting is consistent in the reviewed chapters. Coverage: **8/32 chapters = 25%**.
