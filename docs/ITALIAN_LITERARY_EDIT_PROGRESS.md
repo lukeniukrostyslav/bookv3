@@ -335,3 +335,9 @@ Second quarter completed for CH09–CH16. Reviewed readability, sentence/paragra
 Third quarter completed for CH17–CH24. Reviewed readability, sentence and paragraph cadence, dialogue rhythm, punctuation, repetitions, Cyrillic leakage and obvious foreign-language residue. Automated English-token probes produced hits such as “not”, “and” and “was”, but contextual inspection confirmed these are valid Italian words/substrings (for example “notò”, “andò”, “andò”); no standalone English contamination was found. No confirmed literary-language defect requiring a manuscript rewrite was established in CH17–CH24.
 
 **B15.2.15 = 24/32 chapters = 75%.** Next: CH25–CH32, then final closure at 100%.
+
+## B15.2.15 FINAL ITALIAN LITERARY PASS — FINAL CHECKPOINT 100%
+
+Final quarter completed for CH25–CH32. Reviewed readability, sentence/paragraph cadence, dialogue rhythm, punctuation, repetition patterns, Cyrillic leakage and obvious foreign-language residue. Apparent lexical hits such as “not”, “and” and “was” were context-checked and correspond to valid Italian forms such as *notò* and *andò*, not English contamination. No confirmed literary-language defect requiring a manuscript rewrite was established in CH25–CH32.
+
+**B15.2.15 = 32/32 chapters = 100%. The final Italian literary-pass block is closed.** Next production stage: Italian publication assembly (metadata, cover, EPUB, EPUBCheck and platform packages).
