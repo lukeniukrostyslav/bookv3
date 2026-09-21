@@ -1,32 +1,8 @@
 # Capitolo 18. Tre futuri
 
-L'Hotel li accolse nel silenzio.
+L'Hotel li accolse nel silenzio. Non il solito silenzio, quello in cui si sentono gli orologi, il respiro e il lontano rumore della città. Questo silenzio era qualcos'altro. Sembrava aspettare. Lev era in piedi al centro della hall e sentiva odore di cera, pietra bagnata e caffè.
 
-Non il solito silenzio, quello in cui si sentono gli orologi, il respiro e il lontano rumore della città.
-
-Questo silenzio era qualcos'altro.
-
-Sembrava aspettare.
-
-Lev era in piedi al centro della hall e sentiva odore di cera, pietra bagnata e caffè.
-
-Tutto era familiare: le poltrone profonde, il banco della reception, l'orologio di rame, la scala che saliva.
-
-Ma ora nessun orologio segnava la stessa ora.
-
-Uno segnava mezzanotte.
-
-Un altro il mattino.
-
-Un terzo il 2041.
-
-Sugli ultimi non c'erano lancette.
-
-Mira chiuse lentamente la porta.
-
-Edrian appoggiò la macchina fotografica sul banco.
-
-L'Amministratore era di fronte a loro.
+Tutto era familiare: le poltrone profonde, il banco della reception, l'orologio di rame, la scala che saliva. Ma ora nessun orologio segnava la stessa ora. Uno segnava mezzanotte. Un altro il mattino. Un terzo il 2041. Sugli ultimi non c'erano lancette. Mira chiuse lentamente la porta. Edrian appoggiò la macchina fotografica sul banco. L'Amministratore era di fronte a loro.
 
 — Avete visto domani — disse.
 
@@ -58,47 +34,7 @@ Mira si irrigidì.
 
 — Non lo sto facendo io.
 
-L'Amministratore toccò il quadrante.
-
-Tutti gli orologi suonarono contemporaneamente.
-
-Uno.
-
-Due.
-
-Tre.
-
-Lev sentì il pavimento scomparire sotto i piedi.
-
-Non cadde.
-
-Semplicemente smise di capire dove si trovasse.
-
-La hall svanì.
-
-Al suo posto apparve un'enorme sala.
-
-Al centro c'era un albero.
-
-Senza foglie.
-
-Su ogni ramo pendeva una porta.
-
-Rossa.
-
-Bianca.
-
-Nera.
-
-Dorata.
-
-Di vetro.
-
-Alcune porte erano minuscole.
-
-Altre enormi.
-
-Lev si avvicinò.
+L'Amministratore toccò il quadrante. Tutti gli orologi suonarono contemporaneamente. Uno. Due. Tre. Lev sentì il pavimento scomparire sotto i piedi. Non cadde. Semplicemente smise di capire dove si trovasse. La hall svanì. Al suo posto apparve un'enorme sala. Al centro c'era un albero. Senza foglie. Su ogni ramo pendeva una porta. Rossa. Bianca. Nera. Dorata. Di vetro. Alcune porte erano minuscole. Altre enormi. Lev si avvicinò.
 
 — Cos'è?
 
@@ -126,11 +62,7 @@ Mira disse:
 
 — Non sai quale possibilità vincerà.
 
-L'Amministratore non rispose.
-
-Lev si avvicinò ancora.
-
-Sulla prima porta apparve una scritta:
+L'Amministratore non rispose. Lev si avvicinò ancora. Sulla prima porta apparve una scritta:
 
 **RITORNO.**
 
@@ -154,29 +86,7 @@ Indicò la prima porta.
 
 — Il ritorno di Edrian.
 
-Il cuore di Lev batté pesantemente nel petto.
-
-Sulla porta apparve un'immagine.
-
-La casa.
-
-Un mattino di sole.
-
-Edrian seduto al tavolo della cucina.
-
-La madre rideva.
-
-Il padre leggeva il giornale.
-
-Lev era alla finestra.
-
-Tutti erano vivi.
-
-Tutti erano a casa.
-
-Non c'era nessun Hotel.
-
-Lev fece quasi un passo avanti.
+Il cuore di Lev batté pesantemente nel petto. Sulla porta apparve un'immagine. La casa. Un mattino di sole. Edrian seduto al tavolo della cucina. La madre rideva. Il padre leggeva il giornale. Lev era alla finestra. Tutti erano vivi. Tutti erano a casa. Non c'era nessun Hotel. Lev fece quasi un passo avanti.
 
 — È reale?
 
@@ -240,37 +150,11 @@ Lev sentì dolore.
 
 — Sì.
 
-Lev si allontanò.
-
-La seconda porta si illuminò.
+Lev si allontanò. La seconda porta si illuminò.
 
 **CONSERVAZIONE.**
 
-Su di essa apparve un'altra vita.
-
-Mira.
-
-Edrian.
-
-Lev.
-
-Tutti vivi.
-
-Ma l'Hotel continuava a esistere.
-
-L'Amministratore restava.
-
-Lev guardava le persone intorno a sé.
-
-Mira invecchiava normalmente.
-
-Edrian tornava a casa.
-
-Lev rimaneva se stesso.
-
-Ma a volte sognava l'Hotel.
-
-E ogni notte sentiva gli orologi.
+Su di essa apparve un'altra vita. Mira. Edrian. Lev. Tutti vivi. Ma l'Hotel continuava a esistere. L'Amministratore restava. Lev guardava le persone intorno a sé. Mira invecchiava normalmente. Edrian tornava a casa. Lev rimaneva se stesso. Ma a volte sognava l'Hotel. E ogni notte sentiva gli orologi.
 
 — Il prezzo?
 
@@ -308,37 +192,11 @@ Lev la guardò attentamente.
 
 — Perché un giorno la scelta riguarderà qualcuno che ami.
 
-Lev guardò Edrian.
-
-Lui taceva.
-
-La terza porta mostrò un'immagine.
+Lev guardò Edrian. Lui taceva. La terza porta mostrò un'immagine.
 
 **DISTRUZIONE.**
 
-L'Hotel.
-
-I corridoi.
-
-Le stanze.
-
-Il meccanismo.
-
-Tutto scompare.
-
-L'Amministratore scompare.
-
-Tutte le possibilità diventano inaccessibili.
-
-Le persone ricevono una sola vita.
-
-Quella reale.
-
-Senza finestre sul futuro.
-
-Senza stanze dei ricordi.
-
-Senza possibilità di sapere cosa avrebbe potuto accadere.
+L'Hotel. I corridoi. Le stanze. Il meccanismo. Tutto scompare. L'Amministratore scompare. Tutte le possibilità diventano inaccessibili. Le persone ricevono una sola vita. Quella reale. Senza finestre sul futuro. Senza stanze dei ricordi. Senza possibilità di sapere cosa avrebbe potuto accadere.
 
 Lev sentì uno strano sollievo.
 
@@ -364,9 +222,7 @@ L'Amministratore disse:
 
 — Tutte le persone legate all'Hotel possono perdere una parte della loro storia.
 
-Lev guardò Mira.
-
-Lei già lo sapeva.
+Lev guardò Mira. Lei già lo sapeva.
 
 — Io.
 
@@ -398,9 +254,7 @@ Edrian fece un passo avanti.
 
 — Può dimenticare tutto.
 
-Mira chiuse gli occhi.
-
-Lev la guardò.
+Mira chiuse gli occhi. Lev la guardò.
 
 — Tutto?
 
@@ -412,45 +266,9 @@ Lei aprì gli occhi.
 
 — Forse.
 
-Lev si voltò.
+Lev si voltò. Tre porte. Tre vite. E nessuna senza dolore. Guardò l'albero. Sui rami comparvero piccole immagini: Edrian a casa, Mira che invecchia, l'Hotel che scompare.
 
-Tre porte.
-
-Tre vite.
-
-E nessuna senza dolore.
-
-Guardò l'albero.
-
-Sui rami comparvero piccole immagini: Edrian a casa, Mira che invecchia, l'Hotel che scompare.
-
-Poi apparvero altre immagini.
-
-Lui stesso.
-
-In vite diverse.
-
-Rideva.
-
-Piangeva.
-
-Sedeva da solo.
-
-Camminava nella neve.
-
-Stava davanti a una porta.
-
-Moriva.
-
-Invecchiava.
-
-Dimenticava.
-
-Ricordava.
-
-In ogni versione rimaneva Lev.
-
-Ma nessuna versione era completamente sua.
+Poi apparvero altre immagini. Lui stesso. In vite diverse. Rideva. Piangeva. Sedeva da solo. Camminava nella neve. Stava davanti a una porta. Moriva. Invecchiava. Dimenticava. Ricordava. In ogni versione rimaneva Lev. Ma nessuna versione era completamente sua.
 
 — Perché mi mostri solo tre? — chiese.
 
@@ -516,23 +334,7 @@ Per la prima volta l'Amministratore non rispose subito.
 
 — Quindi hai paura.
 
-Non cercò di contraddirlo.
-
-Al centro della sala apparve un quarto ramo.
-
-Prima sottile.
-
-Quasi trasparente.
-
-Poi diventò più spesso.
-
-Su di esso non c'era una porta.
-
-Nessuna immagine.
-
-Solo il vuoto.
-
-Lev si avvicinò.
+Non cercò di contraddirlo. Al centro della sala apparve un quarto ramo. Prima sottile. Quasi trasparente. Poi diventò più spesso. Su di esso non c'era una porta. Nessuna immagine. Solo il vuoto. Lev si avvicinò.
 
 — Cosa c'è lì?
 
@@ -544,63 +346,15 @@ Edrian lo guardò.
 
 — È proprio questo che fa paura.
 
-Il vuoto cominciò a cambiare.
+Il vuoto cominciò a cambiare. Comparve un suono. Prima lontano. Poi familiare. Una risata. Lev la riconobbe. La propria. Da bambino. Vide la cucina. Se stesso piccolo. Edrian. Erano seduti sul pavimento. Montavano un modellino di aereo. Mira era sulla porta.
 
-Comparve un suono.
-
-Prima lontano.
-
-Poi familiare.
-
-Una risata.
-
-Lev la riconobbe.
-
-La propria.
-
-Da bambino.
-
-Vide la cucina.
-
-Se stesso piccolo.
-
-Edrian.
-
-Erano seduti sul pavimento.
-
-Montavano un modellino di aereo.
-
-Mira era sulla porta.
-
-Ma in questa versione era una bambina.
-
-Lev sentì il cuore stringersi.
+Ma in questa versione era una bambina. Lev sentì il cuore stringersi.
 
 — È impossibile.
 
 — Sì — disse Edrian.
 
-L'immagine cambiò.
-
-Ora Lev era adulto.
-
-Mira era anziana.
-
-Edrian era giovane.
-
-Erano in riva al mare.
-
-Poi tutto scomparve.
-
-Apparve una città.
-
-L'Hotel non c'era.
-
-Ma su una strada c'era un bambino.
-
-Alzò la testa.
-
-E guardò direttamente Lev.
+L'immagine cambiò. Ora Lev era adulto. Mira era anziana. Edrian era giovane. Erano in riva al mare. Poi tutto scomparve. Apparve una città. L'Hotel non c'era. Ma su una strada c'era un bambino. Alzò la testa. E guardò direttamente Lev.
 
 — Chi è?
 
@@ -612,9 +366,7 @@ Il bambino sorrise.
 
 — Allora è davvero nuovo.
 
-Lev si avvicinò.
-
-Il bambino disse:
+Lev si avvicinò. Il bambino disse:
 
 — Sei in ritardo.
 
@@ -632,15 +384,7 @@ Il freddo gli scivolò sotto la pelle.
 
 — Dopo cosa?
 
-Il bambino scomparve.
-
-La sala tornò vuota.
-
-Le tre porte si spensero.
-
-Rimase soltanto il quarto ramo.
-
-Mira sussurrò:
+Il bambino scomparve. La sala tornò vuota. Le tre porte si spensero. Rimase soltanto il quarto ramo. Mira sussurrò:
 
 — Non avrebbe dovuto apparire.
 
@@ -664,9 +408,7 @@ L'Amministratore guardò Lev.
 
 — Tu.
 
-Nella stanza calò il silenzio.
-
-Sentì un peso sotto le costole.
+Nella stanza calò il silenzio. Sentì un peso sotto le costole.
 
 — Io?
 
@@ -684,25 +426,7 @@ L'Amministratore la guardò.
 
 — O il caos.
 
-Lev si avvicinò al quarto ramo.
-
-Era caldo.
-
-Non freddo come gli altri.
-
-Caldo come una mano umana.
-
-Lo toccò.
-
-E sentì una voce.
-
-Non Edrian.
-
-Non Mira.
-
-Non l'Amministratore.
-
-La propria.
+Lev si avvicinò al quarto ramo. Era caldo. Non freddo come gli altri. Caldo come una mano umana. Lo toccò. E sentì una voce. Non Edrian. Non Mira. Non l'Amministratore. La propria.
 
 — Non scegliere tra le tre.
 
@@ -710,21 +434,7 @@ Lev ritirò la mano.
 
 — Chi sei?
 
-Nessuna risposta.
-
-Solo un odore.
-
-Pioggia.
-
-Pane.
-
-Fumo di legna.
-
-E qualcos'altro.
-
-L'odore di un futuro che non conosceva.
-
-L'Amministratore disse:
+Nessuna risposta. Solo un odore. Pioggia. Pane. Fumo di legna. E qualcos'altro. L'odore di un futuro che non conosceva. L'Amministratore disse:
 
 — Ora capisci perché volevo controllare il sistema?
 
@@ -754,21 +464,7 @@ Mira si avvicinò.
 
 — Che tu decida ancora una volta di dover salvare tutti.
 
-Lev guardò le tre porte.
-
-Ritorno.
-
-Conservazione.
-
-Distruzione.
-
-Poi il quarto ramo.
-
-Niente.
-
-E per la prima volta l'assenza di una risposta gli sembrò non vuoto.
-
-Ma una possibilità.
+Lev guardò le tre porte. Ritorno. Conservazione. Distruzione. Poi il quarto ramo. Niente. E per la prima volta l'assenza di una risposta gli sembrò non vuoto. Ma una possibilità.
 
 — Oggi non scelgo — disse.
 
@@ -778,15 +474,7 @@ L'Amministratore scosse la testa.
 
 — Allora scelgo di non accettare le vostre condizioni.
 
-Il quarto ramo si illuminò.
-
-Non intensamente.
-
-Con una luce morbida.
-
-Le tre porte si chiusero contemporaneamente.
-
-Edrian guardò Lev.
+Il quarto ramo si illuminò. Non intensamente. Con una luce morbida. Le tre porte si chiusero contemporaneamente. Edrian guardò Lev.
 
 — Cosa hai fatto?
 
@@ -798,13 +486,7 @@ Mira sorrise.
 
 — Appunto.
 
-Da qualche parte lontano suonò un orologio.
-
-Una volta.
-
-E dopo questo, per la prima volta nell'Hotel non ci fu un secondo rintocco.
-
-Lev alzò la testa.
+Da qualche parte lontano suonò un orologio. Una volta. E dopo questo, per la prima volta nell'Hotel non ci fu un secondo rintocco. Lev alzò la testa.
 
 — Cosa significa?
 
@@ -816,25 +498,7 @@ E in quel momento dalle profondità dell'Hotel arrivò una voce infantile:
 
 — Ora possiamo cominciare.
 
-Lev sentì un brivido attraversargli la schiena.
-
-Capì che non era la fine della scelta.
-
-Era l'inizio di qualcosa di nuovo.
-
-Lev rimase immobile a lungo.
-
-Le tre porte erano davanti a lui, ora chiuse.
-
-Sentiva ancora la loro presenza, come se dietro ognuna continuasse a respirare una vita separata.
-
-Ritorno.
-
-Conservazione.
-
-Distruzione.
-
-E il quarto percorso, che nessuno sapeva nominare.
+Lev sentì un brivido attraversargli la schiena. Capì che non era la fine della scelta. Era l'inizio di qualcosa di nuovo. Lev rimase immobile a lungo. Le tre porte erano davanti a lui, ora chiuse. Sentiva ancora la loro presenza, come se dietro ognuna continuasse a respirare una vita separata. Ritorno. Conservazione. Distruzione. E il quarto percorso, che nessuno sapeva nominare.
 
 — Se non scelgo nulla, cosa succederà alle persone? — chiese.
 
@@ -884,35 +548,7 @@ Lev quasi rise.
 
 — Adesso è più onesto di ciò che ho visto.
 
-Intorno a loro l'albero cominciò a cambiare.
-
-Le porte sui rami diventavano trasparenti.
-
-Dietro di esse apparivano brevi scene.
-
-Edrian a casa.
-
-Edrian nell'Hotel.
-
-Edrian vecchio.
-
-Edrian bambino.
-
-Mira con i capelli grigi.
-
-Mira con un cappotto verde.
-
-Lev sulla piazza.
-
-Lev nella stanza 314.
-
-Lev davanti alla porta.
-
-Lev che nessuno ricordava.
-
-Le scene passavano così rapidamente che gli occhi non riuscivano a trattenerne nemmeno una.
-
-La stanza oscillò davanti agli occhi di Lev.
+Intorno a loro l'albero cominciò a cambiare. Le porte sui rami diventavano trasparenti. Dietro di esse apparivano brevi scene. Edrian a casa. Edrian nell'Hotel. Edrian vecchio. Edrian bambino. Mira con i capelli grigi. Mira con un cappotto verde. Lev sulla piazza. Lev nella stanza 314. Lev davanti alla porta. Lev che nessuno ricordava. Le scene passavano così rapidamente che gli occhi non riuscivano a trattenerne nemmeno una. La stanza oscillò davanti agli occhi di Lev.
 
 — Fermate tutto.
 
@@ -924,9 +560,7 @@ L'Amministratore disse:
 
 — Perché non è più il mio sistema.
 
-Per la prima volta lo disse senza sicurezza.
-
-Lev lo guardò.
+Per la prima volta lo disse senza sicurezza. Lev lo guardò.
 
 — Quindi hai perso il controllo.
 
@@ -944,39 +578,7 @@ Edrian lo guardò sorpreso.
 
 — Fino a oggi non era necessario.
 
-Il quarto ramo continuava a crescere.
-
-Non sembrava un albero.
-
-Piuttosto una crepa nello spazio.
-
-Al suo interno non c'erano immagini.
-
-Solo movimento.
-
-Lev si avvicinò.
-
-Dalla crepa arrivò odore di mare.
-
-Poi neve.
-
-Poi pane fatto in casa.
-
-Poi polvere di una vecchia scuola.
-
-Gli odori di tutte le vite possibili si mescolarono.
-
-Sentì l'infanzia.
-
-La paura.
-
-La gioia.
-
-La perdita.
-
-La speranza.
-
-E improvvisamente capì che ogni odore era legato a una persona.
+Il quarto ramo continuava a crescere. Non sembrava un albero. Piuttosto una crepa nello spazio. Al suo interno non c'erano immagini. Solo movimento. Lev si avvicinò. Dalla crepa arrivò odore di mare. Poi neve. Poi pane fatto in casa. Poi polvere di una vecchia scuola. Gli odori di tutte le vite possibili si mescolarono. Sentì l'infanzia. La paura. La gioia. La perdita. La speranza. E improvvisamente capì che ogni odore era legato a una persona.
 
 — Ecco il prezzo — disse.
 
@@ -1012,17 +614,11 @@ Lev sorrise.
 
 — È almeno un prezzo onesto.
 
-All'improvviso sulla prima porta apparve una crepa.
-
-Lev sentì la voce di sua madre:
+All'improvviso sulla prima porta apparve una crepa. Lev sentì la voce di sua madre:
 
 — Riportalo a casa.
 
-Chiuse gli occhi.
-
-Sulla seconda porta apparve Mira.
-
-Rideva.
+Chiuse gli occhi. Sulla seconda porta apparve Mira. Rideva.
 
 — Possiamo restare.
 
@@ -1030,17 +626,7 @@ Sulla terza c'era Edrian.
 
 — Distruggi tutto.
 
-Tre voci.
-
-Tre desideri.
-
-Tre diverse versioni dell'amore.
-
-Lev capì che l'Hotel non cercava di costringerlo a scegliere tra bene e male.
-
-Lo costringeva a scegliere tra ciò che amava.
-
-Ed era proprio questo a rendere la scelta quasi impossibile.
+Tre voci. Tre desideri. Tre diverse versioni dell'amore. Lev capì che l'Hotel non cercava di costringerlo a scegliere tra bene e male. Lo costringeva a scegliere tra ciò che amava. Ed era proprio questo a rendere la scelta quasi impossibile.
 
 — E se volessi tutti? — chiese.
 
@@ -1078,27 +664,11 @@ Un nodo gli si strinse in gola.
 
 — E Mira?
 
-Edrian la guardò.
-
-Mira rispose:
+Edrian la guardò. Mira rispose:
 
 — Voglio vivere una vita che non appartenga all'Hotel.
 
-Quelle parole cambiarono qualcosa dentro Lev.
-
-Guardò di nuovo le tre porte.
-
-Ora le vedeva diversamente.
-
-Ritorno — non era semplicemente Edrian.
-
-Conservazione — non era semplicemente sicurezza.
-
-Distruzione — non era semplicemente una vittoria sull'Amministratore.
-
-Ogni decisione toglieva qualcosa a qualcuno.
-
-E ognuna poteva diventare una trappola.
+Quelle parole cambiarono qualcosa dentro Lev. Guardò di nuovo le tre porte. Ora le vedeva diversamente. Ritorno — non era semplicemente Edrian. Conservazione — non era semplicemente sicurezza. Distruzione — non era semplicemente una vittoria sull'Amministratore. Ogni decisione toglieva qualcosa a qualcuno. E ognuna poteva diventare una trappola.
 
 — Allora oggi non sceglierò.
 
@@ -1114,39 +684,11 @@ Lev guardò il quarto percorso.
 
 — Voglio prima conoscere il prezzo di ciascuno.
 
-Mira annuì.
-
-Edrian sorrise.
-
-L'Amministratore disse:
+Mira annuì. Edrian sorrise. L'Amministratore disse:
 
 — Allora il prossimo passo è iniziato.
 
-L'albero scomparve.
-
-Il pavimento tornò sotto i piedi.
-
-La sala svanì.
-
-Si ritrovarono in un corridoio.
-
-Ma ora alle pareti non c'erano quadri.
-
-C'erano tre porte.
-
-Rossa.
-
-Bianca.
-
-Nera.
-
-E un'altra.
-
-Senza colore.
-
-Lev si avvicinò.
-
-Su di essa c'era una piccola targhetta:
+L'albero scomparve. Il pavimento tornò sotto i piedi. La sala svanì. Si ritrovarono in un corridoio. Ma ora alle pareti non c'erano quadri. C'erano tre porte. Rossa. Bianca. Nera. E un'altra. Senza colore. Lev si avvicinò. Su di essa c'era una piccola targhetta:
 
 **PREZZO.**
 
@@ -1166,17 +708,7 @@ Lev lo guardò.
 
 — Cosa?
 
-Edrian non rispose.
-
-Al suo posto rispose la porta.
-
-Da dietro arrivò una voce.
-
-La voce di Lev.
-
-Più vecchia.
-
-Stanca.
+Edrian non rispose. Al suo posto rispose la porta. Da dietro arrivò una voce. La voce di Lev. Più vecchia. Stanca.
 
 — Non chiedere il prezzo.
 
@@ -1188,21 +720,7 @@ La voce rispose:
 
 — Perché dopo non potrai più fingere di non saperlo.
 
-La porta si aprì leggermente.
-
-Dalla fessura arrivò freddo.
-
-E Lev vide sul pavimento, dentro la stanza, un unico oggetto.
-
-Una vecchia fotografia.
-
-Su di essa stava accanto a Edrian.
-
-Erano felici.
-
-Ma i volti di entrambi erano cancellati con delle linee.
-
-Lev alzò lo sguardo.
+La porta si aprì leggermente. Dalla fessura arrivò freddo. E Lev vide sul pavimento, dentro la stanza, un unico oggetto. Una vecchia fotografia. Su di essa stava accanto a Edrian. Erano felici. Ma i volti di entrambi erano cancellati con delle linee. Lev alzò lo sguardo.
 
 — È questo il prezzo?
 
@@ -1210,21 +728,7 @@ L'Amministratore rispose:
 
 — È solo l'inizio.
 
-La porta si aprì ancora.
-
-E per la prima volta nessuno entrò per primo.
-
-Lev fissò la fotografia.
-
-Linee nere attraversavano i volti.
-
-Non si limitavano a cancellarli.
-
-Sembrava che qualcuno stesse cercando di cancellare la possibilità stessa di capire chi ci fosse nella foto.
-
-Lev allungò la mano.
-
-Edrian disse bruscamente:
+La porta si aprì ancora. E per la prima volta nessuno entrò per primo. Lev fissò la fotografia. Linee nere attraversavano i volti. Non si limitavano a cancellarli. Sembrava che qualcuno stesse cercando di cancellare la possibilità stessa di capire chi ci fosse nella foto. Lev allungò la mano. Edrian disse bruscamente:
 
 — Non toccarla.
 
@@ -1242,17 +746,7 @@ Mira si avvicinò.
 
 — Cos'altro c'è?
 
-Lev girò la fotografia.
-
-Sul retro c'era una data.
-
-Non passata.
-
-Non futura.
-
-Quella di oggi.
-
-Sotto, una sola riga:
+Lev girò la fotografia. Sul retro c'era una data. Non passata. Non futura. Quella di oggi. Sotto, una sola riga:
 
 **LA SCELTA NON È ANCORA STATA FATTA.**
 
@@ -1308,17 +802,11 @@ Lev aggrottò la fronte.
 
 — L'Hotel ha già cominciato a cambiare il tempo.
 
-Edrian guardò gli orologi.
-
-Le lancette si muovevano contemporaneamente avanti e indietro.
+Edrian guardò gli orologi. Le lancette si muovevano contemporaneamente avanti e indietro.
 
 — Ha ragione.
 
-Uscirono.
-
-Alle loro spalle la porta con la targhetta «PREZZO» si chiuse.
-
-Ma prima di scomparire, Lev sentì un sussurro:
+Uscirono. Alle loro spalle la porta con la targhetta «PREZZO» si chiuse. Ma prima di scomparire, Lev sentì un sussurro:
 
 — Una scelta.
 
@@ -1326,33 +814,15 @@ Si fermò.
 
 — Cosa?
 
-Nessuno rispose.
-
-Sul muro apparve una nuova fotografia.
-
-Lev era solo.
-
-In mano aveva il libro bianco.
-
-Dietro di lui c'era una casa vuota.
-
-Sotto la foto:
+Nessuno rispose. Sul muro apparve una nuova fotografia. Lev era solo. In mano aveva il libro bianco. Dietro di lui c'era una casa vuota. Sotto la foto:
 
 **UNA SCELTA SALVERÀ UNO.**
 
-Lev la girò.
-
-Sul retro:
+Lev la girò. Sul retro:
 
 **UN'ALTRA — GLI ALTRI.**
 
-Guardò Edrian.
-
-Aveva già capito.
-
-Anche Mira.
-
-Lev infilò lentamente la fotografia in tasca.
+Guardò Edrian. Aveva già capito. Anche Mira. Lev infilò lentamente la fotografia in tasca.
 
 — Quindi è solo l'inizio.
 
@@ -1360,14 +830,4 @@ Edrian annuì.
 
 — Sì.
 
-E da qualche parte, nel profondo dell'Hotel, gli orologi suonarono di nuovo.
-
-Questa volta ci fu un secondo rintocco.
-
-Poi un terzo.
-
-Tre rintocchi.
-
-Tre futuri.
-
-E dopo il terzo, l'Hotel spense le luci.
+E da qualche parte, nel profondo dell'Hotel, gli orologi suonarono di nuovo. Questa volta ci fu un secondo rintocco. Poi un terzo. Tre rintocchi. Tre futuri. E dopo il terzo, l'Hotel spense le luci.
